@@ -7,3 +7,4 @@ sources/cortes/raw/*.pdf
 _site/
 .jekyll-cache/
 .jekyll-metadata
+Gemfile.lock
