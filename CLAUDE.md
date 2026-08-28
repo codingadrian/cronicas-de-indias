@@ -216,6 +216,33 @@ históricos no verificados por este corpus) y una lista de menciones
 de 20 (`CAP = 20` en `buildBlurbs`), no solo las primeras — así la muestra
 no queda toda en el primer capítulo.
 
+#### Fuente de referencia para comparar/inspirar biografías
+
+https://historia-hispanica.rah.es/ — portal de la Real Academia de la
+Historia que expone el *Diccionario Biográfico electrónico* (DB-e,
+2018) y el *Atlas Cronológico de la Historia de España*: geoposiciona
+~150 000 referencias, con biografías firmadas por historiadores
+individuales (más de 5000 colaboradores). Cada ficha de persona sigue
+la estructura Biografía → Obras → Bibliografía → Autor/es → Relación
+con otros personajes (mencionados en esta biografía / biografías que
+citan a este personaje / personajes similares) → Eventos y ubicaciones.
+Ejemplo consultado: `historia-hispanica.rah.es/biografias/14401-bernal-diaz-del-castillo`
+(es un SPA en Angular — el buscador en la barra superior lleva a la
+ficha).
+
+**Cómo usarlo:** como referencia para *comparar* (cotejar fechas, alias,
+rol, ambigüedades al canonizar personas en `entidades/<obra>/personas.json`)
+y como *modelo de estructura* de una biografía completa — no como fuente
+para copiar texto. Es contenido de autor con firma individual (con la
+"guarantee de calidad científica" que reclama el propio sitio), a
+diferencia de las crónicas de dominio público que arma este proyecto;
+no reproducir su prosa en `synthBio`/`personas.json`, que están pensados
+como retrato *solo a partir de la crónica*, no una biografía externa.
+Útil sobre todo al hacer la segunda revisión de entradas `"candidata"`
+(ver Pendientes) o al decidir qué tan completo debería verse el
+"retrato" del MVP si en algún momento se amplía más allá de rol +
+menciones.
+
 ### Testing
 
 No hay framework de pruebas en el repo. Para validar el MVP se armó un
@@ -283,7 +310,9 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    haya tiempo — no es bloqueante para lo demás.
 5. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
    registros de personas/lugares, y de las notas de ambigüedad (ej. "D Diego"
-   en Las Casas).
+   en Las Casas) — cotejar contra historia-hispanica.rah.es (ver "Fuente
+   de referencia para comparar/inspirar biografías" en la sección del MVP)
+   cuando haga falta resolver una ambigüedad de fechas o identidad.
 6. **Fase 1 de las 17 obras nuevas del catálogo** (`sources/CATALOGO.md`)
    — cada una necesita el mismo tratamiento que ya se hizo para Bernal
    Díaz/Las Casas/Colón/Cortés: revisar el `raw/`, separar aparato
