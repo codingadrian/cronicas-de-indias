@@ -36,6 +36,14 @@ READMEs, METADATA).
 - **Cortés salió de pausa** el 2026-08-28 al conseguirse una edición
   digital (no escaneada) de las *Cartas de relación* — ver "Decisiones de
   alcance" más abajo, esto reabre una decisión previa.
+- **Catálogo completo de 20 cronistas (`sources/CATALOGO.md`)**: el
+  2026-08-28 el usuario dio una lista priorizada de 20 crónicas y pidió
+  conseguirlas todas. Las 20 tienen ahora al menos Fase 0 (fuente
+  descargada) — 17 obras nuevas quedaron en estado **"por procesar"**
+  (`raw/` conseguido, Fase 1 sin empezar, sin revisión manual de calidad
+  de OCR). Ninguna de las 17 está todavía en el MVP. Ver el catálogo para
+  qué se consiguió de cada una, de dónde, y qué huecos quedan (obras
+  parciales o ediciones distintas a la pedida).
 - **Repo en GitHub y Pages publicado**: el proyecto vive en
   https://github.com/codingadrian/cronicas-de-indias (público) y el MVP se
   sirve en https://codingadrian.github.io/cronicas-de-indias/. Ver
@@ -55,12 +63,20 @@ READMEs, METADATA).
 ├── schema/
 │   └── entidades-relaciones.schema.json   modelo de datos (ver abajo)
 ├── sources/                           por obra: raw/ (fuente sin tocar) + texto-limpio/ (Fase 1)
+│   ├── CATALOGO.md      catálogo completo de las 20 crónicas priorizadas por el usuario
+│   │                    (2026-08-28) — qué se consiguió, de dónde, y qué falta por obra
 │   ├── bernal-diaz/     activa  — texto-limpio/historia-verdadera-tomo1.md (111 cap., ~126k palabras)
-│   ├── las-casas/       activa  — texto-limpio/historia-de-las-indias-tomo2.md (97 cap., ~178k palabras)
+│   ├── las-casas/       activa  — texto-limpio/historia-de-las-indias-tomo2.md (97 cap., ~178k palabras);
+│   │                    también tiene la Brevísima relación por procesar (raw/ nada más)
 │   ├── cristobal-colon/ activa  — texto-limpio/diario-primer-viaje-colon.md (191 entradas + proemio, ~54k palabras)
 │   ├── colon-cartas/    activa  — texto-limpio/relaciones-cartas-colon.md (10 documentos, ~74k palabras, OCR sin corregir)
 │   ├── cortes/          activa  — texto-limpio/cartas-de-relacion.md (5 cartas, ~172k palabras) — recién salió de pausa
-│   └── hernando-colon/  en pausa — solo raw/, sin texto-limpio/
+│   ├── hernando-colon/  en pausa — solo raw/, sin texto-limpio/
+│   └── (17 carpetas más, todas "por procesar" — raw/ conseguido el 2026-08-28,
+│        Fase 1 pendiente: lopez-de-gomara, oviedo, pedro-martir, cabeza-de-vaca,
+│        motolinia, sahagun, duran, acosta, cieza-de-leon, zarate, xerez,
+│        pedro-pizarro, inca-garcilaso, guaman-poma, ixtlilxochitl, tezozomoc,
+│        munoz-camargo — ver CATALOGO.md para el detalle de cada una)
 ├── entidades/
 │   ├── bernal-diaz/personas.json, lugares.json, candidatos-frecuencia.json, relaciones-muestra.json
 │   └── las-casas/          (misma estructura — las otras tres obras activas todavía no tienen carpeta acá, ver Pendientes)
@@ -268,6 +284,18 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
 5. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
    registros de personas/lugares, y de las notas de ambigüedad (ej. "D Diego"
    en Las Casas).
+6. **Fase 1 de las 17 obras nuevas del catálogo** (`sources/CATALOGO.md`)
+   — cada una necesita el mismo tratamiento que ya se hizo para Bernal
+   Díaz/Las Casas/Colón/Cortés: revisar el `raw/`, separar aparato
+   editorial moderno, limpiar ruido de OCR donde haya, dividir en
+   capítulos, y recién ahí armar `texto-limpio/` y sumarla al MVP. Dado
+   el volumen (algunas enormes, como Oviedo con ~1.77M de palabras),
+   conviene priorizar en vez de encarar todas juntas.
+7. Cerrar los huecos de fuente que quedaron documentados en el catálogo:
+   falta un tomo de Sahagún, la segunda parte de los Comentarios reales
+   de Inca Garcilaso (*Historia general del Perú*), y la *Crónica
+   mexicáyotl* de Tezozómoc (distinta de la *Crónica mexicana* ya
+   conseguida).
 
 ## Convenciones a mantener
 
