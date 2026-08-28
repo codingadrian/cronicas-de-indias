@@ -26,9 +26,10 @@ READMEs, METADATA).
 - **MVP publicado** (`mvp/archivo-final.html`, también como Artifact —
   ver más abajo) con las dos obras completas (208 capítulos) navegables,
   entidades enlazadas dentro del texto y página de detalle por persona.
-- Conversación en curso (sin ejecutar todavía): publicar el MVP en GitHub
-  Pages, evaluando si usar Jekyll o servirlo como HTML estático plano. Ver
-  "GitHub Pages / Jekyll" más abajo.
+- **Repo en GitHub y Pages publicado**: el proyecto vive en
+  https://github.com/codingadrian/cronicas-de-indias (público) y el MVP se
+  sirve en https://codingadrian.github.io/cronicas-de-indias/. Ver
+  "GitHub / GitHub Pages" más abajo para cómo está armado el deploy.
 
 ## Estructura de carpetas
 
@@ -36,6 +37,8 @@ READMEs, METADATA).
 /historia
 ├── README.md                          resumen del proyecto para una persona
 ├── CLAUDE.md                          este archivo
+├── .gitignore                         excluye sources/cortes/raw/*.pdf (supera 100 MB de GitHub)
+├── .github/workflows/pages.yml        deploy de mvp/archivo-final.html a GitHub Pages
 ├── plan/
 │   ├── plan.html                      plan del proyecto, copia local
 │   └── README.md                      apunta al Artifact publicado del plan
@@ -181,26 +184,29 @@ No hay herramienta de "Artifact" en Claude Code local. Para ver
 servidor (por ejemplo para probar rutas relativas más adelante), un
 `python3 -m http.server` en la carpeta `mvp/` alcanza.
 
-## GitHub Pages / Jekyll (conversación abierta, sin ejecutar)
+## GitHub / GitHub Pages (ejecutado)
 
-Se conversó sobre publicar el MVP en GitHub Pages. Resumen de lo verificado
-(documentación oficial de GitHub/Jekyll):
+Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
+`main`). Pages publicado en https://codingadrian.github.io/cronicas-de-indias/.
 
-- El archivo (~1.8 MB) está muy por debajo de todos los límites de GitHub
-  Pages (100 MB por archivo, 1 GB de sitio publicado).
-- Pages es gratis en repos **públicos** en cualquier plan; un repo
-  **privado** necesita GitHub Pro/Team/Enterprise para publicar Pages.
-- Jekyll es el build por defecto de Pages salvo que se agregue un archivo
-  `.nojekyll` vacío en la raíz del repo (lo desactiva del todo). Como
-  `archivo-final.html` no tiene front-matter YAML (no empieza con `---`),
-  Jekyll lo copia tal cual sin tocarlo — funciona igual con o sin Jekyll
-  activado.
-- Dos caminos posibles, sin decidir todavía: (a) publicarlo tal cual como
-  `index.html` con `.nojekyll` (simple, ya está listo para esto salvo
-  agregarle el esqueleto `<!DOCTYPE html><html><head>...</head><body>...`
-  que hoy le falta porque el visor de Artifacts lo envuelve automáticamente),
-  o (b) armar un sitio Jekyll más completo alrededor (portada, página
-  "sobre el proyecto", etc.) con el MVP linkeado como página estática.
+- **`sources/cortes/raw/*.pdf` (344 MB) está en `.gitignore`** — supera el
+  límite de 100 MB por archivo de GitHub. La fuente para volver a
+  conseguirlo está documentada en `sources/cortes/METADATA.md`; no se perdió
+  nada, solo no está versionado.
+- A `mvp/archivo-final.html` se le agregó el esqueleto HTML5 completo
+  (`<!DOCTYPE html><html lang="es"><head>...</head><body>...</body></html>`)
+  que antes le daba el visor de Artifacts — ya es una página standalone.
+- **Deploy vía GitHub Actions** (`build_type: workflow` en la config de
+  Pages del repo, no el modo Jekyll/branch por defecto), definido en
+  `.github/workflows/pages.yml`: en cada push a `main` copia
+  `mvp/archivo-final.html` → `index.html` y lo publica. `mvp/` sigue siendo
+  la única fuente de verdad — no hay copia duplicada del archivo en el repo.
+  Se descartó la opción de un sitio Jekyll más completo (portada, página
+  "sobre el proyecto", etc.) por ahora — se puede retomar más adelante si
+  hace falta más que la página única del MVP.
+- Para forzar un redeploy manual sin nuevo commit: `gh workflow run
+  pages.yml --repo codingadrian/cronicas-de-indias` (el workflow tiene
+  `workflow_dispatch`).
 
 ## Pendientes (en orden sugerido)
 
@@ -209,15 +215,10 @@ Se conversó sobre publicar el MVP en GitHub Pages. Resumen de lo verificado
    validar primero la interfaz. Cada tanda nueva de relaciones se refleja
    directamente en el mapa, la cronología y el grafo del MVP sin tocar
    código (los datos se combinan al armar `datos.json` → JSON embebido).
-2. Antes de publicar en GitHub Pages: darle a `archivo-final.html` un
-   esqueleto HTML5 completo (hoy depende del wrapper del visor de
-   Artifacts).
-3. Decidir el camino de publicación (HTML plano vs. sitio Jekyll completo) y
-   ejecutarlo.
-4. Retomar Cortés (OCR del PDF, por rangos de páginas) y Hernando Colón
+2. Retomar Cortés (OCR del PDF, por rangos de páginas) y Hernando Colón
    (limpieza manual o edición alternativa) cuando haya tiempo — no son
    bloqueantes para lo demás.
-5. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
+3. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
    registros de personas/lugares, y de las notas de ambigüedad (ej. "D Diego"
    en Las Casas).
 

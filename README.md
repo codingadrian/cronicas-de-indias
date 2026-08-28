@@ -11,6 +11,8 @@ Este directorio reúne el trabajo del proyecto **Crónicas de Indias**: un archi
 
 **MVP piloto publicado** (ver `mvp/README.md`), construido sobre la primera pasada de Fase 2 (entidades y relaciones) de las dos obras activas. La extracción de relaciones sigue pendiente para el resto de los capítulos.
 
+Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en https://codingadrian.github.io/cronicas-de-indias/
+
 - ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): 24 personas y 10 lugares registrados, muestra completa de relaciones del Capítulo 1.
 - ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): 16 personas y 13 lugares registrados, muestra completa de relaciones del Capítulo 1.
 - ⏸️ Hernando Colón — en pausa.
@@ -49,7 +51,6 @@ Este directorio reúne el trabajo del proyecto **Crónicas de Indias**: un archi
 - Las relaciones solo están hechas para el Capítulo 1 de cada obra — quedan 110 capítulos de Bernal Díaz y 96 de Las Casas sin relaciones extraídas (esto limita lo que se ve en la Cronología y la Red de relaciones del MVP).
 - Varias entradas quedaron con `"status": "candidata"` (pendientes de una segunda revisión) o con notas de ambigüedad (ej. "D Diego" en Las Casas podría confundirse entre dos personas distintas).
 - El registro de personas/lugares se armó a partir de los candidatos más *frecuentes*; nombres mencionados pocas veces no están todavía en el registro general.
-- Publicación en GitHub Pages: conversado (ver `CLAUDE.md`) pero todavía no ejecutado.
 
 ## Próximo paso
 
