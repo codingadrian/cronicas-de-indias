@@ -1,0 +1,615 @@
+[
+{
+"id": "person:hernan-cortes",
+"canonical_name": "Hernán Cortés",
+"aliases": [
+"Cortés",
+"Hernando Cortés"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/hernan-cortes/"
+},
+{
+"id": "person:moctezuma-ii",
+"canonical_name": "Moctezuma",
+"aliases": [
+"Montezuma"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/moctezuma-ii/"
+},
+{
+"id": "person:diego-velazquez-de-cuellar",
+"canonical_name": "Diego Velázquez",
+"aliases": [
+"Diego Velazquez"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/diego-velazquez-de-cuellar/"
+},
+{
+"id": "person:pedro-de-alvarado",
+"canonical_name": "Pedro de Alvarado",
+"aliases": [
+"Pedro de Albarado",
+"Albarado"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/pedro-de-alvarado/"
+},
+{
+"id": "person:juan-de-escalante",
+"canonical_name": "Juan de Escalante",
+"aliases": [
+"Juan de Escalante"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/juan-de-escalante/"
+},
+{
+"id": "person:diego-de-ordas",
+"canonical_name": "Diego de Ordás",
+"aliases": [
+"Diego de Ordás"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/diego-de-ordas/"
+},
+{
+"id": "person:juan-de-grijalva",
+"canonical_name": "Juan de Grijalva",
+"aliases": [
+"Juan de Grijalva"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/juan-de-grijalva/"
+},
+{
+"id": "person:juan-velazquez-de-leon",
+"canonical_name": "Juan Velázquez de León",
+"aliases": [
+"Juan Velazquez de Leon"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/juan-velazquez-de-leon/"
+},
+{
+"id": "person:gonzalo-de-sandoval",
+"canonical_name": "Gonzalo de Sandoval",
+"aliases": [
+"Gonzalo de Sandoval"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/gonzalo-de-sandoval/"
+},
+{
+"id": "person:alonso-de-avila",
+"canonical_name": "Alonso de Ávila",
+"aliases": [
+"Alonso de Ávila"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/alonso-de-avila/"
+},
+{
+"id": "person:cristobal-de-olid",
+"canonical_name": "Cristóbal de Olid",
+"aliases": [
+"Cristóbal de Olí"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/cristobal-de-olid/"
+},
+{
+"id": "person:francisco-hernandez-de-cordoba",
+"canonical_name": "Francisco Hernández de Córdoba",
+"aliases": [
+"Francisco Hernandez de Córdoba"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/francisco-hernandez-de-cordoba/"
+},
+{
+"id": "person:francisco-de-montejo",
+"canonical_name": "Francisco de Montejo",
+"aliases": [
+"Francisco de Montejo"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/francisco-de-montejo/"
+},
+{
+"id": "person:alonso-hernandez-puertocarrero",
+"canonical_name": "Alonso Hernández Puertocarrero",
+"aliases": [
+"Alonso Hernandez Puertocarrero"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/alonso-hernandez-puertocarrero/"
+},
+{
+"id": "person:jeronimo-de-aguilar",
+"canonical_name": "Jerónimo de Aguilar",
+"aliases": [
+"Jerónimo de Aguilar",
+"Aguilar"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/jeronimo-de-aguilar/"
+},
+{
+"id": "person:francisco-de-lugo",
+"canonical_name": "Francisco de Lugo",
+"aliases": [
+"Francisco de Lugo"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/francisco-de-lugo/"
+},
+{
+"id": "person:bartolome-de-olmedo",
+"canonical_name": "Bartolomé de Olmedo",
+"aliases": [
+"Bartolomé de Olmedo"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/bartolome-de-olmedo/"
+},
+{
+"id": "person:pedro-de-ircio",
+"canonical_name": "Pedro de Ircio",
+"aliases": [
+"Pedro de Ircio"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/pedro-de-ircio/"
+},
+{
+"id": "person:alonso-de-grado",
+"canonical_name": "Alonso de Grado",
+"aliases": [
+"Alonso de Grado"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/alonso-de-grado/"
+},
+{
+"id": "person:anton-de-alaminos",
+"canonical_name": "Antón de Alaminos",
+"aliases": [
+"Anton de Alaminos"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/anton-de-alaminos/"
+},
+{
+"id": "person:marina-malinche",
+"canonical_name": "Marina (La Malinche)",
+"aliases": [
+"Marina",
+"doña Marina"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/marina-malinche/"
+},
+{
+"id": "person:xicotencatl",
+"canonical_name": "Xicoténcatl",
+"aliases": [
+"Xicotenga"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/xicotencatl/"
+},
+{
+"id": "person:obispo-de-burgos",
+"canonical_name": "Obispo de Búrgos (Juan Rodríguez de Fonseca)",
+"aliases": [
+"Obispo de Búrgos"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/obispo-de-burgos/"
+},
+{
+"id": "person:bernal-diaz-del-castillo",
+"canonical_name": "Bernal Díaz del Castillo",
+"aliases": [
+"Bernal Diaz"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/bernal-diaz-del-castillo/"
+},
+{
+"id": "person:melchorejo",
+"canonical_name": "Melchorejo",
+"aliases": [
+"Melchor",
+"Melchorillo"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/melchorejo/"
+},
+{
+"id": "person:julianillo",
+"canonical_name": "Julianillo",
+"aliases": [
+"Julián",
+"Julianico"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/julianillo/"
+},
+{
+"id": "person:alonso-bote",
+"canonical_name": "Alonso Bote",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/alonso-bote/"
+},
+{
+"id": "person:berrio",
+"canonical_name": "Berrio",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/berrio/"
+},
+{
+"id": "person:pedro-de-avila",
+"canonical_name": "Pedro de Ávila",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/pedro-de-avila/"
+},
+{
+"id": "person:juan-diaz-clerigo",
+"canonical_name": "Juan Díaz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/juan-diaz-clerigo/"
+},
+{
+"id": "person:penalosa",
+"canonical_name": "Peñalosa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/penalosa/"
+},
+{
+"id": "person:juan-de-quiteria",
+"canonical_name": "Juan de Quiteria",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/juan-de-quiteria/"
+},
+{
+"id": "person:francisco-indio-rio-banderas",
+"canonical_name": "Francisco (indio del río de Banderas)",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/francisco-indio-rio-banderas/"
+},
+{
+"id": "person:bartolome-pardo",
+"canonical_name": "Bartolomé Pardo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/bartolome-pardo/"
+},
+{
+"id": "person:benito-martinez",
+"canonical_name": "Benito Martínez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/benito-martinez/"
+},
+{
+"id": "person:francisco-lopez-de-gomara",
+"canonical_name": "Francisco López de Gómara",
+"aliases": [
+"Gómora",
+"Gómara"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/francisco-lopez-de-gomara/"
+},
+{
+"id": "person:gonzalo-hernandez-de-oviedo",
+"canonical_name": "Gonzalo Fernández de Oviedo",
+"aliases": [
+"Gonzalo Hernandez de Oviedo"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/gonzalo-hernandez-de-oviedo/"
+},
+{
+"id": "person:pedrarias-davila",
+"canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)",
+"aliases": [
+"Pedro Arias de Ávila",
+"Pedrárias Dávila"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/pedrarias-davila/"
+},
+{
+"id": "person:vasco-nunez-de-balboa",
+"canonical_name": "Vasco Núñez de Balboa",
+"aliases": [
+"Vasco Nuñez de Balboa"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/vasco-nunez-de-balboa/"
+},
+{
+"id": "person:bernardino-iniguez",
+"canonical_name": "Bernardino Íñiguez",
+"aliases": [
+"Bernardino Iñiguez"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/bernardino-iniguez/"
+},
+{
+"id": "person:alonso-gonzalez-clerigo",
+"canonical_name": "Alonso González",
+"aliases": [
+"Alonso Gonzalez"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/alonso-gonzalez-clerigo/"
+},
+{
+"id": "place:nueva-espana",
+"canonical_name": "Nueva España",
+"aliases": [
+"Nueva-España"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/nueva-espana/"
+},
+{
+"id": "place:villa-rica-de-la-vera-cruz",
+"canonical_name": "Villa Rica de la Vera Cruz",
+"aliases": [
+"Villa Rica"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/villa-rica-de-la-vera-cruz/"
+},
+{
+"id": "place:punta-de-cotoche",
+"canonical_name": "Punta de Cotoche",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/punta-de-cotoche/"
+},
+{
+"id": "place:santiago-de-cuba",
+"canonical_name": "Santiago de Cuba",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/santiago-de-cuba/"
+},
+{
+"id": "place:san-juan-de-ulua",
+"canonical_name": "San Juan de Ulúa",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/san-juan-de-ulua/"
+},
+{
+"id": "place:santo-domingo",
+"canonical_name": "Santo Domingo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/santo-domingo/"
+},
+{
+"id": "place:mexico-tenochtitlan",
+"canonical_name": "México (Tenochtitlan)",
+"aliases": [
+"Méjico"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/mexico-tenochtitlan/"
+},
+{
+"id": "place:tlaxcala",
+"canonical_name": "Tlaxcala",
+"aliases": [
+"Tlascala"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/tlaxcala/"
+},
+{
+"id": "place:cempoala",
+"canonical_name": "Cempoala",
+"aliases": [
+"Cempoal"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/cempoala/"
+},
+{
+"id": "place:cuba",
+"canonical_name": "Cuba",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/cuba/"
+},
+{
+"id": "place:campeche",
+"canonical_name": "Campeche",
+"aliases": [
+"Lázaro",
+"San Lázaro"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/campeche/"
+},
+{
+"id": "place:potonchan",
+"canonical_name": "Potonchán",
+"aliases": [
+"Potonchan",
+"Champotón",
+"Champoton"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/potonchan/"
+},
+{
+"id": "place:florida",
+"canonical_name": "Florida",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/florida/"
+},
+{
+"id": "place:habana",
+"canonical_name": "La Habana",
+"aliases": [
+"Habana",
+"Puerto de Carenas"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/habana/"
+},
+{
+"id": "place:yucatan",
+"canonical_name": "Yucatán",
+"aliases": [
+"Yucatan"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/yucatan/"
+},
+{
+"id": "place:trinidad-cuba",
+"canonical_name": "Villa de la Trinidad",
+"aliases": [
+"Trinidad"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/trinidad-cuba/"
+},
+{
+"id": "place:matanzas",
+"canonical_name": "Puerto de Matanzas",
+"aliases": [
+"Matanzas"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/matanzas/"
+},
+{
+"id": "place:cozumel",
+"canonical_name": "Cozumel",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/cozumel/"
+},
+{
+"id": "place:boca-de-terminos",
+"canonical_name": "Boca de Términos",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/boca-de-terminos/"
+},
+{
+"id": "place:rio-tabasco",
+"canonical_name": "Río de Tabasco (río de Grijalva)",
+"aliases": [
+"río de Grijalva"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/rio-tabasco/"
+},
+{
+"id": "place:la-rambla",
+"canonical_name": "La-Rambla (Aguayaluco)",
+"aliases": [
+"Aguayaluco"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/la-rambla/"
+},
+{
+"id": "place:rio-de-alvarado",
+"canonical_name": "Río de Alvarado",
+"aliases": [
+"Papalohuna"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/rio-de-alvarado/"
+},
+{
+"id": "place:guacacualco",
+"canonical_name": "Guacacualco",
+"aliases": [
+"Guazacualco",
+"Guacayualco"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/guacacualco/"
+},
+{
+"id": "place:rio-de-banderas",
+"canonical_name": "Río de Banderas",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/rio-de-banderas/"
+},
+{
+"id": "place:isla-de-sacrificios",
+"canonical_name": "Isla de Sacrificios",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/isla-de-sacrificios/"
+},
+{
+"id": "place:rio-de-canoas",
+"canonical_name": "Río de Canoas",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/rio-de-canoas/"
+},
+{
+"id": "place:tonala",
+"canonical_name": "Tonalá (San Antón)",
+"aliases": [
+"San Anton"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/tonala/"
+},
+{
+"id": "place:tierra-firme",
+"canonical_name": "Tierra Firme",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/tierra-firme/"
+},
+{
+"id": "place:nombre-de-dios",
+"canonical_name": "Nombre de Dios",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/nombre-de-dios/"
+},
+{
+"id": "place:ajaruco",
+"canonical_name": "Ajaruco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/ajaruco/"
+},
+{
+"id": "place:san-cristobal-cuba",
+"canonical_name": "San Cristóbal",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/san-cristobal-cuba/"
+}
+]

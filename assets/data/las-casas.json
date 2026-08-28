@@ -1,0 +1,388 @@
+[
+{
+"id": "person:cristobal-colon",
+"canonical_name": "Cristóbal Colón",
+"aliases": [
+"el Almirante",
+"D Cristóbal Colon",
+"Almirante D Cristóbal Colon"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/cristobal-colon/"
+},
+{
+"id": "person:francisco-roldan",
+"canonical_name": "Francisco Roldán",
+"aliases": [
+"Francisco Roldan",
+"Roldan"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/francisco-roldan/"
+},
+{
+"id": "person:bartolome-colon",
+"canonical_name": "Bartolomé Colón",
+"aliases": [
+"D Bartolomé",
+"D Bartolomé Colon",
+"Bartolomé Colon",
+"el Adelantado"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/bartolome-colon/"
+},
+{
+"id": "person:diego-colon-hermano",
+"canonical_name": "Diego Colón (hermano del Almirante)",
+"aliases": [
+"D Diego"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/diego-colon-hermano/"
+},
+{
+"id": "person:juan-aguado",
+"canonical_name": "Juan Aguado",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/juan-aguado/"
+},
+{
+"id": "person:alonso-de-ojeda",
+"canonical_name": "Alonso de Ojeda",
+"aliases": [
+"Alonso de Hojeda",
+"Hojeda"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/alonso-de-ojeda/"
+},
+{
+"id": "person:antonio-de-torres",
+"canonical_name": "Antonio de Torres",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/antonio-de-torres/"
+},
+{
+"id": "person:cristobal-guerra",
+"canonical_name": "Cristóbal Guerra",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/cristobal-guerra/"
+},
+{
+"id": "person:vicente-yanez-pinzon",
+"canonical_name": "Vicente Yáñez Pinzón",
+"aliases": [
+"Vicente Yañez"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/vicente-yanez-pinzon/"
+},
+{
+"id": "person:diego-de-escobar",
+"canonical_name": "Diego de Escobar",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/diego-de-escobar/"
+},
+{
+"id": "person:pedro-margarite",
+"canonical_name": "Pedro Margarite",
+"aliases": [
+"Mosen Pedro Margarite"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/pedro-margarite/"
+},
+{
+"id": "person:francisco-de-bobadilla",
+"canonical_name": "Francisco de Bobadilla",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/francisco-de-bobadilla/"
+},
+{
+"id": "person:diego-de-lepe",
+"canonical_name": "Diego de Lepe",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/diego-de-lepe/"
+},
+{
+"id": "person:americo-vespucio",
+"canonical_name": "Américo Vespucio",
+"aliases": [
+"Américo"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/americo-vespucio/"
+},
+{
+"id": "person:reyes-catolicos",
+"canonical_name": "los Reyes Católicos (Fernando e Isabel)",
+"aliases": [
+"los Reyes",
+"Sus Altezas",
+"Vuestras Altezas"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/reyes-catolicos/"
+},
+{
+"id": "person:bartolome-de-las-casas",
+"canonical_name": "Bartolomé de las Casas",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/bartolome-de-las-casas/"
+},
+{
+"id": "person:pedro-de-ayala",
+"canonical_name": "D. Pedro de Ayala",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/pedro-de-ayala/"
+},
+{
+"id": "person:garcia-de-carbajal",
+"canonical_name": "D. García de Carbajal",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/garcia-de-carbajal/"
+},
+{
+"id": "person:juan-de-la-parra",
+"canonical_name": "Juan de la Parra",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/juan-de-la-parra/"
+},
+{
+"id": "person:rey-de-portugal",
+"canonical_name": "D. Juan II de Portugal",
+"aliases": [
+"el rey de Portugal",
+"Rey de Portugal"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/rey-de-portugal/"
+},
+{
+"id": "person:guacanagari",
+"canonical_name": "Guacanagarí",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/guacanagari/"
+},
+{
+"id": "person:caonabo",
+"canonical_name": "Caonabo",
+"aliases": [
+"Canabo"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/caonabo/"
+},
+{
+"id": "person:diego-de-arana",
+"canonical_name": "Diego de Arana",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/diego-de-arana/"
+},
+{
+"id": "person:fray-buil",
+"canonical_name": "Fray Buil",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/fray-buil/"
+},
+{
+"id": "person:bernal-de-pisa",
+"canonical_name": "Bernal de Pisa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/bernal-de-pisa/"
+},
+{
+"id": "person:diego-marquez",
+"canonical_name": "Diego Márquez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/diego-marquez/"
+},
+{
+"id": "place:la-espanola",
+"canonical_name": "La Española",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/la-espanola/"
+},
+{
+"id": "place:santo-domingo-ciudad",
+"canonical_name": "Santo Domingo (ciudad)",
+"aliases": [
+"Sancto Domingo"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/santo-domingo-ciudad/"
+},
+{
+"id": "place:cabo-verde",
+"canonical_name": "Cabo Verde",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/cabo-verde/"
+},
+{
+"id": "place:vega-real",
+"canonical_name": "Vega Real",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/vega-real/"
+},
+{
+"id": "place:medina-del-campo",
+"canonical_name": "Medina del Campo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/medina-del-campo/"
+},
+{
+"id": "place:cuba",
+"canonical_name": "Cuba",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/cuba/"
+},
+{
+"id": "place:jamaica",
+"canonical_name": "Jamaica",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/jamaica/"
+},
+{
+"id": "place:san-agustin",
+"canonical_name": "San Agustín",
+"aliases": [
+"Sant Agustin"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/san-agustin/"
+},
+{
+"id": "place:santo-tomas-fuerte",
+"canonical_name": "Fuerte de Santo Tomás",
+"aliases": [
+"Sancto Tomás"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/santo-tomas-fuerte/"
+},
+{
+"id": "place:la-isabela",
+"canonical_name": "La Isabela",
+"aliases": [
+"Isabela"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/la-isabela/"
+},
+{
+"id": "place:castilla",
+"canonical_name": "Castilla",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/castilla/"
+},
+{
+"id": "place:indias",
+"canonical_name": "las Indias",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/indias/"
+},
+{
+"id": "place:paraiso-terrenal",
+"canonical_name": "el Paraíso Terrenal (concepto geográfico de Colón)",
+"aliases": [
+"Paraíso"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/paraiso-terrenal/"
+},
+{
+"id": "place:barcelona",
+"canonical_name": "Barcelona",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/barcelona/"
+},
+{
+"id": "place:portugal",
+"canonical_name": "Portugal",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/portugal/"
+},
+{
+"id": "place:dominica",
+"canonical_name": "la Dominica",
+"aliases": [
+"Dominica"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/dominica/"
+},
+{
+"id": "place:guadalupe",
+"canonical_name": "Guadalupe",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/guadalupe/"
+},
+{
+"id": "place:san-juan-boriquen",
+"canonical_name": "San Juan Bautista (Boriquén)",
+"aliases": [
+"Sant Juan Baptista",
+"Boriquen",
+"Sant Juan"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/san-juan-boriquen/"
+},
+{
+"id": "place:la-navidad",
+"canonical_name": "La Navidad (fuerte y puerto)",
+"aliases": [
+"Navidad"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/la-navidad/"
+},
+{
+"id": "place:cibao",
+"canonical_name": "Cibao",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/cibao/"
+},
+{
+"id": "place:simancas",
+"canonical_name": "Simancas",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/simancas/"
+},
+{
+"id": "place:maguana",
+"canonical_name": "Maguana",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/maguana/"
+}
+]

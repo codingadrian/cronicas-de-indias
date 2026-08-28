@@ -1,0 +1,170 @@
+[
+{
+"id": "person:hernan-cortes",
+"canonical_name": "Hernando Cortés",
+"aliases": [
+"Fernando Cortés",
+"Cortés",
+"capitán Fernando Cortés"
+],
+"tipo": "persona",
+"url": "/personas/cortes/hernan-cortes/"
+},
+{
+"id": "person:diego-velazquez-de-cuellar",
+"canonical_name": "Diego Velázquez",
+"aliases": [
+"teniente de almirante de la isla Fernandina"
+],
+"tipo": "persona",
+"url": "/personas/cortes/diego-velazquez-de-cuellar/"
+},
+{
+"id": "person:juan-de-grijalva",
+"canonical_name": "Juan de Grijalva",
+"aliases": [
+"Juan de Grijalba"
+],
+"tipo": "persona",
+"url": "/personas/cortes/juan-de-grijalva/"
+},
+{
+"id": "person:francisco-hernandez-de-cordoba",
+"canonical_name": "Francisco Fernández de Córdoba",
+"aliases": [
+"Francisco Hernández de Córdoba"
+],
+"tipo": "persona",
+"url": "/personas/cortes/francisco-hernandez-de-cordoba/"
+},
+{
+"id": "person:anton-de-alaminos",
+"canonical_name": "Antón de Alaminos",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/anton-de-alaminos/"
+},
+{
+"id": "person:jeronimo-de-aguilar",
+"canonical_name": "Jerónimo de Aguilar",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/jeronimo-de-aguilar/"
+},
+{
+"id": "person:alonso-hernandez-puertocarrero",
+"canonical_name": "Alonso Hernández Puertocarrero",
+"aliases": [
+"Alonso Fernández Portocarrero",
+"Alonso Fernández Puerto-Carrero",
+"Puerto Carrero"
+],
+"tipo": "persona",
+"url": "/personas/cortes/alonso-hernandez-puertocarrero/"
+},
+{
+"id": "person:francisco-de-montejo",
+"canonical_name": "Francisco de Montejo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/francisco-de-montejo/"
+},
+{
+"id": "person:alonso-de-avila",
+"canonical_name": "Alonso de Ávila",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/alonso-de-avila/"
+},
+{
+"id": "person:alonso-de-grado",
+"canonical_name": "Alonso de Grado",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/alonso-de-grado/"
+},
+{
+"id": "person:gonzalo-de-guzman",
+"canonical_name": "Gonzalo de Guzmán",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/gonzalo-de-guzman/"
+},
+{
+"id": "place:villa-rica-de-la-vera-cruz",
+"canonical_name": "Villa Rica de la Vera Cruz",
+"aliases": [
+"Rica Villa de la Vera Cruz",
+"Rica Villa de la Veracruz"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/villa-rica-de-la-vera-cruz/"
+},
+{
+"id": "place:cozumel",
+"canonical_name": "Cozumel",
+"aliases": [
+"isla de Santa Cruz",
+"Santa Cruz"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/cozumel/"
+},
+{
+"id": "place:yucatan",
+"canonical_name": "Yucatán",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/yucatan/"
+},
+{
+"id": "place:campeche",
+"canonical_name": "Campeche",
+"aliases": [
+"puerto Campeche"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/campeche/"
+},
+{
+"id": "place:potonchan",
+"canonical_name": "Potonchán (Champotón)",
+"aliases": [
+"Nochopobón"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/potonchan/"
+},
+{
+"id": "place:cuba",
+"canonical_name": "Cuba",
+"aliases": [
+"isla Fernandina"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/cuba/"
+},
+{
+"id": "place:isla-espanola",
+"canonical_name": "isla Española",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/isla-espanola/"
+},
+{
+"id": "place:rio-grijalva-tabasco",
+"canonical_name": "Río de Grijalva",
+"aliases": [
+"río grande que se dice de Grijalba"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/rio-grijalva-tabasco/"
+},
+{
+"id": "place:bahia-de-san-juan",
+"canonical_name": "Bahía y puerto de San Juan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/bahia-de-san-juan/"
+}
+]

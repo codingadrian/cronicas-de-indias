@@ -1,0 +1,170 @@
+[
+{
+"id": "person:cristobal-colon",
+"canonical_name": "Cristóbal Colón",
+"aliases": [
+"el Almirante",
+"D. Cristóbal Colón"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/cristobal-colon/"
+},
+{
+"id": "person:luis-de-santangel",
+"canonical_name": "Luis de Santángel",
+"aliases": [
+"D. Luis de Santangel"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/luis-de-santangel/"
+},
+{
+"id": "person:rafael-sanchez",
+"canonical_name": "Rafael Sánchez",
+"aliases": [
+"Gabriel Sánchez"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/rafael-sanchez/"
+},
+{
+"id": "person:antonio-de-torres",
+"canonical_name": "Antonio de Torres",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/antonio-de-torres/"
+},
+{
+"id": "person:juan-rodriguez-de-fonseca",
+"canonical_name": "D. Juan de Fonseca",
+"aliases": [
+"Juan de Fonseca"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/juan-rodriguez-de-fonseca/"
+},
+{
+"id": "person:doctor-chanca",
+"canonical_name": "Doctor Chanca",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/doctor-chanca/"
+},
+{
+"id": "person:cacique-caonabo",
+"canonical_name": "Caonabó",
+"aliases": [
+"Cahonaboa",
+"Calionaboa"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/cacique-caonabo/"
+},
+{
+"id": "person:alonso-de-ojeda",
+"canonical_name": "Alonso de Ojeda",
+"aliases": [
+"Hojeda"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/alonso-de-ojeda/"
+},
+{
+"id": "person:pedro-margarite",
+"canonical_name": "Mosén Pedro Margarite",
+"aliases": [
+"Mosen Pedro Margarit",
+"Mosén Pedro"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/pedro-margarite/"
+},
+{
+"id": "place:la-espanola",
+"canonical_name": "La Española",
+"aliases": [
+"Española",
+"isla Española"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/la-espanola/"
+},
+{
+"id": "place:ciudad-isabela",
+"canonical_name": "Ciudad Isabela",
+"aliases": [
+"la Isabela",
+"isla Isabela"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/ciudad-isabela/"
+},
+{
+"id": "place:cuba",
+"canonical_name": "Cuba",
+"aliases": [
+"la Juana",
+"Juana"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/cuba/"
+},
+{
+"id": "place:san-salvador",
+"canonical_name": "San Salvador",
+"aliases": [
+"Guanahaní",
+"Guanahanin"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/san-salvador/"
+},
+{
+"id": "place:jamaica",
+"canonical_name": "Jamaica",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/jamaica/"
+},
+{
+"id": "place:cambao",
+"canonical_name": "Cambao",
+"aliases": [
+"Cibao"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/cambao/"
+},
+{
+"id": "place:cadiz",
+"canonical_name": "Cádiz",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/cadiz/"
+},
+{
+"id": "place:isla-de-la-mona",
+"canonical_name": "Isla de la Mona",
+"aliases": [
+"la Mona"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/isla-de-la-mona/"
+},
+{
+"id": "place:isla-de-san-juan",
+"canonical_name": "Isla de San Juan",
+"aliases": [
+"isla de Sant Juan"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/isla-de-san-juan/"
+},
+{
+"id": "place:jardin-de-la-reina",
+"canonical_name": "El Jardín de la Reina",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/jardin-de-la-reina/"
+}
+]

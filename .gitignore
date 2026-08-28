@@ -2,3 +2,8 @@
 # En pausa de todos modos (ver CLAUDE.md); fuente documentada en
 # sources/cortes/METADATA.md para volver a conseguirlo cuando se retome.
 sources/cortes/raw/*.pdf
+
+# build de Jekyll — no se versiona
+_site/
+.jekyll-cache/
+.jekyll-metadata

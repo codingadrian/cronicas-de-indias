@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<a class="persona-back" href="{{ '/lugares/' | relative_url }}">← Volver</a>
+<div class="persona-head">
+  <span class="eyebrow">Lugar</span>
+  <h2>{{ page.canonical_name }}</h2>
+  {% if page.modern_equivalent %}<p class="prole">{{ page.modern_equivalent }}</p>{% endif %}
+  <div class="pmeta"><span class="status-dot {{ page.status }}"></span>{{ page.status }} · {{ page.obra_titulo }}</div>
+  {% if page.aliases and page.aliases.size > 0 %}
+  <div class="caliases">{% for a in page.aliases %}<span class="alias">{{ a }}</span>{% endfor %}</div>
+  {% endif %}
+</div>
+
+<div class="persona-bio lugar-bio">
+  <span class="pb-label">Descripción según la crónica</span>
+  <div>{{ content }}</div>
+  <hr class="bio-disclaimer-rule">
+  <p class="bio-disclaimer">Descripción construida únicamente a partir de cómo esta crónica menciona el lugar — no es una descripción geográfica o histórica externa.</p>
+</div>
+
+{% if page.notas %}<p class="persona-note">Nota de catalogación: {{ page.notas }}</p>{% endif %}
+
+<div class="mentions">
+  <h3>Menciones en el texto</h3>
+  <p class="mhint">{{ page.mentions_hint }}</p>
+  <div class="blurb-list">
+    {% for b in page.blurbs %}
+    <div class="blurb">
+      <div class="bhead"><span>{{ b.heading }} · {{ page.obra_titulo }}</span></div>
+      <div class="btext">{{ b.html }}</div>
+      <a class="bctx" href="{{ b.url | relative_url }}#leer-{{ page.entity_id }}-{{ b.occ }}">Leer en contexto →</a>
+    </div>
+    {% endfor %}
+  </div>
+</div>

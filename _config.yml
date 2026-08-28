@@ -1,0 +1,51 @@
+title: "Crónicas de Indias"
+description: "Archivo relacional y consultable de crónicas españolas de la conquista de América (dominio público)."
+lang: es
+url: "https://codingadrian.github.io"
+baseurl: "/cronicas-de-indias"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+collections:
+  documentos:
+    output: true
+    permalink: /documentos/:path/
+  personas:
+    output: true
+    permalink: /personas/:path/
+  lugares:
+    output: true
+    permalink: /lugares/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: documentos
+    values:
+      layout: capitulo
+  - scope:
+      path: ""
+      type: personas
+    values:
+      layout: persona
+  - scope:
+      path: ""
+      type: lugares
+    values:
+      layout: lugar
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - sources
+  - entidades
+  - schema
+  - plan
+  - CLAUDE.md
+  - README.md
+  - vendor
+  - node_modules

@@ -1,0 +1,135 @@
+[
+{
+"id": "person:cristobal-colon",
+"canonical_name": "Cristóbal Colón (el Almirante)",
+"aliases": [
+"el Almirante",
+"yo, Cristóbal Colón"
+],
+"tipo": "persona",
+"url": "/personas/cristobal-colon/cristobal-colon/"
+},
+{
+"id": "person:martin-alonso-pinzon",
+"canonical_name": "Martín Alonso Pinzón",
+"aliases": [
+"Martín Alonso"
+],
+"tipo": "persona",
+"url": "/personas/cristobal-colon/martin-alonso-pinzon/"
+},
+{
+"id": "person:gomez-rascon",
+"canonical_name": "Gómez Rascón",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cristobal-colon/gomez-rascon/"
+},
+{
+"id": "person:cristobal-quintero",
+"canonical_name": "Cristóbal Quintero",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cristobal-colon/cristobal-quintero/"
+},
+{
+"id": "person:ines-peraza",
+"canonical_name": "Doña Inés Peraza",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cristobal-colon/ines-peraza/"
+},
+{
+"id": "place:granada",
+"canonical_name": "Granada",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/granada/"
+},
+{
+"id": "place:palos",
+"canonical_name": "Palos",
+"aliases": [
+"villa de Palos"
+],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/palos/"
+},
+{
+"id": "place:saltes",
+"canonical_name": "Barra de Saltés",
+"aliases": [
+"Saltés"
+],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/saltes/"
+},
+{
+"id": "place:islas-canarias",
+"canonical_name": "Islas Canarias",
+"aliases": [
+"islas de Canaria"
+],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/islas-canarias/"
+},
+{
+"id": "place:lanzarote",
+"canonical_name": "Lanzarote",
+"aliases": [
+"isla del Lanzarote"
+],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/lanzarote/"
+},
+{
+"id": "place:gran-canaria",
+"canonical_name": "Gran Canaria",
+"aliases": [
+"Canaria"
+],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/gran-canaria/"
+},
+{
+"id": "place:gomera",
+"canonical_name": "La Gomera",
+"aliases": [
+"Gomera"
+],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/gomera/"
+},
+{
+"id": "place:tenerife",
+"canonical_name": "Tenerife",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/tenerife/"
+},
+{
+"id": "place:hierro",
+"canonical_name": "Isla del Hierro",
+"aliases": [
+"isla de Hierro"
+],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/hierro/"
+},
+{
+"id": "place:madera",
+"canonical_name": "Isla de Madera",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/madera/"
+},
+{
+"id": "place:azores",
+"canonical_name": "Islas de los Azores",
+"aliases": [
+"Azores"
+],
+"tipo": "lugar",
+"url": "/lugares/cristobal-colon/azores/"
+}
+]

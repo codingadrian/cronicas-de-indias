@@ -1,0 +1,31 @@
+---
+obra: colon-cartas
+obra_titulo: Relaciones y cartas de Cristóbal Colón (cartas y documentos, sin el Diario)
+entity_id: person:alonso-de-ojeda
+canonical_name: Alonso de Ojeda
+aliases:
+- Hojeda
+role: criado del Duque de Medinaceli; exploró en busca de oro y entregó gente a Pedro Margarite
+mention_count_aprox: null
+status: candidata
+notas: ''
+mentions_hint: Las 4 menciones de esta persona en el texto.
+blurbs:
+- heading: Carta a Luis de Santángel sobre el primer viaje (1493)
+  url: /documentos/colon-cartas/000/
+  occ: 0
+  html: …ribir á sus Altezas; pero porque allá va Clorbalán, que fue uno de los descubridores, él dirá lo que vio, aunque acá qiieda otro que llaman <mark>Hojeda</mark>, criado del Duque de Me- dinaceli, muy discreto mozo y de muy gran recábelo, que sin duda y aun sin comparación, descubrió mucho más, según…
+- heading: Instrucción a Mosén Pedro Margarit (1494)
+  url: /documentos/colon-cartas/001/
+  occ: 0
+  html: 'Primeramente: que luego que vos fuere ciada é entre- gada la dicha gente por <mark>Hojeda</mark>, la rescibáis según ó en la manera que la él lleva, é así resccbida, ordenéis las batallas que segund la dispusición de la tierra os pa- re…'
+- heading: Instrucción a Mosén Pedro Margarit (1494)
+  url: /documentos/colon-cartas/001/
+  occ: 1
+  html: 'Item más: porque me par es ce bien que toda esta gen te vaya agora con <mark>Hojeda</mark> hasta Carabao, y que de allí la rescibáis vos toda, y al comienzo de vuestro camino á amahuix, y dende llevaréis el camino donde os pares-'
+- heading: Relación del tercer viaje y documentos posteriores (1498-1504)
+  url: /documentos/colon-cartas/008/
+  occ: 0
+  html: (B) Alonso de <mark>Hojeda</mark> llegó á la Española el o de Soptiembro de 1498.
+---
+Aparece en el texto como criado del Duque de Medinaceli; exploró en busca de oro y entregó gente a Pedro Margarite. También aparece nombrada como: Hojeda.
