@@ -185,23 +185,48 @@ Un solo archivo HTML autocontenido (sin build, sin dependencias salvo un
 personas + lugares + eventos + relaciones). El JS principal está en el
 segundo `<script>` del archivo, vanilla, dentro de un único IIFE.
 
-Cinco pestañas: **Documentos** (biblioteca de las 5 obras → tabla de
-contenidos → lector de capítulo con navegación anterior/siguiente),
-**Personas**, **Lugares**, **Cronología**, **Red de relaciones** (grafo de
-fuerza). Personas/Lugares solo tienen datos de Bernal Díaz y Las Casas —
-las otras tres obras todavía no tienen entidades curadas (ver "Pendientes").
+Cinco pestañas: **Documentos**, **Personas**, **Lugares**, **Cronología**,
+**Red de relaciones** (grafo de fuerza). Personas/Lugares solo tienen datos
+de Bernal Díaz y Las Casas — las otras tres obras todavía no tienen
+entidades curadas (ver "Pendientes").
+
+**Documentos** (2026-08-28: cambio de navegación) — un clic en una obra de
+la biblioteca va directo al Capítulo 1 (ya no pasa por una pantalla de
+tabla de contenidos aparte). El índice de capítulos vive *dentro* del lector
+(`#doc-toc-toggle` + `#doc-toc-inline`, colapsado por defecto, con el
+capítulo actual marcado `.current`) — clic en un capítulo salta ahí y
+cierra el panel. Ver `renderInlineToc`/`openDocChapter` en el JS. **Ojo
+si se vuelve a tocar este panel**: el div tiene doble clase
+(`class="doc-toc doc-toc-inline"`) para reusar el estilo de botones de
+`.doc-toc`, así que el atributo `hidden` nativo necesita la regla explícita
+`.doc-toc-inline[hidden]{ display:none; }` — si no, la regla de autor
+`.doc-toc{ display:flex }` gana y `hidden` deja de esconder el panel.
+
+El lector (`.doc-reader`) está centrado (`margin:0 auto`), con
+título/subtítulo centrados y el cuerpo (`.dr-body`) en `text-align:justify`.
 
 ### Etiquetado de entidades dentro del texto (Documentos)
 
 `tagChapterHtml(obraKey, rawText)` envuelve menciones de personas, lugares y
-años en `<span class="ent ...">` clicables, directamente sobre el texto
-limpio (sin alterarlo). Puntos a tener en cuenta si se toca este código:
+años en `<span class="ent ...">` clicables, y arma el cuerpo en párrafos
+(`<p>`) para que el lector se pueda justificar. Puntos a tener en cuenta si
+se toca este código:
 
 - El regex de cada entidad usa lookaround de límite de palabra con
   `\p{L}\p{N}` (flags `gu`), **no `\b`** — `\b` de JS no trata las letras
   acentuadas como caracteres de palabra, así que falla en nombres como
   "Ávila" o "Núñez". Cualquier regex nuevo sobre este texto tiene que usar
   el mismo patrón de lookaround.
+- **El `.txt` fuente viene con saltos de línea duros cada ~70 caracteres**
+  (formato típico de Gutenberg/Archive.org) — son artefactos de ancho fijo,
+  no separadores de párrafo reales. `tagChapterHtml` los colapsa a un
+  espacio (usando `' '` como separador temporario antes de partir por
+  párrafo real, es decir por 2+ saltos de línea seguidos) antes de
+  etiquetar, y devuelve el capítulo ya envuelto en `<p>` por párrafo. Sin
+  este paso, `text-align:justify` en `.dr-body` estiraría cada línea de
+  ~70 caracteres del original hasta el ancho completo de la columna,
+  con espaciado carísimo entre palabras — el `white-space:pre-wrap` que
+  tenía antes el `.dr-body` ya no hace falta ni está.
 - Orden de las pasadas: primero años (`YEAR_RE`, 4 dígitos 1200-1599), después
   personas/lugares — en ese orden, para que los dígitos de `data-occ="N"`
   que se insertan después nunca puedan confundirse con un año de 4 cifras.
@@ -210,6 +235,27 @@ limpio (sin alterarlo). Puntos a tener en cuenta si se toca este código:
   página de una persona ("Leer en contexto →").
 - El etiquetado es por coincidencia de texto (nombre/alias), no desambigua
   homónimos reales.
+
+### Responsive (mobile-first)
+
+El sitio no tenía ningún media query hasta el 2026-08-28. Ahora hay dos
+breakpoints (`max-width: 640px` y `max-width: 400px`) al final del
+`<style>` que ajustan grillas a una columna, el header (la barra de
+búsqueda pasa a su propia fila completa), el tamaño de fuente de
+títulos, la altura del grafo/timeline, y ocultan la parte del título de
+la obra en las migas de pan del lector (dejan solo "Documentos › Capítulo
+N") para no saturar pantallas angostas. El input de búsqueda usa
+`font-size:1rem` (16px) a propósito — por debajo de eso Safari en iOS
+hace zoom automático al enfocar el campo.
+
+**Cómo probar el responsive sin depender de que el entorno redimensione
+la ventana de Chrome** (en este entorno de nube `resize_window` no
+cambia el viewport real): inyectar un `<iframe>` con `style.width` fijo
+(ej. 390px) apuntando al mismo archivo servido por HTTP — un iframe sí
+tiene su propio viewport CSS independiente, así que los media queries
+reales se disparan correctamente adentro, a diferencia de intentar
+forzarlos editando el CSS del archivo (que da un resultado engañoso
+porque el contenedor real sigue siendo ancho).
 
 ### Página de persona
 
