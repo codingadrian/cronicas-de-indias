@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Archivo Crónicas de Indias</title>
+<title>Crónicas de Indias</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Space+Mono:wght@400;700&display=swap">
 <style>
   :root{
@@ -100,7 +100,8 @@
     display:flex; align-items:center; gap:1.2rem; flex-wrap:wrap;
   }
   .brand{ display:flex; align-items:baseline; gap:0.5rem; white-space:nowrap; }
-  .brand .name{ font-family:'IM Fell English', serif; font-size:1.35rem; }
+  .brand .name{ font-family:'IM Fell English', serif; font-size:1.35rem; background:none; border:none; padding:0; color:var(--ink); cursor:pointer; }
+  .brand .name:hover{ color:var(--accent); }
   .brand .tag{ font-family:'Space Mono',monospace; font-size:0.62rem; color:var(--ink-faint); letter-spacing:0.08em; text-transform:uppercase; }
   .search-wrap{ flex:1 1 260px; min-width: 180px; position:relative; }
   .search-wrap input{
@@ -214,6 +215,7 @@
   .persona-head .prole{ font-size:1rem; color:var(--accent-soft); margin-bottom:0.5rem; }
   .persona-head .pmeta{ font-family:'Space Mono',monospace; font-size:0.68rem; color:var(--ink-faint); text-transform:uppercase; margin-bottom:0.9rem; }
   .persona-bio{ background:var(--surface); border:1px solid var(--line); border-left:3px solid var(--cat-persona); padding:1rem 1.2rem; border-radius:2px; max-width:700px; margin-bottom:0.9rem; font-size:0.96rem; line-height:1.7; }
+  .persona-bio.lugar-bio{ border-left-color:var(--cat-lugar); }
   .persona-bio .pb-label{ font-family:'Space Mono',monospace; font-size:0.64rem; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.06em; display:block; margin-bottom:0.4rem; }
   .persona-note{ font-size:0.85rem; color:var(--ink-faint); font-style:italic; max-width:700px; margin-bottom:1.6rem; }
   .mentions h3{ font-size:1.15rem; margin-bottom:0.3rem; }
@@ -288,7 +290,7 @@
 
 <header class="top">
   <div class="brand">
-    <span class="name">Archivo Crónicas de Indias</span>
+    <button class="name" id="brand-home" type="button">Crónicas de Indias</button>
     <span class="tag mono">MVP piloto</span>
   </div>
   <div class="search-wrap">
@@ -378,6 +380,27 @@
       <div class="blurb-list" id="persona-blurbs"></div>
     </div>
   </section>
+
+  <section class="view" id="view-lugar">
+    <button class="persona-back" id="lugar-back">← Volver</button>
+    <div class="persona-head">
+      <span class="eyebrow">Lugar</span>
+      <h2 id="lugar-name"></h2>
+      <p class="prole" id="lugar-role"></p>
+      <div class="pmeta" id="lugar-meta"></div>
+      <div class="caliases" id="lugar-aliases"></div>
+    </div>
+    <div class="persona-bio lugar-bio">
+      <span class="pb-label">Descripción según la crónica</span>
+      <div id="lugar-bio-text"></div>
+    </div>
+    <p class="persona-note" id="lugar-note" style="display:none"></p>
+    <div class="mentions">
+      <h3>Menciones en el texto</h3>
+      <p class="mhint" id="lugar-mentions-hint"></p>
+      <div class="blurb-list" id="lugar-blurbs"></div>
+    </div>
+  </section>
 </main>
 
 <div class="tooltip" id="tooltip"></div>
@@ -430,6 +453,7 @@
     if (view === 'lugares' && !mapInited) initMap();
   }
   tabs.forEach(btn => btn.addEventListener('click', () => activateTab(btn.dataset.view)));
+  document.getElementById('brand-home').addEventListener('click', () => activateTab('documentos'));
 
   function escapeHtml(s){
     return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
@@ -593,7 +617,7 @@
     if (el.classList.contains('ent-persona')) {
       openPersona(el.dataset.id, { type:'documentos', obraKey: currentDocObra, chapterIndex: currentDocChapter });
     } else if (el.classList.contains('ent-lugar')) {
-      goToLugar(el.dataset.id, currentDocObra);
+      openLugar(el.dataset.id, { type:'documentos', obraKey: currentDocObra, chapterIndex: currentDocChapter });
     } else if (el.classList.contains('ent-fecha')) {
       handleYearClick(el, el.dataset.year);
     }
@@ -762,25 +786,70 @@
     }
   });
 
-  /* ---------------- Salto a un lugar desde el texto ---------------- */
-  function goToLugar(id, obraKey){
-    activateTab('lugares');
-    if (lugaresFilter !== 'todas') {
-      lugaresFiltersEl.querySelectorAll('.chip').forEach(x=>x.classList.remove('active'));
-      lugaresFiltersEl.querySelector('[data-k="todas"]').classList.add('active');
-      lugaresFilter = 'todas';
-      renderLugares();
-    }
-    requestAnimationFrame(() => {
-      let card = document.querySelector(`.card[data-lugar-id="${cssAttrEscape(id)}"][data-lugar-obra="${cssAttrEscape(obraKey)}"]`) ||
-                 document.querySelector(`.card[data-lugar-id="${cssAttrEscape(id)}"]`);
-      if (card) {
-        card.classList.add('flash');
-        if (card.scrollIntoView) card.scrollIntoView({ block:'center', behavior:'smooth' });
-        setTimeout(() => card.classList.remove('flash'), 1800);
-      }
-    });
+  /* ---------------- Página de lugar ---------------- */
+  let lugarBackCtx = null;
+
+  function synthBioLugar(l){
+    const obraTitle = OBRAS[l.obra] ? OBRAS[l.obra].titulo : '';
+    let parts = [`En <em>${obraTitle}</em> aparece como ${l.modern_equivalent ? 'un lugar que hoy corresponde a ' + l.modern_equivalent : 'un lugar mencionado en el relato'}.`];
+    if (l.mention_count_aprox) parts.push(`Se lo menciona unas ${l.mention_count_aprox} veces a lo largo del texto.`);
+    parts.push('Descripción construida únicamente a partir de cómo esta crónica menciona el lugar — no es una descripción geográfica o histórica externa.');
+    return parts.join(' ');
   }
+
+  function openLugar(id, backCtx){
+    const l = LUGARES.find(x => x.id === id);
+    if (!l) return;
+    if (backCtx) lugarBackCtx = backCtx;
+    document.getElementById('lugar-name').textContent = l.canonical_name;
+    document.getElementById('lugar-role').textContent = l.modern_equivalent || '';
+    document.getElementById('lugar-meta').innerHTML =
+      `<span class="status-dot ${l.status||'revisada'}"></span>${l.status||'revisada'} · ${OBRA_LABEL[l.obra]}`;
+    document.getElementById('lugar-aliases').innerHTML = (l.aliases||[]).map(a=>`<span class="alias">${a}</span>`).join('');
+    document.getElementById('lugar-bio-text').innerHTML = synthBioLugar(l);
+    const noteEl = document.getElementById('lugar-note');
+    if (l.notas) { noteEl.textContent = 'Nota de catalogación: ' + l.notas; noteEl.style.display = ''; }
+    else { noteEl.style.display = 'none'; }
+
+    const { blurbs, total } = buildBlurbs(l);
+    const mHint = document.getElementById('lugar-mentions-hint');
+    if (!total) mHint.textContent = 'Todavía no hay menciones localizadas para este lugar en el texto.';
+    else if (total > blurbs.length) mHint.textContent = `Mostrando ${blurbs.length} de ~${total} menciones, repartidas a lo largo del texto.`;
+    else mHint.textContent = `${total} mención(es) encontradas.`;
+
+    const blurbsEl = document.getElementById('lugar-blurbs');
+    blurbsEl.innerHTML = blurbs.map((b,i) => `
+      <div class="blurb">
+        <div class="bhead"><span>${b.heading} · ${OBRA_LABEL[b.obraKey]}</span></div>
+        <div class="btext">${b.html}</div>
+        <button class="bctx" data-i="${i}">Leer en contexto →</button>
+      </div>
+    `).join('');
+    blurbsEl.querySelectorAll('.bctx').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const b = blurbs[parseInt(btn.dataset.i)];
+        activateTab('documentos');
+        openDocChapter(b.obraKey, b.chapterIndex, { entityId: l.id, scrollToOcc: b.occ });
+      });
+    });
+
+    tabs.forEach(b=>b.classList.remove('active'));
+    document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
+    document.getElementById('view-lugar').classList.add('active');
+    if (window.scrollTo) window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  document.getElementById('lugar-back').addEventListener('click', () => {
+    const ctx = lugarBackCtx;
+    if (ctx && ctx.type === 'documentos') {
+      activateTab('documentos');
+      openDocChapter(ctx.obraKey, ctx.chapterIndex);
+    } else if (ctx && ctx.type === 'tab') {
+      activateTab(ctx.tab);
+    } else {
+      activateTab('lugares');
+    }
+  });
 
   /* ---------------- Personas ---------------- */
   let personasFilter = 'todas';
@@ -822,7 +891,7 @@
     const list = LUGARES.filter(l => lugaresFilter === 'todas' || l.obra === lugaresFilter);
     if (!list.length) { grid.innerHTML = '<div class="empty">Sin lugares para este filtro.</div>'; return; }
     grid.innerHTML = list.map(l => `
-      <div class="card" data-lugar-id="${l.id}" data-lugar-obra="${l.obra}">
+      <div class="card" data-lugar-id="${l.id}" data-lugar-obra="${l.obra}" style="cursor:pointer">
         <div class="chead"><span class="cname">${l.canonical_name}</span></div>
         <p class="crole">${l.modern_equivalent || ''}</p>
         <div class="cfoot">
@@ -831,6 +900,8 @@
         </div>
       </div>
     `).join('');
+    grid.querySelectorAll('.card').forEach(c =>
+      c.addEventListener('click', () => openLugar(c.dataset.lugarId, { type:'tab', tab:'lugares' })));
   }
   const lugaresFiltersEl = document.getElementById('lugares-filters');
   lugaresFiltersEl.innerHTML = ['todas','bernal-diaz','las-casas'].map(k =>
