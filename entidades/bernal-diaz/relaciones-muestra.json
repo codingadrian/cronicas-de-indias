@@ -17,7 +17,7 @@
     {"id": "person:juan-diaz-clerigo", "canonical_name": "Juan Díaz", "aliases": [], "role": "clérigo de la expedición de Grijalva (1518)", "status": "candidata", "capitulo": 8},
     {"id": "person:penalosa", "canonical_name": "Peñalosa", "aliases": [], "role": "veedor de la expedición de Grijalva (1518)", "status": "candidata", "capitulo": 8},
     {"id": "place:campeche", "canonical_name": "Campeche", "aliases": ["Lázaro", "San Lázaro"], "modern_equivalent": "Campeche, México", "status": "candidata", "capitulo": 3},
-    {"id": "place:potonchan", "canonical_name": "Potonchán", "aliases": ["Potonchan"], "modern_equivalent": "cerca de Champotón/Centla, Tabasco-Campeche", "status": "candidata", "capitulo": 3},
+    {"id": "place:potonchan", "canonical_name": "Potonchán", "aliases": ["Potonchan", "Champotón", "Champoton"], "modern_equivalent": "Champotón, Campeche, México", "status": "candidata", "capitulo": 3},
     {"id": "place:florida", "canonical_name": "Florida", "aliases": [], "modern_equivalent": "Florida, EE. UU.", "status": "candidata", "capitulo": 5},
     {"id": "place:habana", "canonical_name": "La Habana", "aliases": ["Habana", "Puerto de Carenas"], "modern_equivalent": "La Habana, Cuba", "status": "candidata", "capitulo": 6},
     {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": ["Yucatan"], "modern_equivalent": "península de Yucatán, México", "status": "candidata", "capitulo": 6},

@@ -219,14 +219,14 @@ se toca este código:
   el mismo patrón de lookaround.
 - **El `.txt` fuente viene con saltos de línea duros cada ~70 caracteres**
   (formato típico de Gutenberg/Archive.org) — son artefactos de ancho fijo,
-  no separadores de párrafo reales. `tagChapterHtml` los colapsa a un
-  espacio (usando `' '` como separador temporario antes de partir por
-  párrafo real, es decir por 2+ saltos de línea seguidos) antes de
-  etiquetar, y devuelve el capítulo ya envuelto en `<p>` por párrafo. Sin
-  este paso, `text-align:justify` en `.dr-body` estiraría cada línea de
-  ~70 caracteres del original hasta el ancho completo de la columna,
-  con espaciado carísimo entre palabras — el `white-space:pre-wrap` que
-  tenía antes el `.dr-body` ya no hace falta ni está.
+  no separadores de párrafo reales. `tagChapterHtml` primero marca los
+  saltos de párrafo reales (2+ saltos de línea seguidos) con un separador
+  temporal interno, colapsa el resto de los saltos de línea sueltos a un
+  espacio, y recién ahí etiqueta y envuelve cada párrafo en `<p>`. Sin este
+  paso, `text-align:justify` en `.dr-body` estiraría cada línea de ~70
+  caracteres del original hasta el ancho completo de la columna, con
+  espaciado carísimo entre palabras — el `white-space:pre-wrap` que tenía
+  antes el `.dr-body` ya no hace falta ni está.
 - Orden de las pasadas: primero años (`YEAR_RE`, 4 dígitos 1200-1599), después
   personas/lugares — en ese orden, para que los dígitos de `data-occ="N"`
   que se insertan después nunca puedan confundirse con un año de 4 cifras.
@@ -268,32 +268,50 @@ históricos no verificados por este corpus) y una lista de menciones
 de 20 (`CAP = 20` en `buildBlurbs`), no solo las primeras — así la muestra
 no queda toda en el primer capítulo.
 
-#### Fuente de referencia para comparar/inspirar biografías
+#### Fuentes de referencia para comparar/inspirar biografías y lugares
 
-https://historia-hispanica.rah.es/ — portal de la Real Academia de la
-Historia que expone el *Diccionario Biográfico electrónico* (DB-e,
-2018) y el *Atlas Cronológico de la Historia de España*: geoposiciona
-~150 000 referencias, con biografías firmadas por historiadores
-individuales (más de 5000 colaboradores). Cada ficha de persona sigue
-la estructura Biografía → Obras → Bibliografía → Autor/es → Relación
-con otros personajes (mencionados en esta biografía / biografías que
-citan a este personaje / personajes similares) → Eventos y ubicaciones.
-Ejemplo consultado: `historia-hispanica.rah.es/biografias/14401-bernal-diaz-del-castillo`
+**Personas** — https://historia-hispanica.rah.es/ — portal de la Real
+Academia de la Historia que expone el *Diccionario Biográfico
+electrónico* (DB-e, 2018) y el *Atlas Cronológico de la Historia de
+España*: geoposiciona ~150 000 referencias, con biografías firmadas por
+historiadores individuales (más de 5000 colaboradores). Cada ficha de
+persona sigue la estructura Biografía → Obras → Bibliografía → Autor/es
+→ Relación con otros personajes (mencionados en esta biografía /
+biografías que citan a este personaje / personajes similares) → Eventos
+y ubicaciones. Ejemplo consultado:
+`historia-hispanica.rah.es/biografias/14401-bernal-diaz-del-castillo`
 (es un SPA en Angular — el buscador en la barra superior lleva a la
 ficha).
 
-**Cómo usarlo:** como referencia para *comparar* (cotejar fechas, alias,
-rol, ambigüedades al canonizar personas en `entidades/<obra>/personas.json`)
-y como *modelo de estructura* de una biografía completa — no como fuente
-para copiar texto. Es contenido de autor con firma individual (con la
-"guarantee de calidad científica" que reclama el propio sitio), a
-diferencia de las crónicas de dominio público que arma este proyecto;
-no reproducir su prosa en `synthBio`/`personas.json`, que están pensados
-como retrato *solo a partir de la crónica*, no una biografía externa.
-Útil sobre todo al hacer la segunda revisión de entradas `"candidata"`
-(ver Pendientes) o al decidir qué tan completo debería verse el
-"retrato" del MVP si en algún momento se amplía más allá de rol +
-menciones.
+**Lugares** — Wikipedia en español (`es.wikipedia.org`) para identificar
+el equivalente moderno de un topónimo (ubicación/coordenadas actuales,
+municipio/estado, y a veces el origen del nombre o si se lo confunde con
+otro lugar). Ejemplo ya aplicado: `place:potonchan`
+(`entidades/bernal-diaz/lugares.json`) — Bernal Díaz usa "Potonchán" y
+"Champotón" para el mismo sitio; el artículo
+https://es.wikipedia.org/wiki/Champot%C3%B3n dio el equivalente moderno
+preciso (Champotón, Campeche, con coordenadas) y explicó por qué se
+confunde con una región de Tabasco también llamada Potonchán — se agregó
+"Champotón"/"Champoton" como alias de la misma entrada (no una entidad
+nueva) para que esas menciones también queden etiquetadas en el texto, y
+la fuente y la explicación quedaron citadas en el campo `notas`.
+
+**Cómo usarlo, en los dos casos:** como referencia para *comparar y
+verificar* (cotejar fechas, alias, identidad, equivalente moderno,
+ambigüedades al canonizar en `entidades/<obra>/personas.json` o
+`lugares.json`) y, para personas, también como *modelo de estructura* de
+una biografía completa — **nunca como fuente para copiar texto**. Es
+contenido con su propia autoría (firma individual en el caso de
+historia-hispanica.rah.es; licencia CC BY-SA en el caso de Wikipedia), a
+diferencia de las crónicas de dominio público que arma este proyecto.
+**Las descripciones que se muestran en el MVP (`synthBio`/`synthBioLugar`)
+tienen que seguir siendo chicas y basadas solo en la crónica** — un
+"retrato"/"descripción" de pocas líneas, no una biografía o nota
+geográfica externa (por eso el disclaimer debajo de cada una); estas
+fuentes externas informan campos de identificación como
+`modern_equivalent`, `aliases` o `notas` en los JSON, no el texto
+sintetizado que ve el usuario. Útil sobre todo al hacer la segunda
+revisión de entradas `"candidata"` (ver Pendientes).
 
 ### Testing
 
