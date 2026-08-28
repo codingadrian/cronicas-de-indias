@@ -242,16 +242,6 @@
   .status-dot.candidata{ background:var(--accent-2); }
   .cat-dot{ display:inline-block; width:9px; height:9px; border-radius:50%; margin-right:0.4rem; }
 
-  /* ---------- Map ---------- */
-  .map-wrap{ background:var(--surface); border:1px solid var(--line); margin-bottom:1.2rem; overflow:hidden; }
-  .map-wrap svg{ display:block; width:100%; height:auto; }
-  .map-grat{ stroke:var(--line); stroke-width:0.5; }
-  .map-label{ font-family:'Space Mono',monospace; font-size:9px; fill:var(--ink-faint); letter-spacing:0.04em; text-transform:uppercase; }
-  .map-point{ cursor:pointer; }
-  .map-point circle{ stroke:var(--surface); stroke-width:1.5px; }
-  .map-point text{ font-family:'Spectral', serif; font-size:10.5px; fill:var(--ink); pointer-events:none; }
-  .map-point.aprox circle{ stroke-dasharray:2 1.5; }
-
   .tooltip{
     position:fixed; z-index:60; background:var(--ink); color:var(--bg);
     font-family:'Space Mono',monospace; font-size:0.72rem; padding:0.4rem 0.6rem;
@@ -342,7 +332,6 @@
 
   <section class="view" id="view-lugares">
     <div class="filters" id="lugares-filters"></div>
-    <div class="map-wrap" id="map-wrap"></div>
     <div class="grid" id="lugares-grid"></div>
   </section>
 
@@ -450,7 +439,6 @@
     document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
     document.getElementById('view-' + view).classList.add('active');
     if (view === 'red' && !graphInited) initGraph();
-    if (view === 'lugares' && !mapInited) initMap();
   }
   tabs.forEach(btn => btn.addEventListener('click', () => activateTab(btn.dataset.view)));
   document.getElementById('brand-home').addEventListener('click', () => activateTab('documentos'));
@@ -911,69 +899,7 @@
     c.classList.add('active');
     lugaresFilter = c.dataset.k;
     renderLugares();
-    drawMap();
   }));
-
-  let mapInited = false;
-  const MAP_W = 720, MAP_H = 460;
-  function project(lat, lon){
-    // simple equirectangular window over the Atlantic/Caribbean/Iberia extent
-    const lonMin = -105, lonMax = 5, latMin = 5, latMax = 43;
-    const x = (lon - lonMin) / (lonMax - lonMin) * MAP_W;
-    const y = MAP_H - (lat - latMin) / (latMax - latMin) * MAP_H;
-    return [x, y];
-  }
-  function initMap(){
-    mapInited = true;
-    const wrap = document.getElementById('map-wrap');
-    let grat = '';
-    for (let lon=-100; lon<=0; lon+=20){
-      const [x1,y1] = project(5, lon), [x2,y2] = project(43, lon);
-      grat += `<line class="map-grat" x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}"/>`;
-    }
-    for (let lat=10; lat<=40; lat+=10){
-      const [x1,y1] = project(lat, -105), [x2,y2] = project(lat, 5);
-      grat += `<line class="map-grat" x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}"/>`;
-      grat += `<text class="map-label" x="4" y="${y1-3}">${lat}°N</text>`;
-    }
-    const regionLabels = [
-      {lat:20, lon:-90, t:'NUEVA ESPAÑA / CARIBE'},
-      {lat:38, lon:-3, t:'CASTILLA'},
-      {lat:9, lon:-60, t:'TIERRA FIRME'},
-    ];
-    let regions = regionLabels.map(r => {
-      const [x,y] = project(r.lat, r.lon);
-      return `<text class="map-label" x="${x}" y="${y}" opacity="0.5" font-size="11">${r.t}</text>`;
-    }).join('');
-    wrap.innerHTML = `<svg viewBox="0 0 ${MAP_W} ${MAP_H}" id="map-svg">${grat}${regions}</svg>`;
-    drawMap();
-  }
-  function drawMap(){
-    if (!mapInited) return;
-    const svg = document.getElementById('map-svg');
-    svg.querySelectorAll('.map-point').forEach(n=>n.remove());
-    const list = LUGARES.filter(l => l.lat !== undefined && (lugaresFilter==='todas' || l.obra===lugaresFilter));
-    list.forEach(l => {
-      const [x,y] = project(l.lat, l.lon);
-      const g = document.createElementNS('http://www.w3.org/2000/svg','g');
-      g.setAttribute('class','map-point' + (l.aproximado ? ' aprox' : ''));
-      g.setAttribute('transform', `translate(${x},${y})`);
-      g.innerHTML = `<circle r="4.5" fill="var(--cat-lugar)"/>`;
-      g.addEventListener('mousemove', (e) => showTip(e.clientX, e.clientY,
-        `<b>${l.canonical_name}</b><br>${l.modern_equivalent||''}${l.aproximado?'<br>(ubicación aproximada)':''}`));
-      g.addEventListener('mouseleave', hideTip);
-      svg.appendChild(g);
-    });
-    // direct labels for a readable subset (avoid overlap clutter): label all, CSS keeps them small
-    list.forEach(l => {
-      const [x,y] = project(l.lat, l.lon);
-      const t = document.createElementNS('http://www.w3.org/2000/svg','text');
-      t.setAttribute('x', x+7); t.setAttribute('y', y+3);
-      t.setAttribute('class','map-label'); t.setAttribute('font-size','8.5');
-      t.textContent = l.canonical_name;
-      svg.appendChild(t);
-    });
-  }
   renderLugares();
 
   /* ---------------- Cronología ---------------- */
