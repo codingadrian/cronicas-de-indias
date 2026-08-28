@@ -1,0 +1,53 @@
+{
+  "nota": "Relaciones extraídas a mano de los primeros 3 de 10 documentos (capítulos 0-2 del MVP): Carta a Luis de Santángel + Carta a Rafael Sánchez + Memorial a Antonio de Torres (los tres agrupados bajo el capítulo 0, 'Carta a Luis de Santángel sobre el primer viaje'), Instrucción a Mosén Pedro Margarit (capítulo 1), y Carta a los Reyes dando cuenta del segundo viaje (capítulo 2). Estado: candidata (pendiente de una segunda revisión). El texto de esta obra tiene ruido de OCR sin corregir palabra por palabra (ver METADATA.md) — algunos nombres propios menores no se canonizaron por no poder confirmar su lectura exacta (ej. 'Clorbalán', posible OCR de 'Gorbalán').",
+  "entidades_nuevas": [
+    {"id": "person:cristobal-colon", "canonical_name": "Cristóbal Colón", "aliases": ["el Almirante", "D. Cristóbal Colón"], "role": "autor/narrador", "status": "candidata", "capitulo": 0},
+    {"id": "person:luis-de-santangel", "canonical_name": "Luis de Santángel", "aliases": ["D. Luis de Santangel"], "role": "Escribano de Ración", "status": "candidata", "capitulo": 0},
+    {"id": "person:rafael-sanchez", "canonical_name": "Rafael Sánchez", "aliases": ["Gabriel Sánchez"], "role": "Tesorero de los Reyes Católicos", "status": "candidata", "capitulo": 0},
+    {"id": "person:antonio-de-torres", "canonical_name": "Antonio de Torres", "aliases": [], "role": "capitán de la nao Marigalante, alcaide de Isabela", "status": "candidata", "capitulo": 0},
+    {"id": "person:juan-rodriguez-de-fonseca", "canonical_name": "D. Juan de Fonseca", "aliases": ["Juan de Fonseca"], "role": "funcionario real", "status": "candidata", "capitulo": 0},
+    {"id": "person:doctor-chanca", "canonical_name": "Doctor Chanca", "aliases": [], "role": "médico de la expedición", "status": "candidata", "capitulo": 0},
+    {"id": "person:cacique-caonabo", "canonical_name": "Caonabó", "aliases": ["Cahonaboa", "Calionaboa"], "role": "cacique de Cambao/Maguana", "status": "candidata", "capitulo": 0},
+    {"id": "person:alonso-de-ojeda", "canonical_name": "Alonso de Ojeda", "aliases": ["Hojeda"], "role": "explorador, criado del Duque de Medinaceli", "status": "candidata", "capitulo": 0},
+    {"id": "person:pedro-margarite", "canonical_name": "Mosén Pedro Margarite", "aliases": ["Mosen Pedro Margarit"], "role": "encargado de reconocer La Española y negociar con Caonabó", "status": "candidata", "capitulo": 1},
+    {"id": "place:la-espanola", "canonical_name": "La Española", "aliases": ["Española", "isla Española"], "modern_equivalent": "República Dominicana y Haití", "status": "candidata", "capitulo": 0},
+    {"id": "place:ciudad-isabela", "canonical_name": "Ciudad Isabela", "aliases": ["la Isabela"], "modern_equivalent": "La Isabela, Puerto Plata, Rep. Dominicana", "status": "candidata", "capitulo": 0},
+    {"id": "place:cuba", "canonical_name": "Cuba", "aliases": ["la Juana", "Juana"], "modern_equivalent": "Cuba", "status": "candidata", "capitulo": 0},
+    {"id": "place:san-salvador", "canonical_name": "San Salvador", "aliases": ["Guanahaní", "Guanahanin"], "modern_equivalent": "posiblemente Watling, Bahamas", "status": "candidata", "capitulo": 0},
+    {"id": "place:jamaica", "canonical_name": "Jamaica", "aliases": [], "modern_equivalent": "Jamaica", "status": "candidata", "capitulo": 2},
+    {"id": "place:cambao", "canonical_name": "Cambao", "aliases": ["Cibao"], "modern_equivalent": "región del Cibao, Rep. Dominicana", "status": "candidata", "capitulo": 1},
+    {"id": "place:cadiz", "canonical_name": "Cádiz", "aliases": [], "modern_equivalent": "Cádiz, España", "status": "candidata", "capitulo": 2},
+    {"id": "place:isla-de-la-mona", "canonical_name": "Isla de la Mona", "aliases": ["la Mona"], "modern_equivalent": "Isla de Mona, Puerto Rico", "status": "candidata", "capitulo": 2},
+    {"id": "place:isla-de-san-juan", "canonical_name": "Isla de San Juan", "aliases": ["isla de Sant Juan"], "modern_equivalent": "Puerto Rico", "status": "candidata", "capitulo": 2},
+    {"id": "place:jardin-de-la-reina", "canonical_name": "El Jardín de la Reina", "aliases": [], "modern_equivalent": "Jardines de la Reina, Cuba", "status": "candidata", "capitulo": 2}
+  ],
+  "eventos": [
+    {"id": "event:primer-viaje-descubrimiento", "name": "Primer viaje de descubrimiento de Colón (1492-1493)", "date_text": "1492-1493", "place_id": "place:san-salvador", "status": "candidata", "notas": "objeto de las cartas a Santángel y a Rafael Sánchez"},
+    {"id": "event:fundacion-ciudad-isabela", "name": "Fundación de la ciudad Isabela", "date_text": "1494 (segundo viaje)", "place_id": "place:ciudad-isabela", "status": "candidata"},
+    {"id": "event:plan-captura-caonabo", "name": "Plan para capturar al cacique Caonabó", "date_text": "1494", "place_id": "place:cambao", "status": "candidata", "notas": "instrucción de Colón a Margarite: ganarse su confianza con regalos y mensajeros antes de apresarlo"},
+    {"id": "event:enfermedad-colon-1494", "name": "Enfermedad de Colón al regreso de explorar Cuba y Jamaica", "date_text": "1494, llegó a Isabela el 29 de septiembre", "place_id": "place:isla-de-la-mona", "status": "candidata", "notas": "referido por Las Casas (Historia de las Indias, cap. CXIX), no por el propio Colón en este documento"}
+  ],
+  "relaciones": [
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:san-salvador", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:cuba", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:la-espanola", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:primer-viaje-descubrimiento", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "event:primer-viaje-descubrimiento", "relation": "ocurrió_en", "to": "place:san-salvador", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:luis-de-santangel", "relation": "estuvo_presente_en", "to": "event:primer-viaje-descubrimiento", "notas": "destinatario de la carta que anuncia el descubrimiento", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:rafael-sanchez", "relation": "estuvo_presente_en", "to": "event:primer-viaje-descubrimiento", "notas": "destinatario de una carta paralela", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:fundacion-ciudad-isabela", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "event:fundacion-ciudad-isabela", "relation": "ocurrió_en", "to": "place:ciudad-isabela", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:antonio-de-torres", "relation": "viajó_a", "to": "place:cadiz", "notas": "llevó el Memorial de Colón a los Reyes; capitán de la nao Marigalante", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:antonio-de-torres", "relation": "estuvo_presente_en", "to": "event:fundacion-ciudad-isabela", "notas": "alcaide de la ciudad Isabela", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:juan-rodriguez-de-fonseca", "relation": "estuvo_presente_en", "to": "event:fundacion-ciudad-isabela", "notas": "encargado de proveer y despachar recursos desde Castilla", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:doctor-chanca", "relation": "viajó_a", "to": "place:ciudad-isabela", "notas": "médico de la expedición, atendía a los enfermos", "source": "source:colon-cartas:cap-0", "status": "candidata"},
+    {"from": "person:alonso-de-ojeda", "relation": "viajó_a", "to": "place:cambao", "notas": "entregó gente a Margarite para la expedición al interior de La Española", "source": "source:colon-cartas:cap-1", "status": "candidata"},
+    {"from": "person:pedro-margarite", "relation": "viajó_a", "to": "place:cambao", "source": "source:colon-cartas:cap-1", "status": "candidata"},
+    {"from": "person:pedro-margarite", "relation": "estuvo_presente_en", "to": "event:plan-captura-caonabo", "notas": "recibió instrucción directa de Colón para negociar y, si convenía, apresar a Caonabó", "source": "source:colon-cartas:cap-1", "status": "candidata"},
+    {"from": "person:cacique-caonabo", "relation": "estuvo_presente_en", "to": "event:plan-captura-caonabo", "source": "source:colon-cartas:cap-1", "status": "candidata"},
+    {"from": "event:plan-captura-caonabo", "relation": "ocurrió_en", "to": "place:cambao", "source": "source:colon-cartas:cap-1", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:jamaica", "source": "source:colon-cartas:cap-2", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:enfermedad-colon-1494", "source": "source:colon-cartas:cap-2", "status": "candidata"},
+    {"from": "event:enfermedad-colon-1494", "relation": "ocurrió_en", "to": "place:isla-de-la-mona", "source": "source:colon-cartas:cap-2", "status": "candidata"}
+  ]
+}

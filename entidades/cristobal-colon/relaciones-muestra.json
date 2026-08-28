@@ -1,0 +1,40 @@
+{
+  "nota": "Relaciones extraídas a mano, entrada por entrada. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Proemio del Almirante + las primeras 20 entradas por día (3 de agosto al 18 de septiembre de 1492, de un total de 191). Los capítulos citan el índice del JSON embebido del MVP: cap-0 = Proemio, cap-1..cap-20 = las 20 primeras entradas por día en orden.",
+  "entidades_nuevas": [
+    {"id": "person:cristobal-colon", "canonical_name": "Cristóbal Colón (el Almirante)", "role": "almirante, autor y sujeto del diario", "status": "candidata", "capitulo": 0},
+    {"id": "place:granada", "canonical_name": "Granada", "status": "candidata", "capitulo": 0},
+    {"id": "place:palos", "canonical_name": "Palos", "status": "candidata", "capitulo": 0},
+    {"id": "place:saltes", "canonical_name": "Barra de Saltés", "status": "candidata", "capitulo": 1},
+    {"id": "place:islas-canarias", "canonical_name": "Islas Canarias", "status": "candidata", "capitulo": 0},
+    {"id": "person:martin-alonso-pinzon", "canonical_name": "Martín Alonso Pinzón", "role": "capitán de la carabela Pinta", "status": "candidata", "capitulo": 4},
+    {"id": "person:gomez-rascon", "canonical_name": "Gómez Rascón", "role": "dueño de la Pinta, sospechado de sabotaje", "status": "candidata", "capitulo": 4},
+    {"id": "person:cristobal-quintero", "canonical_name": "Cristóbal Quintero", "role": "dueño de la Pinta, sospechado de sabotaje", "status": "candidata", "capitulo": 4},
+    {"id": "place:lanzarote", "canonical_name": "Lanzarote", "status": "candidata", "capitulo": 5},
+    {"id": "place:gran-canaria", "canonical_name": "Gran Canaria", "status": "candidata", "capitulo": 6},
+    {"id": "place:gomera", "canonical_name": "La Gomera", "status": "candidata", "capitulo": 7},
+    {"id": "place:tenerife", "canonical_name": "Tenerife", "status": "candidata", "capitulo": 7},
+    {"id": "place:hierro", "canonical_name": "Isla del Hierro", "status": "candidata", "capitulo": 7},
+    {"id": "person:ines-peraza", "canonical_name": "Doña Inés Peraza", "role": "señora de La Gomera", "status": "candidata", "capitulo": 7},
+    {"id": "place:madera", "canonical_name": "Isla de Madera", "status": "candidata", "capitulo": 7},
+    {"id": "place:azores", "canonical_name": "Islas de los Azores", "status": "candidata", "capitulo": 7}
+  ],
+  "eventos": [
+    {"id": "event:primer-viaje-colon-1492", "name": "Primer viaje de descubrimiento de Cristóbal Colón", "date_text": "3 de agosto de 1492 (partida de Palos)", "place_id": "place:saltes", "status": "candidata", "notas": "evento general que enmarca todo el diario; se referencia en varias entradas iniciales"},
+    {"id": "event:averia-timon-pinta", "name": "Avería y sospecha de sabotaje del timón de la carabela Pinta", "date_text": "6-9 de agosto de 1492", "place_id": "place:gran-canaria", "status": "candidata", "notas": "el timón se desencaja poco después de zarpar; Colón sospecha que Gómez Rascón y Cristóbal Quintero (dueños de la nave) lo hicieron a propósito por no querer viajar; se repara en Gran Canaria y la flota vuelve a reunirse en La Gomera"}
+  ],
+  "relaciones": [
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:granada", "notas": "punto de partida antes de ir a Palos, según el propio proemio", "source": "source:cristobal-colon:cap-0", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:palos", "source": "source:cristobal-colon:cap-0", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:primer-viaje-colon-1492", "notas": "capitán general de la armada", "source": "source:cristobal-colon:cap-1", "status": "candidata"},
+    {"from": "event:primer-viaje-colon-1492", "relation": "ocurrió_en", "to": "place:saltes", "source": "source:cristobal-colon:cap-1", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:islas-canarias", "notas": "destino declarado de la primera etapa del viaje", "source": "source:cristobal-colon:cap-1", "status": "candidata"},
+    {"from": "person:martin-alonso-pinzon", "relation": "estuvo_presente_en", "to": "event:averia-timon-pinta", "notas": "capitán de la nave averiada", "source": "source:cristobal-colon:cap-4", "status": "candidata"},
+    {"from": "person:gomez-rascon", "relation": "estuvo_presente_en", "to": "event:averia-timon-pinta", "notas": "sospechado de haber saboteado el timón por no querer hacer el viaje", "source": "source:cristobal-colon:cap-4", "status": "candidata"},
+    {"from": "person:cristobal-quintero", "relation": "estuvo_presente_en", "to": "event:averia-timon-pinta", "notas": "sospechado junto con Gómez Rascón", "source": "source:cristobal-colon:cap-4", "status": "candidata"},
+    {"from": "person:martin-alonso-pinzon", "relation": "viajó_a", "to": "place:lanzarote", "notas": "buscando isla donde conseguir otra carabela para reemplazar la Pinta", "source": "source:cristobal-colon:cap-5", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:gran-canaria", "source": "source:cristobal-colon:cap-6", "status": "candidata"},
+    {"from": "event:averia-timon-pinta", "relation": "ocurrió_en", "to": "place:gran-canaria", "notas": "ahí se reparó definitivamente el timón de la Pinta", "source": "source:cristobal-colon:cap-7", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:gomera", "source": "source:cristobal-colon:cap-7", "status": "candidata"},
+    {"from": "person:ines-peraza", "relation": "estuvo_presente_en", "to": "event:primer-viaje-colon-1492", "notas": "no viaja, pero es la fuente del testimonio (recogido por el Almirante en La Gomera) de vecinos que decían ver tierra al oeste de Canarias todos los años", "source": "source:cristobal-colon:cap-7", "status": "candidata"}
+  ]
+}

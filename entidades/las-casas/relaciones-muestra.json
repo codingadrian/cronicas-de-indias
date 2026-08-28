@@ -1,24 +1,87 @@
 {
-  "nota": "Muestra de relaciones extraídas a mano del Capítulo 1 (Capítulo LXXXIII de la obra completa), para validar el esquema. Estado: candidata (pendiente de una segunda revisión).",
-  "entidades_nuevas_del_capitulo": [
-    {"id": "person:pedro-de-ayala", "canonical_name": "D. Pedro de Ayala", "aliases": [], "role": "embajador de los Reyes Católicos ante Portugal", "status": "candidata"},
-    {"id": "person:garcia-de-carbajal", "canonical_name": "D. García de Carbajal", "aliases": [], "role": "embajador, hermano del Cardenal de Santa Cruz", "status": "candidata"},
-    {"id": "person:juan-de-la-parra", "canonical_name": "Juan de la Parra", "aliases": [], "role": "secretario de la Reina", "status": "candidata"},
-    {"id": "person:rey-de-portugal", "canonical_name": "Rey de Portugal (sin nombrar)", "aliases": ["el rey de Portugal"], "role": "monarca de Portugal", "status": "candidata", "notas": "no se nombra en el capítulo; sería Juan II de Portugal por la fecha (1493)"},
-    {"id": "place:barcelona", "canonical_name": "Barcelona", "aliases": [], "modern_equivalent": "Barcelona, España", "status": "candidata"},
-    {"id": "place:portugal", "canonical_name": "Portugal", "aliases": [], "modern_equivalent": "Portugal", "status": "candidata"}
+  "nota": "Relaciones extraídas a mano, capítulo por capítulo. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Capítulos 1-11 (quedan 86 capítulos sin procesar).",
+  "entidades_nuevas": [
+    {"id": "person:pedro-de-ayala", "canonical_name": "D. Pedro de Ayala", "aliases": [], "role": "embajador de los Reyes Católicos ante Portugal", "status": "candidata", "capitulo": 1},
+    {"id": "person:garcia-de-carbajal", "canonical_name": "D. García de Carbajal", "aliases": [], "role": "embajador, hermano del Cardenal de Santa Cruz", "status": "candidata", "capitulo": 1},
+    {"id": "person:juan-de-la-parra", "canonical_name": "Juan de la Parra", "aliases": [], "role": "secretario de la Reina", "status": "candidata", "capitulo": 1},
+    {"id": "person:rey-de-portugal", "canonical_name": "D. Juan II de Portugal", "aliases": ["el rey de Portugal", "Rey de Portugal"], "role": "rey de Portugal", "status": "candidata", "capitulo": 1, "notas": "no nombrado por su nombre en el Capítulo 1; el Capítulo 5 lo nombra explícitamente, confirmando la conjetura original"},
+    {"id": "place:barcelona", "canonical_name": "Barcelona", "aliases": [], "modern_equivalent": "Barcelona, España", "status": "candidata", "capitulo": 1},
+    {"id": "place:portugal", "canonical_name": "Portugal", "aliases": [], "modern_equivalent": "Portugal", "status": "candidata", "capitulo": 1},
+    {"id": "place:dominica", "canonical_name": "la Dominica", "aliases": ["Dominica"], "modern_equivalent": "Dominica", "status": "candidata", "capitulo": 2},
+    {"id": "place:guadalupe", "canonical_name": "Guadalupe", "aliases": [], "modern_equivalent": "Guadalupe (Antillas Menores)", "status": "candidata", "capitulo": 2},
+    {"id": "person:diego-marquez", "canonical_name": "Diego Márquez", "aliases": [], "role": "veedor, capitán de un navío; se perdió en Guadalupe con 8 hombres", "status": "candidata", "capitulo": 2},
+    {"id": "place:san-juan-boriquen", "canonical_name": "San Juan Bautista (Boriquén)", "aliases": ["Sant Juan Baptista", "Boriquen", "Sant Juan"], "modern_equivalent": "Puerto Rico", "status": "candidata", "capitulo": 2},
+    {"id": "place:la-navidad", "canonical_name": "La Navidad (fuerte y puerto)", "aliases": ["Navidad"], "modern_equivalent": "cerca de Cap-Haïtien, Haití", "status": "candidata", "capitulo": 3},
+    {"id": "person:guacanagari", "canonical_name": "Guacanagarí", "aliases": [], "role": "cacique de Marién, aliado de Colón", "status": "candidata", "capitulo": 3},
+    {"id": "person:caonabo", "canonical_name": "Caonabo", "aliases": ["Canabo"], "role": "cacique de Maguana; mató a los cristianos de La Navidad", "status": "candidata", "capitulo": 4},
+    {"id": "person:diego-de-arana", "canonical_name": "Diego de Arana", "aliases": [], "role": "capitán dejado a cargo del fuerte de la Navidad; muerto allí", "status": "candidata", "capitulo": 4},
+    {"id": "person:fray-buil", "canonical_name": "Fray Buil", "aliases": [], "role": "fraile benedictino, legado apostólico del segundo viaje; opositor de Colón", "status": "candidata", "capitulo": 4},
+    {"id": "place:maguana", "canonical_name": "Maguana", "aliases": [], "modern_equivalent": "región central de La Española (actual San Juan de la Maguana, República Dominicana)", "status": "candidata", "capitulo": 4},
+    {"id": "place:simancas", "canonical_name": "Simancas", "aliases": [], "modern_equivalent": "Simancas, España", "status": "candidata", "capitulo": 5},
+    {"id": "place:cibao", "canonical_name": "Cibao", "aliases": [], "modern_equivalent": "región de Cibao, República Dominicana", "status": "candidata", "capitulo": 7},
+    {"id": "person:bernal-de-pisa", "canonical_name": "Bernal de Pisa", "aliases": [], "role": "contador de la isla; encabezó la primera rebelión contra Colón en las Indias", "status": "candidata", "capitulo": 8}
   ],
   "eventos": [
     {"id": "event:carta-reina-colon-1493-09-05", "name": "Carta de la Reina Isabel a Cristóbal Colón", "date_text": "5 de septiembre de (14)93, Barcelona", "date_normalized": "1493-09-05", "place_id": "place:barcelona", "status": "candidata", "notas": "prepara el segundo viaje de Colón"},
-    {"id": "event:embajada-portugal-negociacion", "name": "Embajada de negociación con Portugal sobre el reparto de tierras descubiertas", "date_text": "no especificada, previa a septiembre de 1493", "place_id": null, "status": "candidata"}
+    {"id": "event:embajada-portugal-negociacion", "name": "Embajada de negociación con Portugal sobre el reparto de tierras descubiertas", "date_text": "no especificada, previa a septiembre de 1493", "place_id": null, "status": "candidata"},
+    {"id": "event:segundo-viaje-colon-1493", "name": "Segundo viaje de Cristóbal Colón", "date_text": "salida de Cádiz, 25 de septiembre de 1493; primer avistamiento de tierra el 3 de noviembre de 1493", "date_normalized": "1493-11-03", "place_id": "place:dominica", "status": "candidata", "notas": "evento paraguas del viaje completo narrado en los capítulos 2 en adelante"},
+    {"id": "event:destruccion-fuerte-navidad", "name": "Descubrimiento de la destrucción del fuerte de la Navidad", "date_text": "27-28 de noviembre de 1493", "place_id": "place:la-navidad", "status": "candidata", "notas": "los 39 cristianos dejados en el primer viaje fueron muertos por Caonabo tras disputas internas; el fuerte fue quemado. Guacanagarí, cacique aliado, salió herido defendiéndolos"},
+    {"id": "event:fundacion-la-isabela", "name": "Fundación de La Isabela", "date_text": "diciembre de 1493 / enero de 1494", "place_id": "place:la-isabela", "status": "candidata", "notas": "primera población española fundada en las Indias, nombrada en honor a la reina Isabel"},
+    {"id": "event:expedicion-hojeda-cibao-1494", "name": "Expedición de reconocimiento de Alonso de Hojeda a Cibao", "date_text": "enero de 1494", "place_id": "place:cibao", "status": "candidata", "notas": "15 hombres; confirmó la existencia de oro en Cibao"},
+    {"id": "event:tratado-simancas-1494", "name": "Acuerdo de límites de Simancas", "date_text": "20 de junio de 1494", "date_normalized": "1494-06-20", "place_id": "place:simancas", "status": "candidata", "notas": "precursor del reparto de Tordesillas entre Castilla y Portugal; narrado por Las Casas fuera de orden cronológico, como paréntesis"},
+    {"id": "event:rebelion-bernal-de-pisa-1494", "name": "Rebelión de Bernal de Pisa", "date_text": "marzo de 1494", "place_id": "place:la-isabela", "status": "candidata", "notas": "primera rebelión en las Indias; intento de robar navíos para volver a Castilla, descubierto y castigado por Colón"},
+    {"id": "event:expedicion-colon-cibao-1494", "name": "Expedición del Almirante a Cibao y fundación del fuerte de Santo Tomás", "date_text": "12-21 de marzo de 1494", "place_id": "place:cibao", "status": "candidata", "notas": "Colón deja a Diego Colón (su hermano) gobernando La Isabela; funda la fortaleza de Santo Tomás y deja a Pedro Margarite al mando"},
+    {"id": "event:primera-injusticia-hojeda-1494", "name": "Prisión y condena de un cacique sin nombrar cerca del Río del Oro", "date_text": "9 de abril de 1494", "date_normalized": "1494-04-09", "place_id": null, "status": "candidata", "notas": "Las Casas la señala como 'la primera injusticia... que se cometió en estas Indias contra los indios' — Hojeda prendió a un cacique, su hermano y sobrino sin proceso, y mandó cortar las orejas a un vasallo suyo; el cacique no se nombra en el texto"}
   ],
   "relaciones": [
-    {"from": "person:reyes-catolicos", "relation": "cited_in", "to": "source:las-casas:cap-1", "notas": "escriben y reciben correspondencia con Colón", "source": "source:las-casas:cap-1", "status": "candidata"},
-    {"from": "person:cristobal-colon", "relation": "cited_in", "to": "source:las-casas:cap-1", "notas": "destinatario de la carta de la Reina; se dirige a él como 'Almirante del mar Océano, Visorey é Gobernador de las islas'", "source": "source:las-casas:cap-1", "status": "candidata"},
-    {"from": "person:pedro-de-ayala", "relation": "present_at", "to": "event:embajada-portugal-negociacion", "source": "source:las-casas:cap-1", "status": "candidata"},
-    {"from": "person:garcia-de-carbajal", "relation": "present_at", "to": "event:embajada-portugal-negociacion", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "person:reyes-catolicos", "relation": "estuvo_presente_en", "to": "event:carta-reina-colon-1493-09-05", "notas": "remitente de la carta", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:carta-reina-colon-1493-09-05", "notas": "destinatario de la carta; se dirige a él como 'Almirante del mar Océano, Visorey é Gobernador de las islas'", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "person:pedro-de-ayala", "relation": "estuvo_presente_en", "to": "event:embajada-portugal-negociacion", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "person:garcia-de-carbajal", "relation": "estuvo_presente_en", "to": "event:embajada-portugal-negociacion", "source": "source:las-casas:cap-1", "status": "candidata"},
     {"from": "event:embajada-portugal-negociacion", "relation": "ocurrió_en", "to": "place:portugal", "source": "source:las-casas:cap-1", "status": "candidata"},
     {"from": "event:carta-reina-colon-1493-09-05", "relation": "ocurrió_en", "to": "place:barcelona", "source": "source:las-casas:cap-1", "status": "candidata"},
-    {"from": "person:juan-de-la-parra", "relation": "present_at", "to": "event:carta-reina-colon-1493-09-05", "notas": "firma 'por mandado de la Reina'", "source": "source:las-casas:cap-1", "status": "candidata"}
+    {"from": "person:juan-de-la-parra", "relation": "estuvo_presente_en", "to": "event:carta-reina-colon-1493-09-05", "notas": "firma 'por mandado de la Reina'", "source": "source:las-casas:cap-1", "status": "candidata"},
+
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:segundo-viaje-colon-1493", "notas": "capitán general de la armada", "source": "source:las-casas:cap-2", "status": "candidata"},
+    {"from": "event:segundo-viaje-colon-1493", "relation": "ocurrió_en", "to": "place:dominica", "source": "source:las-casas:cap-2", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:guadalupe", "source": "source:las-casas:cap-2", "status": "candidata"},
+    {"from": "person:diego-marquez", "relation": "viajó_a", "to": "place:guadalupe", "notas": "se perdió en tierra con 8 hombres sin licencia del Almirante", "source": "source:las-casas:cap-2", "status": "candidata"},
+    {"from": "person:alonso-de-ojeda", "relation": "estuvo_presente_en", "to": "event:segundo-viaje-colon-1493", "notas": "capitán de una carabela", "source": "source:las-casas:cap-2", "status": "candidata"},
+
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:san-juan-boriquen", "source": "source:las-casas:cap-3", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:la-navidad", "source": "source:las-casas:cap-3", "status": "candidata"},
+    {"from": "person:guacanagari", "relation": "aliado_de", "to": "person:cristobal-colon", "source": "source:las-casas:cap-3", "status": "candidata"},
+
+    {"from": "event:destruccion-fuerte-navidad", "relation": "ocurrió_en", "to": "place:la-navidad", "source": "source:las-casas:cap-4", "status": "candidata"},
+    {"from": "person:diego-de-arana", "relation": "estuvo_presente_en", "to": "event:destruccion-fuerte-navidad", "notas": "capitán a cargo del fuerte; murió allí", "source": "source:las-casas:cap-4", "status": "candidata"},
+    {"from": "person:caonabo", "relation": "estuvo_presente_en", "to": "event:destruccion-fuerte-navidad", "notas": "mató a los cristianos y quemó el fuerte", "source": "source:las-casas:cap-4", "status": "candidata"},
+    {"from": "person:caonabo", "relation": "enfrentado_a", "to": "person:guacanagari", "notas": "Guacanagarí salió a pelear con él en defensa de los cristianos y quedó herido", "source": "source:las-casas:cap-4", "status": "candidata"},
+    {"from": "person:caonabo", "relation": "aliado_de", "to": "place:maguana", "notas": "señor y rey de la Maguana", "source": "source:las-casas:cap-4", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:destruccion-fuerte-navidad", "notas": "descubre la destrucción del fuerte y visita a Guacanagarí, herido", "source": "source:las-casas:cap-4", "status": "candidata"},
+    {"from": "person:fray-buil", "relation": "estuvo_presente_en", "to": "event:segundo-viaje-colon-1493", "notas": "legado apostólico; quiso que Colón apresara a Guacanagarí, pero el Almirante no lo hizo", "source": "source:las-casas:cap-4", "status": "candidata"},
+
+    {"from": "event:tratado-simancas-1494", "relation": "ocurrió_en", "to": "place:simancas", "source": "source:las-casas:cap-5", "status": "candidata"},
+    {"from": "person:rey-de-portugal", "relation": "estuvo_presente_en", "to": "event:tratado-simancas-1494", "source": "source:las-casas:cap-5", "status": "candidata"},
+    {"from": "person:reyes-catolicos", "relation": "estuvo_presente_en", "to": "event:tratado-simancas-1494", "source": "source:las-casas:cap-5", "status": "candidata"},
+
+    {"from": "event:fundacion-la-isabela", "relation": "ocurrió_en", "to": "place:la-isabela", "source": "source:las-casas:cap-6", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:fundacion-la-isabela", "source": "source:las-casas:cap-6", "status": "candidata"},
+
+    {"from": "person:alonso-de-ojeda", "relation": "estuvo_presente_en", "to": "event:expedicion-hojeda-cibao-1494", "notas": "encabezó la expedición de 15 hombres", "source": "source:las-casas:cap-7", "status": "candidata"},
+    {"from": "event:expedicion-hojeda-cibao-1494", "relation": "ocurrió_en", "to": "place:cibao", "source": "source:las-casas:cap-7", "status": "candidata"},
+    {"from": "person:antonio-de-torres", "relation": "viajó_a", "to": "place:castilla", "notas": "enviado con 12 navíos y las muestras de oro para los Reyes", "source": "source:las-casas:cap-7", "status": "candidata"},
+
+    {"from": "person:bernal-de-pisa", "relation": "estuvo_presente_en", "to": "event:rebelion-bernal-de-pisa-1494", "notas": "cabecilla de la rebelión; fue apresado y enviado a Castilla", "source": "source:las-casas:cap-8", "status": "candidata"},
+    {"from": "event:rebelion-bernal-de-pisa-1494", "relation": "ocurrió_en", "to": "place:la-isabela", "source": "source:las-casas:cap-8", "status": "candidata"},
+    {"from": "person:diego-colon-hermano", "relation": "estuvo_presente_en", "to": "event:expedicion-colon-cibao-1494", "notas": "quedó a cargo del gobierno de La Isabela cuando el Almirante partió a Cibao", "source": "source:las-casas:cap-8", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:expedicion-colon-cibao-1494", "source": "source:las-casas:cap-8", "status": "candidata"},
+
+    {"from": "person:pedro-margarite", "relation": "estuvo_presente_en", "to": "event:expedicion-colon-cibao-1494", "notas": "quedó como capitán y alcaide de la fortaleza de Santo Tomás con 52 hombres", "source": "source:las-casas:cap-9", "status": "candidata"},
+    {"from": "event:expedicion-colon-cibao-1494", "relation": "ocurrió_en", "to": "place:santo-tomas-fuerte", "source": "source:las-casas:cap-9", "status": "candidata"},
+
+    {"from": "person:fray-buil", "relation": "enfrentado_a", "to": "person:cristobal-colon", "notas": "se indignó contra él por los castigos y el racionamiento de bastimentos", "source": "source:las-casas:cap-10", "status": "candidata"},
+    {"from": "person:caonabo", "relation": "enfrentado_a", "to": "person:pedro-margarite", "notas": "amenazó con atacar la fortaleza de Santo Tomás", "source": "source:las-casas:cap-10", "status": "candidata"},
+    {"from": "person:alonso-de-ojeda", "relation": "estuvo_presente_en", "to": "event:primera-injusticia-hojeda-1494", "notas": "prendió y condenó al cacique, su hermano y sobrino, y mandó cortar las orejas a un vasallo suyo", "source": "source:las-casas:cap-11", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:primera-injusticia-hojeda-1494", "notas": "condenó a muerte al cacique preso y a su familia, aunque después perdonó la sentencia", "source": "source:las-casas:cap-11", "status": "candidata"}
   ]
 }

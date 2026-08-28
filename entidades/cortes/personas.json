@@ -1,0 +1,13 @@
+[
+  {"id": "person:hernan-cortes", "canonical_name": "Hernando Cortés", "aliases": ["Fernando Cortés", "Cortés", "capitán Fernando Cortés"], "role": "capitán general y luego justicia mayor de la Villa Rica de la Vera Cruz", "status": "candidata"},
+  {"id": "person:diego-velazquez-de-cuellar", "canonical_name": "Diego Velázquez", "aliases": ["teniente de almirante de la isla Fernandina"], "role": "gobernador/teniente de almirante de Cuba, organizó y financió parte de la armada de Cortés", "status": "candidata"},
+  {"id": "person:juan-de-grijalva", "canonical_name": "Juan de Grijalva", "aliases": ["Juan de Grijalba"], "role": "capitán de la expedición anterior a la de Cortés (1518), pariente de Diego Velázquez", "status": "candidata"},
+  {"id": "person:francisco-hernandez-de-cordoba", "canonical_name": "Francisco Fernández de Córdoba", "aliases": ["Francisco Hernández de Córdoba"], "role": "capitán de la primera expedición de descubrimiento (1517)", "status": "candidata"},
+  {"id": "person:anton-de-alaminos", "canonical_name": "Antón de Alaminos", "aliases": [], "role": "piloto, vecino de Palos; guió las tres expediciones (Hernández de Córdoba, Grijalva y Cortés)", "status": "candidata"},
+  {"id": "person:jeronimo-de-aguilar", "canonical_name": "Jerónimo de Aguilar", "aliases": [], "role": "español náufrago, cautivo siete años en Yucatán, rescatado por Cortés en Cozumel y usado como intérprete", "status": "candidata"},
+  {"id": "person:alonso-hernandez-puertocarrero", "canonical_name": "Alonso Hernández Puertocarrero", "aliases": ["Alonso Fernández Portocarrero", "Alonso Fernández Puerto-Carrero", "Puerto Carrero"], "role": "procurador enviado a España con el primer tesoro y esta carta", "status": "candidata"},
+  {"id": "person:francisco-de-montejo", "canonical_name": "Francisco de Montejo", "aliases": [], "role": "procurador enviado a España junto con Puertocarrero; tesorero", "status": "candidata"},
+  {"id": "person:alonso-de-avila", "canonical_name": "Alonso de Ávila", "aliases": [], "role": "tesorero de la Villa Rica de la Vera Cruz", "status": "candidata"},
+  {"id": "person:alonso-de-grado", "canonical_name": "Alonso de Grado", "aliases": [], "role": "veedor de la Villa Rica de la Vera Cruz", "status": "candidata"},
+  {"id": "person:gonzalo-de-guzman", "canonical_name": "Gonzalo de Guzmán", "aliases": [], "role": "enviado por Diego Velázquez a España, sin conocimiento de los frailes Jerónimos, a pedir para sí el título de adelantado y gobernador", "status": "candidata"}
+]

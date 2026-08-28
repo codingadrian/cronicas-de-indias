@@ -1,0 +1,12 @@
+[
+  {"id": "place:la-espanola", "canonical_name": "La Española", "aliases": ["Española", "isla Española"], "modern_equivalent": "La Española (República Dominicana y Haití)", "status": "candidata"},
+  {"id": "place:ciudad-isabela", "canonical_name": "Ciudad Isabela", "aliases": ["la Isabela", "isla Isabela"], "modern_equivalent": "La Isabela, provincia de Puerto Plata, República Dominicana", "status": "candidata", "notas": "primera ciudad fundada por los españoles en el Nuevo Mundo (segundo viaje, 1494)"},
+  {"id": "place:cuba", "canonical_name": "Cuba", "aliases": ["la Juana", "Juana"], "modern_equivalent": "Cuba", "status": "candidata", "notas": "Colón le puso el nombre 'Juana' antes de saber que los indios la llamaban Cuba"},
+  {"id": "place:san-salvador", "canonical_name": "San Salvador", "aliases": ["Guanahaní", "Guanahanin"], "modern_equivalent": "posiblemente Isla de San Salvador (Watling), Bahamas — identificación disputada", "status": "candidata", "notas": "primera isla en la que Colón desembarcó, 12 de octubre de 1492"},
+  {"id": "place:jamaica", "canonical_name": "Jamaica", "aliases": [], "modern_equivalent": "Jamaica", "status": "candidata"},
+  {"id": "place:cambao", "canonical_name": "Cambao", "aliases": ["Cibao"], "modern_equivalent": "región del Cibao, República Dominicana", "status": "candidata", "notas": "provincia interior de La Española rica en oro; destino de la expedición de Margarite"},
+  {"id": "place:cadiz", "canonical_name": "Cádiz", "aliases": [], "modern_equivalent": "Cádiz, España", "status": "candidata", "notas": "puerto de descarga obligatorio propuesto para el oro traído de las Indias"},
+  {"id": "place:isla-de-la-mona", "canonical_name": "Isla de la Mona", "aliases": ["la Mona"], "modern_equivalent": "Isla de Mona, Puerto Rico", "status": "candidata"},
+  {"id": "place:isla-de-san-juan", "canonical_name": "Isla de San Juan", "aliases": ["isla de Sant Juan"], "modern_equivalent": "Puerto Rico", "status": "candidata"},
+  {"id": "place:jardin-de-la-reina", "canonical_name": "El Jardín de la Reina", "aliases": [], "modern_equivalent": "Jardines de la Reina, archipiélago al sur de Cuba", "status": "candidata"}
+]

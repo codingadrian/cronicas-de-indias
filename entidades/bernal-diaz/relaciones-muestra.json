@@ -1,5 +1,5 @@
 {
-  "nota": "Relaciones extraídas a mano, capítulo por capítulo. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Capítulos 1-8 (quedan 103 capítulos sin procesar).",
+  "nota": "Relaciones extraídas a mano, capítulo por capítulo. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Capítulos 1-18 (quedan 93 capítulos sin procesar).",
   "entidades_nuevas": [
     {"id": "person:pedrarias-davila", "canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)", "aliases": ["Pedro Arias de Ávila", "Pedrárias Dávila"], "role": "gobernador de Tierra Firme", "status": "candidata", "capitulo": 1},
     {"id": "person:vasco-nunez-de-balboa", "canonical_name": "Vasco Núñez de Balboa", "aliases": ["Vasco Nuñez de Balboa"], "role": "conquistador, yerno de Pedrarias Dávila", "status": "candidata", "capitulo": 1},
@@ -23,7 +23,22 @@
     {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": ["Yucatan"], "modern_equivalent": "península de Yucatán, México", "status": "candidata", "capitulo": 6},
     {"id": "place:trinidad-cuba", "canonical_name": "Villa de la Trinidad", "aliases": ["Trinidad"], "modern_equivalent": "Trinidad, Cuba", "status": "candidata", "capitulo": 7},
     {"id": "place:matanzas", "canonical_name": "Puerto de Matanzas", "aliases": ["Matanzas"], "modern_equivalent": "Matanzas, Cuba", "status": "candidata", "capitulo": 8},
-    {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": [], "modern_equivalent": "Cozumel, México", "status": "candidata", "capitulo": 8}
+    {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": [], "modern_equivalent": "Cozumel, México", "status": "candidata", "capitulo": 8},
+    {"id": "person:juan-de-quiteria", "canonical_name": "Juan de Quiteria", "aliases": [], "role": "soldado, muerto en la segunda batalla de Champotón (1518)", "status": "candidata", "capitulo": 9},
+    {"id": "person:francisco-indio-rio-banderas", "canonical_name": "Francisco (indio del río de Banderas)", "aliases": [], "role": "indígena bautizado, tomado en el río de Banderas", "status": "candidata", "capitulo": 13},
+    {"id": "person:gonzalo-hernandez-de-oviedo", "canonical_name": "Gonzalo Fernández de Oviedo", "aliases": ["Gonzalo Hernandez de Oviedo"], "role": "cronista mencionado junto con Gómara", "status": "candidata", "capitulo": 13},
+    {"id": "person:bartolome-pardo", "canonical_name": "Bartolomé Pardo", "aliases": [], "role": "soldado que halló oro cerca de Tonalá", "status": "candidata", "capitulo": 16},
+    {"id": "person:benito-martinez", "canonical_name": "Benito Martínez", "aliases": [], "role": "capellán de Diego Velázquez, procurador enviado a Castilla", "status": "candidata", "capitulo": 17},
+    {"id": "person:francisco-lopez-de-gomara", "canonical_name": "Francisco López de Gómara", "aliases": ["Gómora", "Gómara"], "role": "cronista corregido extensamente por Bernal Díaz", "status": "candidata", "capitulo": 17},
+    {"id": "place:boca-de-terminos", "canonical_name": "Boca de Términos", "aliases": [], "modern_equivalent": "Laguna de Términos, Campeche, México", "status": "candidata", "capitulo": 10},
+    {"id": "place:rio-tabasco", "canonical_name": "Río de Tabasco (río de Grijalva)", "aliases": ["río de Grijalva"], "modern_equivalent": "río Grijalva, Tabasco, México", "status": "candidata", "capitulo": 11},
+    {"id": "place:la-rambla", "canonical_name": "La-Rambla (Aguayaluco)", "aliases": ["Aguayaluco"], "modern_equivalent": "por confirmar (costa de Tabasco)", "status": "candidata", "capitulo": 12},
+    {"id": "place:rio-de-alvarado", "canonical_name": "Río de Alvarado", "aliases": ["Papalohuna"], "modern_equivalent": "río Papaloapan, Veracruz, México", "status": "candidata", "capitulo": 12},
+    {"id": "place:guacacualco", "canonical_name": "Guacacualco", "aliases": ["Guazacualco", "Guacayualco"], "modern_equivalent": "Coatzacoalcos, Veracruz, México", "status": "candidata", "capitulo": 12},
+    {"id": "place:rio-de-banderas", "canonical_name": "Río de Banderas", "aliases": [], "modern_equivalent": "por confirmar (costa de Veracruz)", "status": "candidata", "capitulo": 12},
+    {"id": "place:isla-de-sacrificios", "canonical_name": "Isla de Sacrificios", "aliases": [], "modern_equivalent": "Isla de Sacrificios, Veracruz, México", "status": "candidata", "capitulo": 13},
+    {"id": "place:rio-de-canoas", "canonical_name": "Río de Canoas", "aliases": [], "modern_equivalent": "por confirmar (costa de Veracruz/Pánuco)", "status": "candidata", "capitulo": 16},
+    {"id": "place:tonala", "canonical_name": "Tonalá (San Antón)", "aliases": ["San Anton"], "modern_equivalent": "Tonalá, Chiapas, México", "status": "candidata", "capitulo": 16}
   ],
   "eventos": [
     {"id": "event:ejecucion-balboa", "name": "Ejecución de Vasco Núñez de Balboa", "date_text": "no especificada en el capítulo", "place_id": "place:tierra-firme", "status": "candidata"},
@@ -32,7 +47,10 @@
     {"id": "event:batalla-potonchan-1517", "name": "Batalla de Potonchán (Bahía de Mala Pelea)", "date_text": "1517", "place_id": "place:potonchan", "status": "candidata", "notas": "parte de la expedición de Hernández de Córdoba; el capitán recibe doce flechazos, mueren más de 50 soldados españoles"},
     {"id": "event:escaramuza-florida-1517", "name": "Escaramuza en la Florida", "date_text": "1517, en el viaje de regreso a Cuba", "place_id": "place:florida", "status": "candidata", "notas": "parte de la expedición de Hernández de Córdoba; el piloto Alaminos es herido en la garganta, desaparece el soldado Berrio"},
     {"id": "event:muerte-francisco-hernandez-de-cordoba", "name": "Muerte de Francisco Hernández de Córdoba", "date_text": "1517, diez días después de llegar a su encomienda en Santispíritus", "place_id": null, "status": "candidata", "notas": "muere de las heridas recibidas en la batalla de Potonchán"},
-    {"id": "event:expedicion-grijalva-1518", "name": "Expedición de Juan de Grijalva (1518)", "date_text": "5 de abril de 1518 (partida)", "place_id": "place:cozumel", "status": "candidata", "notas": "segunda expedición desde Cuba, organizada por Diego Velázquez; primer avistamiento en Cozumel"}
+    {"id": "event:expedicion-grijalva-1518", "name": "Expedición de Juan de Grijalva (1518)", "date_text": "5 de abril de 1518 (partida)", "place_id": "place:cozumel", "status": "candidata", "notas": "segunda expedición desde Cuba, organizada por Diego Velázquez; primer avistamiento en Cozumel"},
+    {"id": "event:batalla-champoton-1518", "name": "Segunda batalla de Champotón", "date_text": "1518, durante la expedición de Grijalva", "place_id": "place:potonchan", "status": "candidata", "notas": "los indios de Champotón, ya victoriosos en 1517, volvieron a atacar; muere el soldado Juan de Quiteria y es herido Juan de Grijalva (tres flechazos, dos dientes rotos)"},
+    {"id": "event:encuentro-rio-banderas-1518", "name": "Encuentro con gobernadores de Moctezuma en el río de Banderas", "date_text": "1518", "place_id": "place:rio-de-banderas", "status": "candidata", "notas": "primer contacto documentado de la expedición con representantes del imperio de Moctezuma; primer rescate de oro y noticia de 'Culba, México'"},
+    {"id": "event:ataque-rio-de-canoas-1518", "name": "Ataque indígena en el río de Canoas", "date_text": "1518", "place_id": "place:rio-de-canoas", "status": "candidata", "notas": "dieciséis canoas de guerra atacan el navío al mando de Alonso de Ávila; los españoles repelen el ataque con ballestas y escopetas"}
   ],
   "relaciones": [
     {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:tierra-firme", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
@@ -84,6 +102,53 @@
     {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "llevado como intérprete", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
     {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:matanzas", "notas": "escala de reabastecimiento antes de zarpar hacia Yucatán", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
     {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:cozumel", "notas": "primer avistamiento de tierra de la expedición", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "event:expedicion-grijalva-1518", "relation": "ocurrió_en", "to": "place:cozumel", "source": "source:bernal-diaz:cap-8", "status": "candidata"}
+    {"from": "event:expedicion-grijalva-1518", "relation": "ocurrió_en", "to": "place:cozumel", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:potonchan", "notas": "de vuelta con la expedición de Grijalva, un año después de la primera batalla", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "estuvo_presente_en", "to": "event:batalla-champoton-1518", "notas": "recibió tres flechazos y le rompieron dos dientes", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
+    {"from": "person:juan-de-quiteria", "relation": "estuvo_presente_en", "to": "event:batalla-champoton-1518", "notas": "murió en la batalla", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
+    {"from": "person:melchorejo", "relation": "estuvo_presente_en", "to": "event:batalla-champoton-1518", "notas": "enviado como mensajero a los caciques junto con Julianillo; Bernal Díaz sospecha que no transmitieron fielmente el mensaje", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
+    {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:batalla-champoton-1518", "notas": "enviado como mensajero a los caciques junto con Melchorejo", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
+    {"from": "event:batalla-champoton-1518", "relation": "ocurrió_en", "to": "place:potonchan", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
+
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:boca-de-terminos", "source": "source:bernal-diaz:cap-10", "status": "candidata"},
+    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "propuso el nombre 'Boca de Términos' creyendo que era una isla", "source": "source:bernal-diaz:cap-10", "status": "candidata"},
+
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:rio-tabasco", "notas": "el río se renombró 'de Grijalva' por haberlo descubierto él", "source": "source:bernal-diaz:cap-11", "status": "candidata"},
+    {"from": "person:melchorejo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "sirvió de intérprete en el encuentro con los indios del río de Tabasco", "source": "source:bernal-diaz:cap-11", "status": "candidata"},
+    {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "sirvió de intérprete en el encuentro con los indios del río de Tabasco", "source": "source:bernal-diaz:cap-11", "status": "candidata"},
+
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:la-rambla", "source": "source:bernal-diaz:cap-12", "status": "candidata"},
+    {"from": "person:pedro-de-alvarado", "relation": "viajó_a", "to": "place:rio-de-alvarado", "notas": "se adelantó a la armada sin licencia; el general se enojó con él por esto", "source": "source:bernal-diaz:cap-12", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:guacacualco", "notas": "vio el paraje del río pero no entró por mal tiempo", "source": "source:bernal-diaz:cap-12", "status": "candidata"},
+
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:rio-de-banderas", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
+    {"from": "person:francisco-de-montejo", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "desembarcó primero con los ballesteros y escopeteros a explorar", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "recibió el presente de oro de los gobernadores de Moctezuma", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
+    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "se tomó posesión de la tierra en su nombre como gobernador de Cuba", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
+    {"from": "person:francisco-indio-rio-banderas", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "tomado y bautizado aquí; Bernal Díaz lo volvió a ver después casado en Santa Fe", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
+    {"from": "event:encuentro-rio-banderas-1518", "relation": "ocurrió_en", "to": "place:rio-de-banderas", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:isla-de-sacrificios", "notas": "encontró indicios de sacrificios humanos recientes", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
+    {"from": "person:francisco-lopez-de-gomara", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "Bernal Díaz corrige aquí una versión de Gómara/Oviedo sobre el origen del oro rescatado", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
+
+    {"from": "person:francisco-indio-rio-banderas", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "actuó como intérprete improvisado en San Juan de Ulúa junto a Julianillo", "source": "source:bernal-diaz:cap-14", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:san-juan-de-ulua", "notas": "aquí se le dio el nombre por ser capitán Juan y día de San Juan", "source": "source:bernal-diaz:cap-14", "status": "candidata"},
+    {"from": "person:pedro-de-alvarado", "relation": "viajó_a", "to": "place:habana", "notas": "enviado a Cuba a dar aviso a Diego Velázquez con el oro rescatado y los soldados heridos", "source": "source:bernal-diaz:cap-14", "status": "candidata"},
+
+    {"from": "person:cristobal-de-olid", "relation": "viajó_a", "to": "place:cuba", "notas": "enviado por Diego Velázquez en un navío pequeño en busca de la expedición de Grijalva; una tormenta lo obligó a volver a Santiago de Cuba", "source": "source:bernal-diaz:cap-15", "status": "candidata"},
+    {"from": "person:pedro-de-alvarado", "relation": "viajó_a", "to": "place:santiago-de-cuba", "notas": "llegó con el oro rescatado; Diego Velázquez celebró varios días", "source": "source:bernal-diaz:cap-15", "status": "candidata"},
+
+    {"from": "person:alonso-de-avila", "relation": "estuvo_presente_en", "to": "event:ataque-rio-de-canoas-1518", "notas": "capitán del navío atacado por dieciséis canoas de guerra", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
+    {"from": "event:ataque-rio-de-canoas-1518", "relation": "ocurrió_en", "to": "place:rio-de-canoas", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:tonala", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
+    {"from": "person:bartolome-pardo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "halló oro y objetos rituales en un adoratorio cerca de Tonalá; se le permitió quedarse con el oro tras pagar el quinto real", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:tonala", "notas": "aquí sembró las primeras semillas de naranjo de la Nueva España", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:santiago-de-cuba", "notas": "regreso de la expedición, con unos veinte mil pesos de oro en total", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
+    {"from": "person:francisco-de-montejo", "relation": "enfrentado_a", "to": "person:juan-de-grijalva", "notas": "Montejo y Alonso de Ávila se oponían a la idea de Grijalva de poblar la tierra", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
+
+    {"from": "person:diego-velazquez-de-cuellar", "relation": "aliado_de", "to": "person:obispo-de-burgos", "notas": "Velázquez enviaba oro y regalos al Obispo de Búrgos para asegurar su favor en el Consejo de Indias", "source": "source:bernal-diaz:cap-17", "status": "candidata"},
+
+    {"from": "person:francisco-lopez-de-gomara", "relation": "enfrentado_a", "to": "person:bernal-diaz-del-castillo", "notas": "Bernal Díaz dedica los Capítulos 17-18 a corregir extensamente la crónica de Gómara, que considera mal informada y sesgada a favor de Cortés", "source": "source:bernal-diaz:cap-18", "status": "candidata"},
+    {"from": "person:gonzalo-hernandez-de-oviedo", "relation": "enfrentado_a", "to": "person:bernal-diaz-del-castillo", "notas": "mencionado junto con Gómara como fuente de datos inexactos", "source": "source:bernal-diaz:cap-13", "status": "candidata"}
   ]
 }

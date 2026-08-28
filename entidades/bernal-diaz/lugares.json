@@ -16,5 +16,18 @@
   {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": ["Yucatan"], "modern_equivalent": "península de Yucatán, México", "mention_count_aprox": 14, "status": "candidata"},
   {"id": "place:trinidad-cuba", "canonical_name": "Villa de la Trinidad", "aliases": ["Trinidad"], "modern_equivalent": "Trinidad, Cuba", "mention_count_aprox": 19, "status": "candidata"},
   {"id": "place:matanzas", "canonical_name": "Puerto de Matanzas", "aliases": ["Matanzas"], "modern_equivalent": "Matanzas, Cuba", "mention_count_aprox": 4, "status": "candidata"},
-  {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": [], "modern_equivalent": "Cozumel, México", "mention_count_aprox": 28, "status": "candidata"}
+  {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": [], "modern_equivalent": "Cozumel, México", "mention_count_aprox": 28, "status": "candidata"},
+  {"id": "place:boca-de-terminos", "canonical_name": "Boca de Términos", "aliases": [], "modern_equivalent": "Laguna de Términos, Campeche, México", "mention_count_aprox": 1, "status": "candidata"},
+  {"id": "place:rio-tabasco", "canonical_name": "Río de Tabasco (río de Grijalva)", "aliases": ["río de Grijalva"], "modern_equivalent": "río Grijalva, Tabasco, México", "mention_count_aprox": 2, "status": "candidata"},
+  {"id": "place:la-rambla", "canonical_name": "La-Rambla (Aguayaluco)", "aliases": ["Aguayaluco"], "modern_equivalent": "por confirmar (costa de Tabasco)", "mention_count_aprox": 1, "status": "candidata"},
+  {"id": "place:rio-de-alvarado", "canonical_name": "Río de Alvarado", "aliases": ["Papalohuna"], "modern_equivalent": "río Papaloapan, Veracruz, México", "mention_count_aprox": 1, "status": "candidata"},
+  {"id": "place:guacacualco", "canonical_name": "Guacacualco", "aliases": ["Guazacualco", "Guacayualco"], "modern_equivalent": "Coatzacoalcos, Veracruz, México", "mention_count_aprox": 2, "status": "candidata"},
+  {"id": "place:rio-de-banderas", "canonical_name": "Río de Banderas", "aliases": [], "modern_equivalent": "por confirmar (costa de Veracruz)", "mention_count_aprox": 2, "status": "candidata"},
+  {"id": "place:isla-de-sacrificios", "canonical_name": "Isla de Sacrificios", "aliases": [], "modern_equivalent": "Isla de Sacrificios, Veracruz, México", "mention_count_aprox": 1, "status": "candidata"},
+  {"id": "place:rio-de-canoas", "canonical_name": "Río de Canoas", "aliases": [], "modern_equivalent": "por confirmar (costa de Veracruz/Pánuco)", "mention_count_aprox": 1, "status": "candidata"},
+  {"id": "place:tonala", "canonical_name": "Tonalá (San Antón)", "aliases": ["San Anton"], "modern_equivalent": "Tonalá, Chiapas, México", "mention_count_aprox": 2, "status": "candidata"},
+  {"id": "place:tierra-firme", "canonical_name": "Tierra Firme", "aliases": [], "modern_equivalent": "Panamá/costa continental", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — corrige un vacío: estaba en el log de relaciones-muestra.json pero nunca se había copiado al registro principal"},
+  {"id": "place:nombre-de-dios", "canonical_name": "Nombre de Dios", "aliases": [], "modern_equivalent": "Nombre de Dios, Panamá", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"},
+  {"id": "place:ajaruco", "canonical_name": "Ajaruco", "aliases": [], "modern_equivalent": "por confirmar (costa norte de Cuba)", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"},
+  {"id": "place:san-cristobal-cuba", "canonical_name": "San Cristóbal", "aliases": [], "modern_equivalent": "asentamiento predecesor de La Habana", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"}
 ]

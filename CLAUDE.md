@@ -22,21 +22,45 @@ READMEs, METADATA).
   Project Gutenberg; el Diario de Colón, de Wikisource (funcionó desde
   Claude Code local, a diferencia del entorno de nube original — ver nota
   más abajo); Cortés y las Cartas de Colón, de Archive.org.
-- **Fase 2 (entidades y relaciones): Bernal Díaz tiene los Capítulos 1-8
-  hechos** (103 capítulos quedan); **Las Casas solo el Capítulo 1** (96
-  capítulos quedan). Se agregaron 7 personas, 8 lugares y 7 eventos
-  nuevos al procesar los capítulos 2-8 de Bernal Díaz (dos intérpretes
-  mayas capturados en 1517 — Melchorejo y Julianillo —, la expedición de
-  Grijalva de 1518, Cozumel, Yucatán, Potonchán, etc.) — ver
-  `entidades/bernal-diaz/relaciones-muestra.json`. **Las otras tres obras
-  (Diario de Colón, Cortés, Cartas de Colón) todavía no tienen ninguna
-  entidad/relación curada** — están solo en Fase 0-1. Ver "Pendientes"
-  más abajo.
+- **Fase 2 (entidades y relaciones): las cinco obras activas tienen ahora
+  al menos una primera pasada** (2026-08-28, hecho en paralelo con 5 forks,
+  uno por obra, después fusionado y verificado a mano — ver "Pendientes"
+  para cómo seguir cada una):
+  - **Bernal Díaz**: Capítulos 1-18 de 111 (93 quedan). 41 personas, 31
+    lugares, 10 eventos, 80 relaciones.
+  - **Las Casas**: Capítulos 1-11 de 97 (86 quedan). 26 personas, 22
+    lugares, 10 eventos, 40 relaciones.
+  - **Diario de Colón**: Proemio + días 1-20 de 191 (~11%). 5 personas, 11
+    lugares, 2 eventos, 13 relaciones. Colón se modeló como
+    `person:cristobal-colon` (narrador/sujeto, con nota sobre la voz de
+    Las Casas), mismo patrón que `person:bernal-diaz-del-castillo`.
+  - **Cortés**: solo la Primera carta-relación de 5. 11 personas, 9
+    lugares, 7 eventos, 29 relaciones.
+  - **Colón — Cartas**: los primeros 3 documentos de 10 (Carta a
+    Santángel + Rafael Sánchez + Memorial a Torres bajo un mismo
+    capítulo, Instrucción a Margarite, Carta a los Reyes del 2º viaje).
+    9 personas, 10 lugares, 4 eventos, 21 relaciones.
+
+  **Bugs de integridad encontrados y corregidos en esta tanda** (vale la
+  pena recordarlos si se retoma manualmente): (1) las entidades nuevas del
+  Capítulo 1 de Bernal Díaz y de Las Casas se habían quedado solo en el
+  log `entidades_nuevas` de `relaciones-muestra.json` sin copiarse nunca a
+  `personas.json`/`lugares.json` — las relaciones citaban ids que no
+  existían en el registro real (invisibles en el MVP). Ya están
+  promovidas en ambas obras. (2) Un fork usó una relación `citado_en`
+  persona→fuente en Las Casas, que no es como está pensado el esquema
+  (`cited_in` es relación→fuente, y cada relación ya cita su fuente en su
+  propio campo `source`) y apuntaba a un id sin registrar — se corrigió a
+  `estuvo_presente_en` contra el evento correspondiente. Antes de dar por
+  buena una tanda nueva, correr un chequeo de integridad referencial
+  (todo `from`/`to` de `relaciones` debe resolver contra `personas` +
+  `lugares` + `eventos` de esa misma obra) — quedó como buena práctica a
+  repetir.
 - **MVP publicado** (`mvp/archivo-final.html`, también como Artifact —
   ver más abajo) con las cinco obras completas (415 capítulos/entradas)
-  navegables y buscables. Personas/Lugares/Cronología/Red solo cubren
-  Bernal Díaz y Las Casas — las otras tres son de momento solo texto
-  legible, sin entidades enlazadas en el texto.
+  navegables y buscables, y ahora **las cinco con al menos algunas
+  entidades enlazadas en el texto** (antes solo Bernal Díaz/Las Casas
+  tenían esto).
 - **Cortés salió de pausa** el 2026-08-28 al conseguirse una edición
   digital (no escaneada) de las *Cartas de relación* — ver "Decisiones de
   alcance" más abajo, esto reabre una decisión previa.
@@ -361,25 +385,26 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
 
 1. **Seguir la extracción de relaciones capítulo por capítulo** — es el
    trabajo de fondo que el MVP dejó pausado a pedido del usuario para
-   validar primero la interfaz. Bernal Díaz va por el Capítulo 8 de 111
-   (quedan 103); Las Casas por el Capítulo 1 de 97 (quedan 96). Cada
-   tanda nueva de relaciones se refleja directamente en la cronología y
-   el grafo del MVP sin tocar código — el patrón para sumar una tanda:
-   editar `entidades/<obra>/personas.json` y `lugares.json` (agregar
-   entidades nuevas, `status: "candidata"`), sumar eventos/relaciones al
-   final de `relaciones-muestra.json` citando `source:<obra>:cap-N`, y
-   volver a combinar esos tres archivos en el JSON embebido de
-   `mvp/archivo-final.html` (reemplazando por completo las entradas con
-   `obra: "<esa-obra>"` en `personas`/`lugares`/`eventos`/`relaciones`,
-   no solo agregando, para no dejar entidades viejas duplicadas).
-2. **Fase 2 todavía no empezó para tres obras**: Diario de Colón, Cortés,
-   y Relaciones y cartas de Colón — ninguna tiene carpeta en `entidades/`
-   (personas.json, lugares.json, etc.), a diferencia de Bernal Díaz y Las
-   Casas que ya tienen el Capítulo 1 hecho. Antes de curar entidades para
-   el Diario de Colón, conviene decidir si conviene tratar "el
-   Almirante"/"Colón" como la misma persona narrador (como se hizo con
-   Bernal Díaz) dado que buena parte del texto es voz de Las Casas
-   resumiendo, no de Colón en primera persona todo el tiempo.
+   validar primero la interfaz. Las cinco obras activas ya tienen una
+   primera pasada (ver "Estado actual" para el detalle por obra); todas
+   necesitan más capítulos/entradas/documentos — Bernal Díaz y Las Casas
+   son las que más volumen tienen por delante (93 y 86 capítulos). El
+   patrón para sumar una tanda: editar `entidades/<obra>/personas.json` y
+   `lugares.json` (agregar entidades nuevas, `status: "candidata"`), sumar
+   eventos/relaciones al final de `relaciones-muestra.json` citando
+   `source:<obra>:cap-N`, **correr un chequeo de integridad referencial**
+   (todo `from`/`to` de `relaciones` tiene que resolver contra
+   `personas`+`lugares`+`eventos` de esa obra — ver el bug que se encontró
+   y corrigió el 2026-08-28 en "Estado actual"), y volver a combinar esos
+   tres archivos en el JSON embebido de `mvp/archivo-final.html`
+   (reemplazando por completo las entradas con `obra: "<esa-obra>"` en
+   `personas`/`lugares`/`eventos`/`relaciones`, no solo agregando, para no
+   dejar entidades viejas duplicadas).
+2. **Diario de Colón — decisión de narrador ya tomada**: se modeló a
+   Cristóbal Colón como `person:cristobal-colon` (mismo patrón que
+   `person:bernal-diaz-del-castillo`), con nota sobre la voz de Las Casas
+   resumiendo. Aplicar el mismo criterio en `colon-cartas` si se retoma
+   (ya se hizo ahí también, ver "Estado actual").
 3. **Colón — Relaciones y cartas: dividido más grueso que el índice
    original** (10 bloques en vez de ~30 cartas/fragmentos), con ruido de
    OCR sin corregir — ver `sources/colon-cartas/METADATA.md`. Si hace
@@ -387,10 +412,14 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
 4. Retomar Hernando Colón (limpieza manual o edición alternativa) cuando
    haya tiempo — no es bloqueante para lo demás.
 5. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
-   registros de personas/lugares, y de las notas de ambigüedad (ej. "D Diego"
-   en Las Casas) — cotejar contra historia-hispanica.rah.es (ver "Fuente
-   de referencia para comparar/inspirar biografías" en la sección del MVP)
-   cuando haga falta resolver una ambigüedad de fechas o identidad.
+   registros de personas/lugares (ahora son la gran mayoría, en las cinco
+   obras), y de las notas de ambigüedad (ej. "D Diego" en Las Casas, o la
+   discrepancia de a quién nombra "Champotón" entre Bernal Díaz y la
+   Primera carta de Cortés en `entidades/cortes/lugares.json`) — cotejar
+   contra historia-hispanica.rah.es o Wikipedia (ver "Fuentes de
+   referencia para comparar/inspirar biografías y lugares" en la sección
+   del MVP) cuando haga falta resolver una ambigüedad de fechas o
+   identidad.
 6. **Fase 1 de las 17 obras nuevas del catálogo** (`sources/CATALOGO.md`)
    — cada una necesita el mismo tratamiento que ya se hizo para Bernal
    Díaz/Las Casas/Colón/Cortés: revisar el `raw/`, separar aparato
