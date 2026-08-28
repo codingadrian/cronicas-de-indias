@@ -15,6 +15,7 @@ Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en 
 
 - ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): 24 personas y 10 lugares registrados, muestra completa de relaciones del Capítulo 1.
 - ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): 16 personas y 13 lugares registrados, muestra completa de relaciones del Capítulo 1.
+- ✅ Cristóbal Colón — *Diario de a bordo del primer viaje*: texto completo y navegable (proemio + 191 entradas por día); todavía sin personas/lugares/relaciones curados.
 - ⏸️ Hernando Colón — en pausa.
 - ⏸️ Hernán Cortés — en pausa.
 
@@ -44,7 +45,7 @@ Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en 
 1. **Etiquetado asistido**: un script de conteo de frecuencia (nombres propios de dos o más palabras) escaneó el texto completo de cada obra — sin necesidad de leerla entera a mano — para encontrar los candidatos más mencionados.
 2. **Canonización**: los candidatos más frecuentes y reconocibles se convirtieron en registros de `personas.json`/`lugares.json`, resolviendo variantes ortográficas (ej. "Velazquez"/"Velázquez") en un solo id.
 3. **Muestra de relaciones**: se leyó a mano el Capítulo 1 de cada obra para extraer relaciones completas (persona↔evento↔lugar↔fecha), cada una citando el capítulo de origen.
-4. **MVP**: se combinaron los registros de entidades, la muestra de relaciones y los 208 capítulos completos en una sola página consultable (`mvp/archivo-final.html`), con navegación por documento y páginas de persona, para validar el modelo antes de seguir extrayendo relaciones.
+4. **MVP**: se combinaron los registros de entidades, la muestra de relaciones y los capítulos completos de las obras en una sola página consultable (`mvp/archivo-final.html`), con navegación por documento y páginas de persona, para validar el modelo antes de seguir extrayendo relaciones.
 
 ## Lo que falta (todavía no está hecho)
 

@@ -17,15 +17,21 @@ READMEs, METADATA).
 
 ## Estado actual (snapshot)
 
-- **Fase 0-1 completas** para dos obras: descarga, limpieza de texto,
-  separación de aparato editorial.
+- **Fase 0-1 completas** para tres obras: descarga, limpieza de texto,
+  separación de aparato editorial. La tercera (Diario de Colón) se agregó
+  usando Wikisource como fuente — funcionó desde Claude Code local, a
+  diferencia del entorno de nube original (ver nota sobre Wikisource más
+  abajo).
 - **Fase 2 (entidades y relaciones): primera pasada solo sobre el Capítulo 1**
-  de cada una de las dos obras activas — el resto de los capítulos (110 de
-  Bernal Díaz, 96 de Las Casas) todavía no tiene relaciones extraídas. Ver
-  "Pendientes" más abajo.
+  de Bernal Díaz y Las Casas — el resto de los capítulos (110 de Bernal
+  Díaz, 96 de Las Casas) todavía no tiene relaciones extraídas. El Diario
+  de Colón **todavía no tiene ninguna entidad/relación curada** (ni
+  siquiera Capítulo 1) — está solo en Fase 0-1. Ver "Pendientes" más abajo.
 - **MVP publicado** (`mvp/archivo-final.html`, también como Artifact —
-  ver más abajo) con las dos obras completas (208 capítulos) navegables,
-  entidades enlazadas dentro del texto y página de detalle por persona.
+  ver más abajo) con las tres obras completas (400 capítulos/entradas)
+  navegables. Personas/Lugares/Cronología/Red solo cubren Bernal Díaz y
+  Las Casas — el Diario de Colón es de momento solo texto legible, sin
+  entidades enlazadas en el texto.
 - **Repo en GitHub y Pages publicado**: el proyecto vive en
   https://github.com/codingadrian/cronicas-de-indias (público) y el MVP se
   sirve en https://codingadrian.github.io/cronicas-de-indias/. Ver
@@ -45,13 +51,14 @@ READMEs, METADATA).
 ├── schema/
 │   └── entidades-relaciones.schema.json   modelo de datos (ver abajo)
 ├── sources/                           por obra: raw/ (fuente sin tocar) + texto-limpio/ (Fase 1)
-│   ├── bernal-diaz/    activa  — texto-limpio/historia-verdadera-tomo1.md (111 cap., ~126k palabras)
-│   ├── las-casas/      activa  — texto-limpio/historia-de-las-indias-tomo2.md (97 cap., ~178k palabras)
-│   ├── hernando-colon/ en pausa — solo raw/, sin texto-limpio/
-│   └── cortes/         en pausa — solo raw/ (PDF escaneado, 344 MB, sin OCR)
+│   ├── bernal-diaz/     activa  — texto-limpio/historia-verdadera-tomo1.md (111 cap., ~126k palabras)
+│   ├── las-casas/       activa  — texto-limpio/historia-de-las-indias-tomo2.md (97 cap., ~178k palabras)
+│   ├── cristobal-colon/ activa  — texto-limpio/diario-primer-viaje-colon.md (191 entradas + proemio, ~54k palabras)
+│   ├── hernando-colon/  en pausa — solo raw/, sin texto-limpio/
+│   └── cortes/          en pausa — solo raw/ (PDF escaneado, 344 MB, sin OCR)
 ├── entidades/
 │   ├── bernal-diaz/personas.json, lugares.json, candidatos-frecuencia.json, relaciones-muestra.json
-│   └── las-casas/          (misma estructura)
+│   └── las-casas/          (misma estructura — cristobal-colon todavía no tiene carpeta acá, ver Pendientes)
 └── mvp/
     ├── README.md                      detalle del MVP, qué valida y qué no
     └── archivo-final.html             el MVP: HTML autocontenido, ~1.8 MB
@@ -82,11 +89,21 @@ exacto documentado.
   transcripción de portada y la numeración de capítulos (LXXXIII-CLXXXIII).
   Se decidió usarlo tal cual en el piloto en vez de conseguir la Brevísima
   relación aparte — es la obra activa del piloto hoy.
-- **Fuente de los textos: Project Gutenberg**, no Wikisource — WebFetch no
-  puede alcanzar `es.wikisource.org` desde este entorno de nube ("cache-only
-  domain"). Si se sigue trabajando desde un entorno con red distinta (como
-  Claude Code local), Wikisource podría ser una fuente mejor a probar de
-  nuevo para los textos que faltan.
+- **Fuente de los textos: Project Gutenberg** para Bernal Díaz y Las Casas,
+  no Wikisource — WebFetch no puede alcanzar `es.wikisource.org` desde el
+  entorno de nube original ("cache-only domain"). **Confirmado que sí
+  funciona desde Claude Code local**: el Diario de Colón se consiguió así
+  (`sources/cristobal-colon/`) — Wikisource es una fuente a considerar de
+  nuevo para completar Bernal Díaz (tomos 2-3) u otras obras, si se sigue
+  trabajando localmente.
+- **Cristóbal Colón — Diario de a bordo: activa, solo Fase 0-1.** Se agregó
+  el 2026-08-28. El diario autógrafo original se perdió; el texto es la
+  transcripción atribuida a fray Bartolomé de las Casas (ver
+  `sources/cristobal-colon/METADATA.md`). Carpeta nombrada
+  `cristobal-colon` (no `colon`) para no confundir con `hernando-colon/`
+  (su hijo, obra distinta, en pausa). Está en el MVP como texto navegable
+  y buscable, pero **sin entidades/relaciones curadas todavía** — no tiene
+  carpeta en `entidades/`. Ver "Pendientes".
 
 ## Modelo de datos
 
@@ -128,10 +145,11 @@ Un solo archivo HTML autocontenido (sin build, sin dependencias salvo un
 personas + lugares + eventos + relaciones). El JS principal está en el
 segundo `<script>` del archivo, vanilla, dentro de un único IIFE.
 
-Cinco pestañas: **Documentos** (biblioteca de las 2 obras → tabla de
+Cinco pestañas: **Documentos** (biblioteca de las 3 obras → tabla de
 contenidos → lector de capítulo con navegación anterior/siguiente),
-**Personas**, **Lugares** (con mapa propio), **Cronología**, **Red de
-relaciones** (grafo de fuerza).
+**Personas**, **Lugares**, **Cronología**, **Red de relaciones** (grafo de
+fuerza). Personas/Lugares solo tienen datos de Bernal Díaz y Las Casas —
+el Diario de Colón todavía no tiene entidades curadas (ver "Pendientes").
 
 ### Etiquetado de entidades dentro del texto (Documentos)
 
@@ -213,12 +231,19 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
 1. **Seguir la extracción de relaciones capítulo por capítulo** — es el
    trabajo de fondo que el MVP dejó pausado a pedido del usuario para
    validar primero la interfaz. Cada tanda nueva de relaciones se refleja
-   directamente en el mapa, la cronología y el grafo del MVP sin tocar
-   código (los datos se combinan al armar `datos.json` → JSON embebido).
-2. Retomar Cortés (OCR del PDF, por rangos de páginas) y Hernando Colón
+   directamente en la cronología y el grafo del MVP sin tocar código (los
+   datos se combinan al armar el JSON embebido).
+2. **Fase 2 del Diario de Colón todavía no empezó** — no tiene
+   `entidades/cristobal-colon/` (personas.json, lugares.json, etc.), a
+   diferencia de Bernal Díaz y Las Casas que ya tienen el Capítulo 1 hecho.
+   Antes de curar entidades, conviene decidir si conviene tratar "el
+   Almirante"/"Colón" como la misma persona narrador (como se hizo con
+   Bernal Díaz) dado que buena parte del texto es voz de Las Casas
+   resumiendo, no de Colón en primera persona todo el tiempo.
+3. Retomar Cortés (OCR del PDF, por rangos de páginas) y Hernando Colón
    (limpieza manual o edición alternativa) cuando haya tiempo — no son
    bloqueantes para lo demás.
-3. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
+4. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
    registros de personas/lugares, y de las notas de ambigüedad (ej. "D Diego"
    en Las Casas).
 
