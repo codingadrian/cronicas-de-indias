@@ -20,6 +20,16 @@ Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en 
 - ✅ Hernán Cortés — *Cartas de relación*: las 5 cartas completas y navegables; recién salió de pausa al conseguirse una edición digital; todavía sin personas/lugares/relaciones curados.
 - ⏸️ Hernando Colón — en pausa.
 
+**Catálogo completo de 20 cronistas** (`sources/CATALOGO.md`): a pedido
+del usuario se buscaron y descargaron las 20 crónicas de una lista
+priorizada. Las 5 de arriba ya están activas en el MVP; las otras 15
+obras (Gómara, Oviedo, Mártir de Anglería, Cabeza de Vaca, Motolinía,
+Sahagún, Durán, Acosta, Cieza de León, Zárate, Xerez, Pedro Pizarro,
+Inca Garcilaso, Guamán Poma, Ixtlilxóchitl, Tezozómoc, Muñoz Camargo, y
+la Brevísima relación de Las Casas) tienen el texto descargado en
+`sources/<obra>/raw/` pero todavía no pasaron por limpieza ni están en
+el MVP — ver el catálogo para el detalle de cada una y qué falta.
+
 ## Estructura
 
 ```
