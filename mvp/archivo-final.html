@@ -217,6 +217,8 @@
   .persona-bio{ background:var(--surface); border:1px solid var(--line); border-left:3px solid var(--cat-persona); padding:1rem 1.2rem; border-radius:2px; max-width:700px; margin-bottom:0.9rem; font-size:0.96rem; line-height:1.7; }
   .persona-bio.lugar-bio{ border-left-color:var(--cat-lugar); }
   .persona-bio .pb-label{ font-family:'Space Mono',monospace; font-size:0.64rem; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.06em; display:block; margin-bottom:0.4rem; }
+  .bio-disclaimer-rule{ border:none; border-top:1px solid var(--line); margin:0.8rem 0 0.55rem; }
+  .bio-disclaimer{ font-size:0.74rem; color:var(--ink-faint); line-height:1.5; margin:0; }
   .persona-note{ font-size:0.85rem; color:var(--ink-faint); font-style:italic; max-width:700px; margin-bottom:1.6rem; }
   .mentions h3{ font-size:1.15rem; margin-bottom:0.3rem; }
   .mentions .mhint{ font-size:0.84rem; color:var(--ink-faint); margin-bottom:0.9rem; }
@@ -361,6 +363,8 @@
     <div class="persona-bio">
       <span class="pb-label">Retrato según la crónica</span>
       <div id="persona-bio-text"></div>
+      <hr class="bio-disclaimer-rule">
+      <p class="bio-disclaimer">Retrato construido únicamente a partir de cómo esta crónica presenta a la persona — no es una biografía histórica externa.</p>
     </div>
     <p class="persona-note" id="persona-note" style="display:none"></p>
     <div class="mentions">
@@ -382,6 +386,8 @@
     <div class="persona-bio lugar-bio">
       <span class="pb-label">Descripción según la crónica</span>
       <div id="lugar-bio-text"></div>
+      <hr class="bio-disclaimer-rule">
+      <p class="bio-disclaimer">Descripción construida únicamente a partir de cómo esta crónica menciona el lugar — no es una descripción geográfica o histórica externa.</p>
     </div>
     <p class="persona-note" id="lugar-note" style="display:none"></p>
     <div class="mentions">
@@ -716,7 +722,6 @@
     }
     let parts = [`En <em>${obraTitle}</em> aparece como ${p.role || 'una figura mencionada en el relato'}.`];
     if (p.mention_count_aprox) parts.push(`Se lo/la menciona unas ${p.mention_count_aprox} veces a lo largo del texto.`);
-    parts.push('Retrato construido únicamente a partir de cómo esta crónica presenta a la persona — no es una biografía histórica externa.');
     return parts.join(' ');
   }
 
@@ -781,7 +786,6 @@
     const obraTitle = OBRAS[l.obra] ? OBRAS[l.obra].titulo : '';
     let parts = [`En <em>${obraTitle}</em> aparece como ${l.modern_equivalent ? 'un lugar que hoy corresponde a ' + l.modern_equivalent : 'un lugar mencionado en el relato'}.`];
     if (l.mention_count_aprox) parts.push(`Se lo menciona unas ${l.mention_count_aprox} veces a lo largo del texto.`);
-    parts.push('Descripción construida únicamente a partir de cómo esta crónica menciona el lugar — no es una descripción geográfica o histórica externa.');
     return parts.join(' ');
   }
 
