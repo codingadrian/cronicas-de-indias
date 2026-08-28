@@ -17,21 +17,25 @@ READMEs, METADATA).
 
 ## Estado actual (snapshot)
 
-- **Fase 0-1 completas** para tres obras: descarga, limpieza de texto,
-  separación de aparato editorial. La tercera (Diario de Colón) se agregó
-  usando Wikisource como fuente — funcionó desde Claude Code local, a
-  diferencia del entorno de nube original (ver nota sobre Wikisource más
-  abajo).
+- **Fase 0-1 completas para cinco obras**: descarga, limpieza de texto,
+  separación de aparato editorial. Bernal Díaz y Las Casas vienen de
+  Project Gutenberg; el Diario de Colón, de Wikisource (funcionó desde
+  Claude Code local, a diferencia del entorno de nube original — ver nota
+  más abajo); Cortés y las Cartas de Colón, de Archive.org.
 - **Fase 2 (entidades y relaciones): primera pasada solo sobre el Capítulo 1**
   de Bernal Díaz y Las Casas — el resto de los capítulos (110 de Bernal
-  Díaz, 96 de Las Casas) todavía no tiene relaciones extraídas. El Diario
-  de Colón **todavía no tiene ninguna entidad/relación curada** (ni
-  siquiera Capítulo 1) — está solo en Fase 0-1. Ver "Pendientes" más abajo.
+  Díaz, 96 de Las Casas) todavía no tiene relaciones extraídas. **Las
+  otras tres obras (Diario de Colón, Cortés, Cartas de Colón) todavía no
+  tienen ninguna entidad/relación curada** — están solo en Fase 0-1. Ver
+  "Pendientes" más abajo.
 - **MVP publicado** (`mvp/archivo-final.html`, también como Artifact —
-  ver más abajo) con las tres obras completas (400 capítulos/entradas)
-  navegables. Personas/Lugares/Cronología/Red solo cubren Bernal Díaz y
-  Las Casas — el Diario de Colón es de momento solo texto legible, sin
-  entidades enlazadas en el texto.
+  ver más abajo) con las cinco obras completas (415 capítulos/entradas)
+  navegables y buscables. Personas/Lugares/Cronología/Red solo cubren
+  Bernal Díaz y Las Casas — las otras tres son de momento solo texto
+  legible, sin entidades enlazadas en el texto.
+- **Cortés salió de pausa** el 2026-08-28 al conseguirse una edición
+  digital (no escaneada) de las *Cartas de relación* — ver "Decisiones de
+  alcance" más abajo, esto reabre una decisión previa.
 - **Repo en GitHub y Pages publicado**: el proyecto vive en
   https://github.com/codingadrian/cronicas-de-indias (público) y el MVP se
   sirve en https://codingadrian.github.io/cronicas-de-indias/. Ver
@@ -54,11 +58,12 @@ READMEs, METADATA).
 │   ├── bernal-diaz/     activa  — texto-limpio/historia-verdadera-tomo1.md (111 cap., ~126k palabras)
 │   ├── las-casas/       activa  — texto-limpio/historia-de-las-indias-tomo2.md (97 cap., ~178k palabras)
 │   ├── cristobal-colon/ activa  — texto-limpio/diario-primer-viaje-colon.md (191 entradas + proemio, ~54k palabras)
-│   ├── hernando-colon/  en pausa — solo raw/, sin texto-limpio/
-│   └── cortes/          en pausa — solo raw/ (PDF escaneado, 344 MB, sin OCR)
+│   ├── colon-cartas/    activa  — texto-limpio/relaciones-cartas-colon.md (10 documentos, ~74k palabras, OCR sin corregir)
+│   ├── cortes/          activa  — texto-limpio/cartas-de-relacion.md (5 cartas, ~172k palabras) — recién salió de pausa
+│   └── hernando-colon/  en pausa — solo raw/, sin texto-limpio/
 ├── entidades/
 │   ├── bernal-diaz/personas.json, lugares.json, candidatos-frecuencia.json, relaciones-muestra.json
-│   └── las-casas/          (misma estructura — cristobal-colon todavía no tiene carpeta acá, ver Pendientes)
+│   └── las-casas/          (misma estructura — las otras tres obras activas todavía no tienen carpeta acá, ver Pendientes)
 └── mvp/
     ├── README.md                      detalle del MVP, qué valida y qué no
     └── archivo-final.html             el MVP: HTML autocontenido, ~1.8 MB
@@ -66,17 +71,19 @@ READMEs, METADATA).
 
 Cada `METADATA.md` en `sources/<obra>/` tiene front-matter YAML (título,
 autor, edición, estado) y una nota de por qué esa obra está activa o en
-pausa — léelos antes de retomar Hernando Colón o Cortés, tienen el motivo
-exacto documentado.
+pausa — léelos antes de retomar Hernando Colón, tienen el motivo exacto
+documentado.
 
 ## Decisiones de alcance ya tomadas (no las reabras sin pedir)
 
-- **Cortés — Cartas de relación: en pausa.** La única fuente conseguida es un
-  PDF escaneado de 344 MB sin OCR (`sources/cortes/raw/`). Se decidió no
-  hacer OCR todavía para no bloquear el resto del piloto. Wikisource (mejor
-  calidad) no es alcanzable desde este entorno de nube — habría que
-  descargarlo a mano como se hizo con las otras obras, o hacer OCR del PDF
-  por rangos de páginas.
+- **Cortés — Cartas de relación: reactivada el 2026-08-28** (ya no está en
+  pausa — esto reemplaza la decisión anterior de dejarla pausada). La
+  pausa original era porque la única fuente conseguida era un PDF
+  escaneado de 344 MB sin OCR; se consiguió una edición digital nacida
+  digital (ePubLibre, 2013, vía Archive.org, no un escaneo) que no
+  necesitó OCR, así que se sacó de pausa directamente. El PDF escaneado
+  se conserva en `sources/cortes/raw/` pero ya no es la fuente activa —
+  ver `sources/cortes/METADATA.md`.
 - **Hernando Colón — Historia del Almirante: en pausa.** El único texto
   disponible (Internet Archive, edición Arranz) mezcla notas editoriales
   modernas dentro de los capítulos por un problema de orden en el volcado
@@ -104,6 +111,17 @@ exacto documentado.
   (su hijo, obra distinta, en pausa). Está en el MVP como texto navegable
   y buscable, pero **sin entidades/relaciones curadas todavía** — no tiene
   carpeta en `entidades/`. Ver "Pendientes".
+- **Cristóbal Colón — Relaciones y cartas: activa, solo Fase 0-1.** Se
+  agregó el 2026-08-28 (edición de 1892, Archive.org). Carpeta separada
+  `sources/colon-cartas/` (no dentro de `cristobal-colon/`) porque es otra
+  obra del mismo autor. **Esta edición de 1892 incluye también la
+  Relación del primer viaje (el mismo Diario)** — se excluyó esa parte de
+  `texto-limpio/` para no duplicar contenido ya cubierto por
+  `cristobal-colon/`. Texto con ruido de OCR sin corregir palabra por
+  palabra (a diferencia de las otras cuatro obras) y dividido más grueso
+  que el índice original del libro (10 bloques en vez de ~30 cartas/
+  fragmentos) — ver `sources/colon-cartas/METADATA.md` para el detalle y
+  qué falta si se quiere más granularidad.
 
 ## Modelo de datos
 
@@ -145,11 +163,11 @@ Un solo archivo HTML autocontenido (sin build, sin dependencias salvo un
 personas + lugares + eventos + relaciones). El JS principal está en el
 segundo `<script>` del archivo, vanilla, dentro de un único IIFE.
 
-Cinco pestañas: **Documentos** (biblioteca de las 3 obras → tabla de
+Cinco pestañas: **Documentos** (biblioteca de las 5 obras → tabla de
 contenidos → lector de capítulo con navegación anterior/siguiente),
 **Personas**, **Lugares**, **Cronología**, **Red de relaciones** (grafo de
 fuerza). Personas/Lugares solo tienen datos de Bernal Díaz y Las Casas —
-el Diario de Colón todavía no tiene entidades curadas (ver "Pendientes").
+las otras tres obras todavía no tienen entidades curadas (ver "Pendientes").
 
 ### Etiquetado de entidades dentro del texto (Documentos)
 
@@ -233,17 +251,21 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    validar primero la interfaz. Cada tanda nueva de relaciones se refleja
    directamente en la cronología y el grafo del MVP sin tocar código (los
    datos se combinan al armar el JSON embebido).
-2. **Fase 2 del Diario de Colón todavía no empezó** — no tiene
-   `entidades/cristobal-colon/` (personas.json, lugares.json, etc.), a
-   diferencia de Bernal Díaz y Las Casas que ya tienen el Capítulo 1 hecho.
-   Antes de curar entidades, conviene decidir si conviene tratar "el
+2. **Fase 2 todavía no empezó para tres obras**: Diario de Colón, Cortés,
+   y Relaciones y cartas de Colón — ninguna tiene carpeta en `entidades/`
+   (personas.json, lugares.json, etc.), a diferencia de Bernal Díaz y Las
+   Casas que ya tienen el Capítulo 1 hecho. Antes de curar entidades para
+   el Diario de Colón, conviene decidir si conviene tratar "el
    Almirante"/"Colón" como la misma persona narrador (como se hizo con
    Bernal Díaz) dado que buena parte del texto es voz de Las Casas
    resumiendo, no de Colón en primera persona todo el tiempo.
-3. Retomar Cortés (OCR del PDF, por rangos de páginas) y Hernando Colón
-   (limpieza manual o edición alternativa) cuando haya tiempo — no son
-   bloqueantes para lo demás.
-4. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
+3. **Colón — Relaciones y cartas: dividido más grueso que el índice
+   original** (10 bloques en vez de ~30 cartas/fragmentos), con ruido de
+   OCR sin corregir — ver `sources/colon-cartas/METADATA.md`. Si hace
+   falta más granularidad o texto más limpio, es trabajo pendiente.
+4. Retomar Hernando Colón (limpieza manual o edición alternativa) cuando
+   haya tiempo — no es bloqueante para lo demás.
+5. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
    registros de personas/lugares, y de las notas de ambigüedad (ej. "D Diego"
    en Las Casas).
 
@@ -254,7 +276,8 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
   slug en minúsculas con guiones, **scoped por obra** (ver nota en "Modelo
   de datos").
 - Toda relación cita su `Source` exacta (obra + capítulo).
-- No sacar Cortés/Hernando Colón de pausa, ni reabrir la decisión de usar
+- No sacar Hernando Colón de pausa, ni reabrir la decisión de usar
   *Historia de las Indias* en vez de la *Brevísima relación*, sin que el
   usuario lo pida explícitamente — son decisiones de alcance ya tomadas con
-  él, con motivo documentado arriba.
+  él, con motivo documentado arriba. (Cortés ya no está en esta lista —
+  salió de pausa el 2026-08-28, ver "Decisiones de alcance".)

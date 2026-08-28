@@ -16,8 +16,9 @@ Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en 
 - ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): 24 personas y 10 lugares registrados, muestra completa de relaciones del Capítulo 1.
 - ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): 16 personas y 13 lugares registrados, muestra completa de relaciones del Capítulo 1.
 - ✅ Cristóbal Colón — *Diario de a bordo del primer viaje*: texto completo y navegable (proemio + 191 entradas por día); todavía sin personas/lugares/relaciones curados.
+- ✅ Cristóbal Colón — *Relaciones y cartas*: 10 cartas y documentos navegables (edición de 1892, con ruido de OCR sin corregir); todavía sin personas/lugares/relaciones curados.
+- ✅ Hernán Cortés — *Cartas de relación*: las 5 cartas completas y navegables; recién salió de pausa al conseguirse una edición digital; todavía sin personas/lugares/relaciones curados.
 - ⏸️ Hernando Colón — en pausa.
-- ⏸️ Hernán Cortés — en pausa.
 
 ## Estructura
 
