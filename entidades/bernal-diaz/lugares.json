@@ -8,5 +8,13 @@
   {"id": "place:mexico-tenochtitlan", "canonical_name": "México (Tenochtitlan)", "aliases": ["Méjico"], "modern_equivalent": "Ciudad de México", "mention_count_aprox": 182, "status": "revisada"},
   {"id": "place:tlaxcala", "canonical_name": "Tlaxcala", "aliases": ["Tlascala"], "modern_equivalent": "Tlaxcala", "mention_count_aprox": 86, "status": "revisada"},
   {"id": "place:cempoala", "canonical_name": "Cempoala", "aliases": ["Cempoal"], "modern_equivalent": "Cempoala, Veracruz", "mention_count_aprox": 76, "status": "revisada"},
-  {"id": "place:cuba", "canonical_name": "Cuba", "aliases": [], "modern_equivalent": "Cuba", "mention_count_aprox": 122, "status": "revisada"}
+  {"id": "place:cuba", "canonical_name": "Cuba", "aliases": [], "modern_equivalent": "Cuba", "mention_count_aprox": 122, "status": "revisada"},
+  {"id": "place:campeche", "canonical_name": "Campeche", "aliases": ["Lázaro", "San Lázaro"], "modern_equivalent": "Campeche, México", "mention_count_aprox": 2, "status": "candidata", "notas": "los españoles la llamaron 'Lázaro'/'San Lázaro' por haber desembarcado un domingo de Lázaro"},
+  {"id": "place:potonchan", "canonical_name": "Potonchán", "aliases": ["Potonchan"], "modern_equivalent": "cerca de Champotón/Centla, Tabasco-Campeche", "mention_count_aprox": 17, "status": "candidata", "notas": "los pilotos la llamaron 'Bahía de Mala Pelea' tras la batalla de 1517"},
+  {"id": "place:florida", "canonical_name": "Florida", "aliases": [], "modern_equivalent": "Florida, EE. UU.", "mention_count_aprox": 6, "status": "candidata"},
+  {"id": "place:habana", "canonical_name": "La Habana", "aliases": ["Habana", "Puerto de Carenas"], "modern_equivalent": "La Habana, Cuba", "mention_count_aprox": 40, "status": "candidata"},
+  {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": ["Yucatan"], "modern_equivalent": "península de Yucatán, México", "mention_count_aprox": 14, "status": "candidata"},
+  {"id": "place:trinidad-cuba", "canonical_name": "Villa de la Trinidad", "aliases": ["Trinidad"], "modern_equivalent": "Trinidad, Cuba", "mention_count_aprox": 19, "status": "candidata"},
+  {"id": "place:matanzas", "canonical_name": "Puerto de Matanzas", "aliases": ["Matanzas"], "modern_equivalent": "Matanzas, Cuba", "mention_count_aprox": 4, "status": "candidata"},
+  {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": [], "modern_equivalent": "Cozumel, México", "mention_count_aprox": 28, "status": "candidata"}
 ]

@@ -13,8 +13,8 @@ Este directorio reúne el trabajo del proyecto **Crónicas de Indias**: un archi
 
 Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en https://codingadrian.github.io/cronicas-de-indias/
 
-- ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): 24 personas y 10 lugares registrados, muestra completa de relaciones del Capítulo 1.
-- ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): 16 personas y 13 lugares registrados, muestra completa de relaciones del Capítulo 1.
+- ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): 31 personas y 18 lugares registrados, relaciones de los Capítulos 1-8.
+- ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): 16 personas y 13 lugares registrados, relaciones del Capítulo 1.
 - ✅ Cristóbal Colón — *Diario de a bordo del primer viaje*: texto completo y navegable (proemio + 191 entradas por día); todavía sin personas/lugares/relaciones curados.
 - ✅ Cristóbal Colón — *Relaciones y cartas*: 10 cartas y documentos navegables (edición de 1892, con ruido de OCR sin corregir); todavía sin personas/lugares/relaciones curados.
 - ✅ Hernán Cortés — *Cartas de relación*: las 5 cartas completas y navegables; recién salió de pausa al conseguirse una edición digital; todavía sin personas/lugares/relaciones curados.
@@ -60,7 +60,7 @@ el MVP — ver el catálogo para el detalle de cada una y qué falta.
 
 ## Lo que falta (todavía no está hecho)
 
-- Las relaciones solo están hechas para el Capítulo 1 de cada obra — quedan 110 capítulos de Bernal Díaz y 96 de Las Casas sin relaciones extraídas (esto limita lo que se ve en la Cronología y la Red de relaciones del MVP).
+- Las relaciones están hechas para los Capítulos 1-8 de Bernal Díaz y el Capítulo 1 de Las Casas — quedan 103 capítulos de Bernal Díaz y 96 de Las Casas sin relaciones extraídas (esto limita lo que se ve en la Cronología y la Red de relaciones del MVP).
 - Varias entradas quedaron con `"status": "candidata"` (pendientes de una segunda revisión) o con notas de ambigüedad (ej. "D Diego" en Las Casas podría confundirse entre dos personas distintas).
 - El registro de personas/lugares se armó a partir de los candidatos más *frecuentes*; nombres mencionados pocas veces no están todavía en el registro general.
 

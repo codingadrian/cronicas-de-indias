@@ -22,12 +22,16 @@ READMEs, METADATA).
   Project Gutenberg; el Diario de Colón, de Wikisource (funcionó desde
   Claude Code local, a diferencia del entorno de nube original — ver nota
   más abajo); Cortés y las Cartas de Colón, de Archive.org.
-- **Fase 2 (entidades y relaciones): primera pasada solo sobre el Capítulo 1**
-  de Bernal Díaz y Las Casas — el resto de los capítulos (110 de Bernal
-  Díaz, 96 de Las Casas) todavía no tiene relaciones extraídas. **Las
-  otras tres obras (Diario de Colón, Cortés, Cartas de Colón) todavía no
-  tienen ninguna entidad/relación curada** — están solo en Fase 0-1. Ver
-  "Pendientes" más abajo.
+- **Fase 2 (entidades y relaciones): Bernal Díaz tiene los Capítulos 1-8
+  hechos** (103 capítulos quedan); **Las Casas solo el Capítulo 1** (96
+  capítulos quedan). Se agregaron 7 personas, 8 lugares y 7 eventos
+  nuevos al procesar los capítulos 2-8 de Bernal Díaz (dos intérpretes
+  mayas capturados en 1517 — Melchorejo y Julianillo —, la expedición de
+  Grijalva de 1518, Cozumel, Yucatán, Potonchán, etc.) — ver
+  `entidades/bernal-diaz/relaciones-muestra.json`. **Las otras tres obras
+  (Diario de Colón, Cortés, Cartas de Colón) todavía no tienen ninguna
+  entidad/relación curada** — están solo en Fase 0-1. Ver "Pendientes"
+  más abajo.
 - **MVP publicado** (`mvp/archivo-final.html`, también como Artifact —
   ver más abajo) con las cinco obras completas (415 capítulos/entradas)
   navegables y buscables. Personas/Lugares/Cronología/Red solo cubren
@@ -164,9 +168,11 @@ entidades para fases futuras.
 (conteo de nombres propios de 2+ palabras) — sirve de referencia para seguir
 canonizando entidades, no está pensado para mostrarse tal cual.
 
-`relaciones-muestra.json` solo cubre el Capítulo 1 de cada obra — es la
-"prueba de que el modelo funciona sobre texto real", no una extracción
-completa.
+`relaciones-muestra.json` sigue siendo una extracción parcial, no
+completa, de cada obra — cubre los Capítulos 1-8 de Bernal Díaz y solo
+el Capítulo 1 de Las Casas. El campo `entidades_nuevas` dentro de cada
+archivo lleva un `capitulo` por entrada para saber en qué capítulo
+apareció cada una por primera vez.
 
 ## El MVP (`mvp/archivo-final.html`)
 
@@ -291,9 +297,17 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
 
 1. **Seguir la extracción de relaciones capítulo por capítulo** — es el
    trabajo de fondo que el MVP dejó pausado a pedido del usuario para
-   validar primero la interfaz. Cada tanda nueva de relaciones se refleja
-   directamente en la cronología y el grafo del MVP sin tocar código (los
-   datos se combinan al armar el JSON embebido).
+   validar primero la interfaz. Bernal Díaz va por el Capítulo 8 de 111
+   (quedan 103); Las Casas por el Capítulo 1 de 97 (quedan 96). Cada
+   tanda nueva de relaciones se refleja directamente en la cronología y
+   el grafo del MVP sin tocar código — el patrón para sumar una tanda:
+   editar `entidades/<obra>/personas.json` y `lugares.json` (agregar
+   entidades nuevas, `status: "candidata"`), sumar eventos/relaciones al
+   final de `relaciones-muestra.json` citando `source:<obra>:cap-N`, y
+   volver a combinar esos tres archivos en el JSON embebido de
+   `mvp/archivo-final.html` (reemplazando por completo las entradas con
+   `obra: "<esa-obra>"` en `personas`/`lugares`/`eventos`/`relaciones`,
+   no solo agregando, para no dejar entidades viejas duplicadas).
 2. **Fase 2 todavía no empezó para tres obras**: Diario de Colón, Cortés,
    y Relaciones y cartas de Colón — ninguna tiene carpeta en `entidades/`
    (personas.json, lugares.json, etc.), a diferencia de Bernal Díaz y Las

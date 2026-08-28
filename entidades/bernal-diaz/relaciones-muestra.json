@@ -1,18 +1,38 @@
 {
-  "nota": "Muestra de relaciones extraídas a mano del Capítulo 1, para validar el esquema. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión).",
-  "entidades_nuevas_del_capitulo": [
-    {"id": "person:pedrarias-davila", "canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)", "aliases": ["Pedro Arias de Ávila", "Pedrárias Dávila"], "role": "gobernador de Tierra Firme", "status": "candidata"},
-    {"id": "person:vasco-nunez-de-balboa", "canonical_name": "Vasco Núñez de Balboa", "aliases": ["Vasco Nuñez de Balboa"], "role": "conquistador, yerno de Pedrarias Dávila", "status": "candidata"},
-    {"id": "person:bernardino-iniguez", "canonical_name": "Bernardino Íñiguez", "aliases": ["Bernardino Iñiguez"], "role": "veedor de la expedición de 1517", "status": "candidata"},
-    {"id": "person:alonso-gonzalez-clerigo", "canonical_name": "Alonso González", "aliases": ["Alonso Gonzalez"], "role": "clérigo de la expedición de 1517", "status": "candidata"},
-    {"id": "place:tierra-firme", "canonical_name": "Tierra Firme", "aliases": [], "modern_equivalent": "Panamá/costa continental", "status": "candidata"},
-    {"id": "place:nombre-de-dios", "canonical_name": "Nombre de Dios", "aliases": [], "modern_equivalent": "Nombre de Dios, Panamá", "status": "candidata"},
-    {"id": "place:ajaruco", "canonical_name": "Ajaruco", "aliases": [], "modern_equivalent": "por confirmar (costa norte de Cuba)", "status": "candidata"},
-    {"id": "place:san-cristobal-cuba", "canonical_name": "San Cristóbal", "aliases": [], "modern_equivalent": "asentamiento predecesor de La Habana", "status": "candidata"}
+  "nota": "Relaciones extraídas a mano, capítulo por capítulo. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Capítulos 1-8 (quedan 103 capítulos sin procesar).",
+  "entidades_nuevas": [
+    {"id": "person:pedrarias-davila", "canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)", "aliases": ["Pedro Arias de Ávila", "Pedrárias Dávila"], "role": "gobernador de Tierra Firme", "status": "candidata", "capitulo": 1},
+    {"id": "person:vasco-nunez-de-balboa", "canonical_name": "Vasco Núñez de Balboa", "aliases": ["Vasco Nuñez de Balboa"], "role": "conquistador, yerno de Pedrarias Dávila", "status": "candidata", "capitulo": 1},
+    {"id": "person:bernardino-iniguez", "canonical_name": "Bernardino Íñiguez", "aliases": ["Bernardino Iñiguez"], "role": "veedor de la expedición de 1517", "status": "candidata", "capitulo": 1},
+    {"id": "person:alonso-gonzalez-clerigo", "canonical_name": "Alonso González", "aliases": ["Alonso Gonzalez"], "role": "clérigo de la expedición de 1517", "status": "candidata", "capitulo": 1},
+    {"id": "place:tierra-firme", "canonical_name": "Tierra Firme", "aliases": [], "modern_equivalent": "Panamá/costa continental", "status": "candidata", "capitulo": 1},
+    {"id": "place:nombre-de-dios", "canonical_name": "Nombre de Dios", "aliases": [], "modern_equivalent": "Nombre de Dios, Panamá", "status": "candidata", "capitulo": 1},
+    {"id": "place:ajaruco", "canonical_name": "Ajaruco", "aliases": [], "modern_equivalent": "por confirmar (costa norte de Cuba)", "status": "candidata", "capitulo": 1},
+    {"id": "place:san-cristobal-cuba", "canonical_name": "San Cristóbal", "aliases": [], "modern_equivalent": "asentamiento predecesor de La Habana", "status": "candidata", "capitulo": 1},
+    {"id": "person:melchorejo", "canonical_name": "Melchorejo", "aliases": ["Melchor", "Melchorillo"], "role": "indígena maya capturado en Punta de Cotoche (1517), intérprete", "status": "candidata", "capitulo": 2},
+    {"id": "person:julianillo", "canonical_name": "Julianillo", "aliases": ["Julián", "Julianico"], "role": "indígena maya capturado en Punta de Cotoche (1517), intérprete", "status": "candidata", "capitulo": 2},
+    {"id": "person:alonso-bote", "canonical_name": "Alonso Bote", "aliases": [], "role": "soldado, capturado vivo en Potonchán", "status": "candidata", "capitulo": 4},
+    {"id": "person:berrio", "canonical_name": "Berrio", "aliases": [], "role": "soldado, desaparecido en la Florida", "status": "candidata", "capitulo": 6},
+    {"id": "person:pedro-de-avila", "canonical_name": "Pedro de Ávila", "aliases": [], "role": "vecino de la Habana", "status": "candidata", "capitulo": 7},
+    {"id": "person:juan-diaz-clerigo", "canonical_name": "Juan Díaz", "aliases": [], "role": "clérigo de la expedición de Grijalva (1518)", "status": "candidata", "capitulo": 8},
+    {"id": "person:penalosa", "canonical_name": "Peñalosa", "aliases": [], "role": "veedor de la expedición de Grijalva (1518)", "status": "candidata", "capitulo": 8},
+    {"id": "place:campeche", "canonical_name": "Campeche", "aliases": ["Lázaro", "San Lázaro"], "modern_equivalent": "Campeche, México", "status": "candidata", "capitulo": 3},
+    {"id": "place:potonchan", "canonical_name": "Potonchán", "aliases": ["Potonchan"], "modern_equivalent": "cerca de Champotón/Centla, Tabasco-Campeche", "status": "candidata", "capitulo": 3},
+    {"id": "place:florida", "canonical_name": "Florida", "aliases": [], "modern_equivalent": "Florida, EE. UU.", "status": "candidata", "capitulo": 5},
+    {"id": "place:habana", "canonical_name": "La Habana", "aliases": ["Habana", "Puerto de Carenas"], "modern_equivalent": "La Habana, Cuba", "status": "candidata", "capitulo": 6},
+    {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": ["Yucatan"], "modern_equivalent": "península de Yucatán, México", "status": "candidata", "capitulo": 6},
+    {"id": "place:trinidad-cuba", "canonical_name": "Villa de la Trinidad", "aliases": ["Trinidad"], "modern_equivalent": "Trinidad, Cuba", "status": "candidata", "capitulo": 7},
+    {"id": "place:matanzas", "canonical_name": "Puerto de Matanzas", "aliases": ["Matanzas"], "modern_equivalent": "Matanzas, Cuba", "status": "candidata", "capitulo": 8},
+    {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": [], "modern_equivalent": "Cozumel, México", "status": "candidata", "capitulo": 8}
   ],
   "eventos": [
     {"id": "event:ejecucion-balboa", "name": "Ejecución de Vasco Núñez de Balboa", "date_text": "no especificada en el capítulo", "place_id": "place:tierra-firme", "status": "candidata"},
-    {"id": "event:expedicion-hernandez-de-cordoba-1517", "name": "Expedición de Francisco Hernández de Córdoba a Yucatán (1517)", "date_text": "1517 (implícito, por contexto)", "place_id": "place:cuba", "status": "candidata"}
+    {"id": "event:expedicion-hernandez-de-cordoba-1517", "name": "Expedición de Francisco Hernández de Córdoba a Yucatán (1517)", "date_text": "1517 (implícito, por contexto)", "place_id": "place:yucatan", "status": "candidata"},
+    {"id": "event:batalla-punta-cotoche", "name": "Escaramuza de Punta de Cotoche", "date_text": "1517, poco después de tocar tierra por primera vez", "place_id": "place:punta-de-cotoche", "status": "candidata", "notas": "parte de la expedición de Hernández de Córdoba; termina con la captura de Melchorejo y Julianillo"},
+    {"id": "event:batalla-potonchan-1517", "name": "Batalla de Potonchán (Bahía de Mala Pelea)", "date_text": "1517", "place_id": "place:potonchan", "status": "candidata", "notas": "parte de la expedición de Hernández de Córdoba; el capitán recibe doce flechazos, mueren más de 50 soldados españoles"},
+    {"id": "event:escaramuza-florida-1517", "name": "Escaramuza en la Florida", "date_text": "1517, en el viaje de regreso a Cuba", "place_id": "place:florida", "status": "candidata", "notas": "parte de la expedición de Hernández de Córdoba; el piloto Alaminos es herido en la garganta, desaparece el soldado Berrio"},
+    {"id": "event:muerte-francisco-hernandez-de-cordoba", "name": "Muerte de Francisco Hernández de Córdoba", "date_text": "1517, diez días después de llegar a su encomienda en Santispíritus", "place_id": null, "status": "candidata", "notas": "muere de las heridas recibidas en la batalla de Potonchán"},
+    {"id": "event:expedicion-grijalva-1518", "name": "Expedición de Juan de Grijalva (1518)", "date_text": "5 de abril de 1518 (partida)", "place_id": "place:cozumel", "status": "candidata", "notas": "segunda expedición desde Cuba, organizada por Diego Velázquez; primer avistamiento en Cozumel"}
   ],
   "relaciones": [
     {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:tierra-firme", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
@@ -22,6 +42,48 @@
     {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "gobernador de Cuba, autorizó y proveyó la expedición", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
     {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "elegido capitán de la expedición", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
     {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "piloto principal", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-    {"from": "event:expedicion-hernandez-de-cordoba-1517", "relation": "ocurrió_en", "to": "place:cuba", "source": "source:bernal-diaz:cap-1", "status": "candidata"}
+    {"from": "event:expedicion-hernandez-de-cordoba-1517", "relation": "ocurrió_en", "to": "place:cuba", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
+
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:punta-de-cotoche", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
+    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:batalla-punta-cotoche", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
+    {"from": "person:alonso-gonzalez-clerigo", "relation": "estuvo_presente_en", "to": "event:batalla-punta-cotoche", "notas": "recogió el oro y los ídolos hallados en los adoratorios", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
+    {"from": "person:melchorejo", "relation": "estuvo_presente_en", "to": "event:batalla-punta-cotoche", "notas": "capturado y bautizado tras la escaramuza", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
+    {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:batalla-punta-cotoche", "notas": "capturado y bautizado tras la escaramuza", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
+    {"from": "event:batalla-punta-cotoche", "relation": "ocurrió_en", "to": "place:punta-de-cotoche", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
+
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:campeche", "source": "source:bernal-diaz:cap-3", "status": "candidata"},
+
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:potonchan", "source": "source:bernal-diaz:cap-4", "status": "candidata"},
+    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:batalla-potonchan-1517", "notas": "capitán, recibió doce flechazos", "source": "source:bernal-diaz:cap-4", "status": "candidata"},
+    {"from": "person:alonso-bote", "relation": "estuvo_presente_en", "to": "event:batalla-potonchan-1517", "notas": "capturado vivo por los indios", "source": "source:bernal-diaz:cap-4", "status": "candidata"},
+    {"from": "event:batalla-potonchan-1517", "relation": "ocurrió_en", "to": "place:potonchan", "source": "source:bernal-diaz:cap-4", "status": "candidata"},
+
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:florida", "notas": "de camino de regreso a Cuba, a buscar agua", "source": "source:bernal-diaz:cap-5", "status": "candidata"},
+    {"from": "person:anton-de-alaminos", "relation": "viajó_a", "to": "place:florida", "notas": "propuso desviar la ruta de regreso hacia la Florida", "source": "source:bernal-diaz:cap-5", "status": "candidata"},
+
+    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:escaramuza-florida-1517", "notas": "herido en la garganta", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
+    {"from": "person:berrio", "relation": "estuvo_presente_en", "to": "event:escaramuza-florida-1517", "notas": "desaparecido, presumiblemente capturado o muerto", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
+    {"from": "event:escaramuza-florida-1517", "relation": "ocurrió_en", "to": "place:florida", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:habana", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
+    {"from": "person:francisco-hernandez-de-cordoba", "relation": "viajó_a", "to": "place:habana", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
+    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:muerte-francisco-hernandez-de-cordoba", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
+
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:trinidad-cuba", "source": "source:bernal-diaz:cap-7", "status": "candidata"},
+    {"from": "person:pedro-de-avila", "relation": "viajó_a", "to": "place:trinidad-cuba", "notas": "llevó a Bernal Díaz y otros dos soldados en su canoa", "source": "source:bernal-diaz:cap-7", "status": "candidata"},
+
+    {"from": "person:juan-de-grijalva", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán general, deudo de Diego Velázquez", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:pedro-de-alvarado", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán de uno de los cuatro navíos", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:francisco-de-montejo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán de uno de los cuatro navíos", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:alonso-de-avila", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán de uno de los cuatro navíos", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "organizó y financió la armada desde Santiago de Cuba", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:bernal-diaz-del-castillo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "piloto mayor", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:juan-diaz-clerigo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:penalosa", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "veedor de la armada", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:melchorejo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "llevado como intérprete", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "llevado como intérprete", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:matanzas", "notas": "escala de reabastecimiento antes de zarpar hacia Yucatán", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:cozumel", "notas": "primer avistamiento de tierra de la expedición", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
+    {"from": "event:expedicion-grijalva-1518", "relation": "ocurrió_en", "to": "place:cozumel", "source": "source:bernal-diaz:cap-8", "status": "candidata"}
   ]
 }
