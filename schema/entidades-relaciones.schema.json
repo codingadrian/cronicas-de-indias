@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Esquema de entidades y relaciones — Crónicas de Indias",
+  "description": "Modelo de datos borrador para la Fase 0. Cuatro tipos de entidad y un conjunto de relaciones tipadas, cada una citando el pasaje de origen.",
+  "entity_types": {
+    "Person": {
+      "description": "Conquistadores, líderes indígenas, clero, funcionarios de la corona.",
+      "fields": {
+        "id": "identificador estable, ej. person:hernan-cortes",
+        "canonical_name": "nombre de referencia normalizado",
+        "aliases": "lista de variantes ortográficas encontradas en los textos",
+        "role": "rol o cargo, si se conoce",
+        "notes": "notas libres del revisor"
+      }
+    },
+    "Place": {
+      "description": "Pueblos, provincias, ríos, rutas.",
+      "fields": {
+        "id": "identificador estable, ej. place:tenochtitlan",
+        "canonical_name": "nombre de referencia normalizado",
+        "aliases": "variantes ortográficas encontradas en los textos",
+        "modern_equivalent": "lugar o topónimo moderno equivalente, si se conoce",
+        "notes": "notas libres del revisor"
+      }
+    },
+    "Event": {
+      "description": "Batallas, encuentros, viajes, fundación de pueblos.",
+      "fields": {
+        "id": "identificador estable, ej. event:noche-triste",
+        "name": "nombre del evento",
+        "date_text": "fecha tal como aparece en el texto",
+        "date_normalized": "fecha normalizada (ISO 8601), si se puede inferir",
+        "place_id": "referencia a Place",
+        "notes": "notas libres del revisor"
+      }
+    },
+    "Source": {
+      "description": "La crónica y el pasaje de origen de una afirmación. Toda relación cita una.",
+      "fields": {
+        "id": "identificador estable, ej. source:bernal-diaz:cap-87",
+        "work_id": "obra de origen (bernal-diaz | las-casas [Historia de las Indias, tomo II] | hernando-colon [en pausa] | cortes [en pausa])",
+        "chapter": "capítulo o carta",
+        "paragraph": "párrafo dentro del capítulo",
+        "source_url": "URL de la edición de origen",
+        "edition": "edición usada"
+      }
+    }
+  },
+  "relation_types": [
+    {
+      "name": "present_at",
+      "from": "Person",
+      "to": "Event",
+      "spanish": "estuvo_presente_en"
+    },
+    {
+      "name": "allied_with",
+      "from": "Person",
+      "to": "Person",
+      "spanish": "aliado_de"
+    },
+    {
+      "name": "fought_against",
+      "from": "Person",
+      "to": "Person",
+      "spanish": "enfrentado_a"
+    },
+    {
+      "name": "occurred_in",
+      "from": "Event",
+      "to": "Place",
+      "spanish": "ocurrió_en"
+    },
+    {
+      "name": "occurred_on",
+      "from": "Event",
+      "to": "Date",
+      "spanish": "ocurrió_el"
+    },
+    {
+      "name": "traveled_to",
+      "from": "Person",
+      "to": "Place",
+      "spanish": "viajó_a"
+    },
+    {
+      "name": "cited_in",
+      "from": "Relation",
+      "to": "Source",
+      "spanish": "citada_en"
+    }
+  ],
+  "review_workflow": {
+    "pass_1": "etiquetado asistido de entidades y relaciones candidatas por párrafo",
+    "pass_2": "revisión humana obligatoria contra el pasaje original antes de publicar",
+    "status_values": [
+      "candidata",
+      "revisada",
+      "publicada",
+      "descartada"
+    ]
+  }
+}

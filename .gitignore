@@ -1,0 +1,4 @@
+# Cortés — PDF escaneado de 344 MB, supera el límite de 100 MB de GitHub.
+# En pausa de todos modos (ver CLAUDE.md); fuente documentada en
+# sources/cortes/METADATA.md para volver a conseguirlo cuando se retome.
+sources/cortes/raw/*.pdf

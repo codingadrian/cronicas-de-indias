@@ -1,0 +1,24 @@
+{
+  "nota": "Muestra de relaciones extraídas a mano del Capítulo 1 (Capítulo LXXXIII de la obra completa), para validar el esquema. Estado: candidata (pendiente de una segunda revisión).",
+  "entidades_nuevas_del_capitulo": [
+    {"id": "person:pedro-de-ayala", "canonical_name": "D. Pedro de Ayala", "aliases": [], "role": "embajador de los Reyes Católicos ante Portugal", "status": "candidata"},
+    {"id": "person:garcia-de-carbajal", "canonical_name": "D. García de Carbajal", "aliases": [], "role": "embajador, hermano del Cardenal de Santa Cruz", "status": "candidata"},
+    {"id": "person:juan-de-la-parra", "canonical_name": "Juan de la Parra", "aliases": [], "role": "secretario de la Reina", "status": "candidata"},
+    {"id": "person:rey-de-portugal", "canonical_name": "Rey de Portugal (sin nombrar)", "aliases": ["el rey de Portugal"], "role": "monarca de Portugal", "status": "candidata", "notas": "no se nombra en el capítulo; sería Juan II de Portugal por la fecha (1493)"},
+    {"id": "place:barcelona", "canonical_name": "Barcelona", "aliases": [], "modern_equivalent": "Barcelona, España", "status": "candidata"},
+    {"id": "place:portugal", "canonical_name": "Portugal", "aliases": [], "modern_equivalent": "Portugal", "status": "candidata"}
+  ],
+  "eventos": [
+    {"id": "event:carta-reina-colon-1493-09-05", "name": "Carta de la Reina Isabel a Cristóbal Colón", "date_text": "5 de septiembre de (14)93, Barcelona", "date_normalized": "1493-09-05", "place_id": "place:barcelona", "status": "candidata", "notas": "prepara el segundo viaje de Colón"},
+    {"id": "event:embajada-portugal-negociacion", "name": "Embajada de negociación con Portugal sobre el reparto de tierras descubiertas", "date_text": "no especificada, previa a septiembre de 1493", "place_id": null, "status": "candidata"}
+  ],
+  "relaciones": [
+    {"from": "person:reyes-catolicos", "relation": "cited_in", "to": "source:las-casas:cap-1", "notas": "escriben y reciben correspondencia con Colón", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "cited_in", "to": "source:las-casas:cap-1", "notas": "destinatario de la carta de la Reina; se dirige a él como 'Almirante del mar Océano, Visorey é Gobernador de las islas'", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "person:pedro-de-ayala", "relation": "present_at", "to": "event:embajada-portugal-negociacion", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "person:garcia-de-carbajal", "relation": "present_at", "to": "event:embajada-portugal-negociacion", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "event:embajada-portugal-negociacion", "relation": "ocurrió_en", "to": "place:portugal", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "event:carta-reina-colon-1493-09-05", "relation": "ocurrió_en", "to": "place:barcelona", "source": "source:las-casas:cap-1", "status": "candidata"},
+    {"from": "person:juan-de-la-parra", "relation": "present_at", "to": "event:carta-reina-colon-1493-09-05", "notas": "firma 'por mandado de la Reina'", "source": "source:las-casas:cap-1", "status": "candidata"}
+  ]
+}

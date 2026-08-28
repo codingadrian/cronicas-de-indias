@@ -1,0 +1,474 @@
+<title>Crónicas de Indias</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Space+Mono:wght@400;700&display=swap">
+<style>
+  :root{
+    --bg: #E7E2D3;
+    --surface: #F4F0E4;
+    --surface-2: #ECE7D8;
+    --ink: #2A2620;
+    --ink-soft: #55503F;
+    --accent: #2E5C50;
+    --accent-soft: #4B7A6C;
+    --accent-2: #7A3A29;
+    --line: #C7BC9E;
+    --line-strong: #A99B76;
+    --shadow: rgba(42,38,32,0.08);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg: #1B1D19;
+      --surface: #232520;
+      --surface-2: #292B24;
+      --ink: #E9E3D2;
+      --ink-soft: #B9B29B;
+      --accent: #7CB49E;
+      --accent-soft: #5E9683;
+      --accent-2: #D08865;
+      --line: #3C3E35;
+      --line-strong: #4C4E42;
+      --shadow: rgba(0,0,0,0.35);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg: #1B1D19;
+    --surface: #232520;
+    --surface-2: #292B24;
+    --ink: #E9E3D2;
+    --ink-soft: #B9B29B;
+    --accent: #7CB49E;
+    --accent-soft: #5E9683;
+    --accent-2: #D08865;
+    --line: #3C3E35;
+    --line-strong: #4C4E42;
+    --shadow: rgba(0,0,0,0.35);
+  }
+
+  *{ box-sizing: border-box; }
+  body{
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Spectral', Georgia, 'Times New Roman', serif;
+    font-size: 17px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  @media (prefers-reduced-motion: reduce){
+    *{ animation: none !important; transition: none !important; }
+  }
+
+  .page{
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 4.5rem 1.5rem 6rem;
+  }
+
+  h1, h2, h3{
+    font-family: 'IM Fell English', Georgia, serif;
+    font-weight: 400;
+    text-wrap: balance;
+    color: var(--ink);
+  }
+
+  .eyebrow{
+    font-family: 'Space Mono', ui-monospace, Menlo, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  /* ---------- Header ---------- */
+  header{
+    text-align: center;
+    margin-bottom: 3.5rem;
+  }
+  header .eyebrow{ display:block; margin-bottom: 1.1rem; color: var(--ink-soft); }
+  header h1{
+    font-size: 3rem;
+    margin: 0 0 0.5rem;
+    letter-spacing: 0.01em;
+  }
+  header .subtitle{
+    font-style: italic;
+    color: var(--ink-soft);
+    font-size: 1.15rem;
+    max-width: 34em;
+    margin: 0 auto 1.8rem;
+  }
+  .ornament{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.9rem;
+    color: var(--line-strong);
+  }
+  .ornament::before, .ornament::after{
+    content: "";
+    height: 1px;
+    width: 6rem;
+    background: var(--line-strong);
+  }
+  .ornament span{
+    display:inline-block;
+    width: 7px; height: 7px;
+    background: var(--accent);
+    transform: rotate(45deg);
+  }
+
+  /* ---------- Sections ---------- */
+  section{ margin-top: 3.6rem; }
+  section > .eyebrow{ display:block; margin-bottom: 0.6rem; }
+  section h2{
+    font-size: 1.7rem;
+    margin: 0 0 1.1rem;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 0.6rem;
+  }
+  section p{ margin: 0 0 1rem; max-width: 42em; }
+  section p.lede{ color: var(--ink-soft); }
+
+  ul.plain, ol.plain{ padding-left: 0; margin: 0 0 1rem; list-style: none; }
+
+  /* ---------- Pilot corpus cards ---------- */
+  .corpus{ display:flex; flex-direction:column; gap: 1.1rem; }
+  .work{
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    padding: 1.3rem 1.5rem;
+  }
+  .work-title{
+    font-style: italic;
+    font-size: 1.15rem;
+    margin: 0 0 0.15rem;
+  }
+  .work-meta{
+    font-family: 'Space Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    color: var(--accent-soft);
+    text-transform: uppercase;
+    margin-bottom: 0.7rem;
+  }
+  .work p{ margin: 0 0 0.6rem; font-size: 0.97rem; }
+  .work .source-line{
+    font-family: 'Space Mono', monospace;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+  }
+
+  /* ---------- Pipeline ---------- */
+  .pipeline{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    gap: 0;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    overflow-x: auto;
+  }
+  .pipeline .stage{
+    flex: 1 1 140px;
+    padding: 1.1rem 1rem;
+    border-right: 1px solid var(--line);
+    min-width: 140px;
+  }
+  .pipeline .stage:last-child{ border-right: none; }
+  .pipeline .stage-num{
+    font-family: 'Space Mono', monospace;
+    font-size: 0.68rem;
+    color: var(--accent);
+    letter-spacing: 0.08em;
+  }
+  .pipeline .stage-name{
+    font-family: 'IM Fell English', serif;
+    font-size: 1.15rem;
+    margin: 0.2rem 0 0.35rem;
+  }
+  .pipeline .stage-desc{
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    line-height: 1.4;
+  }
+
+  /* ---------- Roadmap ---------- */
+  .roadmap{ border-left: 2px solid var(--line-strong); margin-left: 0.4rem; }
+  .phase{
+    position: relative;
+    padding: 0 0 2rem 1.6rem;
+  }
+  .phase:last-child{ padding-bottom: 0.2rem; }
+  .phase::before{
+    content: "";
+    position: absolute;
+    left: -6px; top: 0.35rem;
+    width: 10px; height: 10px;
+    background: var(--bg);
+    border: 2px solid var(--accent);
+    transform: rotate(45deg);
+  }
+  .phase-head{
+    display:flex;
+    align-items: baseline;
+    gap: 0.7rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.3rem;
+  }
+  .phase-num{
+    font-family: 'Space Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--accent);
+  }
+  .phase-name{
+    font-family: 'IM Fell English', serif;
+    font-size: 1.3rem;
+  }
+  .phase-when{
+    font-family: 'Space Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--ink-soft);
+    margin-left: auto;
+  }
+  .phase p{ margin: 0; max-width: 40em; font-size: 0.97rem; color: var(--ink-soft); }
+
+  /* ---------- Model ---------- */
+  .model-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 0.9rem;
+    margin-bottom: 1.3rem;
+  }
+  .entity-card{
+    background: var(--surface-2);
+    border: 1px solid var(--line);
+    padding: 0.9rem 1rem;
+  }
+  .entity-card .name{
+    font-family: 'IM Fell English SC', serif;
+    letter-spacing: 0.03em;
+    font-size: 1.05rem;
+    color: var(--accent);
+  }
+  .entity-card .desc{ font-size: 0.85rem; color: var(--ink-soft); margin-top: 0.25rem; }
+  .relations{
+    font-family: 'Space Mono', monospace;
+    font-size: 0.82rem;
+    color: var(--ink-soft);
+    background: var(--surface);
+    border: 1px dashed var(--line-strong);
+    padding: 1rem 1.2rem;
+    line-height: 1.9;
+    overflow-x: auto;
+  }
+  .relations b{ color: var(--accent-2); font-weight: 700; }
+
+  /* ---------- Checklist ---------- */
+  .checklist{ display:flex; flex-direction:column; gap: 0.6rem; }
+  .checklist li{
+    display:flex;
+    gap: 0.7rem;
+    align-items: flex-start;
+    font-size: 0.98rem;
+  }
+  .checklist .box{
+    font-family: 'Space Mono', monospace;
+    color: var(--accent);
+    flex-shrink: 0;
+    margin-top: 0.15rem;
+  }
+
+  footer{
+    margin-top: 4rem;
+    padding-top: 1.6rem;
+    border-top: 1px solid var(--line);
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+  }
+  footer p{ max-width: 42em; margin: 0 0 0.6rem; }
+
+  a{ color: var(--accent-2); }
+</style>
+
+<div class="page">
+
+  <header>
+    <span class="eyebrow">Plan de proyecto &middot; Borrador &middot; 28 de agosto de 2026</span>
+    <h1>Crónicas de Indias</h1>
+    <p class="subtitle">Un plan para construir un archivo relacional y consultable de las crónicas españolas sobre la conquista de América, pensado para historiadores y publicado en dominio público.</p>
+    <div class="ornament"><span></span></div>
+  </header>
+
+  <section>
+    <span class="eyebrow">§ 01</span>
+    <h2>La idea, revisada</h2>
+    <p class="lede">Las crónicas de Indias —relatos de testigos presenciales y de segunda mano escritos por españoles durante los siglos XVI y XVII— ya son de dominio público y ya están llenas de la materia prima que los historiadores tardan años en cruzar a mano: quién estuvo dónde, cuándo, y en relación con quién. Lo que falta es una capa estructurada sobre la prosa.</p>
+    <p>Es un tipo de proyecto con buenos precedentes —en la línea de las colecciones de crónicas de la Biblioteca Virtual Miguel de Cervantes, el <i>Repertorium Columbianum</i>, y los archivos digitales de la John Carter Brown Library— pero pocos esfuerzos existentes van más allá de las imágenes de página y las transcripciones planas hacia relaciones realmente consultables entre personas, lugares y fechas.</p>
+    <p>Dos cosas hacen esto más difícil de lo que parece, y conviene planificarlas desde el primer día:</p>
+    <p><b>La ortografía.</b> La escritura del español del siglo XVI es inestable —la misma persona o el mismo lugar puede aparecer escrito de cuatro o cinco formas distintas dentro de un mismo texto—, así que cualquier índice necesita una capa de normalización, no solo una búsqueda por nombre.</p>
+    <p><b>La desambiguación.</b> «Cortés», «Moctezuma» y decenas de topónimos recurrentes aparecen en muchas crónicas y necesitan un vocabulario controlado compartido en todo el corpus, no etiquetas por documento.</p>
+  </section>
+
+  <section>
+    <span class="eyebrow">§ 02</span>
+    <h2>Corpus piloto</h2>
+    <p class="lede">Dos textos activos por ahora, elegidos porque ya están disponibles en texto plano limpio, sin necesidad de OCR: un relato de testigo presencial y una crónica histórica extensa. Dos obras más quedan en pausa hasta resolver problemas de fuente (ver nota al final).</p>
+
+    <div class="corpus">
+      <div class="work">
+        <p class="work-title">Historia verdadera de la conquista de la Nueva España</p>
+        <p class="work-meta">Bernal Díaz del Castillo · escrita hacia 1568, publicada por primera vez en 1632 · Nueva España</p>
+        <p>El relato de testigo presencial más rico del género —denso en compañeros, batallas y pueblos nombrados, contado desde la tropa y no desde la tienda de mando. Buena prueba de esfuerzo para la densidad de entidades y para ver cómo se nombra de forma distinta a la misma persona a lo largo de los capítulos.</p>
+        <p class="source-line">Fuente: Project Gutenberg, texto plano completo y limpio. Incorporado y ya dividido en 111 capítulos el volumen 1 de 3; faltan los volúmenes 2 y 3.</p>
+      </div>
+      <div class="work">
+        <p class="work-title">Historia de las Indias (tomo II)</p>
+        <p class="work-meta">Bartolomé de las Casas · edición de 1875–1876 · Caribe y continente</p>
+        <p>La otra gran obra histórica de Las Casas —más extensa y detallada que la <i>Brevísima relación</i> planeada originalmente para el piloto, que terminó reemplazando tras un error de fuente. Cubre los capítulos LXXXIII a CLXXXIII de la obra completa, ya divididos y limpios.</p>
+        <p class="source-line">Fuente: Project Gutenberg (n.º 50351), texto plano completo, con notas del transcriptor.</p>
+      </div>
+    </div>
+    <p style="font-size:0.92rem; color:var(--ink-soft);">Dos obras quedan en pausa por ahora: las <i>Cartas de relación</i> de Hernán Cortés (la única fuente disponible es un PDF escaneado sin texto extraído) e <i>Historia del Almirante</i> de Hernando Colón (la fuente disponible mezcla notas editoriales modernas dentro de los capítulos por un problema de orden en el volcado OCR). Ambas se retoman más adelante.</p>
+  </section>
+
+  <section>
+    <span class="eyebrow">§ 03</span>
+    <h2>Obtención y preparación de los textos</h2>
+    <p>Wikisource era la fuente preferida en el plan original, pero no resultó accesible desde el entorno de trabajo actual. En la práctica, las dos obras activas del piloto se consiguieron en texto plano limpio a través de Project Gutenberg —sin necesidad de OCR. Un tercer intento (Hernando Colón, vía Internet Archive) reveló notas editoriales modernas mezcladas dentro del texto por un problema de orden en el volcado OCR, así que esa obra quedó en pausa en lugar de forzar una limpieza poco confiable.</p>
+    <p>Cada crónica se divide en capítulos y se convierte a Markdown con un encabezado de metadatos —autor, edición, URL de origen, y un identificador estable de capítulo/párrafo al que puede remitir cada entidad y relación extraída. Ese rastro de citas es lo que hace que el archivo sea útil para historiadores y no solo navegable.</p>
+  </section>
+
+  <section>
+    <span class="eyebrow">§ 04</span>
+    <h2>Entidades y relaciones</h2>
+    <p>Cuatro tipos de entidad cubren la mayor parte de lo que narran las crónicas, cada uno con un registro canónico y una lista de variantes ortográficas encontradas en el texto:</p>
+    <div class="model-grid">
+      <div class="entity-card"><div class="name">Persona</div><div class="desc">conquistadores, líderes indígenas, clero, funcionarios de la corona</div></div>
+      <div class="entity-card"><div class="name">Lugar</div><div class="desc">pueblos, provincias, ríos, rutas —con su equivalente moderno cuando se conoce</div></div>
+      <div class="entity-card"><div class="name">Evento</div><div class="desc">batallas, encuentros, viajes, fundación de pueblos —fechados cuando el texto lo permite</div></div>
+      <div class="entity-card"><div class="name">Fuente</div><div class="desc">la crónica y el pasaje del que proviene una afirmación —toda relación cita una</div></div>
+    </div>
+    <p>Las relaciones conectan estas entidades entre sí y siempre llevan una cita al pasaje del que se extrajeron:</p>
+    <div class="relations">
+      (Persona) —<b>estuvo_presente_en</b>→ (Evento)<br>
+      (Persona) —<b>aliado_de</b> / <b>enfrentado_a</b>→ (Persona)<br>
+      (Evento) —<b>ocurrió_en</b>→ (Lugar), <b>ocurrió_el</b>→ (Fecha)<br>
+      (Persona) —<b>viajó_a</b>→ (Lugar)<br>
+      (Relación) —<b>citada_en</b>→ (Fuente, capítulo §, párrafo §)
+    </div>
+    <p>La extracción es semiautomática: una primera pasada etiqueta entidades y relaciones candidatas por párrafo, pero nada se publica en el sitio público hasta que un revisor humano lo confirma —algo innegociable dado lo fácil que resulta que el etiquetado automático tropiece con el español arcaico, y dado que el público al que se dirige son historiadores.</p>
+  </section>
+
+  <section>
+    <span class="eyebrow">§ 05</span>
+    <h2>Cómo se construye</h2>
+    <p class="lede">Cinco etapas, del texto fuente a la página publicada:</p>
+    <div class="pipeline">
+      <div class="stage">
+        <div class="stage-num">01</div>
+        <div class="stage-name">Fuente</div>
+        <div class="stage-desc">Originales en texto plano de Wikisource, verificados contra una segunda digitalización</div>
+      </div>
+      <div class="stage">
+        <div class="stage-num">02</div>
+        <div class="stage-name">Texto</div>
+        <div class="stage-desc">Convertido a Markdown, dividido en capítulos, con identificadores estables de cita</div>
+      </div>
+      <div class="stage">
+        <div class="stage-num">03</div>
+        <div class="stage-name">Entidades</div>
+        <div class="stage-desc">Etiquetado asistido, seguido de revisión humana contra el pasaje</div>
+      </div>
+      <div class="stage">
+        <div class="stage-num">04</div>
+        <div class="stage-name">Datos</div>
+        <div class="stage-desc">Registros canónicos + relaciones, cada una citando su pasaje de origen</div>
+      </div>
+      <div class="stage">
+        <div class="stage-num">05</div>
+        <div class="stage-name">Sitio</div>
+        <div class="stage-desc">Búsqueda de texto completo, un mapa de entidades, línea de tiempo y grafo de relaciones</div>
+      </div>
+    </div>
+    <p style="margin-top:1rem; font-size:0.92rem; color:var(--ink-soft);">Deliberadamente simple y duradero: archivos de texto y datos estáticos, un índice de búsqueda para sitio estático (sin servidor que mantener), y visualizaciones ligeras del lado del cliente —un mapa para los lugares, una línea de tiempo para los eventos fechados, un grafo de red para las relaciones. Todo gratuito de alojar indefinidamente, algo importante para un proyecto pensado para durar más que cualquier beca o trabajo.</p>
+  </section>
+
+  <section>
+    <span class="eyebrow">§ 06</span>
+    <h2>Hoja de ruta</h2>
+    <div class="roadmap">
+      <div class="phase">
+        <div class="phase-head">
+          <span class="phase-num">FASE 0</span>
+          <span class="phase-name">Alcance y fuentes</span>
+          <span class="phase-when">~ esta semana</span>
+        </div>
+        <p>Confirmar los tres textos piloto, obtener y verificar las fuentes en texto plano, acordar el esquema de entidades y relaciones.</p>
+      </div>
+      <div class="phase">
+        <div class="phase-head">
+          <span class="phase-num">FASE 1</span>
+          <span class="phase-name">Preparación del texto</span>
+          <span class="phase-when">~ 1 semana</span>
+        </div>
+        <p>Convertir a Markdown dividido en capítulos con identificadores de cita; verificar puntualmente contra una segunda fuente.</p>
+      </div>
+      <div class="phase">
+        <div class="phase-head">
+          <span class="phase-num">FASE 2</span>
+          <span class="phase-name">Extracción y revisión</span>
+          <span class="phase-when">~ 2–3 semanas</span>
+        </div>
+        <p>Etiquetado asistido de entidades y relaciones en una primera pasada, seguido de revisión humana completa de los tres textos piloto.</p>
+      </div>
+      <div class="phase">
+        <div class="phase-head">
+          <span class="phase-num">FASE 3</span>
+          <span class="phase-name">Capa de datos</span>
+          <span class="phase-when">~ 1 semana</span>
+        </div>
+        <p>Canonizar entidades, fusionar variantes ortográficas, conectar las citas —el conjunto de datos que un sitio web (o cualquier futuro investigador) pueda consultar.</p>
+      </div>
+      <div class="phase">
+        <div class="phase-head">
+          <span class="phase-num">FASE 4</span>
+          <span class="phase-name">Sitio web</span>
+          <span class="phase-when">~ 2–3 semanas</span>
+        </div>
+        <p>Búsqueda de texto completo, páginas de entidades, mapa, línea de tiempo y grafo de relaciones, construidos sobre el conjunto de datos piloto.</p>
+      </div>
+      <div class="phase">
+        <div class="phase-head">
+          <span class="phase-num">FASE 5</span>
+          <span class="phase-name">Publicación</span>
+          <span class="phase-when">~ pocos días</span>
+        </div>
+        <p>Lanzamiento público del piloto, con una declaración clara de dominio público / datos abiertos y una descarga citable del conjunto de datos.</p>
+      </div>
+      <div class="phase">
+        <div class="phase-head">
+          <span class="phase-num">FASE 6</span>
+          <span class="phase-name">Escalar</span>
+          <span class="phase-when">en curso</span>
+        </div>
+        <p>Sumar crónicas más allá del piloto, y abrir una vía de revisión para que historiadores externos propongan correcciones o adiciones.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <span class="eyebrow">§ 07</span>
+    <h2>Próximos pasos</h2>
+    <ul class="checklist plain">
+      <li><span class="box">☐</span> Confirmar los tres textos piloto (o cambiar alguno)</li>
+      <li><span class="box">☐</span> Obtener y verificar las fuentes en texto plano de los tres</li>
+      <li><span class="box">☐</span> Redactar el esquema completo de entidades y relaciones, para tu revisión</li>
+      <li><span class="box">☐</span> Construir un prototipo funcional sobre una crónica para validar el proceso de principio a fin</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Las crónicas fuente ya son de dominio público. El conjunto de datos que produce este proyecto —los registros de entidades, las relaciones y las citas— está pensado para publicarse bajo una licencia equivalente a dominio público (CC0), en línea con el objetivo de que sea un recurso compartido para historiadores y escritores, y no una capa propietaria sobre textos ya abiertos.</p>
+  </footer>
+
+</div>

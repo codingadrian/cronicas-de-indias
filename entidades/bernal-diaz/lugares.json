@@ -1,0 +1,12 @@
+[
+  {"id": "place:nueva-espana", "canonical_name": "Nueva España", "aliases": ["Nueva-España"], "modern_equivalent": "México (virreinato colonial)", "mention_count_aprox": 43, "status": "revisada"},
+  {"id": "place:villa-rica-de-la-vera-cruz", "canonical_name": "Villa Rica de la Vera Cruz", "aliases": ["Villa Rica"], "modern_equivalent": "Veracruz", "mention_count_aprox": 30, "status": "revisada"},
+  {"id": "place:punta-de-cotoche", "canonical_name": "Punta de Cotoche", "aliases": [], "modern_equivalent": "Cabo Catoche, Yucatán", "mention_count_aprox": 17, "status": "revisada"},
+  {"id": "place:santiago-de-cuba", "canonical_name": "Santiago de Cuba", "aliases": [], "modern_equivalent": "Santiago de Cuba", "mention_count_aprox": 13, "status": "revisada"},
+  {"id": "place:san-juan-de-ulua", "canonical_name": "San Juan de Ulúa", "aliases": [], "modern_equivalent": "San Juan de Ulúa, Veracruz", "mention_count_aprox": 13, "status": "revisada"},
+  {"id": "place:santo-domingo", "canonical_name": "Santo Domingo", "aliases": [], "modern_equivalent": "Santo Domingo, República Dominicana", "mention_count_aprox": 9, "status": "revisada"},
+  {"id": "place:mexico-tenochtitlan", "canonical_name": "México (Tenochtitlan)", "aliases": ["Méjico"], "modern_equivalent": "Ciudad de México", "mention_count_aprox": 182, "status": "revisada"},
+  {"id": "place:tlaxcala", "canonical_name": "Tlaxcala", "aliases": ["Tlascala"], "modern_equivalent": "Tlaxcala", "mention_count_aprox": 86, "status": "revisada"},
+  {"id": "place:cempoala", "canonical_name": "Cempoala", "aliases": ["Cempoal"], "modern_equivalent": "Cempoala, Veracruz", "mention_count_aprox": 76, "status": "revisada"},
+  {"id": "place:cuba", "canonical_name": "Cuba", "aliases": [], "modern_equivalent": "Cuba", "mention_count_aprox": 122, "status": "revisada"}
+]

@@ -1,0 +1,27 @@
+{
+  "nota": "Muestra de relaciones extraídas a mano del Capítulo 1, para validar el esquema. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión).",
+  "entidades_nuevas_del_capitulo": [
+    {"id": "person:pedrarias-davila", "canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)", "aliases": ["Pedro Arias de Ávila", "Pedrárias Dávila"], "role": "gobernador de Tierra Firme", "status": "candidata"},
+    {"id": "person:vasco-nunez-de-balboa", "canonical_name": "Vasco Núñez de Balboa", "aliases": ["Vasco Nuñez de Balboa"], "role": "conquistador, yerno de Pedrarias Dávila", "status": "candidata"},
+    {"id": "person:bernardino-iniguez", "canonical_name": "Bernardino Íñiguez", "aliases": ["Bernardino Iñiguez"], "role": "veedor de la expedición de 1517", "status": "candidata"},
+    {"id": "person:alonso-gonzalez-clerigo", "canonical_name": "Alonso González", "aliases": ["Alonso Gonzalez"], "role": "clérigo de la expedición de 1517", "status": "candidata"},
+    {"id": "place:tierra-firme", "canonical_name": "Tierra Firme", "aliases": [], "modern_equivalent": "Panamá/costa continental", "status": "candidata"},
+    {"id": "place:nombre-de-dios", "canonical_name": "Nombre de Dios", "aliases": [], "modern_equivalent": "Nombre de Dios, Panamá", "status": "candidata"},
+    {"id": "place:ajaruco", "canonical_name": "Ajaruco", "aliases": [], "modern_equivalent": "por confirmar (costa norte de Cuba)", "status": "candidata"},
+    {"id": "place:san-cristobal-cuba", "canonical_name": "San Cristóbal", "aliases": [], "modern_equivalent": "asentamiento predecesor de La Habana", "status": "candidata"}
+  ],
+  "eventos": [
+    {"id": "event:ejecucion-balboa", "name": "Ejecución de Vasco Núñez de Balboa", "date_text": "no especificada en el capítulo", "place_id": "place:tierra-firme", "status": "candidata"},
+    {"id": "event:expedicion-hernandez-de-cordoba-1517", "name": "Expedición de Francisco Hernández de Córdoba a Yucatán (1517)", "date_text": "1517 (implícito, por contexto)", "place_id": "place:cuba", "status": "candidata"}
+  ],
+  "relaciones": [
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:tierra-firme", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
+    {"from": "person:pedrarias-davila", "relation": "estuvo_presente_en", "to": "event:ejecucion-balboa", "notas": "ordenó la ejecución", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
+    {"from": "person:vasco-nunez-de-balboa", "relation": "estuvo_presente_en", "to": "event:ejecucion-balboa", "notas": "fue ejecutado por orden de Pedrarias, su suegro", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
+    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:cuba", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
+    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "gobernador de Cuba, autorizó y proveyó la expedición", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
+    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "elegido capitán de la expedición", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
+    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "piloto principal", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
+    {"from": "event:expedicion-hernandez-de-cordoba-1517", "relation": "ocurrió_en", "to": "place:cuba", "source": "source:bernal-diaz:cap-1", "status": "candidata"}
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {"id": "place:la-espanola", "canonical_name": "La Española", "aliases": [], "modern_equivalent": "isla de Santo Domingo (Haití/República Dominicana)", "mention_count_aprox": null, "status": "revisada"},
+  {"id": "place:santo-domingo-ciudad", "canonical_name": "Santo Domingo (ciudad)", "aliases": ["Sancto Domingo"], "modern_equivalent": "Santo Domingo, República Dominicana", "mention_count_aprox": 85, "status": "revisada"},
+  {"id": "place:cabo-verde", "canonical_name": "Cabo Verde", "aliases": [], "modern_equivalent": "islas de Cabo Verde", "mention_count_aprox": 17, "status": "revisada"},
+  {"id": "place:vega-real", "canonical_name": "Vega Real", "aliases": [], "modern_equivalent": "Vega Real, República Dominicana", "mention_count_aprox": 12, "status": "revisada"},
+  {"id": "place:medina-del-campo", "canonical_name": "Medina del Campo", "aliases": [], "modern_equivalent": "Medina del Campo, España", "mention_count_aprox": 11, "status": "revisada"},
+  {"id": "place:cuba", "canonical_name": "Cuba", "aliases": [], "modern_equivalent": "Cuba", "mention_count_aprox": null, "status": "revisada"},
+  {"id": "place:jamaica", "canonical_name": "Jamaica", "aliases": [], "modern_equivalent": "Jamaica", "mention_count_aprox": null, "status": "revisada"},
+  {"id": "place:san-agustin", "canonical_name": "San Agustín", "aliases": ["Sant Agustin"], "modern_equivalent": "por confirmar", "mention_count_aprox": 9, "status": "candidata"},
+  {"id": "place:santo-tomas-fuerte", "canonical_name": "Fuerte de Santo Tomás", "aliases": ["Sancto Tomás"], "modern_equivalent": "por confirmar (interior de La Española)", "mention_count_aprox": 9, "status": "candidata"},
+  {"id": "place:la-isabela", "canonical_name": "La Isabela", "aliases": ["Isabela"], "modern_equivalent": "La Isabela, República Dominicana", "mention_count_aprox": 114, "status": "revisada"},
+  {"id": "place:castilla", "canonical_name": "Castilla", "aliases": [], "modern_equivalent": "España (reino de Castilla)", "mention_count_aprox": 272, "status": "revisada"},
+  {"id": "place:indias", "canonical_name": "las Indias", "aliases": [], "modern_equivalent": "término genérico de la época para América", "mention_count_aprox": 154, "status": "revisada"},
+  {"id": "place:paraiso-terrenal", "canonical_name": "el Paraíso Terrenal (concepto geográfico de Colón)", "aliases": ["Paraíso"], "modern_equivalent": "región del delta del Orinoco, según la especulación de Colón", "mention_count_aprox": 103, "status": "candidata", "notas": "es un concepto/hipótesis geográfica de Colón, no un lugar confirmado; tratar con cuidado en el esquema (¿Place o Event/idea?)"}
+]
