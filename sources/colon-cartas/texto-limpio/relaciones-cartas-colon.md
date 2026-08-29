@@ -116,27 +116,7 @@ Esta carta envió Colón al Escribano de Ración de las islas halladas en las In
 (2) Esta fecha, puesta en el original de Colón en números romanos está muy confusa y parece significar 14; pero bien examinada, no puede ser sino del 4 de Marzo . —Navarrete
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
 
 CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
 
@@ -198,53 +178,17 @@ Poseen muchas especies de canoas con las que llegan á desembarcar en todas las 
 
 Me aseguran haber otra isla mayor que la expresada Española, cuyos habitantes no tienen cabellos, y abunda especialísimamente de oro sobre las otras. Llevo de ésta y de las demás que he reconocido hombres que testifiquen mi relación. 
 
-Finalmente, para compendiar mi partida y vuelta, asi como para referir en breve las ventajas de este viaje, prometo que con pequeños auxilios que me suministren nuestros invictísimos líeyes, lie de presentarles cuanto oro se necesite, y tanta cantidad de aromas, de 
-algodón, almáciga, que se encuentra sólo en (¿uio, y 
-tanta de lináloe, y tantos esclavos para el servicio de la 
-marina, cuantos quisieren exigir su Majestades. Ofrezco 
-lo mismo de ruibarbo y de infinitos géneros de aromas, 
-que estoy ya persuadido lian hallado y hallarán todavía 
-los que dejé en la fortaleza; porque yo en ninguna parte 
+Finalmente, para compendiar mi partida y vuelta, asi como para referir en breve las ventajas de este viaje, prometo que con pequeños auxilios que me suministren nuestros invictísimos líeyes, lie de presentarles cuanto oro se necesite, y tanta cantidad de aromas, de algodón, almáciga, que se encuentra sólo en Quio, y tanta de liñaloe, y tantos esclavos para el servicio de la marina, cuantos quisieren exigir su Majestades. Ofrezco lo mismo de ruibarbo y de infinitos géneros de aromas, que estoy ya persuadido han hallado y hallarán todavía los que dejé en la fortaleza; porque yo en ninguna parte me he detenido sino lo que me han obligado los vientos, v lo que se tardó en edilicar la fortaleza en la ciudad de la Natividad, y mientras di las providenceas necesarias para una seguridad completa. 
 
-ÓIUS'IOBAL COLON 
+Aunque todo lo referido parezca grande é inaudito, sería aun más maravilloso si hubiera tenido á mi disposición las embarcaciones competentes; con todo, esta empresa digna y admirable no está en proporción de mis méritos, sino que es debida á la sagrada fe católica, y á la piedad y religión de nuestros Reyes, pues el Señor concedió á los hombres lo que ni aun podían imaginar llegarían á conseguir. Porque suele Dios oir á sus siervos y á los que aman sus preceptos aun en lo que parece imposible, según me ha sucedido á mí, que he arribado á una empresa que no tocó hasta ahora mortal alguno: pues si bien ciertos habían escrito ó hablado de la existencia de estas islas, todos hablaron y escribieron con dudas y por conjeturas, pero ninguno asegura haberlas visto; de que procedía que se tuviesen por fabulosas. Así pues, el Rey, la Reina, los Príncipes y sus reinos felicísimos, como toda la Cristiandad, tributen gracias á nuestro Salvador Jesucristo, que nos concedió tal victoria y prósperos sucesos. Celébrense 
+procesiones: háganse ñestas solemnes: llénense los templos de ramas y flores: gózese Cristo en la tierra cual se regocija en los Cielos, al ver la próxima salvación de tan- 
+tos pueblos, entregados hasta ahora á la perdición. Regocijémonos, así por la exaltación de nuestra fe como por el aumento de bienes temporales, de los cuales no sólo habrá de participar la España sino toda la Cristiandad. 
 
-me }te detenido sino lo que me han obligado los vientos, 
-v lo que se tardó en edilicar la fortaleza en la ciudad de 
-la Natividad, y mientras di las provideneeas necesarias 
-para una seguridad completa. 
+Tales son los sucesos que he descrito con brevedad. A Dios. En Lisboa á catorce (1) de Marzo. — Cristobal Colón, Almirante de la Armada del Océano. 
 
-Aunque todo lo referido parezca grande é inaudito, 
-sería aun más maravilloso si hubiera tenido á mi dis- 
-posición las embarcaciones competentes; con todo, esta 
-empresa digna y admirable no está en proporción de 
-mis méritos, sino que es debida á la sagrada fe católica, 
-y á la piedad y religión de nuestros Reyes, pues el Se- 
-ñor concedió á los hombres lo que ni aun podían ima- 
-ginar llegarían á conseguir. Porque suele Dios oir á sus 
-siervos y á los que aman sus preceptos aun en lo que 
-parece imposible, según me ha sucedido á mí, que he 
-arribado á una empresa que no tocó hasta ahora mortal 
-alguno: pues si bien ciertos habían escrito ó hablado 
-de la existencia de estas islas, todos hablaron y escri- 
-bieron con dudas y por conjeturas, pero ninguno ase- 
-gura haberlas visto; de que procedía que se tuviesen 
-por fabulosas. Así pues, el Rey, la Reina, los Príncipes 
-y sus reinos felicísimos, como toda la Cristiandad, tri- 
-buten gracias á nuestro Salvador Jesucristo, que nos 
-concedió tal victoria y prósperos sucesos. Celébrense 
-procesiones: háganse ñestas solemnes: llénense los tem- 
-plos de ramas y ñores: gózese Cristo en la tierra cual se 
-regocija en los Cielos, al ver la próxima salvación de tan- 
-tos pueblos, entregados hasta ahora á la perdición. Re- 
-gocijémonos, así por la exaltación de nuestra fe como por 
-el aumento de bienes temporales, de los cuales no sólo 
-habrá de participar la España sino toda la Cristiandad. 
+(1) Debe ser 4 de Marzo.
 
-Tales son los sucesos que he descrito con brevedad. 
-A Dios. En Lisboa á catorce (1) de Marzo. — Chistó «ai.. 
-Colón, Almirante de la Armada del Océano. 
-
-(1) Bebe ser 4 de Marzo, 
+## MEMORIAL
 
 MEMORIAL 
 

@@ -15,19 +15,19 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: '…s, fasta don- de facía fin; del cual cabo había otra isla al Oriente, dis- tante desta diez é ocho leguas, á la cual puse luego nom- bre la <mark>Española</mark>: y fui allí, y seguí la parte del setentrión asi como de la Juana al Oriente ciento é setenta y ocho grandes leguas por vía reta del Olient…'
+  html: '… leguas, fasta donde facía fin; del cual cabo había otra isla al Oriente, distante desta diez é ocho leguas, á la cual puse luego nombre la <mark>Española</mark>: y fui allí, y seguí la parte del setentrión asi como de la Juana al Oriente ciento é setenta y ocho grandes leguas por vía reta del Olient…'
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 3
-  html: …decir, y todas las tengo por de sus Altezas, cual de ellas pueden disponer como y tan cumplidamente como de los Reinos de Castilla, en esta <mark>Española</mark> en lugar más convenible y mejor co- marca para las minas del oro y de todo trato así de la tierra firme de acá como de aquella de allá del …
+  html: …decir, y todas las tengo por de sus Altezas, cual de ellas pueden disponer como y tan cumplidamente como de los Reinos de Castilla, en esta <mark>Española</mark> en lugar más convenible y mejor comarca para las minas del oro y de todo trato así de la tierra firme de acá como de aquella de allá del Gr…
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 6
-  html: les y diversos metales, excepto hierro. En arpie lia á que dimos el nombre de <mark>Española</mark>-, hay montes sublimes y agradables á la vista, dilatados sembrados, bosques, campos feracísimos y todos muy en proporción para sembrar, par…
+  html: Los habitantes de uno y otro sexo, así en la <mark>Española</mark> como en las otras islas que vi y de que tengo noticia, andan siempre desnudos como nacieron, á excepción de algunas mujeres que cubren su d…
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 9
-  html: …cepto de ellos que de los demás. Estos son los que se unen á ciertas mujeres que habitan solas la isla Ma tenin, que es la primera desde la <mark>Española</mark> á la India. Estas mujeres no se dedican á labor alguna propia de su sexo, pues usan de arcos y dardos, según se dijo de los anteriores, y s…
+  html: …ncepto de ellos que de los demás. Estos son los que se unen á ciertas mujeres que habitan solas la isla Matenin, que es la primera desde la <mark>Española</mark> á la India. Estas mujeres no se dedican á labor alguna propia de su sexo, pues usan de arcos y dardos, según se dijo de los anteriores, y s…
 - heading: Carta a los Reyes dando cuenta del segundo viaje (1494)
   url: /documentos/colon-cartas/002/
   occ: 1

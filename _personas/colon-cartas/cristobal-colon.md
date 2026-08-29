@@ -10,60 +10,60 @@ role: autor/narrador de la mayoría de estos documentos (Almirante, Visorey y Ca
 mention_count_aprox: null
 status: candidata
 notas: en el Memorial a Antonio de Torres (doc. 1494) habla en tercera persona a través de su mensajero, que transmite sus palabras de viva voz a los Reyes
-mentions_hint: Se muestran 20 de 52 menciones a lo largo de la obra.
+mentions_hint: Se muestran 20 de 53 menciones a lo largo de la obra.
 blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: (1) Estas noticias extravagantes nacían tal vez de la igno- rancia de los indios, y también de no ser bien entendidos por <mark>el Almirante</mark> y por los españoles, que no comprendían su lengua ni sus expresiones. — Navarre/e.
+  html: (1) Estas noticias extravagantes nacían tal vez de la ignorancia de los indios, y también de no ser bien entendidos por <mark>el Almirante</mark> y por los españoles, que no comprendían su lengua ni sus expresiones. — Navarre/e.
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 2
-  html: Que para los Reyes Católicos dió <mark>el Almirante</mark> D. Cristóbal Colón , en la ciudad Isabela, á, 30 de Enero de 1494 á An- tonio de Torres, sobre el suceso de su segundo viaje á las Indias; …
+  html: (1) Espeto en lo antiguo era lo mismo que asador. Aquí lo usa <mark>el Almirante</mark> por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu).
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 5
-  html: …ante lo hizo bien, y decirleheis cómo acá se pagó al que vendió la nao, y mandaron á D. Juan de Fonseca que pa- gue lo de las carabelas que <mark>el Almirante</mark> compró.
+  html: En esto se ha suspendido por agora hasta que venga otro camino de allá , y escriba <mark>el Almirante</mark> lo que en esto le pares- ciere.
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 7
-  html: …ues son de las guar- das y criados de sus Altezas; y á los escuderos mandan sus Altezas que den los caballos cada vez que fueren menester y <mark>el Almirante</mark> lo mandare, y si algún daño recibieren los caballos ■yendo otros en ellos , por medio del Almirante mandan sus Altezas que gelo paguen.
-- heading: Carta a su hermano D. Bartolomé (1497)
-  url: /documentos/colon-cartas/003/
+  html: '…edís cada año , y á Gaspar y Beltrán á caca uno 15.000 ma- ravedís cada año desde hoy 15 de Agosto de 94 en adelante , y así les haga pagar <mark>el Almirante</mark> en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pa- gar: y en lo de Juan Aguado sus Altezas habrán mem…'
+- heading: Carta a los Reyes dando cuenta del segundo viaje (1494)
+  url: /documentos/colon-cartas/002/
   occ: 0
-  html: '…más cercanos estaban de los Reyes, porque no- iban los navios cargados de oro (como si se hobiera do coger como fruta de los árboles, según <mark>el Almirante</mark> se quejaba) &gt;). Y más adolante, hablando del Ximeno que Colón menciona en el fragmento copiado, añade: «Parece que uno debiera de, en estos…'
+  html: '…lomé de las Casas, en el cap. CXIX del li- bro I de su Historia de las Indias, da noticia de esta car- ta en los siguientes términos: «Dice <mark>el Almirante</mark> en una carta que escribió á los Reyes que traía propósito deste viaje ir á las islas de los caníbales para las des- truir, pero como habían…'
 - heading: Carta a su hermano D. Bartolomé (1497)
   url: /documentos/colon-cartas/003/
-  occ: 3
-  html: …to fragmento Fray Bartolomé de las Casas en su Historia de las Indias, lib.I, c.ap. CXXIII, al hablar délas dificul- tades conque tropezaba <mark>el Almirante</mark> para que los Beyes dieran clos cuatro cuentos que se habían de emplear en los bastimen- tos de las ocho naos ó navios que había do aparejar…
+  occ: 2
+  html: …l día que se hizo á la vela, y, ó en la nao que entró, por ventura, el dicho oficial, ó en tierra cuando que- ría desembarcarse, arrebatólo <mark>el Almirante</mark>, y dale ronchas co
 - heading: Institución de mayorazgo
   url: /documentos/colon-cartas/005/
-  occ: 1
-  html: '…: esto se entiende en la fir- ma y no en su ditado que podrá escribir todos sus títu- los como le plugiere; solamente en la firma escribirá <mark>el Almirante</mark>,'
-- heading: Salvoconducto dado a Francisco Roldán
-  url: /documentos/colon-cartas/007/
   occ: 0
-  html: Yo L&gt;. <mark>Cristóbal Colón</mark>, Almirante del Océano, viso- rey y gobernador perpetuo de las islas y tierra-firme de las Indias por el Rey ó la Reina, nuestros Señores, é…
+  html: 'Y no escribirá sino <mark>el Almirante</mark> puesto que otros títu- los el Rey le diese ó ganase: esto se entiende en la fir- ma y no en su ditado que podrá escribir todos sus títu- lo…'
+- heading: Institución de mayorazgo
+  url: /documentos/colon-cartas/005/
+  occ: 3
+  html: …stes indios hacían, eran reverenciados y adorados; poro no amados, antes aborrecidos como si fueran demonios infernales; y porque esta vida <mark>el Almirante</mark> sabia que aquí los españoles vivían y bailaban en la tierra para ello aparejo cuanto desear podían, con razón juzgaba que era la mejor del …
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 1
   html: (5) Mandaban los tres navios que <mark>el Almirante</mark> destacó para la Española, Pedro de Arana, natural de Córdoba, hermano de la madre do D. Hernando Colón; Alonso Sánchez de Caraba- jal, Regi…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
-  occ: 4
-  html: …ced del dicho jabón, como dicho es, man- damos que le sea guardada é haya é dure para en toda su vida y para esto mandamos al Almirante I). <mark>Cristóbal Colón</mark>, y á todos los Caballeros y Escuderos, vecinos é moradores de la dicha Isla que lo guarden c cumplan é fagan guardar ó complir en la forma …
+  occ: 3
+  html: '…eñores de Vizcaya é de Molina; Duques de Atenas ó de Neopatria; Condes de Rusyllóny de Cerdania; Marque- ses de Üristán ó de Gociano: A vos <mark>D. Cristóbal Colón</mark>, nuestro Almirante mayor del mar Océano, ó nuestro Vi- sorey é Gobernador general de las islas ó tierra-firme de las Indias descobiertas 6 …'
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
-  occ: 7
-  html: …ón estaban lieclios dos procesos y dada una sentencia con- tra Roldán y los de su compañía, condenándoles por traidores, en lo cual no pudo <mark>el Almirante</mark> dispensar ni quitarles la infamia.
+  occ: 6
+  html: …dadas á Francisco Roldan, y de- más que le siguieron en aquella escandalosa y dañosa rebelión, las condiciones y asiento que con ellos hizo <mark>el Almirante</mark>, y para esto daba nueve razones.
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 9
   html: …ieron en Castilla con pagar el sueldo de seis meses á los 40 hombres que tomó en los tres navios, y los que después se pasaron á él, venido <mark>el Almirante</mark>, los cuales venían cogidos y á sueldo de los Reyes para servir ó trabajar en las mi- nas, y en otras cosas que se les mandasen para servi- …
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
-  occ: 12
-  html: …o homenaje de ser leal á Sus Altezas y guar- dar el bien y pró de su hacienda por ante el Obispo de Badajoz, ó yo y otros muchos (dice aquí <mark>el Almirante</mark>) que allí estaban, como más largo parecerá por el dicho juramento, el cual está escrito en el libro de los Conta- dores mayores; de lo cual…
+  occ: 11
+  html: …compañía, porque para que la provisión que sobre esie asiento el Almirante les dió tuviese valor y alcanzase efecto, requeríase, según dice <mark>el Almirante</mark>, que mostrase por escritura firmada por ellos, cómo se ayuntaban y por que fin hacían su ayun- tamiento, y en qué tiempo, y las condiciones…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 14
@@ -74,8 +74,8 @@ blurbs:
   html: (1) Ya se habla reconciliado Roldan con <mark>el Almirante</mark> y lo- grado éste apagar la sedición, cuando llegó Hojéela haciendo ostentación de su favor con el obispo Fonseca, enemigo do Co- lón, é int…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
-  occ: 20
-  html: (2) Este modo de explicarse <mark>el Almirante</mark> indica que escri- bió esta carta cuando llegó preso á Cádiz á 2&quot;¡ de Noviembre de 1500, según Herrera, D. 1. a , 1. IV, c. X.
+  occ: 19
+  html: …ncipal cabeza de la conjuración. Así lo dice D. ITernande Colón; pero Herrera añade que rehusando confesarse para dilatar el castigo, mandó <mark>el Almirante</mark> echarle de una almena abajo en el fuorto de la Concepción. — Xavarrete .
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 22

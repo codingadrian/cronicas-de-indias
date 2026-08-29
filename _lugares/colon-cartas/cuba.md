@@ -15,19 +15,19 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: '…Cuanahani. A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandim: á la cuarta la Isabela : á la quinta isla <mark>Juana</mark>, é así á cada una nom- bre nuevo.'
+  html: '…anahanin. A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandina: á la cuarta la Isabela : á la quinta isla <mark>Juana</mark>, é así á cada una nombre nuevo.'
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 1
-  html: Cuando yo llegué á <mark>la Juana</mark> seguí la costa della á poniente, y la fallé tan grande que pensé que sería tie- rra firme, la provincia de Catayo; y como no fallé así (2) …
+  html: Cuando yo llegué á <mark>la Juana</mark> seguí la costa della á poniente, y la fallé tan grande que pensé que sería tierra firme, la provincia de Catayo; y como no fallé así (2) vi…
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 2
-  html: '…te, dis- tante desta diez é ocho leguas, á la cual puse luego nom- bre la Española: y fui allí, y seguí la parte del setentrión asi como de <mark>la Juana</mark> al Oriente ciento é setenta y ocho grandes leguas por vía reta del Oliente así como de la Juana , la cual y todas las otras son tortísimas …'
+  html: '…riente, distante desta diez é ocho leguas, á la cual puse luego nombre la Española: y fui allí, y seguí la parte del setentrión asi como de <mark>la Juana</mark> al Oriente ciento é setenta y ocho grandes leguas por vía reta del Oliente así como de la Juana , la cual y todas las otras son fortísimas …'
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 3
-  html: …y seguí la parte del setentrión asi como de la Juana al Oriente ciento é setenta y ocho grandes leguas por vía reta del Oliente así como de <mark>la Juana</mark> , la cual y todas las otras son tortísimas (1) en de- masiado grado, y ésta en extremo; en ella hay muchos puertos en la costa de la mar si…
+  html: …y seguí la parte del setentrión asi como de la Juana al Oriente ciento é setenta y ocho grandes leguas por vía reta del Oliente así como de <mark>la Juana</mark> , la cual y todas las otras son fortísimas (1) en demasiado grado, y ésta en extremo; en ella hay muchos puertos en la costa de la mar sin …
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 4
@@ -35,19 +35,19 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 5
-  html: 'Ya dije como yo había andado ciento sieteleguas pol- la costa de la mar, por la derecha línea de Occidente á Oriente, por la isla <mark>Juana</mark>: según el cual camino puedo decir que esta isla es mayor que Inglaterra y Escocia juntas: porque allende destas ciento siete leguas me qued…'
+  html: 'Ya dije como yo había andado ciento siete leguas por la costa de la mar, por la derecha línea de Occidente á Oriente, por la isla <mark>Juana</mark>: según el cual camino puedo decir que esta isla es mayor que Inglaterra y Escocia juntas: porque allende destas ciento siete leguas me qued…'
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 6
-  html: … de las otras, habien- do mandado que la una se llamase Santa María de la Concepción , otra la Fernandina, la tercera Isabela , la cuar- ta <mark>Juana</mark>, y así respectivamente las restantes.
+  html: …da una de las otras, habiendo mandado que la una se llamase Santa María de la Concepción, otra la Fernandina, la tercera Isabela, la cuarta <mark>Juana</mark>, y así respectivamente las restantes.
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 7
-  html: Luego que arribamos á la que acaba de nombrarse (<mark>Juana</mark>) me adelanté un poco cerca do su costa hacia el Occidente, y la descubrí tan grande y siu límite, que no hubiera creído ser isla, sino más …
+  html: Luego que arribamos á la que acaba de nombrarse (<mark>Juana</mark>) me adelanté un poco cerca de su costa hacia el Occidente, y la descubrí tan grande y sin límite, que no hubiera creído ser isla, sino más …
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 8
-  html: '…ta la distancia de trescientas veintidós mi- llas, donde es el fin de la misma: desde allí vi por la parte de Oriente otra isla distante de <mark>la Juana</mark> cincuenta y cuatro millas, á la que puse por nombre Española: llegué á ella y dirigí la ruta hacia el Norte, del mismo modo que en la Juana…'
+  html: '…asta la distancia de trescientas veintidós millas, donde es el fin de la misma: desde allí vi por la parte de Oriente otra isla distante de <mark>la Juana</mark> cincuenta y cuatro millas, á la que puse por nombre Española: llegué á ella y dirigí la ruta hacia el Norte, del mismo modo que en la Juana…'
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 9
@@ -55,11 +55,11 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 10
-  html: 'Esta misma y todas las situadas en el mismo punto son fértilísimas: la referida <mark>Juana</mark> está circundada de muchos puertos segurísimos, espaciosos y que exce- den á cuantos he visto jamás: la bañan por todas par- tes muchos, cop…'
+  html: 'Esta misma y todas las situadas en el mismo punto son fértilísimas: la referida <mark>Juana</mark> está circundada de muchos puertos segurísimos, espaciosos y que exceden á cuantos he visto jamás: la bañan por todas partes muchos, copioso…'
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 11
-  html: Hay además en dicha isla <mark>Juana</mark> siete ú ocho va- riedades de palmas superiores á las nuestras en su al- tura y belleza, así como todos los demás árboles, hier- bas y fruto…
+  html: Hay además en dicha isla <mark>Juana</mark> siete ú ocho variedades de palmas superiores á las nuestras en su altura y belleza, así como todos los demás árboles, hierbas y frutos. Se …
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 12

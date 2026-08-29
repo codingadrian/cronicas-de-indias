@@ -14,6 +14,6 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: (2) D. Pascual Gayangos, en un articulo publicado en L« Aiw-rica en 13 de Abril de 1867, le llama <mark>Gabriel Sánchez</mark>.
+  html: (2) D. Pascual Gayangos, en un articulo publicado en La America en 13 de Abril de 1867, le llama <mark>Gabriel Sánchez</mark>.
 ---
 Aparece en el texto como Tesorero de los Reyes Católicos; destinatario de una carta paralela a la de Santángel (4 de marzo de 1493). También aparece nombrada como: Gabriel Sánchez.

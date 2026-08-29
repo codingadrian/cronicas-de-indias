@@ -1,0 +1,562 @@
+[
+{
+"id": "person:francisco-pizarro",
+"canonical_name": "Francisco Pizarro",
+"aliases": [
+"don Francisco Picarro",
+"el Marqués",
+"el Marqués don Francisco Picarro"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/francisco-pizarro/"
+},
+{
+"id": "person:diego-de-almagro-el-viejo",
+"canonical_name": "Diego de Almagro",
+"aliases": [
+"don Diego de Almagro"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/diego-de-almagro-el-viejo/"
+},
+{
+"id": "person:hernando-de-luque",
+"canonical_name": "Hernando de Luque",
+"aliases": [
+"el Padre Luque"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/hernando-de-luque/"
+},
+{
+"id": "person:hernando-pizarro",
+"canonical_name": "Hernando Pizarro",
+"aliases": [
+"Hernando Picarro"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/hernando-pizarro/"
+},
+{
+"id": "person:juan-pizarro",
+"canonical_name": "Juan Pizarro",
+"aliases": [
+"Juan Picarro"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/juan-pizarro/"
+},
+{
+"id": "person:gonzalo-pizarro",
+"canonical_name": "Gonzalo Pizarro",
+"aliases": [
+"Goncalo Picarro"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/gonzalo-pizarro/"
+},
+{
+"id": "person:francisco-martin-de-alcantara",
+"canonical_name": "Francisco Martín de Alcántara",
+"aliases": [
+"Francisco Martín"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/francisco-martin-de-alcantara/"
+},
+{
+"id": "person:hernando-de-soto",
+"canonical_name": "Hernando de Soto",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/hernando-de-soto/"
+},
+{
+"id": "person:pedro-pizarro",
+"canonical_name": "Pedro Pizarro",
+"aliases": [
+"Pedro Picarro"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/pedro-pizarro/"
+},
+{
+"id": "person:sebastian-de-benalcazar",
+"canonical_name": "Sebastián de Benalcázar",
+"aliases": [
+"Benalcácar"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/sebastian-de-benalcazar/"
+},
+{
+"id": "person:pedro-de-alvarado",
+"canonical_name": "Pedro de Alvarado",
+"aliases": [
+"don Pedro de Aluarado"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/pedro-de-alvarado/"
+},
+{
+"id": "person:atahualpa",
+"canonical_name": "Atahualpa",
+"aliases": [
+"Ataualpa",
+"Atagualpa",
+"Atabalipa"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/atahualpa/"
+},
+{
+"id": "person:huascar",
+"canonical_name": "Huáscar",
+"aliases": [
+"Guáscar"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/huascar/"
+},
+{
+"id": "person:huayna-capac",
+"canonical_name": "Huayna Cápac",
+"aliases": [
+"Guaina Capa"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/huayna-capac/"
+},
+{
+"id": "person:tupac-huallpa",
+"canonical_name": "Túpac Huallpa",
+"aliases": [
+"Tubaliba",
+"Tuvaliba"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/tupac-huallpa/"
+},
+{
+"id": "person:manco-inca",
+"canonical_name": "Manco Inca",
+"aliases": [
+"Mango Ynga"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/manco-inca/"
+},
+{
+"id": "person:challcuchima",
+"canonical_name": "Challcuchima",
+"aliases": [
+"Challicuchima"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/challcuchima/"
+},
+{
+"id": "person:quisquis",
+"canonical_name": "Quisquis",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/quisquis/"
+},
+{
+"id": "person:vicente-de-valverde",
+"canonical_name": "Vicente de Valverde",
+"aliases": [
+"Fray Vicente de Valuerde",
+"el Padre"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/vicente-de-valverde/"
+},
+{
+"id": "person:tito-cusi-gualpa",
+"canonical_name": "Tito Cusi Gualpa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/tito-cusi-gualpa/"
+},
+{
+"id": "person:diego-de-almagro-el-mozo",
+"canonical_name": "Diego de Almagro el Mozo",
+"aliases": [
+"don Diego de Almagro (hijo)",
+"el hijo de don Diego de Almagro"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/diego-de-almagro-el-mozo/"
+},
+{
+"id": "person:rodrigo-orgonez",
+"canonical_name": "Rodrigo Orgóñez",
+"aliases": [
+"Rrodrigo Orgóñez"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/rodrigo-orgonez/"
+},
+{
+"id": "person:juan-de-rada",
+"canonical_name": "Juan de Rada",
+"aliases": [
+"Juan de Rrada"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/juan-de-rada/"
+},
+{
+"id": "person:francisco-de-chaves",
+"canonical_name": "Francisco de Chaves",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/francisco-de-chaves/"
+},
+{
+"id": "person:cristobal-vaca-de-castro",
+"canonical_name": "Cristóbal Vaca de Castro",
+"aliases": [
+"Vaca de Castro",
+"el Licenciado Vaca de Castro"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/cristobal-vaca-de-castro/"
+},
+{
+"id": "person:blasco-nunez-vela",
+"canonical_name": "Blasco Núñez Vela",
+"aliases": [
+"el virrey Blasco Núñez Vela",
+"el uisorrey"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/blasco-nunez-vela/"
+},
+{
+"id": "person:francisco-de-carvajal",
+"canonical_name": "Francisco de Carvajal",
+"aliases": [
+"Caruajal",
+"el maese de campo Caruajal"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/francisco-de-carvajal/"
+},
+{
+"id": "person:diego-centeno",
+"canonical_name": "Diego Centeno",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/diego-centeno/"
+},
+{
+"id": "person:pedro-de-la-gasca",
+"canonical_name": "Pedro de la Gasca",
+"aliases": [
+"el Presidente Gasca",
+"el capellán"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/pedro-de-la-gasca/"
+},
+{
+"id": "person:peralvarez-holguin",
+"canonical_name": "Peránzules Holguín",
+"aliases": [
+"Peráluarez Holguín"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/peralvarez-holguin/"
+},
+{
+"id": "person:antonio-picado",
+"canonical_name": "Antonio Picado",
+"aliases": [
+"Picado",
+"el secretario"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/antonio-picado/"
+},
+{
+"id": "person:lucas-martinez-vegazo",
+"canonical_name": "Lucas Martínez Vegazo",
+"aliases": [
+"Lucas Martínez"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/lucas-martinez-vegazo/"
+},
+{
+"id": "person:garcilaso-de-la-vega-capitan",
+"canonical_name": "Garcilaso de la Vega",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/garcilaso-de-la-vega-capitan/"
+},
+{
+"id": "person:francisco-hernandez-giron",
+"canonical_name": "Francisco Hernández Girón",
+"aliases": [
+"Francisco Hernández"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/francisco-hernandez-giron/"
+},
+{
+"id": "person:asarpay",
+"canonical_name": "Asarpay",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/asarpay/"
+},
+{
+"id": "person:felipillo",
+"canonical_name": "Felipillo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/felipillo/"
+},
+{
+"id": "person:alonso-de-alvarado-mariscal",
+"canonical_name": "Alonso de Alvarado",
+"aliases": [
+"el Mariscal Aluarado"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/alonso-de-alvarado-mariscal/"
+},
+{
+"id": "person:pedro-de-hinojosa",
+"canonical_name": "Pedro de Hinojosa",
+"aliases": [
+"Ynojosa",
+"el General Hinojosa"
+],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/pedro-de-hinojosa/"
+},
+{
+"id": "person:diego-mendez",
+"canonical_name": "Diego Méndez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-pizarro/diego-mendez/"
+},
+{
+"id": "place:panama",
+"canonical_name": "Panamá",
+"aliases": [
+"Tierra Firme"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/panama/"
+},
+{
+"id": "place:tumbez",
+"canonical_name": "Túmbez",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/tumbez/"
+},
+{
+"id": "place:puerto-viejo",
+"canonical_name": "Puerto Viejo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/puerto-viejo/"
+},
+{
+"id": "place:isla-de-la-puna",
+"canonical_name": "Isla de la Puná",
+"aliases": [
+"La Puná"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/isla-de-la-puna/"
+},
+{
+"id": "place:cajamarca",
+"canonical_name": "Cajamarca",
+"aliases": [
+"Caxamarca",
+"Caxamalca"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/cajamarca/"
+},
+{
+"id": "place:cuzco",
+"canonical_name": "Cuzco",
+"aliases": [
+"el Cuzco"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/cuzco/"
+},
+{
+"id": "place:jauja",
+"canonical_name": "Jauja",
+"aliases": [
+"Xauxa",
+"Xauja"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/jauja/"
+},
+{
+"id": "place:lima",
+"canonical_name": "Lima",
+"aliases": [
+"la ciudad de los Reyes",
+"ciudad de Los Rreyes"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/lima/"
+},
+{
+"id": "place:pachacama",
+"canonical_name": "Pachacámac",
+"aliases": [
+"Pachacama"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/pachacama/"
+},
+{
+"id": "place:chincha",
+"canonical_name": "Chincha",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/chincha/"
+},
+{
+"id": "place:quito",
+"canonical_name": "Quito",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/quito/"
+},
+{
+"id": "place:chile",
+"canonical_name": "Chile",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/chile/"
+},
+{
+"id": "place:collao",
+"canonical_name": "Collao",
+"aliases": [
+"el Collao"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/collao/"
+},
+{
+"id": "place:titicaca",
+"canonical_name": "Titicaca",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/titicaca/"
+},
+{
+"id": "place:potosi",
+"canonical_name": "Potosí",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/potosi/"
+},
+{
+"id": "place:porco",
+"canonical_name": "Porco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/porco/"
+},
+{
+"id": "place:tarapaca",
+"canonical_name": "Tarapacá",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/tarapaca/"
+},
+{
+"id": "place:arequipa",
+"canonical_name": "Arequipa",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/arequipa/"
+},
+{
+"id": "place:la-plata",
+"canonical_name": "villa de La Plata",
+"aliases": [
+"Charcas",
+"los Charcas",
+"Chuquisaca"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/la-plata/"
+},
+{
+"id": "place:urcos",
+"canonical_name": "Urcos",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/urcos/"
+},
+{
+"id": "place:vilcaconga",
+"canonical_name": "Vilcaconga",
+"aliases": [
+"Vilca Conga"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/vilcaconga/"
+},
+{
+"id": "place:tambo",
+"canonical_name": "Tambo (Vitcos)",
+"aliases": [
+"Tambo",
+"Vitacos",
+"Viticos"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/tambo/"
+},
+{
+"id": "place:chupas",
+"canonical_name": "Chupas",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/chupas/"
+},
+{
+"id": "place:guarina",
+"canonical_name": "Guarina",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/guarina/"
+},
+{
+"id": "place:jaquijaguana",
+"canonical_name": "Jaquijahuana",
+"aliases": [
+"Jaquijaguana",
+"Xaquixaguana"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/jaquijaguana/"
+},
+{
+"id": "place:salinas",
+"canonical_name": "las Salinas",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-pizarro/salinas/"
+}
+]

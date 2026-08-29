@@ -14,11 +14,11 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: 'En el texto publicado por Volafan dice: &lt;‘Kn treinta días pasé de las <mark>Islas Canarias</mark> á las Indias».'
+  html: 'En el texto publicado por Volafan dice: “En treinta días pasé de las <mark>Islas Canarias</mark> á las Indias”.'
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 1
-  html: '… mas todos los cristianos ternán aquí refrigerio é ganancia-, esto segundo lia fecho ser muy breve: fecha en la carabela sobre las Islas de <mark>Canaria</mark> (1), quince de Febrero de no- venta y tres.'
+  html: '…ña mas todos los cristianos ternán aquí refrigerio é ganancia, esto segundo ha fecho ser muy breve: fecha en la carabela sobre las Islas de <mark>Canaria</mark> (1), quince de Febrero de noventa y tres.'
 - heading: Carta a su hermano D. Bartolomé (1497)
   url: /documentos/colon-cartas/003/
   occ: 0

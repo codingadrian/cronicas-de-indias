@@ -1,0 +1,882 @@
+[
+{
+"id": "person:fray-toribio-motolinia",
+"canonical_name": "Fray Toribio de Motolinía",
+"aliases": [
+"Fray Toribio de Benavente",
+"Fray Toribio de Paredes",
+"Motolinia (sic)"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-toribio-motolinia/"
+},
+{
+"id": "person:fray-martin-de-valencia",
+"canonical_name": "Fray Martín de Valencia",
+"aliases": [
+"el siervo de Dios",
+"el varón de Dios",
+"padre fray Martín"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-martin-de-valencia/"
+},
+{
+"id": "person:hernando-cortes",
+"canonical_name": "Hernando Cortés",
+"aliases": [
+"el marqués del Valle",
+"don Hernando Cortés",
+"el Capitán",
+"el capitán general",
+"el gobernador"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/hernando-cortes/"
+},
+{
+"id": "person:moteczuma",
+"canonical_name": "Moteczuma",
+"aliases": [
+"Motezuma",
+"Moteczumatzin",
+"Moctezuma"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/moteczuma/"
+},
+{
+"id": "person:ahuitzotl",
+"canonical_name": "Ahuitzotzin",
+"aliases": [
+"Ahuitzoci"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/ahuitzotl/"
+},
+{
+"id": "person:fray-juan-de-zumarraga",
+"canonical_name": "Fray Juan de Zumárraga",
+"aliases": [
+"don fray Juan de Zumárraga",
+"fray Juan de Azumárraga"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-de-zumarraga/"
+},
+{
+"id": "person:fray-pedro-de-gante",
+"canonical_name": "Fray Pedro de Gante",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-pedro-de-gante/"
+},
+{
+"id": "person:bartolome-de-las-casas",
+"canonical_name": "Bartolomé de las Casas",
+"aliases": [
+"el de las Casas",
+"el de las Casas o Casaus",
+"Obispo que fue de Chiapa"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/bartolome-de-las-casas/"
+},
+{
+"id": "person:carlos-v",
+"canonical_name": "Carlos V",
+"aliases": [
+"el Emperador",
+"V.M.",
+"Vuestra Majestad",
+"césar don Carlos",
+"invictísimo césar don Carlos"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/carlos-v/"
+},
+{
+"id": "person:fray-domingo-de-betanzos",
+"canonical_name": "Fray Domingo de Betanzos",
+"aliases": [
+"el de Betanzos"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-domingo-de-betanzos/"
+},
+{
+"id": "person:antonio-de-mendoza",
+"canonical_name": "Antonio de Mendoza",
+"aliases": [
+"don Antonio de Mendoza",
+"visorrey"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/antonio-de-mendoza/"
+},
+{
+"id": "person:luis-de-velasco",
+"canonical_name": "Luis de Velasco",
+"aliases": [
+"don Luis de Velasco"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/luis-de-velasco/"
+},
+{
+"id": "person:sebastian-ramirez-de-fuenleal",
+"canonical_name": "Sebastián Ramírez de Fuenleal",
+"aliases": [
+"don Sebastián Ramírez",
+"el obispo don Sebastián Ramírez",
+"presidente de la Audiencia Real"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/sebastian-ramirez-de-fuenleal/"
+},
+{
+"id": "person:pedro-de-alvarado",
+"canonical_name": "Pedro de Alvarado",
+"aliases": [
+"el adelantado don Pedro de Alvarado"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/pedro-de-alvarado/"
+},
+{
+"id": "person:jeronimo-de-aguilar",
+"canonical_name": "Aguilar",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/jeronimo-de-aguilar/"
+},
+{
+"id": "person:dona-marina",
+"canonical_name": "Doña Marina",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/dona-marina/"
+},
+{
+"id": "person:xicotencatl-el-viejo",
+"canonical_name": "Xicoténcatl",
+"aliases": [
+"Xicotengalth"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/xicotencatl-el-viejo/"
+},
+{
+"id": "person:maxixcatzin",
+"canonical_name": "Maxixcatzin",
+"aliases": [
+"Maxiscazi",
+"Maxiscazin"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/maxixcatzin/"
+},
+{
+"id": "person:julian-garces",
+"canonical_name": "Julián Garcés",
+"aliases": [
+"don Julián Garcés"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/julian-garces/"
+},
+{
+"id": "person:fray-antonio-de-ciudad-rodrigo",
+"canonical_name": "Fray Antonio de Ciudad Rodrigo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-antonio-de-ciudad-rodrigo/"
+},
+{
+"id": "person:fray-bernardino-minaya",
+"canonical_name": "Fray Bernardino Minaya",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-bernardino-minaya/"
+},
+{
+"id": "person:nino-cristobal-tlaxcala",
+"canonical_name": "Cristóbal",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/nino-cristobal-tlaxcala/"
+},
+{
+"id": "person:nino-antonio-tepeaca",
+"canonical_name": "Antonio",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/nino-antonio-tepeaca/"
+},
+{
+"id": "person:nino-juan-tepeaca",
+"canonical_name": "Juan",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/nino-juan-tepeaca/"
+},
+{
+"id": "person:axutecatl",
+"canonical_name": "Axutecatl",
+"aliases": [
+"Ayutecatlh"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/axutecatl/"
+},
+{
+"id": "person:bernardino-heredero-axutecatl",
+"canonical_name": "Bernardino",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/bernardino-heredero-axutecatl/"
+},
+{
+"id": "person:luis-testigo-axutecatl",
+"canonical_name": "Luis",
+"aliases": [
+"don Luis Moscoso"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/luis-testigo-axutecatl/"
+},
+{
+"id": "person:xuchipapalozin",
+"canonical_name": "Xuchipapalozin",
+"aliases": [
+"Flor de mariposa"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/xuchipapalozin/"
+},
+{
+"id": "person:martin-de-calahorra",
+"canonical_name": "Martín de Calahorra",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/martin-de-calahorra/"
+},
+{
+"id": "person:fray-andres-de-cordoba",
+"canonical_name": "Fray Andrés de Córdoba",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-andres-de-cordoba/"
+},
+{
+"id": "person:alvaro-de-sandoval",
+"canonical_name": "Álvaro de Sandoval",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/alvaro-de-sandoval/"
+},
+{
+"id": "person:fray-juan-de-argumanes",
+"canonical_name": "Fray Juan de Argumanes",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-de-argumanes/"
+},
+{
+"id": "person:fray-juan-de-guadalupe",
+"canonical_name": "Fray Juan de Guadalupe",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-de-guadalupe/"
+},
+{
+"id": "person:fray-miguel-de-cordoba",
+"canonical_name": "Fray Miguel de Córdoba",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-miguel-de-cordoba/"
+},
+{
+"id": "person:fray-francisco-de-los-angeles",
+"canonical_name": "Fray Francisco de los Ángeles",
+"aliases": [
+"cardenal de Santa Cruz",
+"Fray Francisco de Quiñones"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-francisco-de-los-angeles/"
+},
+{
+"id": "person:fray-juan-clapion",
+"canonical_name": "Fray Juan Clapión",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-clapion/"
+},
+{
+"id": "person:juan-de-salmeron",
+"canonical_name": "Juan de Salmerón",
+"aliases": [
+"licenciado Juan de Salmerón"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/juan-de-salmeron/"
+},
+{
+"id": "person:alonso-maldonado",
+"canonical_name": "Alonso Maldonado",
+"aliases": [
+"licenciado Alonso Maldonado"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/alonso-maldonado/"
+},
+{
+"id": "person:licenciado-ceynos",
+"canonical_name": "Ceynos",
+"aliases": [
+"licenciado Ceynos",
+"licenciado Ceinos"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/licenciado-ceynos/"
+},
+{
+"id": "person:licenciado-quiroga",
+"canonical_name": "Quiroga",
+"aliases": [
+"licenciado Quiroga"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/licenciado-quiroga/"
+},
+{
+"id": "person:fray-garcia-de-cisneros",
+"canonical_name": "Fray García de Cisneros",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-garcia-de-cisneros/"
+},
+{
+"id": "person:fray-juan-caro",
+"canonical_name": "Fray Juan Caro",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-caro/"
+},
+{
+"id": "person:fray-juan-de-perpinan",
+"canonical_name": "Fray Juan de Perpiñán",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-de-perpinan/"
+},
+{
+"id": "person:fray-francisco-de-valencia",
+"canonical_name": "Fray Francisco de Valencia",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-francisco-de-valencia/"
+},
+{
+"id": "person:fray-juan-de-tecto",
+"canonical_name": "Fray Juan de Tecto",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-de-tecto/"
+},
+{
+"id": "person:don-francisco-cuitlahuac",
+"canonical_name": "Don Francisco",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/don-francisco-cuitlahuac/"
+},
+{
+"id": "person:don-hernando-tezcuco",
+"canonical_name": "Don Hernando",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/don-hernando-tezcuco/"
+},
+{
+"id": "person:don-martin-cuauhquechula",
+"canonical_name": "Don Martín",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/don-martin-cuauhquechula/"
+},
+{
+"id": "person:don-juan-tarecato",
+"canonical_name": "Don Juan",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/don-juan-tarecato/"
+},
+{
+"id": "person:emperatriz-isabel",
+"canonical_name": "Emperatriz doña Isabel",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/emperatriz-isabel/"
+},
+{
+"id": "person:rodrigo-de-paz",
+"canonical_name": "Rodrigo de Paz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/rodrigo-de-paz/"
+},
+{
+"id": "person:fray-francisco-de-soto",
+"canonical_name": "Fray Francisco de Soto",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-francisco-de-soto/"
+},
+{
+"id": "person:fray-martin-de-la-coruna",
+"canonical_name": "Fray Martín de la Coruña",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-martin-de-la-coruna/"
+},
+{
+"id": "person:fray-juan-de-rivas",
+"canonical_name": "Fray Juan de Rivas",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-de-rivas/"
+},
+{
+"id": "person:fray-francisco-jimenez",
+"canonical_name": "Fray Francisco Jiménez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-francisco-jimenez/"
+},
+{
+"id": "person:fray-juan-juarez",
+"canonical_name": "Fray Juan Juárez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-juarez/"
+},
+{
+"id": "person:fray-luis-de-fuensalida",
+"canonical_name": "Fray Luis de Fuensalida",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-luis-de-fuensalida/"
+},
+{
+"id": "person:fray-juan-de-palos",
+"canonical_name": "Fray Juan de Palos",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/fray-juan-de-palos/"
+},
+{
+"id": "person:beata-del-barco-de-avila",
+"canonical_name": "la beata del Barco de Ávila",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/beata-del-barco-de-avila/"
+},
+{
+"id": "person:alfonso-de-avila",
+"canonical_name": "Alfonso de Ávila",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/alfonso-de-avila/"
+},
+{
+"id": "person:pedro-sanchez-farfan",
+"canonical_name": "Pedro Sánchez Farfán",
+"aliases": [
+"Pedro Sánchez Far(fán)"
+],
+"tipo": "persona",
+"url": "/personas/motolinia/pedro-sanchez-farfan/"
+},
+{
+"id": "person:juan-polanco",
+"canonical_name": "Juan Polanco",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/juan-polanco/"
+},
+{
+"id": "person:soldado-mora",
+"canonical_name": "Mora",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/motolinia/soldado-mora/"
+},
+{
+"id": "place:nueva-espana",
+"canonical_name": "Nueva España",
+"aliases": [
+"Anáhuac"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/nueva-espana/"
+},
+{
+"id": "place:mexico-tenochtitlan",
+"canonical_name": "México (Temixtitan)",
+"aliases": [
+"Temistitlan",
+"Temultichan",
+"Tenuxtitlán",
+"México Tenochtitlán"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/mexico-tenochtitlan/"
+},
+{
+"id": "place:tlatelulco",
+"canonical_name": "Tlatetulco",
+"aliases": [
+"Tlatelulco",
+"Santiago de Tlatelulco"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/tlatelulco/"
+},
+{
+"id": "place:tezcuco",
+"canonical_name": "Tezcuco",
+"aliases": [
+"Texcuco",
+"Tezcoco"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/tezcuco/"
+},
+{
+"id": "place:tlacuba",
+"canonical_name": "Tlacuba",
+"aliases": [
+"Tlacopan"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/tlacuba/"
+},
+{
+"id": "place:cuauhtitlan",
+"canonical_name": "Cuauhtitlan",
+"aliases": [
+"Couathiclan",
+"Coauhtitlan"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/cuauhtitlan/"
+},
+{
+"id": "place:coyoacan",
+"canonical_name": "Coyoacán",
+"aliases": [
+"Cuyuacan"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/coyoacan/"
+},
+{
+"id": "place:xuchimilco",
+"canonical_name": "Xuchimilco",
+"aliases": [
+"Xochimilco"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/xuchimilco/"
+},
+{
+"id": "place:chalco",
+"canonical_name": "Chalco",
+"aliases": [
+"Tlalamanalco",
+"Tlamanalco"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/chalco/"
+},
+{
+"id": "place:otumba",
+"canonical_name": "Otumba",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/otumba/"
+},
+{
+"id": "place:tepepulco",
+"canonical_name": "Tepepulco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/tepepulco/"
+},
+{
+"id": "place:cholola",
+"canonical_name": "Cholola",
+"aliases": [
+"Chololan",
+"Cholula"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/cholola/"
+},
+{
+"id": "place:huexuzinco",
+"canonical_name": "Huexuzinco",
+"aliases": [
+"Huejuzinco",
+"Huejotzingo"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/huexuzinco/"
+},
+{
+"id": "place:tlaxcala",
+"canonical_name": "Tlaxcala",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/tlaxcala/"
+},
+{
+"id": "place:tepetipac",
+"canonical_name": "Tepetipac",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/tepetipac/"
+},
+{
+"id": "place:ocotelulco",
+"canonical_name": "Ocutubula",
+"aliases": [
+"Ocotelulco"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/ocotelulco/"
+},
+{
+"id": "place:tizatlan",
+"canonical_name": "Tizatlán",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/tizatlan/"
+},
+{
+"id": "place:quiahuiztlan",
+"canonical_name": "Queauztlan",
+"aliases": [
+"Quiahuiztlán"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/quiahuiztlan/"
+},
+{
+"id": "place:ciudad-de-los-angeles",
+"canonical_name": "la ciudad de los Ángeles",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/ciudad-de-los-angeles/"
+},
+{
+"id": "place:val-de-cristo-atlixco",
+"canonical_name": "Val de Cristo",
+"aliases": [
+"Valle de Atlixco"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/val-de-cristo-atlixco/"
+},
+{
+"id": "place:cuauhquechula",
+"canonical_name": "Cuauhquechula",
+"aliases": [
+"Cuauquechula"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/cuauhquechula/"
+},
+{
+"id": "place:coatepec-mar-del-sur",
+"canonical_name": "Coatepec (puerto de la Mar del Sur)",
+"aliases": [
+"Tecoantepec"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/coatepec-mar-del-sur/"
+},
+{
+"id": "place:teoacan",
+"canonical_name": "Teoacan",
+"aliases": [
+"Teoachan"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/teoacan/"
+},
+{
+"id": "place:cuitlahuac",
+"canonical_name": "Cuitlauac",
+"aliases": [
+"Cuitláhuac",
+"Venezuela (nombre puesto por los españoles)"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/cuitlahuac/"
+},
+{
+"id": "place:mictlan",
+"canonical_name": "Mictlan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/mictlan/"
+},
+{
+"id": "place:guazacualco",
+"canonical_name": "Guazacualco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/guazacualco/"
+},
+{
+"id": "place:campeche-yucatan",
+"canonical_name": "Campech",
+"aliases": [
+"Yucatán (nombre puesto por los españoles)"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/campeche-yucatan/"
+},
+{
+"id": "place:michuacan",
+"canonical_name": "Michuacán",
+"aliases": [
+"Tarecato",
+"Tepeoacán"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/michuacan/"
+},
+{
+"id": "place:sanlucar-de-barrameda",
+"canonical_name": "Sanlúcar de Barrameda",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/sanlucar-de-barrameda/"
+},
+{
+"id": "place:belvis",
+"canonical_name": "Belvís",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/belvis/"
+},
+{
+"id": "place:talmanalco",
+"canonical_name": "Talmanalco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/talmanalco/"
+},
+{
+"id": "place:amaquemecan",
+"canonical_name": "Amaquemanca",
+"aliases": [
+"Amaquemecan"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/amaquemecan/"
+},
+{
+"id": "place:chiapa",
+"canonical_name": "Chiapa",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/chiapa/"
+},
+{
+"id": "place:verapaz",
+"canonical_name": "Verapaz",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/verapaz/"
+},
+{
+"id": "place:guatemala",
+"canonical_name": "Guatemala",
+"aliases": [
+"Cuautimala"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/guatemala/"
+},
+{
+"id": "place:nicaragua",
+"canonical_name": "Nicaragua",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/nicaragua/"
+},
+{
+"id": "place:peru",
+"canonical_name": "el Perú",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/peru/"
+},
+{
+"id": "place:florida",
+"canonical_name": "la Florida",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/florida/"
+},
+{
+"id": "place:tepeaca",
+"canonical_name": "Tepeaca",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/tepeaca/"
+},
+{
+"id": "place:zacatlan",
+"canonical_name": "Zacatlán",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/zacatlan/"
+},
+{
+"id": "place:atleuesa",
+"canonical_name": "Atleuesa",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/atleuesa/"
+},
+{
+"id": "place:coatinchan",
+"canonical_name": "Coahuvtinchan",
+"aliases": [
+"Coatinchan",
+"Coauhtinchan"
+],
+"tipo": "lugar",
+"url": "/lugares/motolinia/coatinchan/"
+},
+{
+"id": "place:valencia-de-don-juan",
+"canonical_name": "villa de Valencia (de Don Juan)",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/valencia-de-don-juan/"
+},
+{
+"id": "place:mayorga",
+"canonical_name": "Mayorga",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/motolinia/mayorga/"
+}
+]

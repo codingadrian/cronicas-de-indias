@@ -1,0 +1,245 @@
+[
+{
+"id": "person:francisco-pizarro",
+"canonical_name": "Francisco Pizarro",
+"aliases": [
+"el Gobernador",
+"Francisco Pizarro, hijo del capitán Gonzalo Pizarro",
+"el capitán Pizarro"
+],
+"tipo": "persona",
+"url": "/personas/xerez/francisco-pizarro/"
+},
+{
+"id": "person:francisco-de-xerez",
+"canonical_name": "Francisco de Xerez",
+"aliases": [
+"Francisco de Jerez"
+],
+"tipo": "persona",
+"url": "/personas/xerez/francisco-de-xerez/"
+},
+{
+"id": "person:diego-de-almagro",
+"canonical_name": "Diego de Almagro",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/xerez/diego-de-almagro/"
+},
+{
+"id": "person:hernando-pizarro",
+"canonical_name": "Hernando Pizarro",
+"aliases": [
+"el capitán Hernando Pizarro",
+"hermano del Gobernador"
+],
+"tipo": "persona",
+"url": "/personas/xerez/hernando-pizarro/"
+},
+{
+"id": "person:atahualpa",
+"canonical_name": "Atahualpa",
+"aliases": [
+"Atabaliba",
+"Atabalipa"
+],
+"tipo": "persona",
+"url": "/personas/xerez/atahualpa/"
+},
+{
+"id": "person:huascar",
+"canonical_name": "Huáscar",
+"aliases": [
+"el Cuzco (hijo)"
+],
+"tipo": "persona",
+"url": "/personas/xerez/huascar/"
+},
+{
+"id": "person:huayna-capac",
+"canonical_name": "Huayna Cápac",
+"aliases": [
+"el Cuzco viejo"
+],
+"tipo": "persona",
+"url": "/personas/xerez/huayna-capac/"
+},
+{
+"id": "person:chalcuchimac",
+"canonical_name": "Chalcuchímac",
+"aliases": [
+"Chilicuchima",
+"Chalcochima"
+],
+"tipo": "persona",
+"url": "/personas/xerez/chalcuchimac/"
+},
+{
+"id": "person:quizquiz",
+"canonical_name": "Quizquiz",
+"aliases": [
+"Quisquis"
+],
+"tipo": "persona",
+"url": "/personas/xerez/quizquiz/"
+},
+{
+"id": "person:miguel-de-estete",
+"canonical_name": "Miguel de Estete",
+"aliases": [
+"Miguel Estete"
+],
+"tipo": "persona",
+"url": "/personas/xerez/miguel-de-estete/"
+},
+{
+"id": "person:vicente-de-valverde",
+"canonical_name": "Vicente de Valverde",
+"aliases": [
+"fray Vicente de Valverde",
+"el padre frey Vicente"
+],
+"tipo": "persona",
+"url": "/personas/xerez/vicente-de-valverde/"
+},
+{
+"id": "person:pedrarias-davila",
+"canonical_name": "Pedrarias Dávila",
+"aliases": [
+"Pedrarias de Ávila",
+"el gobernador Pedrarias"
+],
+"tipo": "persona",
+"url": "/personas/xerez/pedrarias-davila/"
+},
+{
+"id": "person:cristobal-de-mena",
+"canonical_name": "Cristóbal de Mena",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/xerez/cristobal-de-mena/"
+},
+{
+"id": "person:pedro-de-xerez",
+"canonical_name": "Pedro de Xerez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/xerez/pedro-de-xerez/"
+},
+{
+"id": "person:gonzalo-pizarro-padre",
+"canonical_name": "Gonzalo Pizarro",
+"aliases": [
+"el capitán Gonzalo Pizarro"
+],
+"tipo": "persona",
+"url": "/personas/xerez/gonzalo-pizarro-padre/"
+},
+{
+"id": "place:panama",
+"canonical_name": "Panamá",
+"aliases": [
+"ciudad de Panamá"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/panama/"
+},
+{
+"id": "place:isla-del-gallo",
+"canonical_name": "Isla del Gallo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/xerez/isla-del-gallo/"
+},
+{
+"id": "place:tumbez",
+"canonical_name": "Túmbez",
+"aliases": [
+"Tumbez"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/tumbez/"
+},
+{
+"id": "place:isla-de-santiago",
+"canonical_name": "Isla de Santiago",
+"aliases": [
+"la Pugna",
+"isla de la Pugna"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/isla-de-santiago/"
+},
+{
+"id": "place:cajamarca",
+"canonical_name": "Cajamarca",
+"aliases": [
+"Caxamalca"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/cajamarca/"
+},
+{
+"id": "place:san-miguel-de-piura",
+"canonical_name": "San Miguel",
+"aliases": [
+"ciudad de Sant Miguel",
+"Tangarara"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/san-miguel-de-piura/"
+},
+{
+"id": "place:cuzco",
+"canonical_name": "Cuzco",
+"aliases": [
+"la ciudad del Cuzco"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/cuzco/"
+},
+{
+"id": "place:pachacamac",
+"canonical_name": "Pachacámac",
+"aliases": [
+"Pachacama",
+"Xachacama"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/pachacamac/"
+},
+{
+"id": "place:jauja",
+"canonical_name": "Jauja",
+"aliases": [
+"Xauxa"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/jauja/"
+},
+{
+"id": "place:quito",
+"canonical_name": "Quito",
+"aliases": [
+"Guito"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/quito/"
+},
+{
+"id": "place:sevilla",
+"canonical_name": "Sevilla",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/xerez/sevilla/"
+},
+{
+"id": "place:coaque",
+"canonical_name": "Coaque",
+"aliases": [
+"Quaque"
+],
+"tipo": "lugar",
+"url": "/lugares/xerez/coaque/"
+}
+]

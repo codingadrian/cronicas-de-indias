@@ -13,7 +13,7 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: Treinta y tres días después de mí salida de <mark>Cádiz</mark> arribé al mar de la India, donde hallé muchas islas ha- bitadas por innumerables gentes, y de ellas tomé pose- sión á nombre de nuestro fel…
+  html: Treinta y tres días después de mí salida de <mark>Cádiz</mark> arribé al mar de la India, donde hallé muchas islas ha- bitadas por innumerables gentes, y de ellas tomé posesión á nombre de nuestro felic…
 - heading: Carta a los Reyes dando cuenta del segundo viaje (1494)
   url: /documentos/colon-cartas/002/
   occ: 0

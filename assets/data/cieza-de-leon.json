@@ -1,0 +1,596 @@
+[
+{
+"id": "person:pedro-de-cieza-de-leon",
+"canonical_name": "Pedro de Cieza de León",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/pedro-de-cieza-de-leon/"
+},
+{
+"id": "person:cristobal-colon",
+"canonical_name": "Cristóbal Colón",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/cristobal-colon/"
+},
+{
+"id": "person:alonso-de-ojeda",
+"canonical_name": "Alonso de Ojeda",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/alonso-de-ojeda/"
+},
+{
+"id": "person:diego-de-nicuesa",
+"canonical_name": "Diego de Nicuesa",
+"aliases": [
+"Nicuesa"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/diego-de-nicuesa/"
+},
+{
+"id": "person:juan-de-la-cosa",
+"canonical_name": "Juan de la Cosa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/juan-de-la-cosa/"
+},
+{
+"id": "person:pedrarias-davila",
+"canonical_name": "Pedrarias Dávila",
+"aliases": [
+"Pedrarias"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/pedrarias-davila/"
+},
+{
+"id": "person:vasco-nunez-de-balboa",
+"canonical_name": "Vasco Núñez de Balboa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/vasco-nunez-de-balboa/"
+},
+{
+"id": "person:pedro-de-heredia",
+"canonical_name": "Pedro de Heredia",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/pedro-de-heredia/"
+},
+{
+"id": "person:alonso-de-heredia",
+"canonical_name": "Alonso de Heredia",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/alonso-de-heredia/"
+},
+{
+"id": "person:juan-de-vadillo",
+"canonical_name": "Juan de Vadillo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/juan-de-vadillo/"
+},
+{
+"id": "person:jorge-robledo",
+"canonical_name": "Jorge Robledo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/jorge-robledo/"
+},
+{
+"id": "person:cacique-macuri",
+"canonical_name": "Macuri",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/cacique-macuri/"
+},
+{
+"id": "person:cacique-nutibara",
+"canonical_name": "Nutibara",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/cacique-nutibara/"
+},
+{
+"id": "person:sebastian-de-belalcazar",
+"canonical_name": "Sebastián de Belalcázar",
+"aliases": [
+"Benalcázar"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/sebastian-de-belalcazar/"
+},
+{
+"id": "person:miguel-munoz",
+"canonical_name": "Miguel Muñoz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/miguel-munoz/"
+},
+{
+"id": "person:lorenzo-de-aldana",
+"canonical_name": "Lorenzo de Aldana",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/lorenzo-de-aldana/"
+},
+{
+"id": "person:francisco-pizarro",
+"canonical_name": "Francisco Pizarro",
+"aliases": [
+"el marqués don Francisco Pizarro",
+"el adelantado don Francisco Pizarro"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/francisco-pizarro/"
+},
+{
+"id": "person:diego-de-almagro",
+"canonical_name": "Diego de Almagro",
+"aliases": [
+"el mariscal don Diego de Almagro",
+"el Adelantado"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/diego-de-almagro/"
+},
+{
+"id": "person:pedro-de-alvarado",
+"canonical_name": "Pedro de Alvarado",
+"aliases": [
+"el adelantado don Pedro de Albarado"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/pedro-de-alvarado/"
+},
+{
+"id": "person:francisco-pacheco",
+"canonical_name": "Francisco Pacheco",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/francisco-pacheco/"
+},
+{
+"id": "person:diego-daza",
+"canonical_name": "Diego Daza",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/diego-daza/"
+},
+{
+"id": "person:alonso-de-mercadillo",
+"canonical_name": "Alonso de Mercadillo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/alonso-de-mercadillo/"
+},
+{
+"id": "person:alonso-de-alvarado",
+"canonical_name": "Alonso de Alvarado",
+"aliases": [
+"Alonso de Albarado"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/alonso-de-alvarado/"
+},
+{
+"id": "person:gomez-de-alvarado",
+"canonical_name": "Gómez de Alvarado",
+"aliases": [
+"Gómez de Albarado"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/gomez-de-alvarado/"
+},
+{
+"id": "person:pedro-barroso",
+"canonical_name": "Pedro Barroso",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/pedro-barroso/"
+},
+{
+"id": "person:pedro-de-puelles",
+"canonical_name": "Pedro de Puelles",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/pedro-de-puelles/"
+},
+{
+"id": "person:peranzurez",
+"canonical_name": "Peranzúrez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/peranzurez/"
+},
+{
+"id": "person:fray-domingo-de-santo-tomas",
+"canonical_name": "Domingo de Santo Tomás",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/fray-domingo-de-santo-tomas/"
+},
+{
+"id": "person:mangocapa",
+"canonical_name": "Mangocapa",
+"aliases": [
+"Manco Cápac"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/mangocapa/"
+},
+{
+"id": "person:inga-yupangue",
+"canonical_name": "Inga Yupanque",
+"aliases": [
+"Inca Yupanqui"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/inga-yupangue/"
+},
+{
+"id": "person:topainga-yupangue",
+"canonical_name": "Topainga Yupangue",
+"aliases": [
+"Túpac Yupanqui"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/topainga-yupangue/"
+},
+{
+"id": "person:guaynacapa",
+"canonical_name": "Guaynacapa",
+"aliases": [
+"Huayna Cápac"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/guaynacapa/"
+},
+{
+"id": "person:guascar",
+"canonical_name": "Guáscar",
+"aliases": [
+"Huáscar"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/guascar/"
+},
+{
+"id": "person:atabaliba",
+"canonical_name": "Atabaliba",
+"aliases": [
+"Atahualpa"
+],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/atabaliba/"
+},
+{
+"id": "person:atoco",
+"canonical_name": "Atoco",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/atoco/"
+},
+{
+"id": "person:urrua",
+"canonical_name": "Urrúa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cieza-de-leon/urrua/"
+},
+{
+"id": "place:panama-ciudad",
+"canonical_name": "Panamá",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/panama-ciudad/"
+},
+{
+"id": "place:nombre-de-dios",
+"canonical_name": "Nombre de Dios",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/nombre-de-dios/"
+},
+{
+"id": "place:islas-de-las-perlas",
+"canonical_name": "islas de las Perlas",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/islas-de-las-perlas/"
+},
+{
+"id": "place:isla-de-gorgona",
+"canonical_name": "isla de la Gorgona",
+"aliases": [
+"Gorgona"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/isla-de-gorgona/"
+},
+{
+"id": "place:isla-del-gallo",
+"canonical_name": "isla del Gallo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/isla-del-gallo/"
+},
+{
+"id": "place:isla-de-plata",
+"canonical_name": "isla de Plata",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/isla-de-plata/"
+},
+{
+"id": "place:puerto-viejo",
+"canonical_name": "Puerto Viejo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/puerto-viejo/"
+},
+{
+"id": "place:tumbez",
+"canonical_name": "Tumbez",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/tumbez/"
+},
+{
+"id": "place:isla-puna",
+"canonical_name": "isla de la Puná",
+"aliases": [
+"Puna"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/isla-puna/"
+},
+{
+"id": "place:callao",
+"canonical_name": "El Callao",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/callao/"
+},
+{
+"id": "place:cartagena",
+"canonical_name": "Cartagena",
+"aliases": [
+"provincia de Cartagena"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/cartagena/"
+},
+{
+"id": "place:turbaco",
+"canonical_name": "Turbaco",
+"aliases": [
+"Calamar"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/turbaco/"
+},
+{
+"id": "place:urabá",
+"canonical_name": "Urabá",
+"aliases": [
+"Culata de Urabá"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/urabá/"
+},
+{
+"id": "place:san-sebastian-de-buena-vista",
+"canonical_name": "San Sebastián de Buena Vista",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/san-sebastian-de-buena-vista/"
+},
+{
+"id": "place:darien",
+"canonical_name": "Darién",
+"aliases": [
+"Nuestra Señora del Antigua"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/darien/"
+},
+{
+"id": "place:antiocha",
+"canonical_name": "Antiocha",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/antiocha/"
+},
+{
+"id": "place:ancerma",
+"canonical_name": "villa de Ancerma",
+"aliases": [
+"Anserma"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/ancerma/"
+},
+{
+"id": "place:cartago",
+"canonical_name": "Cartago",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/cartago/"
+},
+{
+"id": "place:cali",
+"canonical_name": "ciudad de Cali",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/cali/"
+},
+{
+"id": "place:popayan",
+"canonical_name": "Popayán",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/popayan/"
+},
+{
+"id": "place:pasto",
+"canonical_name": "villa de Pasto",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/pasto/"
+},
+{
+"id": "place:quito",
+"canonical_name": "San Francisco del Quito",
+"aliases": [
+"Quito"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/quito/"
+},
+{
+"id": "place:tumebamba",
+"canonical_name": "Tumebamba",
+"aliases": [
+"Tumebamba"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/tumebamba/"
+},
+{
+"id": "place:ambato",
+"canonical_name": "Ambato",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/ambato/"
+},
+{
+"id": "place:guayaquil",
+"canonical_name": "Santiago de Guayaquil",
+"aliases": [
+"Guayaquil"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/guayaquil/"
+},
+{
+"id": "place:loja",
+"canonical_name": "ciudad de Loja",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/loja/"
+},
+{
+"id": "place:san-miguel",
+"canonical_name": "San Miguel",
+"aliases": [
+"San Miguel de Piura"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/san-miguel/"
+},
+{
+"id": "place:trujillo-peru",
+"canonical_name": "ciudad de Trujillo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/trujillo-peru/"
+},
+{
+"id": "place:ciudad-de-los-reyes",
+"canonical_name": "ciudad de los Reyes",
+"aliases": [
+"Lima"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/ciudad-de-los-reyes/"
+},
+{
+"id": "place:arequipa",
+"canonical_name": "Arequipa",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/arequipa/"
+},
+{
+"id": "place:frontera-chachapoyas",
+"canonical_name": "ciudad de la Frontera",
+"aliases": [
+"Frontera de los Chachapoyas",
+"Levanto"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/frontera-chachapoyas/"
+},
+{
+"id": "place:leon-de-guanuco",
+"canonical_name": "León de Guánuco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/leon-de-guanuco/"
+},
+{
+"id": "place:cuzco",
+"canonical_name": "ciudad del Cuzco",
+"aliases": [
+"Cuzco"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/cuzco/"
+},
+{
+"id": "place:villa-de-plata",
+"canonical_name": "villa de Plata",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/villa-de-plata/"
+},
+{
+"id": "place:potosi",
+"canonical_name": "Potosí",
+"aliases": [
+"cerro de Potosí"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/potosi/"
+},
+{
+"id": "place:la-paz",
+"canonical_name": "Nuestra Señora de La Paz",
+"aliases": [
+"La Paz"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/la-paz/"
+},
+{
+"id": "place:tiaguanaco",
+"canonical_name": "Tiaguanaco",
+"aliases": [
+"Tiahuanaco"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/tiaguanaco/"
+},
+{
+"id": "place:lago-titicaca",
+"canonical_name": "laguna de Titicaca",
+"aliases": [
+"Collao"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/lago-titicaca/"
+},
+{
+"id": "place:riobamba",
+"canonical_name": "Riobamba",
+"aliases": [
+"llanos de Riobamba"
+],
+"tipo": "lugar",
+"url": "/lugares/cieza-de-leon/riobamba/"
+}
+]

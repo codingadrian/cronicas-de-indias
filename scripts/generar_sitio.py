@@ -32,6 +32,14 @@ OBRAS = [
     {"clave": "colon-cartas", "archivo": "sources/colon-cartas/texto-limpio/relaciones-cartas-colon.md"},
     {"clave": "cortes", "archivo": "sources/cortes/texto-limpio/cartas-de-relacion.md"},
     {"clave": "cristobal-colon", "archivo": "sources/cristobal-colon/texto-limpio/diario-primer-viaje-colon.md"},
+    {"clave": "xerez", "archivo": "sources/xerez/texto-limpio/verdadera-relacion.md"},
+    {"clave": "cabeza-de-vaca", "archivo": "sources/cabeza-de-vaca/texto-limpio/naufragios.md"},
+    {"clave": "munoz-camargo", "archivo": "sources/munoz-camargo/texto-limpio/historia-de-tlaxcala.md"},
+    {"clave": "pedro-pizarro", "archivo": "sources/pedro-pizarro/texto-limpio/relacion-descubrimiento-conquista.md"},
+    {"clave": "ixtlilxochitl", "archivo": "sources/ixtlilxochitl/texto-limpio/historia-nacion-chichimeca.md"},
+    {"clave": "cieza-de-leon", "archivo": "sources/cieza-de-leon/texto-limpio/cronica-del-peru.md"},
+    {"clave": "tezozomoc", "archivo": "sources/tezozomoc/texto-limpio/cronica-mexicana.md"},
+    {"clave": "motolinia", "archivo": "sources/motolinia/texto-limpio/historia-de-los-indios.md"},
 ]
 
 CAP_BLURBS = 20

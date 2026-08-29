@@ -15,7 +15,7 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: '…ha dado: los indios la llaman Cuanahani. A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandim: á la cuarta <mark>la Isabela</mark> : á la quinta isla Juana, é así á cada una nom- bre nuevo.'
+  html: '… dado: los indios la llaman Guanahanin. A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandina: á la cuarta <mark>la Isabela</mark> : á la quinta isla Juana, é así á cada una nombre nuevo.'
 - heading: Instrucción a Mosén Pedro Margarit (1494)
   url: /documentos/colon-cartas/001/
   occ: 0

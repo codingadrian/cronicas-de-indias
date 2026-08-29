@@ -1,0 +1,627 @@
+[
+{
+"id": "person:cabeza-de-vaca",
+"canonical_name": "Álvar Núñez Cabeza de Vaca",
+"aliases": [
+"Cabeça de vaca",
+"el narrador"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/cabeza-de-vaca/"
+},
+{
+"id": "person:panfilo-de-narvaez",
+"canonical_name": "Pánfilo de Narváez",
+"aliases": [
+"el governador"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/panfilo-de-narvaez/"
+},
+{
+"id": "person:alonso-enriquez",
+"canonical_name": "Alonso Enríquez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/alonso-enriquez/"
+},
+{
+"id": "person:alonso-de-solis",
+"canonical_name": "Alonso de Solís",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/alonso-de-solis/"
+},
+{
+"id": "person:fray-juan-suarez",
+"canonical_name": "Fray Juan Suárez",
+"aliases": [
+"el comissario"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/fray-juan-suarez/"
+},
+{
+"id": "person:vasco-porcallo",
+"canonical_name": "Vasco Porcallo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/vasco-porcallo/"
+},
+{
+"id": "person:capitan-pantoja",
+"canonical_name": "Pantoja",
+"aliases": [
+"capitan Pantoja"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/capitan-pantoja/"
+},
+{
+"id": "person:miruelo",
+"canonical_name": "Miruelo",
+"aliases": [
+"Mirvelo"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/miruelo/"
+},
+{
+"id": "person:alvaro-de-la-cerda",
+"canonical_name": "Álvaro de la Cerda",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/alvaro-de-la-cerda/"
+},
+{
+"id": "person:bartolome-fernandez",
+"canonical_name": "Bartolomé Fernández",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/bartolome-fernandez/"
+},
+{
+"id": "person:hieronimo-de-alaniz",
+"canonical_name": "Hierónimo de Alaniz",
+"aliases": [
+"Alaniz"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/hieronimo-de-alaniz/"
+},
+{
+"id": "person:alonso-del-castillo",
+"canonical_name": "Alonso del Castillo Maldonado",
+"aliases": [
+"el capitan Castillo",
+"Castillo"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/alonso-del-castillo/"
+},
+{
+"id": "person:andres-dorantes",
+"canonical_name": "Andrés Dorantes",
+"aliases": [
+"Dorantes"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/andres-dorantes/"
+},
+{
+"id": "person:estevanico",
+"canonical_name": "Estevanico",
+"aliases": [
+"el negro",
+"Estevan"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/estevanico/"
+},
+{
+"id": "person:tellez",
+"canonical_name": "Téllez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/tellez/"
+},
+{
+"id": "person:penalosa",
+"canonical_name": "Peñalosa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/penalosa/"
+},
+{
+"id": "person:doroteo-teodoro",
+"canonical_name": "Doroteo Teodoro",
+"aliases": [
+"Teodoro",
+"don Teodoro",
+"un griego llamado don Teodoro"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/doroteo-teodoro/"
+},
+{
+"id": "person:juan-velazquez",
+"canonical_name": "Juan Velázquez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/juan-velazquez/"
+},
+{
+"id": "person:dulchanchellin",
+"canonical_name": "Dulchanchellín",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/dulchanchellin/"
+},
+{
+"id": "person:don-pedro-tezcuco",
+"canonical_name": "don Pedro",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/don-pedro-tezcuco/"
+},
+{
+"id": "person:avellaneda",
+"canonical_name": "Avellaneda",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/avellaneda/"
+},
+{
+"id": "person:lope-de-oviedo",
+"canonical_name": "Lope de Oviedo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/lope-de-oviedo/"
+},
+{
+"id": "person:sierra",
+"canonical_name": "Sierra",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/sierra/"
+},
+{
+"id": "person:diego-lopez",
+"canonical_name": "Diego López",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/diego-lopez/"
+},
+{
+"id": "person:corral",
+"canonical_name": "Corral",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/corral/"
+},
+{
+"id": "person:palacios",
+"canonical_name": "Palacios",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/palacios/"
+},
+{
+"id": "person:goncalo-ruiz",
+"canonical_name": "Gonçalo Ruiz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/goncalo-ruiz/"
+},
+{
+"id": "person:diego-dorantes",
+"canonical_name": "Diego Dorantes",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/diego-dorantes/"
+},
+{
+"id": "person:valdivieso",
+"canonical_name": "Valdivieso",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/valdivieso/"
+},
+{
+"id": "person:diego-de-huelva",
+"canonical_name": "Diego de Huelva",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/diego-de-huelva/"
+},
+{
+"id": "person:estrada",
+"canonical_name": "Estrada",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/estrada/"
+},
+{
+"id": "person:tostado",
+"canonical_name": "Tostado",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/tostado/"
+},
+{
+"id": "person:chaves",
+"canonical_name": "Chaves",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/chaves/"
+},
+{
+"id": "person:gutierrez",
+"canonical_name": "Gutiérrez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/gutierrez/"
+},
+{
+"id": "person:esturiano",
+"canonical_name": "Esturiano",
+"aliases": [
+"el Asturiano"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/esturiano/"
+},
+{
+"id": "person:benitez",
+"canonical_name": "Benítez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/benitez/"
+},
+{
+"id": "person:francisco-de-leon",
+"canonical_name": "Francisco de León",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/francisco-de-leon/"
+},
+{
+"id": "person:hernando-de-esquivel",
+"canonical_name": "Hernando de Esquivel",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/hernando-de-esquivel/"
+},
+{
+"id": "person:soto-mayor",
+"canonical_name": "Soto Mayor",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/soto-mayor/"
+},
+{
+"id": "person:alvaro-fernandez",
+"canonical_name": "Álvaro Fernández",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/alvaro-fernandez/"
+},
+{
+"id": "person:mendez",
+"canonical_name": "Méndez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/mendez/"
+},
+{
+"id": "person:figueroa",
+"canonical_name": "Figueroa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/figueroa/"
+},
+{
+"id": "person:astudillo",
+"canonical_name": "Astudillo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/astudillo/"
+},
+{
+"id": "person:diego-de-alcaraz",
+"canonical_name": "Diego de Alcaraz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/diego-de-alcaraz/"
+},
+{
+"id": "person:melchor-diaz",
+"canonical_name": "Melchor Díaz",
+"aliases": [
+"Melchior Diaz"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/melchor-diaz/"
+},
+{
+"id": "person:nuno-de-guzman",
+"canonical_name": "Nuño de Guzmán",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/nuno-de-guzman/"
+},
+{
+"id": "person:diego-de-silveira",
+"canonical_name": "Diego de Silveira",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/diego-de-silveira/"
+},
+{
+"id": "person:cebreros",
+"canonical_name": "Cebreros",
+"aliases": [
+"Zebreros"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/cebreros/"
+},
+{
+"id": "person:carvallo",
+"canonical_name": "Carvallo",
+"aliases": [
+"Caravallo"
+],
+"tipo": "persona",
+"url": "/personas/cabeza-de-vaca/carvallo/"
+},
+{
+"id": "place:san-lucar-de-barrameda",
+"canonical_name": "San Lúcar de Barrameda",
+"aliases": [
+"sant Lucar de Barrameda"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/san-lucar-de-barrameda/"
+},
+{
+"id": "place:isla-espanola",
+"canonical_name": "isla Española",
+"aliases": [
+"Santo Domingo",
+"ysla de Santo Domingo"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/isla-espanola/"
+},
+{
+"id": "place:santiago-de-cuba",
+"canonical_name": "Santiago",
+"aliases": [
+"Sanctiago"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/santiago-de-cuba/"
+},
+{
+"id": "place:trinidad-cuba",
+"canonical_name": "la Trinidad",
+"aliases": [
+"villa de la Trinidad"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/trinidad-cuba/"
+},
+{
+"id": "place:cabo-de-santa-cruz",
+"canonical_name": "cabo de Santa Cruz",
+"aliases": [
+"cabo de sancta Cruz"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/cabo-de-santa-cruz/"
+},
+{
+"id": "place:puerto-de-xagua",
+"canonical_name": "puerto de Xagua",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/puerto-de-xagua/"
+},
+{
+"id": "place:guaniguanico",
+"canonical_name": "Guaniguanico",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/guaniguanico/"
+},
+{
+"id": "place:cabo-de-corrientes",
+"canonical_name": "cabo de Corrientes",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/cabo-de-corrientes/"
+},
+{
+"id": "place:cabo-de-san-anton",
+"canonical_name": "cabo de San Antón",
+"aliases": [
+"cabo de sant Anton"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/cabo-de-san-anton/"
+},
+{
+"id": "place:la-habana",
+"canonical_name": "la Habana",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/la-habana/"
+},
+{
+"id": "place:florida",
+"canonical_name": "la Florida",
+"aliases": [
+"cabo de la Florida"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/florida/"
+},
+{
+"id": "place:rio-de-las-palmas",
+"canonical_name": "río de las Palmas",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/rio-de-las-palmas/"
+},
+{
+"id": "place:apalache",
+"canonical_name": "Apalache",
+"aliases": [
+"Palache"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/apalache/"
+},
+{
+"id": "place:aute",
+"canonical_name": "Aute",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/aute/"
+},
+{
+"id": "place:bahia-de-caballos",
+"canonical_name": "bahía de Caballos",
+"aliases": [
+"baya de cavallos"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/bahia-de-caballos/"
+},
+{
+"id": "place:isla-de-malhado",
+"canonical_name": "isla de Malhado",
+"aliases": [
+"ysla de Malhado"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/isla-de-malhado/"
+},
+{
+"id": "place:rio-de-la-magdalena",
+"canonical_name": "río de la Magdalena",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/rio-de-la-magdalena/"
+},
+{
+"id": "place:panuco",
+"canonical_name": "Pánuco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/panuco/"
+},
+{
+"id": "place:rio-de-petatlan",
+"canonical_name": "río de Petatlán",
+"aliases": [
+"rio de Petutan",
+"rio de Petaan"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/rio-de-petatlan/"
+},
+{
+"id": "place:san-miguel-nueva-galicia",
+"canonical_name": "villa de San Miguel",
+"aliases": [
+"sant Miguel"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/san-miguel-nueva-galicia/"
+},
+{
+"id": "place:culiacan",
+"canonical_name": "Culiacán",
+"aliases": [
+"Culiaçan"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/culiacan/"
+},
+{
+"id": "place:compostela",
+"canonical_name": "Compostela",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/compostela/"
+},
+{
+"id": "place:mexico-ciudad",
+"canonical_name": "México",
+"aliases": [
+"ciudad de Mexico"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/mexico-ciudad/"
+},
+{
+"id": "place:vera-cruz",
+"canonical_name": "la Vera Cruz",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/vera-cruz/"
+},
+{
+"id": "place:isla-de-bermuda",
+"canonical_name": "isla de la Bermuda",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/isla-de-bermuda/"
+},
+{
+"id": "place:isla-del-cuervo",
+"canonical_name": "isla del Cuervo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/isla-del-cuervo/"
+},
+{
+"id": "place:isla-tercera",
+"canonical_name": "isla Tercera",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/isla-tercera/"
+},
+{
+"id": "place:puerto-de-lisboa",
+"canonical_name": "puerto de Lisboa",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/puerto-de-lisboa/"
+},
+{
+"id": "place:mar-del-sur",
+"canonical_name": "mar del Sur",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/mar-del-sur/"
+},
+{
+"id": "place:nueva-espana",
+"canonical_name": "Nueva España",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/nueva-espana/"
+},
+{
+"id": "place:nueva-galicia",
+"canonical_name": "Nueva Galicia",
+"aliases": [
+"governacion de la nueva Galicia"
+],
+"tipo": "lugar",
+"url": "/lugares/cabeza-de-vaca/nueva-galicia/"
+}
+]

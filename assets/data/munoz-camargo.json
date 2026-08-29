@@ -1,0 +1,582 @@
+[
+{
+"id": "person:camaxtli",
+"canonical_name": "Camaxtli",
+"aliases": [
+"Camaxtli Mixcohuatl",
+"Mixcohuatl"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/camaxtli/"
+},
+{
+"id": "person:quetzalcoatl",
+"canonical_name": "Quetzalcóatl",
+"aliases": [
+"Quetzalcohuatl"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/quetzalcoatl/"
+},
+{
+"id": "person:culhua-quanez",
+"canonical_name": "Culhua Quanez",
+"aliases": [
+"Culhuatecuhtli",
+"Culhuatecuhtlicuanez",
+"Culhua Tecpanecatl Quanexteyoalminqui"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/culhua-quanez/"
+},
+{
+"id": "person:teyohualminqui",
+"canonical_name": "Teyohualminqui",
+"aliases": [
+"Chichimecatecuhtli"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/teyohualminqui/"
+},
+{
+"id": "person:acatentehua",
+"canonical_name": "Acatentehua",
+"aliases": [
+"Acatentehuatecuhtli"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/acatentehua/"
+},
+{
+"id": "person:tlacomihua",
+"canonical_name": "Tlacomihua",
+"aliases": [
+"Tlacomihuatzin"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/tlacomihua/"
+},
+{
+"id": "person:maxixcatzin",
+"canonical_name": "Maxixcatzin",
+"aliases": [
+"Maxixcatzin Tianquiztlahuatzin"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/maxixcatzin/"
+},
+{
+"id": "person:lorenzo-maxixcatzin",
+"canonical_name": "D. Lorenzo Maxixcatzin",
+"aliases": [
+"Maxixcatzin Tianquiztlatohuatzin (hijo)"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/lorenzo-maxixcatzin/"
+},
+{
+"id": "person:francisco-maxixcatzin",
+"canonical_name": "D. Francisco Maxixcatzin Acuacuatzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/francisco-maxixcatzin/"
+},
+{
+"id": "person:juan-maxixcatzin",
+"canonical_name": "D. Juan Maxixcatzin Otzetzeliuhcatzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/juan-maxixcatzin/"
+},
+{
+"id": "person:xicotencatl-viejo",
+"canonical_name": "Xicotencatl (el viejo)",
+"aliases": [
+"D. Lorenzo Xicotencatl"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/xicotencatl-viejo/"
+},
+{
+"id": "person:xicotencatl-axayacatzin",
+"canonical_name": "Axayacatzin Xicotencatl",
+"aliases": [
+"Xicotencatl el mozo"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/xicotencatl-axayacatzin/"
+},
+{
+"id": "person:citlalpopocatzin",
+"canonical_name": "Citlalpopocatzin",
+"aliases": [
+"Citlalpopocatzin Quetzalcohuatecuhtli"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/citlalpopocatzin/"
+},
+{
+"id": "person:tlehuexolotzin",
+"canonical_name": "Tlehuexolotzin",
+"aliases": [
+"Tlacaxcaltecuhtli"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/tlehuexolotzin/"
+},
+{
+"id": "person:tlahuicole",
+"canonical_name": "Tlahuicole",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/tlahuicole/"
+},
+{
+"id": "person:moctezuma",
+"canonical_name": "Motecuhzoma",
+"aliases": [
+"Moctheuzomatzin",
+"Moctezuma",
+"Motecuhzomatzin"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/moctezuma/"
+},
+{
+"id": "person:hernan-cortes",
+"canonical_name": "Hernando Cortés",
+"aliases": [
+"Fernando Cortés",
+"capitán Cortés",
+"el Marqués"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/hernan-cortes/"
+},
+{
+"id": "person:malintzin",
+"canonical_name": "Malintzin",
+"aliases": [
+"Marina",
+"Malitzin",
+"Doña Marina"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/malintzin/"
+},
+{
+"id": "person:jeronimo-de-aguilar",
+"canonical_name": "Jerónimo de Aguilar",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/jeronimo-de-aguilar/"
+},
+{
+"id": "person:pedro-de-alvarado",
+"canonical_name": "Pedro de Alvarado",
+"aliases": [
+"D. Pedro de Alvarado",
+"el Sol"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/pedro-de-alvarado/"
+},
+{
+"id": "person:maria-luisa-tecuelhuatzin",
+"canonical_name": "Doña María Luisa Tecuelhuatzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/maria-luisa-tecuelhuatzin/"
+},
+{
+"id": "person:diego-velazquez",
+"canonical_name": "Diego Velázquez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/diego-velazquez/"
+},
+{
+"id": "person:panfilo-de-narvaez",
+"canonical_name": "Pánfilo de Narváez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/panfilo-de-narvaez/"
+},
+{
+"id": "person:maria-de-estrada",
+"canonical_name": "María de Estrada",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/maria-de-estrada/"
+},
+{
+"id": "person:antonio-calmecahua",
+"canonical_name": "D. Antonio Calmecahua",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/antonio-calmecahua/"
+},
+{
+"id": "person:antonio-temoxahuitzin",
+"canonical_name": "Antonio Temoxahuitzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/antonio-temoxahuitzin/"
+},
+{
+"id": "person:tizacaltatzin",
+"canonical_name": "Tizacaltatzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/tizacaltatzin/"
+},
+{
+"id": "person:patlahuatzin",
+"canonical_name": "Patlahuatzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/patlahuatzin/"
+},
+{
+"id": "person:fray-martin-de-valencia",
+"canonical_name": "Fray Martín de Valencia",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/fray-martin-de-valencia/"
+},
+{
+"id": "person:fray-pedro-de-gante",
+"canonical_name": "Fray Pedro de Gante",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/fray-pedro-de-gante/"
+},
+{
+"id": "person:gonzalo-tecpanecatl",
+"canonical_name": "D. Gonzalo Tecpanecatl Tecuhtli",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/gonzalo-tecpanecatl/"
+},
+{
+"id": "person:fray-diego-de-olarte",
+"canonical_name": "Fray Diego de Olarte",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/fray-diego-de-olarte/"
+},
+{
+"id": "person:cristobal-axotecatl",
+"canonical_name": "D. Cristóbal Axotecatl",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/cristobal-axotecatl/"
+},
+{
+"id": "person:cristobalito",
+"canonical_name": "Cristóbal (\"Cristobalito\")",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/cristobalito/"
+},
+{
+"id": "person:antonio-de-mendoza",
+"canonical_name": "D. Antonio de Mendoza",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/antonio-de-mendoza/"
+},
+{
+"id": "person:nuno-de-guzman",
+"canonical_name": "Nuño de Guzmán",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/nuno-de-guzman/"
+},
+{
+"id": "person:francisco-vazquez-coronado",
+"canonical_name": "Francisco Vázquez Coronado",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/francisco-vazquez-coronado/"
+},
+{
+"id": "person:fray-marcos-de-niza",
+"canonical_name": "Fray Marcos de Niza",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/fray-marcos-de-niza/"
+},
+{
+"id": "person:bartolome-de-las-casas",
+"canonical_name": "Fray Bartolomé de las Casas",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/bartolome-de-las-casas/"
+},
+{
+"id": "person:juan-de-zumarraga",
+"canonical_name": "Fray Juan de Zumárraga",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/juan-de-zumarraga/"
+},
+{
+"id": "person:luis-de-velasco-i",
+"canonical_name": "D. Luis de Velasco",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/luis-de-velasco-i/"
+},
+{
+"id": "person:gaston-de-peralta",
+"canonical_name": "D. Gastón de Peralta",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/gaston-de-peralta/"
+},
+{
+"id": "person:martin-enriquez",
+"canonical_name": "D. Martín Enríquez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/martin-enriquez/"
+},
+{
+"id": "person:martin-cortes-marques",
+"canonical_name": "D. Martín Cortés",
+"aliases": [
+"marqués del Valle"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/martin-cortes-marques/"
+},
+{
+"id": "person:lorenzo-suarez-de-mendoza",
+"canonical_name": "D. Lorenzo Suárez de Mendoza",
+"aliases": [
+"conde de la Coruña"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/lorenzo-suarez-de-mendoza/"
+},
+{
+"id": "person:alvaro-manrique-de-zuniga",
+"canonical_name": "D. Álvaro Manrique de Zúñiga",
+"aliases": [
+"marqués de Villa Manrique"
+],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/alvaro-manrique-de-zuniga/"
+},
+{
+"id": "person:diego-munoz-camargo",
+"canonical_name": "Diego Muñoz Camargo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/munoz-camargo/diego-munoz-camargo/"
+},
+{
+"id": "place:tlaxcala",
+"canonical_name": "Tlaxcala",
+"aliases": [
+"Tlaxcalla",
+"Texcalla",
+"Texcalticpac"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/tlaxcala/"
+},
+{
+"id": "place:tepeticpac",
+"canonical_name": "Tepeticpac",
+"aliases": [
+"Texcalticpac"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/tepeticpac/"
+},
+{
+"id": "place:ocotelolco",
+"canonical_name": "Ocotelolco",
+"aliases": [
+"Ocotelulco"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/ocotelolco/"
+},
+{
+"id": "place:tizatlan",
+"canonical_name": "Tizatlan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/tizatlan/"
+},
+{
+"id": "place:quiahuiztlan",
+"canonical_name": "Quiahuiztlan",
+"aliases": [
+"Tlapitzahuacan"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/quiahuiztlan/"
+},
+{
+"id": "place:poyauhtlan",
+"canonical_name": "Poyauhtlan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/poyauhtlan/"
+},
+{
+"id": "place:tetzcuco",
+"canonical_name": "Tetzcuco",
+"aliases": [
+"Texcoco",
+"Aculhuacan"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/tetzcuco/"
+},
+{
+"id": "place:mexico-tenochtitlan",
+"canonical_name": "México-Tenochtitlan",
+"aliases": [
+"Tenochtitlan",
+"México",
+"Culhua"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/mexico-tenochtitlan/"
+},
+{
+"id": "place:cholula",
+"canonical_name": "Cholula",
+"aliases": [
+"Cholollan"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/cholula/"
+},
+{
+"id": "place:huexotzinco",
+"canonical_name": "Huexotzinco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/huexotzinco/"
+},
+{
+"id": "place:chalco",
+"canonical_name": "Chalco",
+"aliases": [
+"Amaquemecan"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/chalco/"
+},
+{
+"id": "place:michoacan",
+"canonical_name": "Michoacán",
+"aliases": [
+"provincia de los tarascos"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/michoacan/"
+},
+{
+"id": "place:culhuacan",
+"canonical_name": "Culhuacan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/culhuacan/"
+},
+{
+"id": "place:cempoala",
+"canonical_name": "Cempoala",
+"aliases": [
+"Cempohuallan"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/cempoala/"
+},
+{
+"id": "place:otompan",
+"canonical_name": "Otompan",
+"aliases": [
+"Otumba",
+"llanos de Aztaquemecan"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/otompan/"
+},
+{
+"id": "place:potonchan",
+"canonical_name": "Potonchan",
+"aliases": [
+"Tabasco",
+"Acosamilco"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/potonchan/"
+},
+{
+"id": "place:villa-rica-de-la-vera-cruz",
+"canonical_name": "Villa Rica de la Vera Cruz",
+"aliases": [
+"la Villa Rica"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/villa-rica-de-la-vera-cruz/"
+},
+{
+"id": "place:hueyotlipan",
+"canonical_name": "Hueyotlipan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/hueyotlipan/"
+},
+{
+"id": "place:cibola",
+"canonical_name": "Cíbola",
+"aliases": [
+"las Siete Ciudades",
+"Tríbola"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/cibola/"
+},
+{
+"id": "place:florida",
+"canonical_name": "la Florida",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/florida/"
+},
+{
+"id": "place:hibueras-honduras",
+"canonical_name": "las Hibueras",
+"aliases": [
+"Honduras"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/hibueras-honduras/"
+},
+{
+"id": "place:peru",
+"canonical_name": "los reinos del Perú",
+"aliases": [
+"Perú"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/peru/"
+},
+{
+"id": "place:nueva-galicia",
+"canonical_name": "Nueva Galicia",
+"aliases": [
+"Chametla"
+],
+"tipo": "lugar",
+"url": "/lugares/munoz-camargo/nueva-galicia/"
+}
+]

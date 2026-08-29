@@ -1,0 +1,422 @@
+[
+{
+"id": "person:xolotl",
+"canonical_name": "Xólotl",
+"aliases": [
+"el gran chichimeca Xólotl"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/xolotl/"
+},
+{
+"id": "person:nopaltzin",
+"canonical_name": "Nopaltzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/nopaltzin/"
+},
+{
+"id": "person:tlotzin-pochotl",
+"canonical_name": "Tlotzin Pochotl",
+"aliases": [
+"Tlotzin"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/tlotzin-pochotl/"
+},
+{
+"id": "person:quinatzin",
+"canonical_name": "Quinatzin Tlaltecatzin",
+"aliases": [
+"Quinatzin"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/quinatzin/"
+},
+{
+"id": "person:techotlalatzin",
+"canonical_name": "Techotlalatzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/techotlalatzin/"
+},
+{
+"id": "person:ixtlilxochitl-i",
+"canonical_name": "Ixtlilxóchitl Ometochtzin",
+"aliases": [
+"Ixtlilxóchitl (el viejo)"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/ixtlilxochitl-i/"
+},
+{
+"id": "person:tezozomoc",
+"canonical_name": "Tezozómoc",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/tezozomoc/"
+},
+{
+"id": "person:maxtla",
+"canonical_name": "Maxtla",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/maxtla/"
+},
+{
+"id": "person:tayatzin",
+"canonical_name": "Tayatzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/tayatzin/"
+},
+{
+"id": "person:nezahualcoyotl",
+"canonical_name": "Nezahualcóyotl",
+"aliases": [
+"Acolmiztli Nezahualcoyotzin",
+"Nezahualcoyotzin"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/nezahualcoyotl/"
+},
+{
+"id": "person:itzcoatl",
+"canonical_name": "Itzcoatzin",
+"aliases": [
+"Itzcóatl"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/itzcoatl/"
+},
+{
+"id": "person:totoquihuatzin",
+"canonical_name": "Totoquihuatzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/totoquihuatzin/"
+},
+{
+"id": "person:chimalpopoca",
+"canonical_name": "Chimalpopoca",
+"aliases": [
+"Chimalpopocatzin"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/chimalpopoca/"
+},
+{
+"id": "person:tlacateotzin",
+"canonical_name": "Tlacateotzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/tlacateotzin/"
+},
+{
+"id": "person:acamapichtli",
+"canonical_name": "Acamapichtli",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/acamapichtli/"
+},
+{
+"id": "person:huitzilihuitl-rey",
+"canonical_name": "Huitzilihuitzin",
+"aliases": [
+"Huitzilihuitl"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/huitzilihuitl-rey/"
+},
+{
+"id": "person:huitzilihuitzin-ayo",
+"canonical_name": "Huitzilihuitzin (ayo de Nezahualcóyotl)",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/huitzilihuitzin-ayo/"
+},
+{
+"id": "person:motecuhzoma-ilhuicamina",
+"canonical_name": "Motecuhzoma Ilhuicamina",
+"aliases": [
+"Moctezuma I"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/motecuhzoma-ilhuicamina/"
+},
+{
+"id": "person:nezahualpilli",
+"canonical_name": "Nezahualpiltzintli",
+"aliases": [
+"Nezahualpilli"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/nezahualpilli/"
+},
+{
+"id": "person:axayacatl",
+"canonical_name": "Axayacatzin",
+"aliases": [
+"Axayácatl"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/axayacatl/"
+},
+{
+"id": "person:tizoc",
+"canonical_name": "Tizotzicatzin",
+"aliases": [
+"Tízoc"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/tizoc/"
+},
+{
+"id": "person:ahuizotl",
+"canonical_name": "Ahuitzotzin",
+"aliases": [
+"Ahuízotl"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/ahuizotl/"
+},
+{
+"id": "person:motecuhzoma-ii",
+"canonical_name": "Motecuhzoma",
+"aliases": [
+"Moctezuma II",
+"Motecuhzoma Xocoyotzin"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/motecuhzoma-ii/"
+},
+{
+"id": "person:cacama",
+"canonical_name": "Cacama",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/cacama/"
+},
+{
+"id": "person:coanacotzin",
+"canonical_name": "Coanacotzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/coanacotzin/"
+},
+{
+"id": "person:ixtlilxochitl-ii",
+"canonical_name": "Ixtlilxóchitl (el joven)",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/ixtlilxochitl-ii/"
+},
+{
+"id": "person:cuitlahuac",
+"canonical_name": "Cuitlahuatzin",
+"aliases": [
+"Cuitláhuac"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/cuitlahuac/"
+},
+{
+"id": "person:hernan-cortes",
+"canonical_name": "Hernán Cortés",
+"aliases": [
+"Fernando Cortés",
+"el invencible Fernando Cortés, primer marqués del Valle"
+],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/hernan-cortes/"
+},
+{
+"id": "person:pedro-de-alvarado",
+"canonical_name": "Pedro de Alvarado",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/pedro-de-alvarado/"
+},
+{
+"id": "person:coacuecuenotzin",
+"canonical_name": "Coacuecuenotzin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/ixtlilxochitl/coacuecuenotzin/"
+},
+{
+"id": "place:tenayocan",
+"canonical_name": "Tenayocan",
+"aliases": [
+"Tenayoacan",
+"Tenayucan"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/tenayocan/"
+},
+{
+"id": "place:tetzcuco",
+"canonical_name": "Tetzcuco",
+"aliases": [
+"Tetzcoco",
+"Texcoco",
+"Acolhuacan"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/tetzcuco/"
+},
+{
+"id": "place:azcaputzalco",
+"canonical_name": "Azcaputzalco",
+"aliases": [
+"Azcapotzalco"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/azcaputzalco/"
+},
+{
+"id": "place:tenochtitlan",
+"canonical_name": "México-Tenochtitlan",
+"aliases": [
+"México",
+"Tenochtitlan",
+"Thenotitlan"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/tenochtitlan/"
+},
+{
+"id": "place:tlatelolco",
+"canonical_name": "Tlatelolco",
+"aliases": [
+"Tlatelulco"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/tlatelolco/"
+},
+{
+"id": "place:tlacopan",
+"canonical_name": "Tlacopan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/tlacopan/"
+},
+{
+"id": "place:coatlichan",
+"canonical_name": "Coatlichan",
+"aliases": [
+"Coatlinchan"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/coatlichan/"
+},
+{
+"id": "place:huexotla",
+"canonical_name": "Huexotla",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/huexotla/"
+},
+{
+"id": "place:acolman",
+"canonical_name": "Acolman",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/acolman/"
+},
+{
+"id": "place:otompan",
+"canonical_name": "Otompan",
+"aliases": [
+"Otumba"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/otompan/"
+},
+{
+"id": "place:chalco",
+"canonical_name": "Chalco",
+"aliases": [
+"Chalco Atenco"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/chalco/"
+},
+{
+"id": "place:culhuacan",
+"canonical_name": "Culhuacan",
+"aliases": [
+"Colhuacan"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/culhuacan/"
+},
+{
+"id": "place:tula",
+"canonical_name": "Tula",
+"aliases": [
+"Tolan",
+"Tollan"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/tula/"
+},
+{
+"id": "place:cholula",
+"canonical_name": "Cholula",
+"aliases": [
+"Cholollan",
+"Chololan"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/cholula/"
+},
+{
+"id": "place:tlaxcala",
+"canonical_name": "Tlaxcala",
+"aliases": [
+"Tlaxcalan"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/tlaxcala/"
+},
+{
+"id": "place:huexotzinco",
+"canonical_name": "Huexotzinco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/huexotzinco/"
+},
+{
+"id": "place:potonchan",
+"canonical_name": "Potonchan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/potonchan/"
+},
+{
+"id": "place:veracruz",
+"canonical_name": "Villa Rica de la Vera Cruz",
+"aliases": [
+"la Veracruz"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/veracruz/"
+},
+{
+"id": "place:cempoala",
+"canonical_name": "Cempoalan",
+"aliases": [
+"Cempoala"
+],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/cempoala/"
+},
+{
+"id": "place:quiahuiztlan",
+"canonical_name": "Quiahuiztlan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/ixtlilxochitl/quiahuiztlan/"
+}
+]
