@@ -24,40 +24,56 @@ dirigido al usuario (sitio, READMEs, METADATA).
   Project Gutenberg; el Diario de Colón, de Wikisource (funcionó desde
   Claude Code local, a diferencia del entorno de nube original — ver nota
   más abajo); Cortés y las Cartas de Colón, de Archive.org.
-- **Fase 2 (entidades y relaciones): las cinco obras activas tienen ahora
-  al menos una primera pasada** (2026-08-28, hecho en paralelo con 5 forks,
-  uno por obra, después fusionado y verificado a mano — ver "Pendientes"
-  para cómo seguir cada una):
-  - **Bernal Díaz**: Capítulos 1-18 de 111 (93 quedan). 41 personas, 31
-    lugares, 10 eventos, 80 relaciones.
-  - **Las Casas**: Capítulos 1-11 de 97 (86 quedan). 26 personas, 22
-    lugares, 10 eventos, 40 relaciones.
-  - **Diario de Colón**: Proemio + días 1-20 de 191 (~11%). 5 personas, 11
-    lugares, 2 eventos, 13 relaciones. Colón se modeló como
+- **Fase 2 (entidades y relaciones): dos tandas hechas, la segunda con
+  cinco forks en paralelo (uno por obra) más una tercera pasada de
+  resumido/reparo tras un corte por límite de sesión** (primera tanda
+  2026-08-28, segunda tanda 2026-08-28/29 — ver "Pendientes" para cómo
+  seguir cada una):
+  - **Bernal Díaz**: Capítulos 1-35 de 111 (76 quedan). 63 personas, 36
+    lugares, 16 eventos, 163 relaciones.
+  - **Las Casas**: Capítulos 1-28 de 97 (69 quedan). 45 personas, 43
+    lugares, 21 eventos, 82 relaciones. Encontrada una colisión de
+    nombre real a tres bandas ("Diego Colón" nombra al hermano del
+    Almirante, a su hijo, y a un indígena de Guanahaní bautizado con ese
+    nombre) — las tres entradas quedaron cruzadas con `notas` explicando
+    la ambigüedad; el sitio no desambigua homónimos en el etiquetado de
+    texto, así que dos de las tres páginas no muestran menciones propias
+    todavía (ver "Pendientes").
+  - **Diario de Colón**: Proemio + días 1-40 de 191 (~21%). 5 personas,
+    14 lugares, 4 eventos, 16 relaciones. Colón se modeló como
     `person:cristobal-colon` (narrador/sujeto, con nota sobre la voz de
     Las Casas), mismo patrón que `person:bernal-diaz-del-castillo`.
-  - **Cortés**: solo la Primera carta-relación de 5. 11 personas, 9
-    lugares, 7 eventos, 29 relaciones.
-  - **Colón — Cartas**: los primeros 3 documentos de 10 (Carta a
-    Santángel + Rafael Sánchez + Memorial a Torres bajo un mismo
-    capítulo, Instrucción a Margarite, Carta a los Reyes del 2º viaje).
-    9 personas, 10 lugares, 4 eventos, 21 relaciones.
+  - **Cortés**: **completa — las 5 cartas de relación**. 39 personas, 29
+    lugares, 24 eventos, 89 relaciones.
+  - **Colón — Cartas**: **completa — los 10 documentos/bloques**. 27
+    personas, 18 lugares, 11 eventos, 65 relaciones.
 
-  **Bugs de integridad encontrados y corregidos en esta tanda** (vale la
-  pena recordarlos si se retoma manualmente): (1) las entidades nuevas del
-  Capítulo 1 de Bernal Díaz y de Las Casas se habían quedado solo en el
-  log `entidades_nuevas` de `relaciones-muestra.json` sin copiarse nunca a
-  `personas.json`/`lugares.json` — las relaciones citaban ids que no
-  existían en el registro real (invisibles en el MVP). Ya están
-  promovidas en ambas obras. (2) Un fork usó una relación `citado_en`
-  persona→fuente en Las Casas, que no es como está pensado el esquema
-  (`cited_in` es relación→fuente, y cada relación ya cita su fuente en su
-  propio campo `source`) y apuntaba a un id sin registrar — se corrigió a
-  `estuvo_presente_en` contra el evento correspondiente. Antes de dar por
-  buena una tanda nueva, correr un chequeo de integridad referencial
-  (todo `from`/`to` de `relaciones` debe resolver contra `personas` +
-  `lugares` + `eventos` de esa misma obra) — quedó como buena práctica a
-  repetir.
+  **Bugs de integridad encontrados y corregidos en estas tandas** (vale
+  la pena recordarlos si se retoma manualmente): (1) las entidades
+  nuevas del Capítulo 1 de Bernal Díaz y de Las Casas se habían quedado
+  solo en el log `entidades_nuevas` de `relaciones-muestra.json` sin
+  copiarse nunca a `personas.json`/`lugares.json` — las relaciones
+  citaban ids que no existían en el registro real. Ya están promovidas
+  en ambas obras. (2) Un fork usó una relación `citado_en` persona→fuente
+  en Las Casas, que no es como está pensado el esquema (`cited_in` es
+  relación→fuente, y cada relación ya cita su fuente en su propio campo
+  `source`) y apuntaba a un id sin registrar — se corrigió a
+  `estuvo_presente_en` contra el evento correspondiente. (3) En la
+  segunda tanda, tres de los cinco forks paralelos se cortaron a mitad
+  de trabajo por haber alcanzado el límite de uso de la sesión — quedaron
+  estados a medio terminar (entidades nuevas ya escritas pero
+  `relaciones`/`eventos` todavía no, o el campo `nota` de cobertura
+  actualizado de forma prematura antes de que el contenido real lo
+  reflejara). Se detectó comparando conteos y el rango real de
+  `source:<obra>:cap-N` citado en `relaciones` contra lo que decía la
+  `nota`, y se resumieron los tres forks con instrucciones puntuales de
+  qué faltaba exactamente. **Antes de dar por buena una tanda nueva,
+  correr un chequeo de integridad referencial** (todo `from`/`to` de
+  `relaciones` y todo `place_id` de `eventos` debe resolver contra
+  `personas` + `lugares` + `eventos` de esa misma obra) **y comparar el
+  rango de `source:...:cap-N` realmente citado en `relaciones` contra lo
+  que dice el campo `nota`** — quedó como buena práctica a repetir,
+  sobre todo si el trabajo se hizo en paralelo o se interrumpió.
 - **Migración a sitio Jekyll completada (2026-08-28)**: el MVP de un
   solo archivo HTML (`mvp/archivo-final.html`) se reemplazó por un sitio
   Jekyll real — 419 páginas de capítulo, 92 de persona y 83 de lugar,
@@ -433,18 +449,24 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
 
 1. **Seguir la extracción de relaciones capítulo por capítulo** — es el
    trabajo de fondo que quedó pausado a pedido del usuario para primero
-   validar la interfaz (primero el MVP, ahora la migración a Jekyll). Las
-   cinco obras activas ya tienen una primera pasada (ver "Estado actual"
-   para el detalle por obra); todas necesitan más capítulos/entradas/
-   documentos — Bernal Díaz y Las Casas son las que más volumen tienen por
-   delante (93 y 86 capítulos). El patrón para sumar una tanda: editar
+   validar la interfaz (primero el MVP, ahora la migración a Jekyll).
+   **Cortés y Colón — Cartas ya están completas** (las 5 cartas y los 10
+   documentos respectivamente, ver "Estado actual") — no necesitan más
+   tandas de este tipo, solo la segunda revisión del punto 5. Quedan
+   tres obras con capítulos/entradas sin procesar: Bernal Díaz (76 de
+   111), Las Casas (69 de 97), y el Diario de Colón (151 de 191 días).
+   El patrón para sumar una tanda: editar
    `entidades/<obra>/personas.json` y `lugares.json` (agregar entidades
    nuevas, `status: "candidata"`), sumar eventos/relaciones al final de
    `relaciones-muestra.json` citando `source:<obra>:cap-N`, **correr un
    chequeo de integridad referencial** (todo `from`/`to` de `relaciones`
    tiene que resolver contra `personas`+`lugares`+`eventos` de esa obra —
-   ver el bug que se encontró y corrigió el 2026-08-28 en "Estado
-   actual"). **Ahora que el sitio es Jekyll, hay dos formas de aplicar
+   ver los bugs que se encontraron y corrigieron en "Estado actual", **en
+   especial el (3)**: si el trabajo se hizo en paralelo o se cortó a
+   mitad de camino, no confiar en que el campo `nota` de cobertura sea
+   preciso — comparar contra el rango real de `source:...:cap-N`
+   efectivamente citado en `relaciones`). **Ahora que el sitio es Jekyll,
+   hay dos formas de aplicar
    esos cambios a las páginas publicadas** (ya no hay un JSON embebido
    único que combinar): (a) si esa obra todavía no tiene páginas de
    persona/lugar editadas a mano, volver a correr
@@ -468,9 +490,14 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    haya tiempo — no es bloqueante para lo demás.
 5. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
    registros de personas/lugares (ahora son la gran mayoría, en las cinco
-   obras), y de las notas de ambigüedad (ej. "D Diego" en Las Casas, o la
+   obras), y de las notas de ambigüedad — en particular la colisión real
+   de nombre a tres bandas de "Diego Colón" en Las Casas
+   (`person:diego-colon-hermano`/`diego-colon-hijo`/
+   `diego-colon-indio-guanahani`, ya cruzados con `notas` pero el sitio
+   no desambigua homónimos al etiquetar texto, así que dos de las tres
+   páginas hoy no muestran menciones propias — ver "Estado actual"), y la
    discrepancia de a quién nombra "Champotón" entre Bernal Díaz y la
-   Primera carta de Cortés en `entidades/cortes/lugares.json`) — cotejar
+   Primera carta de Cortés en `entidades/cortes/lugares.json` — cotejar
    contra historia-hispanica.rah.es o Wikipedia (ver "Fuentes de
    referencia para comparar/inspirar biografías y lugares" en la sección
    "El sitio Jekyll") cuando haga falta resolver una ambigüedad de fechas

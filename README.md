@@ -18,18 +18,17 @@ falta instalar nada. Las páginas de persona (`_personas/`) y de lugar
 
 ## Estado
 
-**Sitio Jekyll publicado**, construido sobre la primera pasada de Fase 2
-(entidades y relaciones) — las cinco obras activas tienen al menos una
-primera pasada. La extracción de relaciones sigue pendiente para el resto
-de los capítulos/documentos de cada una.
+**Sitio Jekyll publicado**, construido sobre Fase 2 (entidades y
+relaciones) — Cortés y Colón-cartas ya tienen sus obras completas; las
+otras tres siguen en progreso capítulo por capítulo.
 
 Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en https://codingadrian.github.io/cronicas-de-indias/
 
-- ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): 41 personas y 31 lugares registrados, relaciones de los Capítulos 1-18 (de 111).
-- ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): 26 personas y 22 lugares registrados, relaciones de los Capítulos 1-11 (de 97).
-- ✅ Cristóbal Colón — *Diario de a bordo del primer viaje*: 5 personas y 11 lugares registrados, relaciones del proemio + días 1-20 (de 191).
-- ✅ Cristóbal Colón — *Relaciones y cartas*: 9 personas y 10 lugares registrados, relaciones de los primeros 3 documentos (de 10; edición de 1892, con ruido de OCR sin corregir).
-- ✅ Hernán Cortés — *Cartas de relación*: 11 personas y 9 lugares registrados, relaciones de la Primera carta (de 5); recién salió de pausa al conseguirse una edición digital.
+- ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): 63 personas y 36 lugares registrados, relaciones de los Capítulos 1-35 (de 111).
+- ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): 45 personas y 43 lugares registrados, relaciones de los Capítulos 1-28 (de 97).
+- ✅ Cristóbal Colón — *Diario de a bordo del primer viaje*: 5 personas y 14 lugares registrados, relaciones del proemio + días 1-40 (de 191).
+- ✅ Cristóbal Colón — *Relaciones y cartas*: **completa** — 27 personas y 18 lugares registrados, relaciones de los 10 documentos/bloques (edición de 1892, con ruido de OCR sin corregir).
+- ✅ Hernán Cortés — *Cartas de relación*: **completa** — 39 personas y 29 lugares registrados, relaciones de las 5 cartas.
 - ⏸️ Hernando Colón — en pausa.
 
 **Catálogo completo de 20 cronistas** (`sources/CATALOGO.md`): a pedido
@@ -80,7 +79,7 @@ Después abrí `http://localhost:4000/cronicas-de-indias/`.
 
 ## Lo que falta (todavía no está hecho)
 
-- Las relaciones están hechas solo parcialmente en las cinco obras (ver el detalle arriba) — quedan 93 capítulos de Bernal Díaz, 86 de Las Casas, ~171 entradas del Diario de Colón, 4 cartas de Cortés, y 7 documentos de las Cartas de Colón sin relaciones extraídas (esto limita lo que se ve en la Cronología).
+- Las relaciones siguen incompletas en tres de las cinco obras (ver el detalle arriba) — quedan 76 capítulos de Bernal Díaz, 69 de Las Casas, y ~151 entradas del Diario de Colón sin procesar (esto limita lo que se ve en la Cronología). Cortés y Colón-cartas ya están completas.
 - Varias entradas quedaron con `"status": "candidata"` (pendientes de una segunda revisión) o con notas de ambigüedad (ej. "D Diego" en Las Casas podría confundirse entre dos personas distintas).
 - El registro de personas/lugares se armó a partir de los candidatos más *frecuentes*; nombres mencionados pocas veces no están todavía en el registro general.
 
