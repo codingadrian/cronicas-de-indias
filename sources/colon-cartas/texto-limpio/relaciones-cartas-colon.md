@@ -10,811 +10,195 @@ nota: "Esta edición de 1892 también incluye la Relación del primer viaje (el 
 
 ## Carta a Luis de Santángel sobre el primer viaje (1493)
 
-CARTA 
+CARTA DEL ALMIRANTE D. CRISTOBAL COLON A LUIS DE SANTANGEL (1) 
 
-DEL 
+escribano de Ración de los señores Reyes Catolicos 
 
-Á 
-
-D. LUIS DE SANTANGEL (1) 
-
-escribano de Ración de los señores Reyes Catolices 
-
-REFIRIÉNDOLE SU PRIMER VIAJE 
-T LAS ISLAS QUE HABÍA DESCUBIERTO ( 2 ) 
+REFIRIÉNDOLE SU PRIMER VIAJE T LAS ISLAS QUE HABÍA DESCUBIERTO (2) 
 
 15 de Febrero de 1493. 
 
-Señor: Porque sé que habréis placer de la grande vic- 
-toria que nuestro Señor me lia dado en mi viaje vos es- 
+Señor: Porque sé que habréis placer de la grande victoria que nuestro Señor me lia dado en mi viaje vos es- 
 
-(1) Un bibliófilo valenciano que oculta su nombro bajo el 
-seudónimo de Genaro H. de Yola fian, publicó en 1858 en Valen- 
-cia esta carta tomada de una copia antigua que encontró en un 
-tomo de varios, el cual íué primero de D. Juan Saníelices y pasó 
-después al Colegio Mayor de Cuenca, en Salamanca. Este ha- 
-llazgo permite corregir algunos errores que hay en el texto. 
-Las correcciones van en las notas. 
+(1) Un bibliófilo valenciano que oculta su nombro bajo el seudónimo de Genaro H. de Volafan, publicó en 1858 en Valencia esta carta tomada de una copia antigua que encontró en un tomo de varios, el cual Fué primero de D. Juan Sanfelices y pasó después al Colegio Mayor de Cuenca, en Salamanca. Este hallazgo permite corregir algunos errores que hay en el texto. Las correcciones van en las notas. 
 
-(2) Esta carta la dirigió Colón á Luis de Santangel, Escri- 
-bano de Ración de los Reyes Catódicos. Este oficio era de la 
-Casa Real de Aragón, y equivalía al de Contador mayor de la 
-Corona de Castilla, quo obtenía entonces Alonso de Quintan i - 
-Ua. Así que dos Contadores mayores, que pueden considerarse 
-como dos Ministros de Hacienda, uno por Castilla y otro por 
-Aragón, intervinieron en la empresa del Almirante. El mismo 
-Santangel parece que íué Tesorero de la Casa y Corte del Rey 
-en Cataluña, el año 1470; y Tesorero de la Hermandad de Casti- 
-lla en unión con Francisco Pinelo, Jurado de Sevilla, que tam- 
-bién tuvo parte en los primeros negocios de Indias. — jVówf/Tf-A. 
+(2) Esta carta la dirigió Colón á Luis de Santangel, Escribano de Ración de los Reyes Catódicos. Este oficio era de la Casa Real de Aragón, y equivalía al de Contador mayor de la Corona de Castilla, que obtenía entonces Alonso de Quintanilla. Así que dos Contadores mayores, que pueden considerarse como dos Ministros de Hacienda, uno por Castilla y otro por Aragón, intervinieron en la empresa del Almirante. El mismo Santangel parece que fué Tesorero de la Casa y Corte del Rey en Cataluña, el año 1470; y Tesorero de la Hermandad de Castilla en unión con Francisco Pinelo, Jurado de Sevilla, que también tuvo parte en los primeros negocios de Indias. — Navarrete. 
 
-¡85 
+cribo esta, por la cual sabréis cómo en veinte (1) días pasé las Indias con la armada que los Ilustrísimos Rey y Reina nuestros Señores me dieron, donde yo fallé muy muchas islas pobladas con gente sinnúmero, y dellas todas he tomado posesión por sus Altezas con pregón y bandera Real extendida, y no me fue contradicho. 
 
-HEI.ACIO.VES V CAUTAS 
+A la primera que yo fallé puse nombre San Salvador, á conmemoración de su Alta Majestad, el cual maravillosamente todo esto ha dado: los indios la llaman Guanahanin. A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandina: á la cuarta la Isabela : á la quinta isla Juana, é así á cada una nombre nuevo. 
 
-cribo esta, por la cual sabréis cómo en veinte (1) días 
-pasé las Indias con la armada que los Ilustrísimos Rey 
-y fteina nuestros Señores me dieron, donde jo fallé 
-muj muchas islas pobladas con gente sinnúmero, v 
-dellas todas lie tomado posesión por sus Altezas con 
-piegón y bandera Real extendida, y no me fue contra- 
-dicho. 
+Cuando yo llegué á la Juana seguí la costa della á poniente, y la fallé tan grande que pensé que sería tierra firme, la provincia de Catayo; y como no fallé así (2) villas y lugares en la costa de la mar, salvo pequeñas poblaciones, con la gente de las cuales non podía haber hablas, porque luego huían todos, andaba yo adelante por el dicho camino, pensando de non errar grandes ciudades é villas; y al cabo de muchas leguas, visto que non había innovación, y que la costa me levaba al setentrión de adonde mi voluntad era contraria, porque el invierno era ya encarnado, yo tenía propósito de hacer dél al austro, y también el viento medio adelante, determinó de no aguardar otro tiempo, y volví atrás fasta un señalado puerto, de adonde envié dos hombres por la tierra para saber si había Rey ó grandes ciuda-
 
-A la primera que yo fallé puse nombre San Salvador, 
-á conmemoración de su Alta Majestad, el cual mara- 
-villosamente todo esto ha dado: los indios la llaman 
-Cuanahani. A la segunda puse nombre la isla de Santa 
-Marta de Concepción: á la tercera Fernandim: á la cuarta 
-la Isabela : á la quinta isla Juana, é así á cada una nom- 
-bre nuevo. 
+(1) En el original está en números romanos muy contusos, y debe decir setenta y un días, como se demuestra en una nota al fin de esta carta. — Navarrete. 
 
-Cuando yo llegué á la Juana seguí la costa della á 
-poniente, y la fallé tan grande que pensé que sería tie- 
-rra firme, la provincia de Catayo; y como no fallé así (2) 
-villas y lugares en la costa de la mar, salvo pequeñas 
-poblaciones, con la gente de las cuales non podía ha- 
-ber faldas, porque luego luían todos, andaba yo ade- 
-lante por el dicho camino, pensando de non errar gran- 
-des ciudades é villas; y al cabo de muchas leguas, vis- 
-to que non había innovación, y que la costa me levaba 
-al setentrión de adonde mi voluntad era contraria, por- 
-que el invierno era ya encarnado, yo tenía propósito de 
-hacer dél al austro, y también el viento medio adelan- 
-te, determinó de no aguardar otro tiempo, y volví atrás 
-fasta un señalado puerto, de adonde envié dos hombres 
-por la tierra para saber si había Rey ó grandes ciuda- 
+En el texto publicado por Volafan dice: “En treinta días pasé de las Islas Canarias á las Indias”. 
 
-(1) En el original está en números romanos muy contusos, 
-y debe decir setenta y un dlns. como so demuestra en una nota 
-al fin de esta carta. — Navarrete. 
+(2) En el texto de Volafan ahí. 
 
-En el texto publicado por Volafan dice: <‘Kn treinta días pasé 
-de las Islas Canarias á las Indias». 
+des. Andovieron tres jornadas y hallaron infinitas poblaciones pequeñas y gentes sinnúmero, mas non cosa de regimiento, por lo cual se volvieron. 
 
-(¿) En el texto de Volatúu a/u. 
-
-CRISTO BAi. GOLÜX 
-
-18 (i 
-
-des. Andovieron tres jornadas y hallaron infinitas po- 
-blaciones pequeñas y gentes sinnúmero, mas non cosa 
-de regimiento, por lo cual se volvieron. 
-
-Yo entendía harto de otros indios, que ya tenía toma- 
-dos, como continuamente esta tierra era isla, é así seguí 
-la costa della al Oriente ciento y siete leguas, fasta don- 
-de facía fin; del cual cabo había otra isla al Oriente, dis- 
-tante desta diez é ocho leguas, á la cual puse luego nom- 
-bre la Española: y fui allí, y seguí la parte del setentrión 
-asi como de la Juana al Oriente ciento é setenta y ocho 
-grandes leguas por vía reta del Oliente así como de la 
-Juana , la cual y todas las otras son tortísimas (1) en de- 
-masiado grado, y ésta en extremo; en ella hay muchos 
-puertos en la costa de la mar sin comparación de otros 
-que yo sepa en cristianos, y tartos ríos y buenos y gran- 
-des ques maravilla: las tierras delias son altas y en ellas 
-muy muchas sierras y montañas altísimas, sin compa- 
-ración de la isla de Cetrefreij (2;, todas fermosísimasi de 
-mil fechuras, y todas andables y llenas de árboles de 
-mil maneras y alta,s, y parescen que llegan al cielo; y 
-tengo por dicho que jamás pierden la foja según lo que 
-puedo comprender, que los vi tan verdes y tan Íeníiosos 
-como son por Mayo en España. Dellos están floridos, 
-dellos con fruto, y dellos en otro término según es su 
-calidad; y cantaba el ruiseñor y otros pájaros de mil 
-maneras en el mes de Noviembre por allí donde yo an- 
-daba. Hay palmas de seis ó de ocho maneras, ques ad- 
-miración verlas por la diformidad fermosa dellas, mas 
-así como los otros árboles é frutos é yerbas: en ella hay 
-pinares á maravilla, 6 hay campiñas grandísimas, é hay 
-miel, é de muchas maneras de aves y frutas muy diver- 
-sas. En las tierras hay muchas minas de metales é hav 
-gente inestimabile número. 
+Yo entendía harto de otros indios, que ya tenía tomados, como continuamente esta tierra era isla, é así seguí la costa della al Oriente ciento y siete leguas, fasta donde facía fin; del cual cabo había otra isla al Oriente, distante desta diez é ocho leguas, á la cual puse luego nombre la Española: y fui allí, y seguí la parte del setentrión asi como de la Juana al Oriente ciento é setenta y ocho grandes leguas por vía reta del Oliente así como de la Juana , la cual y todas las otras son fortísimas (1) en demasiado grado, y ésta en extremo; en ella hay muchos puertos en la costa de la mar sin comparación de otros que yo sepa en cristianos, y tartos ríos y buenos y grandes ques maravilla: las tierras delias son altas y en ellas muy muchas sierras y montañas altísimas, sin comparación de la isla de Cetrefrey (2), todas fermosísimas; de 
+mil fechuras, y todas andables y llenas de árboles de mil maneras y altas, y parescen que llegan al cielo; y tengo por dicho que jamás pierden la foja según lo que puedo comprender, que los vi tan verdes y tan fermosos como son por Mayo en España. Dellos están floridos, dellos con fruto, y dellos en otro término según es su calidad; y cantaba el ruiseñor y otros pájaros de mil maneras en el mes de Noviembre por allí donde yo andaba. Hay palmas de seis ó de ocho maneras, ques admiración verlas por la diformidad fermosa dellas, mas así como los otros árboles é frutos é yerbas: en ella hay pinares á maravilla, é hay campiñas grandísimas, é hay miel, é de muchas maneras de aves y frutas muy diversas. En las tierras hay muchas minas de metales é hay gente inestimabile número. 
 
 (1) En el texto de Volafan fértilísimas. 
 
-(2) Idem, ídem., Tenerife, 
+(2) Tenerife
 
-R EL A Cf OXKS Y CARTAS 
+La Española es maravilla: las sierras y las montañas y las vegas y las campiñas y las tierras tan fermosas y gruesas para plantar y sembrar, para criar ganado de todas suertes, para edificios de villas y lugares. Los puertos de la mar, aquí non habría creencia sin vista, y de los ríos muchos y grandes y buenas aguas: los más de los cuales traen oro. En los árboles y frutos y yerbas hay grandes diferencias de aquellas déla Juana: en esta hay muchas especies, y grandes minas de oro y de otros metales. La gente desta isla y de todas las otras que he. fallado y he habido noticia, andan todos desnudos, hombres y mujeres, así como sus madres los paren, aunque algunas mujeres se cobijan un solo lugar con una foja de yerba ó una cosa de algodón que para ello hacen ellos, non tienen fierro ni acero: armas, ni son para ello; non porque non sean gente bien dispuesta y de fermosa estatura, salvo que son muy temerosos á maravilla. Non tienen otras armas salvo las armas de las cañas cuando están con la simiente, á la cual ponen al cabo un palillo agudo, y no osan usar de aquéllas: que muchas veces me acaeció enviar á tierra dos ó tres hombres á alguna villa pava haber fabla, y salir á ellos dellos sinnúmero, y después que los veían llegar huían á non aguardar padre á hijo; y esto no porque á ninguno se haya fecho mal, antes á todo cabo adonde yo haya estado y podido haber labia, les he dado de todo lo que tenía, así paño como otras cosas muchas, sin recibir por ello cosa alguna, mas son así temerosos sin remedio. Verdad es que después que se aseguran y pierden este miedo ellos son tanto sin engaño y tan liberales de lo que tienen, que no lo creerán sino el que lo viese. Ellos de cosa que tengan pidiéndosela jamás dicen de no; antes convidan á la persona con ello y muestran tanto amor que darían los corazones, y quier sea cosa de valor, quier sea de poco precio, luego por cualquiera cosa de cualquier manera que sea que se les dé por ello son contentos. 
 
-La Española es maravilla: las sierras y las montañas 
-y las vegas y las campiñas .y las tierras tan fermosas y 
-gruesas para plantar y sembrar, para criar ganado de 
-todas suertes, para edificios de villas y lugares. Los 
-puertos de la mar, aquí non habría creencia sin vista, y 
-de los ríos muchos y grandes y buenas aguas: los más 
-de los cuales traen oro. En los árboles y frutos y yerbas 
-hay grandes diferencias de aquellas déla Juana: en esta 
-hay muchas especies, y grandes minas de oro y de otros 
-metales. La gente desta isla y de todas las otras que 
-he. fallado y he habido noticia, andan todos desnu- 
-dos, hombres y mujeres, así como sus madres Jos pa- 
-ren, aunque algunas mujeres se cobijan un solo lugar 
-con una foja de yerba ó una cosa de algodón que para 
-ello hacen ellos, 
+Yo defendí que non se les diesen cosas tan ceviles como pedazos de escudillas rotas é pedazos de vidrio 
+roto y cabos de agujetas; aunque cuando ellos esto podían llegar les parecía haber la mejor joya del mundo: que se acertó haber un marinero por una agujeta de oro peso de dos castellanos y medio, y otros de otras cosas, que muy menos valían, mucho más. Ya por blancas nuevas daban por ellas todo cuanto tenían aunque fuesen dos ni tres castellanos de oro, ó una ó dos de algodón diado. Fasta los pedazos de los arcos rotos de las pipas tomaban y daban lo que tenían como bestias; así que me pareció mal é yo lo defendí. Y daba yo graciosas mil cosas buenas que yo llevaba porque tomen amor; y allende desto se farán cristianos, que se inclinan al amor y servicio de sus Altezas y de toda la nación castellana; é procuran de ayudar é nos dar de las cosas que tienen en abundancia que nos son necesarias. Y non conocían ninguna seta ni idolatría, salvo que todos creen que las fuerzas y el bien es en el cielo; y creían muy firme que yo con estos navios y gente venía del cielo y en tal acatamiento me reciben en todo cabo después de haber perdido el miedo. Y esto non procede porque sean ignorantes, salvo de muy sotil ingenio, ó hombres que navegan todas aquellas mares, que es maravilla la buena cuenta que ellos dan de todo, salvo porque nunca vieron gente vestida ni semejantes navios. 
 
-Non tienen fierro ni acero: armas, ni son para eilo; 
-non porque non sean g-ente bien dispuesta y de fermosa 
-estatura, salvo que son muy temerosos á maravilla. 
-Non tienen otras armas salvo las armas de las cañas 
-cuando están con la simiente, á la cual ponen al cabo 
-un palillo agudo, y no osan usar de aquéllas: que mu- 
-chas veces me acaeció enviar á tierra dos ó tres hom- 
-bres á alguna villa pava haber fabla, y salir á ellos de- 
-Uos sinnúmero, y después que los veían llegar íuían á 
-non aguardar padre á hijo; y esto no porque á ninguno 
-se haya fecho mal, antes á todo cabo adonde yo haya 
-estado y podido haber labia, les lie dado de todo lo que 
-tenía, así paño como otras cosas muchas, sin recibir 
-por ello cosa alguna, mas son así temerosos sin reme- 
-dio. Verdad es que después que se aseguran y pierden 
-este miedo ellos son tanto sin engaño y tan liberales de 
-lo que tienen, que no lo creerán sino el que lo viese. 
-Ellos de cosa que tengan pidiéndosela jamás dicen de 
-no; antes convidan á la persona con ello y muestran 
-tanto amor que darían los corazones, y quier sea cosa 
 
-188 CRISTÓBAL OOCÚ.N 
+Y luego que llegué á las Indias, en la primera isla que fallé, tomé por fuerza algunos dellos para que deprendiesen y me diesen noticia de lo que había en aquellas partes; é así fué que luego entendieron y nos á ellos cuando por lenguas ó señas, y éstos han aprovechado mucho; hoy en día los traigo que siempre están de propósito que vengo del cielo por mucha conversación que hayan habido conmigo. Y estos eran los primeros á pronunciarlo adonde yo llegaba, y los otros andaban corriendo de casa en casa, y á las villas cercanas con voces altas; «Venie á ver la gente del cielo.” E así todos, hombres como mujeres, después de haber el corazón seguro de nos, venieron que non quedaba grande ni pequeño que todos traían algo de comer y de beber, que daban con un amor maravilloso. 
 
-de valor, quier sea de poco precio, luego por cualquiera 
-cosa de cualquier manera que sea que se les dé por ello 
-son contentos. 
+Ellos tienen en todas las islas muy muchas canoas, de manera de fustas de remo; dellas mayores, dellas menores, y algunas y muchas son mayores que una fusta de diez y ocho bancos: non son tan anchas, porque son de un solo madero; mas una fusta no terna con ellas al remo, porque van que no es cosa de creer, y con estas navegan todas aquellas islas, que son innumerables, y traen sus mercaderías. Algunas destas canoas he visto sesenta y ochenta hombres en ella, y cada uno con su remo. 
 
-Yo defendí que non se les diesen cosas tan ceviles 
-como pedazos de escudillas rotas é pedazos de vidrio 
-roto y cabos de agujetas; aunque cuando ellos esto po- 
-dían llegar les parecía haber la mejor joya del mundo: 
-que se acertó haber un marinero por una agujeta de oro 
-peso de dos castellanos y medio, y otros de otras co 
-sas, que muy menos valían, mucho más. Ya por blan- 
-cas nuevas daban por ellas todo cuanto tenían aunque 
-fuesen dos ni tres castellanos de oro, ó una ó dos de al- 
-godón diado. Fasta los pedazos de los arcos rotos de 
-las pipas tomaban y daban lo que tenían como bestias; 
-así que me pareció mal é yo lo defendí. Y daba yo gra- 
-ciosas mil cosas buenas que yo llevaba porque tomen 
-amor; y allende desto se i'arán cristianos, que se incli- 
-nan al amor y servicio de sus Altezas y de toda la na- 
-ción castellana; é procuran de ayudar é nos dar de las 
-cosas que tienen en abundancia que nos son necesarias. 
-Y non conocían ninguna seta ni idolatría, salvo que to- 
-dos creen que las fuerzas y el bien es en el cielo; y 
-creían muy drme que yo con estos navios y gente ve- 
-nía del cielo y en tal acatamiento me reciben en todo 
-cabo después de haber perdido el miedo. Y esto non 
-procede porque sean ignorantes, salvo de muy sotil in- 
-genio, ó hombres que navegan todas aquellas mares, 
-que es maravilla la buena cuenta que ellos dan de todo, 
-salvo porque nunca vieron gente vestida ni semejantes 
-navios. 
 
-Y luego que llegué á las Indias, en la primera isla 
-que fallé, tomé por fuerza algunos dellos para que de- 
-prendiesen y me diesen noticia de lo que había en aque 
-Uas partes; é así fué que luego entendieron y nos á ellos 
-cuando por lenguas ó señas, y éstos han aprovechado 
+En todas estas islas non vide mucha diversidad de la fechura de la gente, ni en las costumbres, ni en la lengua, salvo que todos se entienden, que es cosa muy singular; para lo que espero que determinarán sus Altezas para la conversión de ellas á nuestra Santa Fe, á la cual son muy dispuestos. 
 
-UHX ACIONES Y CARTAS 
+Ya dije como yo había andado ciento siete leguas por la costa de la mar, por la derecha línea de Occidente á Oriente, por la isla Juana: según el cual camino puedo decir que esta isla es mayor que Inglaterra y Escocia juntas: porque allende destas ciento siete leguas me quedan de la parte de Poniente dos provincias que yo no he andado, la una de las cuales llaman Cibau (1), adon- 
 
-mucho; hoy en día los traigo que siempre están de pro- 
-pósito que vengo del cielo por mucha conversación que 
-hayan habido conmigo. 1 estos eran los primeros á pro- 
-nunciarlo adonde yo llegaba, y los otros andaban co- 
-rriendo do casa en casa, y á las villas cercanas con vo- 
-ces altas; «Venic á ver la gente del cielo. > E así todos, 
-hombres como mujeres, después de haber el corazón 
-seguro de nos, venieron que non quedaba grande ni pe- 
-queño que todos traían algo de comer y de beber, que 
-daban con un amor maravilloso. 
+(1) En el texto de 1493 se lee claramente Auan; en la de Volafan Nahn. Muñoz y Bernalder también leyeron Nahn. 
 
-Ellos tienen en todas las islas muy muchas canoas, 
-de manera de fustas de remo; dellas mayores, dellas 
-menores, y algunas y muchas son mayores que unafus- 
-ta de diez y ocho bancos: non son tan anchas, porque 
-son de un solo madero; mas una fusta no terna con ellas 
-al remo, porque van que no es cosa de creer, y con es- 
-tas navegan todas aquellas islas, que son innumerables, 
-y traen sus mercaderías. Algunas destas canoas he vis- 
-to sesenta y ochenta hombres en ella, y cada uno con 
-su remo. 
+de nace la gente con cola (1): las cuales provincias non pueden tener en longura menos de cincuenta ó sesenta leguas, según puedo entender destos indios que yo tengo, los cuales saben todas las islas. 
 
-En todas estas islas non vide mucha diversidad de la 
-fechura de la gente, ni en las costumbres, ni en la len- 
-gua, salvo que todos se entienden, que es cosa muy sin- 
-gular; para lo que espero que determinarán sus Altezas 
-para la conversión de ellas á nuestra Santa Fe, á la 
-cual son muy dispuestos. 
+Esta otra Española en cerco tiene más que la España toda desde Colunia (2) por costa de mar, fasta Fuenterrabía, en Vizcaya; pues en una cuadra anduve ciento treinta y ocho grandes leguas por recta línea de Occidente á Oriente, Esta es para desear, é vista es para nunca dejar; en la cual, puesto que de todas tenga tomada posesión por sus Altezas, y todas sean más abastadas de lo que yo sé y puedo decir, y todas las tengo por de sus Altezas, cual de ellas pueden disponer como y tan cumplidamente como de los Reinos de Castilla, en esta Española en lugar más convenible y mejor comarca para las minas del oro y de todo trato así de la tierra firme de acá como de aquella de allá del Grán Can, adonde habrá gran trato é ganancia, he tomado posesión de una villa grande, á la cual puse nombre la Villa de Navidad, y en ella he lecho fuerza y fortaleza, que ya á estas horas estará del todo acabada, y he dejado en ella gente que basta para semejante fecho con armas y artillerías é vituallas para más de un año, y lusta y maestro de la mar en todas artes para facer, y grande amistad con el Rey de aquella tierra, en tanto grado que se presciaba de me llamar y tener por hermano: é aunque le mudasen la voluntad á ofender esta gente, él ni los suyos non saben qué son armas, y andan desnudos como ya he dicho, é son los más temerosos que hay en el mundo. Así que solamente la gente 
 
-Ya dije como yo había andado ciento sieteleguas pol- 
-la costa de la mar, por la derecha línea de Occidente á 
-Oriente, por la isla Juana: según el cual camino puedo 
-decir que esta isla es mayor que Inglaterra y Escocia 
-juntas: porque allende destas ciento siete leguas me 
-quedan de la parte de Poniente dos provincias que yo no 
-he andado, la una de las cuales llaman Cibau (1), adon- 
+(1) Estas noticias extravagantes nacían tal vez de la ignorancia de los indios, y también de no ser bien entendidos por el Almirante y por los españoles, que no comprendían su lengua ni sus expresiones. — Navarre/e. 
 
-(1) En el texto de 1493 se loo claramente Auan; on la do Vo- 
-lafan 7\ T ahn, Muñoz y Bernalder también leyeron Ad/m. 
+(2) En el texto de Volaran, Desde Calibre en Cataluña. 
 
-CRISTÓBAL COLÓN 
+que allá quedó es para destroir toda aquella tierra; y es isla sin peligro de sus personas, sabiéndose regir. 
 
-de nace la gente con cola (1): las cuales provincias non 
-pueden tener en longura menos de cincuenta ó sesenta 
-leguas, según puedo entender destos indios que yo ten- 
-go, los cuales saben todas las islas. 
+En todas estas islas me paresce que todos los hombres son contentos con una mujer, y á su mayoral ó 
+Rey dan fasta veinte. Las mujeres me parece que trabajan más que los hombres; ni he podido entender si 
+tienen bienes propios, que me pareció ver que aquello que uno tenía todos hacían parte, en especial de las cosas comederas. 
 
-Esta otra Española en cerco tiene más que la Kspaña 
-toda desde Colunia (2) por costa de mar, fasta Fuente- 
-rrabía, en Vizcaya; pues en una cuadra anduve ciento 
-treinta y ocho grandes leguas por recta línea de Oc- 
-cidente á Oriente, Esta es para desear, é vista es para 
-nunca dejar; en la cual, puesto que de todas tenga to- 
-mada posesión por sus Altezas, y todas sean más abas- 
-tadas de lo que yo sé y puedo decir, y todas las tengo 
-por de sus Altezas, cual de ellas pueden disponer como 
-y tan cumplidamente como de los Reinos de Castilla, 
-en esta Española en lugar más convenible y mejor co- 
-marca para las minas del oro y de todo trato así de la 
-tierra firme de acá como de aquella de allá del (irán 
-Can. adonde habrá gran trato é ganancia, lie tomado 
-posesión de una villa grande, á la cual puse nombre la 
-Villa de Navidad, y en ella he lecho fuerza y fortaleza, 
-que ya á estas horas estará del todo acabada, y he de- 
-jado en ella gente que basta para semejante fecho con 
-armas y artillerías é vituallas para más de un año, y 
-lusta y maestro de la mar en todas artes para facer, y 
-grande amistad con el Rey de aquella tierra, en tanto 
-grado que se presciaba de me llamar y tener por her- 
-mano: é aunque le mudasen la voluntad á ofender esta 
-gente, él ni los suyos non saben qué son armas, y an- 
-dan desnudos como ya he dicho, é son los más temero- 
-sos que hay en el mundo. Así que solamente la gente 
+En estas islas fasta aquí no he hallado hombres mostrados como muchos pensaban; mas antes es toda gente de muy lindo acatamiento; ni son negros como en Guinea, salvo con sus cabellos correndios, y no se crían adonde hay espeto (1) demasiado de los rayos solares: es verdad quel sol tiene allí gran fuerza, puesto ques distante de la línea equinocial veinte é seis grados: en estas islas adonde hay montañas grandes ahí tenía fuerza el frío este invierno; mas ellos lo sufren por la costumbre é con la ayuda de las viandas, como son especias muchas y muy calientes en demasía: ansí que mostraos no he hallado ni noticia, salvo de una isla ques aquí en la segunda cala, entrada de las Indias (2), ques poblada de una gente que tienen en todas las islas por muy feroces, los cuales comen carne viva. Estos tienen muchas canoas con las cuales corren todas las islas de India y roban y toman cuanto pueden. Ellos non son más disformes que los otros; salvo que tienen costumbre de traer los cabellos largos como mujeres, y usan 
 
-(1) Estas noticias extravagantes nacían tal vez de la igno- 
-rancia de los indios, y también de no ser bien entendidos por 
-el Almirante y por los españoles, que no comprendían su lengua 
-ni sus expresiones. — Navarre/e. 
+(1) Espeto en lo antiguo era lo mismo que asador. Aquí lo usa el Almirante por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu). 
 
-(2) En el texto de Volaran, Desde Calibre en Cata! uña. 
+(2) Aclara este obscuro pasaje la copia de Volafan que dice: “Salvo de una isla de Quaribes (Caribes), la segunda a la entrada de las Indias”. 
 
-UELACIO.N'ES V CARTAS 
+arcos y flechas de las mismas armas de cadas, con un palillo al cabo por defecto de fierro que non tienen. Son feroces entre estos otros pueblos que son en demasiado grado cobardes; mas yo no los tengo en nada más que á los otros. Estos son aquellos que trocaban las mujeres de matrimonio, ques la primera isla partiendo de España para las Indias (1) que se falla, en la cual non hay hombre ninguno. Ellas non usan ejercicio femenil, salvo arcos y frechas, como los sobredichos de cañas, y se arman y cobijan con láminas de alambre, de que tienen mucho. 
 
-que allá quedó es para destroir toda aquella tierra; y es 
-isla sin peligro de sus personas, sabiéndose regir. 
+En todas estas islas me paresce que todos los hombres son contentos con una mujer, y á su mayoral ó Rey dan fasta veinte. Las mujeres me parece que trabajan más que los hombres; ni he podido entender si tienen bienes propios, que me pareció ver que aquello que uno tenía todos hacían parte, en especial de las cosas comederas. 
 
-En todas estas islas me paresce que todos los hom- 
-bres son contentos con una mujer, y á su mayoral ó 
-Rey dan fasta veinte. Las mujeres me parece que tra- 
-bajan más que los hombres; ni lie podido entender si 
-tienen bienes propios, que me pareció ver que aquello 
-que uno tenía todos hacían parte, en especial de las co- 
-sas comederas. 
+En estas islas fasta aquí no he hallado hombres mostrados como muchos pensaban; mas antes es toda gente de muy lindo acatamiento; ni son negros como en Guinea, salvo con sus cabellos correndios, y no se crían adonde hay espeto (1) demasiado de los rayos solares: es verdad quel sol tiene allí gran fuerza, puesto ques distante de la línea equinocial veinte é seis grados: en estas islas adonde hay montañas grandes ahí tenía fuerza el frío este invierno; mas ellos lo sufren por la costumbre é con la ayuda de las viandas, como son especias muchas y muy calientes en demasía: ansí que mostraos no he hallado ni noticia, salvo de una isla ques aquí en la segunda cala, entrada de las Indias (2), ques poblada de una gente que tienen en todas las islas por muy feroces, los cuales comen carne viva. Estos tienen muchas canoas con las cuales corren todas las islas de India y roban y toman cuanto pueden. Ellos non son más disformes que los otros; salvo que tienen costumbre de traer los cabellos largos como mujeres, y usan 
 
-En estas islas fasta aquí no lie hallado hombres mos- 
-trados como muchos pensaban; mas antes es toda gen- 
-te de muy lindo acatamiento; ni son negros como en 
-(¡minea, salvo con sus cabellos correndios, y no se crían 
-adonde hay espeto (1) demasiado de los rayos solares: 
-es verdad quel sol tiene allí gran fuerza, puesto ques 
-distante de la línea equinocial veinte é seis grados: en 
-estas islas adonde hay montañas grandes ahí tenía fuer- 
-za el frío este invierno; mas ellos lo sufren por la cos- 
-tumbre é con la ayuda de las viandas, como son espe- 
-cias muchas y muy calientes en demasía: ansí que mos- 
-traos no he hallado ni noticia, salvo de una isla ques 
-aquí en la segunda cala, entrada de las Indias (2), ques 
-poblada de una gente que tienen en todas las islas por 
-muy feroces, los cuales comen carne viva. Estos tienen 
-muchas canoas con las cuales corren todas las islas de 
-India y roban y toman cuanto pueden. Ellos non son 
-más disformes que los otros; salvo que tienen costum- 
-bre de traer los cabellos largos como mujeres, y usan 
+(1) Espeto en lo antiguo era lo mismo que asador. Aquí lo usa el Almirante por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu). 
 
-(1) Enyeto en lo antiguo era lo mismo que , mador. Aquí lo 
-usa el Almirante por valor. — Novio-rete. 
+(2) Aclara este obscuro pasaje la copia de Volafan que dice: “Salvo de una isla de Quaribes (Caribes), la segunda a la entrada de las Indias”. 
 
-En el texto de Volaian, effeto (por efecto). En el de U93, un- 
-peto (por Ímpetu). 
+arcos y flechas de las mismas armas de cadas, con un palillo al cabo por defecto de fierro que non tienen. Son feroces entre estos otros pueblos que son en demasiado grado cobardes; mas yo no los tengo en nada más que á los otros. Estos son aquellos que trocaban las mujeres de matrimonio, ques la primera isla partiendo de España para las Indias (1) que se falla, en la cual non hay hombre ninguno. Ellas non usan ejercicio femenil, salvo arcos y frechas, como los sobredichos de cañas, y se arman y cobijan con láminas de alambre, de que tienen mucho. 
 
-(2) Aclara este obscuro pasaje la copia de Volafar. que mee: 
-a Salvo de una isla de Quaribes (Caribes), la segunda a la entra- 
-da de las Indias^. 
 
-CRISTOBAL COLON 
-
-arcos y flechas de las mismas armas de cadas, con un 
-palillo al cabo por defecto de fierro que non tienen. Son 
-feroces entre estos otros pueblos que son en demasiado 
-grado cobardes; mas yo no los tengo en nada más que 
-á los otros. Estos son aquellos que trocaban las muje- 
-res de matrimonio, ques la primera isla partiendo de 
-España para las Indias (1) que se falla, en la cual non 
-hay hombre ninguno. Ellas non usan ejercicio femenil, 
-salvo arcos y Hechas, como los sobredichos de cañas, y 
-se arman y cobijan con láminas de alambre, de que tie- 
-nen mucho. 
-
-Otra isla me seguran mayor que la Española en que 
-las personas non tienen ningún cabello. En esta hay oro 
-sin cuento, y destas y de otras traigo conmigo indios 
-para testimonio. 
-
-En conclusión, á íablar desto solamente que se lia 
-fecho, este viaje que l'ué así de corrida, pueden ver sus 
-Altezas que yo les daré oro cuanto hobieren menester 
-con muy poquita ayuda que sus Altezas me darán: ago- 
-ra especería y algodón cuanto sus Altezas mandaren, y 
-almasiga cuanto mandaren cargar; é de la cual fasta 
-hoy no se lia fallado, salvo en (trecia y en la isla deXio, 
-.y el Señorío la vende como quiere, y lignaloe cuanto 
-mandaren cargar, y esclavos cuantos mandaren car- 
-gar, c serán de los idólatras y creo haber fallado rui- 
-barbo y canela y otras mil cosas de sustancia fallaré 
-que habrán fallado la gente que yo allá dejo, porque yo 
-no me he detenido ningún cabo en cuanto el viento me 
-haya, dado lugar de navegar, solamente en la Aúlla de 
-
-(1) El texto de Volalan: «Estos son aquellos que tomaban 
-las mnjeres de Matinio, que os la primera isla partiendo de Es- 
-paña paralas Indias». 
-
-El Almirante alude sin duda á la Isla Martinica, de cuya 
-población, compuesta sólo de mujeres, habla en el Diario do 
-navegación en los dias 13 y 14 do Mario, 
-
-URINACIONES V CANTAS 
-
-fo.'i 
-
-Navidad, en cuanto dejé asegurado é bien asentado. 
-
-E á la verdad mucho más iiciera si los navios me sir- 
-vieran como razón demandaba. 
-
-Esto es cierto, y eterno Dios nuestro Señor, el cual 
-da á todos aquellos que andan su camino victoria de 
-cosas que parecen imposibles, y esta señaladamente fué 
-la una, porque aunque destas tierras hayan labiado 
-otros, todo vapor conjetura sin alegar de vista; salvo 
-comprendiendo tanto que los oyentes los más escucha- 
-ban y juzgaban más por fabla que por otra cosa dello. 
-Así que pues nuestro Redentor dio esta Vitoria á nues- 
-tros ilustrís irnos Rey c Reina é ásus reinos famosos de 
-tan alta cosa, adonde toda la cristiandad debe tomar 
-alegría y facer grandes fiestas, dar gracias solemnes á 
-la Santa Trinidad, con muchas oraciones solemnes por 
-el tanto ensalzamiento que habrán ayuntándose tantos 
-pueblos á nuestra Santa Fe, y después por los bienes 
-temporales que non solamente á la España mas todos 
-los cristianos ternán aquí refrigerio é ganancia-, esto 
-segundo lia fecho ser muy breve: fecha en la carabela 
-sobre las Islas de Canaria (1), quince de Febrero de no- 
-venta y tres. 
+Esto es cierto, y eterno Dios nuestro Señor, el cual da á todos aquellos que andan su camino victoria de cosas que parecen imposibles, y esta señaladamente fué la una, porque aunque destas tierras hayan labiado otros, todo vapor conjetura sin alegar de vista; salvo comprendiendo tanto que los oyentes los más escuchaban y juzgaban más por fabla que por otra cosa dello. Así que pues nuestro Redentor dio esta vitoria á nuestros ilustrísimos Rey é Reina é á sus reinos famosos de tan alta cosa, adonde toda la cristiandad debe tomar alegría y facer grandes fiestas, dar gracias solemnes á la Santa Trinidad, con muchas oraciones solemnes por el tanto ensalzamiento que habrán ayuntándose tantos pueblos á nuestra Santa Fe, y después por los bienes temporales que non solamente á la España mas todos los cristianos ternán aquí refrigerio é ganancia, esto segundo ha fecho ser muy breve: fecha en la carabela sobre las Islas de Canaria (1), quince de Febrero de noventa y tres. 
 
 (Anima (2) que venía dentro en la carta.) 
 
-Después desta escrita, estando en mar de Castilla, 
-salió tanto viento conmigo Sur y Sueste, que me ha 
-fecho descargar los navios por correr aquí en este puer- 
-to de Lisbona iioy, que fue la mayor maravilla del mun- 
+Después desta escrita, estando en mar de Castilla, salió tanto viento conmigo Sur y Sueste, que me ha fecho descargar los navios por correr aquí en este puerto de Lisbona hoy, que fue la mayor maravilla del mun-
 
-(1) Las islas que vieron el 15 de Febrero no eran las Cana- 
-rías sino las Azores ó 'Terceras. Voa'se el diario. 
+(1) Las islas que vieron el 15 de Febrero no eran las Canarías sino las Azores ó Terceras. Véase el diario. 
 
-En el texto de Volafan dice: ftSobre la Isla de Santa María, 
+En el texto de Volafan dice: “Sobre la Isla de Santa María, 18 de Febrero ». Esta isla es de las Azores. 
 
-18 de Febrero ». Esta isla es de las Azores. 
+(2) Anima llamaban al papel escrito que se introducía en la carta después de cerrada.
 
-(2) Anima llamaban al papel escrito que so introducía eu 
-la carta después do cerrada- 
+do, adonde acordó de escribir á sus Altezas, En todas las Indias he siempre hallado los tiempos como en Mayo adonde yo fui en noventa y tres dias é volví en setenta y ocho (1), salvo que estas tormentas me lian detenido trece corriendo por esta mar. Dicen acá todo los hombres de la mar que jamás bobo tan mal invierno ni tantas pérdidas de navios. Fecha á los cuatro de Marzo (2). 
 
-(jRfSTOBAL COLOX 
+Esta carta envió Colón al Escribano de Ración de las islas halladas en las Indias é otra de sus Altezas. 
 
-1 !) i- 
+(1) Así parece que dice en el original en donde está escrito en números romanos y enmendados; pero habiendo salido Colón de la barra de Saltes el 8 de Agosto y desembarcado en la isla de San Salvador el 12 de Octubre, es claro que deben contarse setenta y un dias de viaje á la ida, y cuarenta y ocho á la vuelta, contando desde el 16 de Enero, en que salió del golfo de las Flechas, hasta el 4 de Marzo que entró en el río de Lisboa. — Navarrete. 
 
-do, adonde acordó de escribir á sus Altezas, En todas 
-las Indias lie siempre hallado los tiempos como en Mayo 
-adonde yo fui en noventa y tres dias é volví en setenta y 
-ocho (1), salvo que estas tormentas me lian detenido tre- 
-ce corriendo por esta mar. Dicen acá toáoslos hombres 
-de la mar que jamás bobo tan mal invierno ni tantas 
-pérdidas de navios. Fecha á los cuatro de Marzo (2). 
+(2) Esta fecha, puesta en el original de Colón en números romanos está muy confusa y parece significar 14; pero bien examinada, no puede ser sino del 4 de Marzo . —Navarrete
 
-Esta carta envió Colón al Escribano de Ración de las 
-islas halladas en las Indias é otra de sus Altezas. 
 
-(1) Así parece que dice en el original en donde está escrito 
-en números romanos y enmendados; pero habiendo salido Colón 
-de la barra de Saltes el 8 de Agosto y desembarcado on la isla 
-de San Salvador el 12 de Octubre, es claro que deben contarse 
-setenta y un dias de viaje á la ida, y cuarenta y ocho á la vuel 
-ta, contando desde el 16 de Enero, en qne salló del golfo de las 
-Flechas, hasta el 4 de Marzo quo entró en el río de Lisboa. — 
-Ncivarrete. 
 
-(2) Esta fecha, puesta en el original de Colón en números 
-romanos está muy confusa y parece significar 14; pero bien exa- 
-minada, no puede ser sino del 4 de Marzo . — -Noven (•te. 
 
-CARTA 
 
-DEL 
 
-AI. 
 
-Su. RAFAEL SÁNCHEZ í'> 
 
-'.i esorero de los Serenísimos Monarcas. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+
+Tesorero de los Serenísimos Monarcas. 
 
 4 de Marzo de 1483. 
 
-A quien es muy deudora nuestra época, acerca de las islas de 
-la India, halladas poco há sobre el Ganges , y á cuya conquis- 
-ta había, sido enviado ocho meses hizo, y á expensas de los 
-invictísimos Reyes de las Espadas Fernando é Isabel: dirigi- 
-da al magnífico Sr. Rafael (2) Sánchez, Tesorero de los mis- 
-mos Serenísimos Monarcas , y traducida del español al latín 
-por el generoso y literato Leandro de Cozco á 25 de Abril 
-de 1493 , año primero del Pontificado de Alejandro VI. 
+A quien es muy deudora nuestra época, acerca de las islas de la India, halladas poco há sobre el Ganges, y á cuya conquista había, sido enviado ocho meses hizo, y á expensas de los invictísimos Reyes de las Espadas Fernando é Isabel: dirigida al magnífico Sr. Rafael (2) Sánchez, Tesorero de los mismos Serenísimos Monarcas, y traducida del español al latín por el generoso y literato Leandro de Cozco á 25 de Abril de 1493 , año primero del Pontificado de Alejandro VI. 
 
-Conociendo que os será de placer que haya yo tenido 
-feliz éxito en mi empresa, iie dispuesto escribiros esta 
+Conociendo que os será de placer que haya yo tenido feliz éxito en mi empresa, iie dispuesto escribiros esta 
 
-(1) Esta carta, .su s tancia Im ente igual á la anterior, dirigida 
-á Luis de Santang-el, fue traducida al latín por Leandro Cosco, 
-y publicada en Boma en 1493. El texto que publicó Navarro te 
-y reproducimos, es una traducción de la versión latina de Cos- 
-co (porquo el primitivo original se lia perdido), lieclia por el Bi- 
-bliotecario mayor, D. Francisco Antonio González. 
+(1) Esta carta, sustanciaImente igual á la anterior, dirigida á Luis de Santangel, fue traducida al latín por Leandro Cosco, y publicada en Boma en 1493. El texto que publicó Navarrete y reproducimos, es una traducción de la versión latina de Cosco (porque el primitivo original se ha perdido), hecha por el Bibliotecario mayor, D. Francisco Antonio González. 
 
-(2) D. Pascual Gayangos, en un articulo publicado en L« 
-Aiw-rica en 13 de Abril de 1867, le llama Gabriel Sánchez. 
+(2) D. Pascual Gayangos, en un articulo publicado en La America en 13 de Abril de 1867, le llama Gabriel Sánchez. 
 
-CRISTOBAL COLON 
+carta que os manifieste todos y cada uno de los sucesos ocurridos en mi viaje, y los descubrimientos que han sido su resultado. 
 
-19(5 
+Treinta y tres días después de mí salida de Cádiz arribé al mar de la India, donde hallé muchas islas ha- 
+bitadas por innumerables gentes, y de ellas tomé posesión á nombre de nuestro felicísimo Monarca, á público pregón y aclamaciones, tremolando bandera y sin contradicción alguna: puse á la primera el nombre de San Salvador, en cuya protección confiado llegué así á esta como á las demás; los Indios la llaman Guanahanin. Di también nuevo nombre á cada una de las otras, habiendo mandado que la una se llamase Santa María de la Concepción, otra la Fernandina, la tercera Isabela, la cuarta Juana, y así respectivamente las restantes. 
 
-carta que os manifieste todos y cada uno de los sucesos 
-ocurridos en mi viaje, y los descubrimientos que han 
-sido su resultado. 
+Luego que arribamos á la que acaba de nombrarse (Juana) me adelanté un poco cerca de su costa hacia el Occidente, y la descubrí tan grande y sin límite, que no hubiera creído ser isla, sino más bien la provincia continental de Cathay; pero sin ver poblaciones ó municipios situados en sus términos marítimos, sino algunas aldeas y predios rústicos, con cuyos habitantes no podía entrar en conversación, porque huían en el momento de vernos. Pasaba adelante creyendo hallar alguna ciudad ó villa, y viendo por fin que nada se nos presentaba después de habernos internado mucho, que esta jornada nos dirigía al Norte, lo que intentaba yo evitar porque dominaba el frío y el ánimo era partir hacia Mediodía, cuando por otra parte no nos eran favorables los vientos, determinó suspender nuestra partida ulterior, y así, retrocediendo, volví á cierto puerto que había designado, desde donde envié á tierra dos de los nuestros que investigasen si había en aquella provincia Rey ó algunas ciudades. Recorrieron éstos el país por espacio de tres días, y hallaron innúmerables pueblos y habitaciones; pero pequeñas y sin gobierno alguno, por lo que tomaron á nosotros. 
 
-Treinta y tres días después de mí salida de Cádiz 
-arribé al mar de la India, donde hallé muchas islas ha- 
-bitadas por innumerables gentes, y de ellas tomé pose- 
-sión á nombre de nuestro felicísimo Monarca, á público 
-pregón y aclamaciones, tremolando bandera y sin con- 
-tradicción alguna: puse á la primera el nombre de San 
-Salvador, en cuya protección confiado llegué así áesta 
-como á las demás; los Indios la llaman Guanahanin. Di 
-también nuevo nombre á cada una de las otras, habien- 
-do mandado que la una se llamase Santa María de la 
-Concepción , otra la Fernandina, la tercera Isabela , la cuar- 
-ta Juana, y así respectivamente las restantes. 
+En este tiempo había yo averiguado por ciertos indios, que había tomado allí, que esta provincia era ciertamente isla; y así caminé hacia el Oriente, costeando hasta la distancia de trescientas veintidós millas, donde es el fin de la misma: desde allí vi por la parte de Oriente otra isla distante de la Juana cincuenta y cuatro millas, á la que puse por nombre Española: llegué á ella y dirigí la ruta hacia el Norte, del mismo modo que en la Juana al Oriente, como en distancia de quinientas sesenta y cuatro millas. 
 
-Luego que arribamos á la que acaba de nombrarse 
-(Juana) me adelanté un poco cerca do su costa hacia el 
-Occidente, y la descubrí tan grande y siu límite, que 
-no hubiera creído ser isla, sino más bien la provincia 
-continental de Cathay; pero siu ver poblaciones ó mu- 
-nicipios situados en sus términos marítimos, sino al- 
-gunas aldeas y predios rústicos, con cuyos habitantes 
-no podía entrar en conversación, porque huían en el 
-momento de vernos. Pasaba adelante creyendo hallar 
-alguna ciudad ó villa, y viendo por fin que nada se nos 
-presentaba después de habernos internado mucho, que 
-esta jornada nos dirigía al Norte, loque intentaba yo 
-evitar porque dominaba el frío y el ánimo era partir 
-hacia Mediodía, cuando por otra parte no nos eran fa- 
-vorables los vientos, determinó suspender nuestra par- 
-tida ulterior, y así, retrocediendo, volví á cierto puerto 
-que había designado, desde donde envié á tierra dos 
-de los nuestros que investigasen si había en aquella 
-provincia Rey ó algunas ciudades. Recorrieron éstos 
-el país por espacio de tres días, y hallaron innúmera- 
+Esta misma y todas las situadas en el mismo punto son fértilísimas: la referida Juana está circundada de muchos puertos segurísimos, espaciosos y que exceden á cuantos he visto jamás: la bañan por todas partes muchos, copiosos y saludables ríos; tiene asimismo gran número de elevadísimos montes. 
 
-UliL ACIONES V CARTAS \ 97 
+Todas estas islas son muy bellas y presentan varias perspectivas; son transitables y llenas de mucha diversidad de árboles de inmensa elevación, y que creo conserven en todo tiempo sus hojas, porque las vi tan reverdecidas y brillantes cual suelen estar en España en el mes de Mayo; unos colmados de flores, otros cargados de frutos, ofrecían todos la mayor hermosura á proporción del estado en que se hallaban, y según la calidad y naturaleza de cada uno. Cantaban el ruiseñor y otras varias é innumerables aves, y cantaban en el mes de Noviembre, que era el tiempo en que yo registraba país tan delicioso. 
 
-bles pueblos y habitaciones; pero pequeñas y sin go- 
-bierno alguno, por lo que tomaron á nosotros. 
+Hay además en dicha isla Juana siete ú ocho variedades de palmas superiores á las nuestras en su altura y belleza, así como todos los demás árboles, hierbas y frutos. Se observan en ella pinos admirables, campos y prados vastísimos, varias aves, diversas mieles y diversos metales, excepto hierro. En aquella á que dimos el nombre de Española, hay montes sublimes y agradables á la vista, dilatados sembrados, bosques, campos feracísimos y todos muy en proporción para sembrar, para pastos y para fabricar edificios; la comodidad y primor de sus puertos y la muchedumbre de ríos que contribuye á la salubridad, excede á cuanto pueda imaginarse, á no verlo. Sus árboles, pastos y frutos se diferencian mucho de los que produce la isla Juana ; pero abunda además de diversos géneros de aromas, de oro y de metales. 
 
-En este tiempo había jo averiguado por ciertos In- 
-dios, que liabía tomado allí, que esta provincia era 
-ciertamente isla; y así caminé hacia el Oriente, cos- 
-teando hasta la distancia de trescientas veintidós mi- 
-llas, donde es el fin de la misma: desde allí vi por la 
-parte de Oriente otra isla distante de la Juana cincuenta 
-y cuatro millas, á la que puse por nombre Española: 
-llegué á ella y dirigí la ruta hacia el Norte, del mismo 
-modo que en la Juana al Oriente, como en distancia de 
-quinientas sesenta y cuatro millas. 
+Los habitantes de uno y otro sexo, así en la Española como en las otras islas que vi y de que tengo noticia, andan siempre desnudos como nacieron, á excepción de algunas mujeres que cubren su desnudez con alguna hoja verde ó algodón, ó con algún velo de seda que ellas fabrican para este objeto. 
 
-Esta misma y todas las situadas en el mismo punto 
-son fértilísimas: la referida Juana está circundada de 
-muchos puertos segurísimos, espaciosos y que exce- 
-den á cuantos he visto jamás: la bañan por todas par- 
-tes muchos, copiosos y saludables ríos; tiene asimismo 
-gran número de elevadísimos montes. 
+No existe entre ellos, como ya expresé, hierro alguno; así es que no tienen armas, como les son desconocidas; ni son aptos para su manejo, no por la mala construcción de su cuerpo, pues son bien formados, sino porque son tímidos y llenos de cobardía; llevan, no obstante, por armas cañas secas al sol, en cuyo punto inferior ó más grueso fijan ó introducen un astil de madera seca y aguzado en punta, y ni aun de esto se atreven á usar continuamente; porque ha sucedido muchas veces que habiendo enviado dos ó tres de los míos á ciertas poblaciones para que tratasen con sus moradores, salían los indios como escuadrón desordenado, y al notar que se acercaban los nuestros, huían con tal velocidad que el padre abandonaba á los hijos y los hijos á los padres; y esto ocurría, no porque se hubiese causado á ninguno daño ó injuria, antes bien les di á cuantos me acerqué y hablé cuanto tenia, paño otras muchas cosas sin tomar nada de lo suyo, sino porque están por naturaleza poseídos de pavor y de miedo. No obstante, cuando se consideran seguros y han depuesto todo terror son muy sencillos, de buena fe y espléndidos con cuanto tienen: ninguno niega lo que posee á quien lo pide, y convidan ellos mismos aun para que se les ruegue. Ofrecen hacia todos un gran cariño; dan por cosas pequeñas aun las más grandes, contentándose con lo más mínimo ó nada; yo prohibí, por tanto, que se les diesen cosas de tan poquísima estimación y de ningún valor, cuales son fragmentos ó trozos de platos, escudillas y vidrio, clavos y correas; aunque si podían lograr alguna de estas cosas les parecía haber llegado á ser dueños de los más bellos juguetes y prendas que hay en el inundo. Ha sucedido que un marinero haya adquirido por una correa ó cuerda tanto oro cuanto es el valor de tres sueldos de oro, y otros más ó menos cantidad por otras cosas de menos precio, especialmente por blancas nuevas ó nuevamente acuñadas, ó ciertas monedas de oro por las cuales daban cuanto les pedía el vendedor: esto es, onza y media y dos de oro, ó treinta y cuarenta libras de algodón que ya ellos conocían. Asimismo compraban como idiotas, por algodón y oro, trozos ó fragmentos de arcos, de vasijas, de botellas y de tinajas: lo que prohibí por ser injusto, y les di muchos utensilios bellos y preciosos que había llevado conmigo, sin exigir recompensa para atraérmelos con más facilidad, para que reciban la fe de Jesucristo, y para que estén más dispuestos é inclinados al amor y obediencia al Rey, á la Reina, á nuestros Príncipes y á todos los españoles, y para que cuiden buscar, reunir y entregarnos lo que abunda entre ellos y nosotros necesitamos absolutamente. 
 
-Todas estas islas son muy bellas y presentan varias 
-perspectivas; son transitables y llenas de mucha diver- 
-sidad de árboles de inmensa elevación, y que creo con- 
-serven en todo tiempo sus hojas, porque las vi tan re- 
-verdecidas y brillantes cual suelen estar en España en 
-el mes de Mayo; unos colmados de ñores, otros carga- 
-dos de frutos, ofrecían todos la mayor hermosura á pro- 
-porción del estado en que se hallaban, y según la cali- 
-dad y naturaleza de cada uno. Cantaban el ruiseñor y 
-otras varias é innumerables aves, y cantaban en el mes 
-de Noviembre, que era el tiempo en que yo registraba 
-país tan delicioso. 
 
-Hay además en dicha isla Juana siete ú ocho va- 
-riedades de palmas superiores á las nuestras en su al- 
-tura y belleza, así como todos los demás árboles, hier- 
-bas y frutos. Se observan en ella pinos admirables, 
-campos y prados vastísimos, varias aves, diversas mié 
+No conocen la idolatría, antes bien creen con toda firmeza que toda fuerza, todo poder y todos los bienes existen en el cielo, y que yo he bajado de tan alta mansión con mis naves y marineros, habiéndome recibido en sus playas bajo este concepto, luego que habian desechado su temor. Ni son perezosos ni rudos, sino de un grande y perspicaz ingenio, y cuantos surcan aquel mar dan, no sin admiración, razón de lo que observaron en sus viajes; pero jamás vieron gentes vestidas ni embarcaciones semejantes á las nuestras.
 
-CIU íi'l l)IS A L COI.ON 
+Luego que arribé á aquel mar, tomé con violencia en la primer isla algunos indios que aprendiesen de nosotros y nos enseñasen igualmente cuanto conocían en aquel país, y esto nos fue de gran ventaja, porque en breve tiempo los entendimos á ellos y ellos á nosotros, así por demostraciones como por señales y palabras; por lo que nos fueron de grande utilidad. Están ahora conmigo, y aunque hace algún tiempo que permanecen en nuestra compañía, conservan siempre la idea de que he bajado de los cielos, y publican esto mismo en cualquier parte adonde arribamos, exclamando en seguida en alta voz á todos los demás: «Venid, venid y veréis gente que han venido do la región etérea.» A  vir
+tud de esta exclamación, así mujeres como hombres, niños y adultos, jóvenes y ancianos, después de haber depuesto el miedo que poco antes habían concebido, nos visitaban á porfía inundando los caminos, trayéndonos unos comida, otros bebida, y todos con el mayor cariño y obsequio increíble. 
 
-m 
+Cada una de estas islas posee muchas canoas de sólida y compacta madera, aunque estrechas, parecidas, no obstante, en la longitud y forma á nuestras fustas; pero más veloces en su curso: se les da sólo á remo la dirección. Las hay grandes, medianas y pequeñas; con todo, las mayores tienen disposición para diez y ocho bancos de remeros, y con ellas navegan á todas aquellas islas, que son inumerables, y con las que tienen su mútuo comercio. Vi algunas de estas canoas que llevaban hasta setenta y ochenta remeros. 
 
-les y diversos metales, excepto hierro. En arpie lia á 
-que dimos el nombre de Española-, hay montes sublimes 
-y agradables á la vista, dilatados sembrados, bosques, 
-campos feracísimos y todos muy en proporción para 
-sembrar, para pastos y para fabricar edificios; la como- 
-didad y primor de sus puertos y la muchedumbre de 
-ríos que contribuye á la salubridad, excede á cuanto 
-pueda imaginarse, á no verlo. Sus árboles, pastos y 
-frutos se diferencian mucho de los que produce la isla 
-Juana ; pero abunda además de diversos géneros de 
-aromas, de oro y de metales. 
+No hay en todas estas islas diversidad alguna en la fisonomía, en las costumbres ó lengua, antes bien todos se entienden reciprocamente: lo que es en mí dictamen muy ventajoso para que se verifiquen los deseos de nuestro Serenísimo Rey, reducidos á que se conviertan ó profesen la santa fe de Cristo, á la que, según mi entender, están prontos y dispuestos. 
 
-Los habitantes de uno y otro sexo, así en la Española 
-como en las otras islas que vi y de que tengo noticia, 
-andan siempre desnudos como nacieron, á excepción 
-de algunas mujeres que cubren su desnudez con alguna 
-hoja verde ó algodón, ó con algún [velo de seda que 
-ellas fabrican para este objeto. 
+He dicho que anduve en recta dirección de Poniente á Oriente trescientas veintidós millas para llegar á la isla Juana. Según este viaje y la distancia del camino, puedo asegurar que esta es mayor que la Inglaterra y Escocia juntas; porque además de las referidas millas, y por la parte que mira á Occidente, restan aún dos provincias que no reconocí, y de las cuales á la una llaman los indios Anam, y cuyos habitantes nacen con cola. Se extienden á la longitud de ciento ochenta millas, según me han manifestando los que llevo conmigo, y que tienen mucho conocimiento de todas ellas. 
 
-No existe entre ellos, como ya expresé, hierro algu- 
-no; así es que no tienen armas, como les son descono- 
-cidas; ni son aptos para su manejo, no por la mala 
-construcción de su cuerpo, pues son bien formados, 
-sino porque son tímidos y llenos de cobardía; llevan, no 
-obstante, por armas cañas secas al sol, en cuyo punto 
-inferior ó más grueso fijan ó introducen un astil de 
-madera seca y aguzado en punta, y ni aun de esto se 
-atreven á usar continuamente; porque ha. sucedido 
-muchas veces que habiendo enviado dos ó tres de los 
-míos á ciertas poblaciones para que tratasen con sus 
-moradores, salían los indios como escuadrón desorde- 
-nado, y al notar que se acercaban los nuestros, huían 
-con tal velocidad que el padre abandonaba á los hijos 
-y los hijos á los padres; y esto ocurría, no porque se 
-hubiese causado á ninguno daño ó injuria, autes bien 
-les di á cuantos me acerqué y hablé cuanto tenia, paño 
-} otras muchas cosas sin tomar nada de lo suyo, sino 
+La extensión de la Española es cual toda la España desde Cataluña á Fuenterrabía; de lo que se infiere fácilmente que una de sus cuatro partes que recorrí en línea directa de Occidente á Oriente, ocupa quinientas cuarenta millas. Como me apoderé de un trozo de ella, y sea isla no digna de desprecio, á pesar de haber tomado posesión solemne de todas las demás á nombre de nuestro invictísimo Rey, á quien en un todo queda entregado su imperio, tomé no obstante en sitio más proporcionado, como de más ventaja y de más comercio, posesión especial de una ciudad grande, á la que puse el nombre de Natividad del Señor: y mandé al punto edificar un alcazar ó fortaleza, que ya debe estar 
+concluida, en la que he dejado cuantos hombres me han parecido necesarios, con toda clase de armas y viveres suficientes para más de un año; les queda una carabela y constructores diestros en la marina como en otras artes, después de haberles proporcionado la benevolencia y estimación y amistad del Rey que manda en aquella isla. Son sus habitantes amables y benignos, en tal forma que aun el Rey se gloriaba llamarme su hermano. Mas si varían los sentimientos é intentan dañar á los que quedaron en la fortaleza ó ciudadela, no les es posible, porque carecen de armas, están desnudos y son muy cobardes: por tanto, los que ocupan el alcazar pueden contener toda la isla sin peligro alguno por su parte, siempre que no quebranten las leyes y régimen que les he dado. 
 
-RELACIONES Y CARTAS 
+A lo que pude saber, cada uno está casado con una sola mujer, á excepción de los Príncipes y Reyes, á quienes es permitido tener hasta veinte. Las mujeres parece trabajan más que los hombres, y no pude averiguar si gozaban propiedades, porque observé que uno tenía á su cargo distribuir á los demás, especialmente alimentos ó manjares y cosas semejantes. 
 
-•1 ÍM» 
-
-porque están por naturaleza poseídos de pavor y de 
-miedo. No obstante, cuando se consideran seguros y 
-han depuesto todo terror son muy sencillos, de bue- 
-na le y espléndidos con cuanto tienen: ninguno nie- 
-ga lo que posee á quien lo pide, y convidan ellos mis- 
-mos ann para que se les ruegue. Ofrecen hacia to- 
-dos un gran cariño; dan por cosas pequeñas aun las 
-más grandes, contentándose con lo más mínimo ó 
-nada; yo prohibí, por tanto, que se les diesen cosas de 
-tan poquísima estimación y de ningún valor, cuales 
-son fragmentos ó trozos de platos, escudillas y vidrio, 
-clavos y correas; aunque si podían lograr alguna de 
-estas cosas les parecía haber llegado á ser dueños de 
-los más bellos juguetes y prendas que hay en el inun- 
-do. Ha sucedido que un marinero haya adquirido por 
-una correa ó cuerda tanto oro cuanto es el valor de tres 
-sueldos de oro, y otros más ó menos cantidad por otras 
-cosas de menos precio, especialmente por blancas nue- 
-vas ó nuevamente acuñadas, ó ciertas monedas de oro 
-por las cuales daban cuanto les pedía el vendedor: 
-esto es, onza y media y dos de oro, ó treinta y cuaren- 
-ta libras de algodón que ya ellos conocían. Asimismo 
-compraban como idiotas, por algodón y oro, trozos ó 
-fragmentos de arcos, de vasijas, de botellas y de tina- 
-jas: lo que prohibí por ser injusto, y les di muchos 
-utensilios bellos y preciosos que había llevado conmi- 
-go, sin exigir recompensa para atraérmelos con más 
-facilidad, para que reciban la fe de .Jesucristo, y para 
-que estén más dispuestos é inclinados al amor y obe- 
-diencia al Rey, á la lteina, á nuestros Príncipes y á 
-todos los españoles, y para que cuiden buscar, reunir 
-y entregarnos lo que abunda entre ellos y nosotros ne 
-cesitamos absolutamente. 
-
-No conocen la idolatría, antes bien creen con toda 
-firmeza que toda fuerza, todo poder y todos los bienes 
-
-CRISTÓBAL COLON 
-
-existen en el cielo, y que yo lie bajado de tan alta 
-mansión con mis naves y marineros, habiéndome reci- 
-bido en sus playas bajo este concepto, luego que liabian 
-desechado su temor. Ni son perezosos ni rudos, sino 
-de un grande y perspicaz ingenio, y cuantos surcan 
-aquel mar dan, no sin admiración, razón de lo que ob- 
-servaron en sus viajes; pero jamás vieron gentes ves- 
-tidas ni embarcaciones semejantes á las nuestras. 
-
-Luego que arribé á aquel mar, tomé con violencia en 
-la primer isla algunos indios que aprendiesen de nos- 
-otros y nos enseñasen igualmente cuanto conocían en 
-aquel país, y esto nos fue de gran ventaja, porque en 
-breve tiempo los entendimos á ellos y ellos á nosotros, 
-así por demostraciones como por señales y palabras; 
-por lo que nos fueron de grande utilidad. Están ahora 
-conmigo, y aunque hace algún tiempo que permanecen 
-en nuestra compañía, conservan siempre la idea de 
-que lie bajado de los cielos, y publican esto mismo en 
-cualquier parte adonde arribamos, exclamando en se- 
-guida en alta voz á todos los demás: «Venid, venid y 
-veréis gente que han venido do la región etérea.» A vir- 
-tud de esta exclamación, así mujeres como hombres, 
-niños y adultos, jóvenes y ancianos, después de ha- 
-ber depuesto el miedo que poco antes habían concebi- 
-do, nos visitaban á porfía inundando los caminos, tra- 
-yéndonos unos comida, otros bebida, y todos con el 
-mayor cariño y obsequio increíble. 
-
-Cada una de estas islas posee muchas canoas de só- 
-lida y compacta madera, aunque estrechas, parecidas, 
-no obstante, en la longitud y f o riña á nuestras fustas; 
-pero más veloces en su curso: se les da sólo á remo la 
-dirección. Las hay grandes, medianas y pequeñas; con 
-todo, las mayores tienen disposición para diez y ocho 
-bancos de remeros, y con ellas navegan á todas aque- 
-llas islas, que son inumerables, y con las que tienen su 
-
-HELAUI0NE8 Y CAUTAS 
-
-20 1 
-
-mútuo comercio. Vi algunas de estas canoas que lleva- 
-ban hasta setenta y ochenta remeros. 
-
-No hay en todas estas islas diversidad alguna en la fi- 
-sonomía, en las costumbres ó lengua, antes bien todos se 
-entienden reciprocamente: lo que es en mí dictamen 
-muy ventajoso para que se verifiquen los deseos de 
-nuestro Serenísimo Rey, reducidos á que se convier- 
-tan ó profesen la santa fe de Cristo, á la que, según mi 
-entender, están prontos y dispuestos. 
-
-He dicho que anduve en recta dirección de Poniente 
-á Oriente trescientas veintidós millas para llegar á la 
-isla Juana. Según este viaje y la distancia del camino, 
-puedo asegurar que esta es mayor que la Inglaterra y 
-Escocia juntas; porque además de las referidas millas, 
-y por la parte que mira á Occidente, restan aún dos 
-provincias que no reconocí, y de las cuales á la una 
-llaman los indios Anam, y cuyos habitantes nacen con 
-cola. Se extienden á la longitud de ciento ochenta mi- 
-llas, según me lian manifestando los que llevo con- 
-migo, y que tienen mucho conocimiento de todas ellas. 
-
-La extensión de la Española es cual toda la España 
-desde Cataluña á Fuentevrabía; de lo que se infiere fá- 
-cilmente que una de sus cuatro partes que recorrí en 
-línea directa de Occidente á Oriente, ocupa quinientas 
-cuarenta millas. Como me apoderé de un trozo de ella, 
-y sea isla no digna de desprecio, á pesar de haber to- 
-mado posesión solemne de todas las demás á nombre 
-de nuestro invictísimo Rey, á quien en un todo queda 
-entregado su imperio, tomé no obstante en sitio más 
-proporcionado, como de más ventaja y de más comer- 
-cio, posesión especial de una ciudad grande, á la que 
-puse el nombre de Natividad del Señor: y mandé al pun- 
-to edificar un alcazar ó fortaleza, que ya debe estar 
-concluida, en la que lie dejado cuantos hombres me 
-han parecido necesarios, cou toda ciase de armas y vi- 
-
-CftlSTÓBAl. COUKV 
-
-veres suficientes para más de un año; les queda una 
-carabela y constructores diestros en La marina como 
-en otras artes, después de haberles proporcionado la 
-benevolencia y estimación y amistad del Key que man- 
-da en aquella isla. Son sus habitantes amables y benig- 
-nos, en tal forma que aun el Rey se gloriaba llamarme 
-su hermano. Mas si varían los sentimientos é intentan 
-dañar á los que quedaron en la fortaleza ó cindadela, 
-no les es posible, porque carecen de armas, están des- 
-nudos y son muy cobardes: por tanto, los que ocupan el 
-alcazar pueden contener toda la isla sin peligro alguno 
-por su parte, siempre que no quebranten las leyes y ré- 
-gimen que les he dado. 
-
-A lo que pude saber, cada uno está casado con una 
-sola mujer, á excepción de los Príncipes y Reyes, á 
-quienes es permitido tener hasta veinte. Las mujeres 
-parece trabajan más que los hombres, y no pude averi- 
-guar si gozaban propiedades, porque observé que uno 
-tenía á su cargo distribuir á los demás, especialmente 
-alimentos ó manjares y cosas semejantes. 
-
-No encontré entre ellos, como se presumía, monstruo 
-alguno ;1), sino gentes de mucho obsequio y benigni- 
-dad. No son tan negros como los etiopes: sus cabellos 
-son aplastados y caídos: no habitan donde hieren más 
-vivamente los rayos del sol, porque allí es terrible su 
-fuerza, y dista al parecer veinte y seis grados de la 
-equinocial. En las cimas de los montes no falta grande 
-frío, del cual se libertan, ya por estar acostumbrados 
-al clima, y ya con el uso de comidas y bebidas muy 
-cálidas que toman continua y pródigamente. Así es 
-que no observe monstruos ni llegó á mi noticia que los 
-hubiese, exceptuando la isla llamada Caria, que es la 
-segunda según se va desde la Capan o! a á la India, y la 
+No encontré entre ellos, como se presumía, monstruo alguno (1), sino gentes de mucho obsequio y benignidad. No son tan negros como los etiopes: sus cabellos son aplastados y caídos: no habitan donde hieren más vivamente los rayos del sol, porque allí es terrible su fuerza, y dista al parecer veinte y seis grados de la equinocial. En las cimas de los montes no falta grande frío, del cual se libertan, ya por estar acostumbrados al clima, y ya con el uso de comidas y bebidas muy cálidas que toman continua y pródigamente. Así es que no observe monstruos ni llegó á mi noticia que los hubiese, exceptuando la isla llamada Caris, que es la segunda según se va desde la Española á la India, y la 
 
 (1) Hombre cruel, sanguinario. 
 
-KlrXACFÜNEs V CA FITAS 
+que habitan personas que son consideradas por sus circunvecinas como las más feroces; éstas se alimentan de carne humana. 
 
-que habitan personas que son consideradas por sus 
-circunvecinas como las más feroces; éstas se alimentan 
-de carne humana. 
+Poseen muchas especies de canoas con las que llegan á desembarcar en todas las islas de la India, roban y arrebatan cuanto se les presenta. En nada se diferencian délos otros sino en llevar largos los cabellos como las mujeres, y en servirse de arcos y flechas de caña, fijas como ya se insinuó en astiles aguzados por la parte más gruesa; y esta es la cansa de que sean considerados como feroces, por lo que los demás indios les tienen un miedo incalculable: pero yo formo el mismo concepto de ellos que de los demás. Estos son los que se unen á ciertas mujeres que habitan solas la isla Matenin, que es la primera desde la Española á la India. Estas mujeres no se dedican á labor alguna propia de su sexo, pues usan de arcos y dardos, según se dijo de los anteriores, y se ponen por defensa láminas de cobre, de que tienen grande abundancia. 
 
-Poseen muchas especies de canoas con las que llegan 
-á desembarcar en todas las islas de la India, roban y 
-arrebatan cuanto se les presenta. En nada se diferen- 
-cian délos otros sino en llevar largos los cabellos como 
-las mujeres, y en servirse de arcos y flechas de caña, 
-tijas como ya se insinuó en astiles aguzados por la par- 
-te más gruesa; y esta es la cansa de que sean conside- 
-rados como feroces, por lo que los demás indios les 
-tienen un miedo incalculable: pero yo formo el mismo 
-concepto de ellos que de los demás. Estos son los que 
-se unen á ciertas mujeres que habitan solas la isla Ma 
-tenin, que es la primera desde la Española á la India. 
-Estas mujeres no se dedican á labor alguna propia de 
-su sexo, pues usan de arcos y dardos, según se dijo de 
-los anteriores, y se ponen por defensa láminas de co- 
-bre, de que tienen grande abundancia. 
+Me aseguran haber otra isla mayor que la expresada Española, cuyos habitantes no tienen cabellos, y abunda especialísimamente de oro sobre las otras. Llevo de ésta y de las demás que he reconocido hombres que testifiquen mi relación. 
 
-Me aseguran haber otra isla mayor que la expresada 
-Española, cuyos habitantes no tienen cabellos, y abunda 
-especialísimamente de oro sobre las otras. Llevo de 
-ésta y de las demás que he reconocido hombres que 
-testifiquen mi relación. 
-
-Finalmente, para compendiar mi partida y vuelta, asi 
-como para referir en breve las ventajas de este viaje, 
-prometo que con pequeños auxilios que me suminis- 
-tren nuestros invictísimos líeyes, lie de presentarles 
-cuanto oro se necesite, y tanta cantidad de aromas, de 
+Finalmente, para compendiar mi partida y vuelta, asi como para referir en breve las ventajas de este viaje, prometo que con pequeños auxilios que me suministren nuestros invictísimos líeyes, lie de presentarles cuanto oro se necesite, y tanta cantidad de aromas, de 
 algodón, almáciga, que se encuentra sólo en (¿uio, y 
 tanta de lináloe, y tantos esclavos para el servicio de la 
 marina, cuantos quisieren exigir su Majestades. Ofrezco 
