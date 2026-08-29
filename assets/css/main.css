@@ -159,6 +159,45 @@ main{ flex:1; padding:1.4rem 1.2rem 3rem; max-width:1180px; margin:0 auto; width
 .doc-card .dteaser{ font-size:0.87rem; color:var(--ink-soft); line-height:1.55; }
 .doc-card .dgo{ display:inline-block; margin-top:0.8rem; font-family:'Space Mono',monospace; font-size:0.7rem; color:var(--accent); text-transform:uppercase; letter-spacing:0.04em; }
 
+/* ---------- Portada / Inicio ---------- */
+.home-hero{ max-width:720px; margin:0.4rem 0 2.4rem; }
+.home-hero h1{ font-size:2.3rem; margin:0.5rem 0 0.9rem; line-height:1.15; }
+.home-lede{ font-size:1.1rem; line-height:1.7; color:var(--ink-soft); }
+.home-ctas{ display:flex; flex-wrap:wrap; gap:0.7rem; margin-top:1.4rem; }
+.home-cta{
+  display:inline-block; text-decoration:none; border-radius:2px;
+  font-family:'Space Mono',monospace; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.03em;
+  padding:0.65rem 1.1rem;
+}
+.home-cta.primary{ background:var(--accent); border:1px solid var(--accent); color:var(--surface); }
+.home-cta.primary:hover{ background:var(--accent-soft); border-color:var(--accent-soft); }
+.home-cta.secondary{ background:var(--surface); border:1px solid var(--line-strong); color:var(--ink-soft); }
+.home-cta.secondary:hover{ color:var(--accent); border-color:var(--accent); }
+
+.home-sections{ display:grid; grid-template-columns:repeat(auto-fit, minmax(300px,1fr)); gap:1.4rem; max-width:1180px; margin-bottom:2.2rem; }
+.home-section{ background:var(--surface); border:1px solid var(--line); border-top:3px solid var(--accent); border-radius:2px; padding:1.3rem 1.4rem 1.4rem; }
+.home-section.lugar-accent{ border-top-color:var(--cat-lugar); }
+.home-section.evento-accent{ border-top-color:var(--cat-evento); }
+.home-section h2{ font-size:1.3rem; margin-bottom:0.55rem; }
+.home-section p{ font-size:0.92rem; line-height:1.65; color:var(--ink-soft); margin:0 0 0.7rem; }
+.home-section p:last-child{ margin-bottom:0; }
+.home-section ul{ margin:0 0 0.7rem; padding-left:1.15rem; font-size:0.92rem; line-height:1.65; color:var(--ink-soft); }
+.home-section li{ margin-bottom:0.3rem; }
+.home-section a{ color:var(--accent-2); }
+
+.home-vision{ max-width:760px; background:var(--surface-2); border:1px solid var(--line); border-radius:2px; padding:1.5rem 1.7rem; margin-bottom:2rem; }
+.home-vision h2{ font-size:1.4rem; margin-bottom:0.8rem; }
+.home-pillars{ display:flex; flex-direction:column; gap:0.6rem; margin:0 0 1rem; padding:0; list-style:none; }
+.home-pillars li{ font-size:0.98rem; line-height:1.6; color:var(--ink-soft); padding-left:1.4rem; position:relative; }
+.home-pillars li::before{ content:"—"; position:absolute; left:0; color:var(--accent); }
+.home-pillars b{ color:var(--ink); font-weight:600; }
+.home-signature{ font-family:'IM Fell English', serif; font-style:italic; font-size:1.05rem; color:var(--ink-soft); text-align:right; margin-top:1.2rem; }
+
+@media (max-width: 640px){
+  .home-hero h1{ font-size:1.7rem; }
+  .home-lede{ font-size:1rem; }
+}
+
 /* Índice de capítulos embebido: <details><summary> nativo, sin JS */
 .doc-toc{ margin:0 0 1.2rem; }
 .doc-toc summary{
