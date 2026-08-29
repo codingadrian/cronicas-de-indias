@@ -116,8 +116,6 @@ Esta carta envió Colón al Escribano de Ración de las islas halladas en las In
 (2) Esta fecha, puesta en el original de Colón en números romanos está muy confusa y parece significar 14; pero bien examinada, no puede ser sino del 4 de Marzo . —Navarrete
 
 
-## CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
-
 CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
 
 Tesorero de los Serenísimos Monarcas. 
@@ -188,8 +186,6 @@ Tales son los sucesos que he descrito con brevedad. A Dios. En Lisboa á catorce
 
 (1) Debe ser 4 de Marzo.
 
-## MEMORIAL
-
 MEMORIAL 
 
 Que para los Reyes Católicos dió el Almirante D. Cristóbal Colón, en la ciudad Isabela, á, 30 de Enero de 1494 á Antonio de Torres, sobre el suceso de su segundo viaje á las Indias; y al final de cada capítulo la respuesta de sus Altezas (1). 
@@ -235,328 +231,69 @@ de entrar en el verano vea é tenga algún refrescamiento destas cosas, en espec
 
 Sus Altezas enviaron á mandar á D. Juan de Fonseca que luego haya información de los que hicieron ese engaño en los toneles, y de sus bienes haga que se cobre todo el daño que vino en el vino, con las costas; y en lo de las cañas vea como las que se enviaren sean buenas , y en las otras cosas que aquí dice que las provea luego. 
 
-Item: Diréis á sus Altezas que á cabsa que acá no hay lengua por medio de la cual á esta gente se pueda dar á entender nuestra Santa Fe, como sus Altezas desean, y aun los (pie acá estamos, como quier que se trabajará cuanto pudieren, se envían de presente con estos navios así de los caníbales, hombres y mujeres y niños y niñas, los cuales sus Altezas pueden mandar poner en poder de personas con quien puedan mejor aprender la lengua, ejercitándolos en cosas de servicio, y poco á poco mandando poner en ellos algún más cuidado que en otros esclavos para que deprendan unos de otros, que no se hablen ni se vean sino muy tarde, que más presto deprenderán allá que no acá, y serán mejores intérpretes, como quier que acá non se dejará de hacer lo que se pueda; es verdad que como esta gente platican poco los de la una isla con los de la otra, en las lenguas hay alguna diferencia entre ellos, según como están más cerca ó más lejos; y porque entre las otras islas las de los caníbales son mucho grandes, y mucho bien pobladas, parecerá acá que tomar deilos y dellas y enviarlos allá á Castilia non sería sino bien, porque quitarse hian una vez de aquella inhumana costumbre que tienen de comer hombres, y allá en Castilla entendiendo la lengua muy más presto rescibirían el Bautismo, y farían el provecho de sus ánimas: aun entre estos pueblos que non son de esas costumbres, se ganaría gran crédito por nosotros viendo que aquellos prendiésemos y cativásemos, de quien ellos suelen rescibir daños, y tienen tamaño miedo que del hombre solo se espantan; certificando á sus Altezas que la venida é vista de esta flota acá en esta tierra así junta y hermosa, ha dado muy grande autoridad á esto, y muy grande seguridad para las cosas venideras, porque toda esta gente de esta grande isla y de las otras, viendo el buen tratamiento que á los buenos se fará y el castigo que á los malos se dará, verná á obediencia prestamente para poderlos mandar como vasallos de sus Altezas. Y como quier que ellos agora donde quier que hombre se baile non sólo hacen de grado lo que hombre quiere que fagan, 
-mas ellos de su voluntad se ponen á todo lo que entien- 
-den que nos puede placer, y también pueden ser ciertos 
-sus Altezas que non menos allá, entre los cristianos 
-Príncipes haber dado gran reputación la venida desta 
-armada por muchos respetos, así presentes como veni- 
-deros. los cuales sus Altezas podrán mejor pensar y en- 
-tender que non sabría decir. 
+Item: Diréis á sus Altezas que á cabsa que acá no hay lengua por medio de la cual á esta gente se pueda dar á entender nuestra Santa Fe, como sus Altezas desean, y aun los (pie acá estamos, como quier que se trabajará cuanto pudieren, se envían de presente con estos navios así de los caníbales, hombres y mujeres y niños y niñas, los cuales sus Altezas pueden mandar poner en poder de personas con quien puedan mejor aprender la lengua, ejercitándolos en cosas de servicio, y poco á poco mandando poner en ellos algún más cuidado que en otros esclavos para que deprendan unos de otros, que no se hablen ni se vean sino muy tarde, que más presto deprenderán allá que no acá, y serán mejores intérpretes, como quier que acá non se dejará de hacer lo que se pueda; es verdad que como esta gente platican poco los de la una isla con los de la otra, en las lenguas hay alguna diferencia entre ellos, según como están más cerca ó más lejos; y porque entre las otras islas las de los caníbales son mucho grandes, y mucho bien pobladas, parecerá acá que tomar deilos y dellas y enviarlos allá á Castilia non sería sino bien, porque quitarse hian una vez de aquella inhumana costumbre que tienen de comer hombres, y allá en Castilla entendiendo la lengua muy más presto rescibirían el Bautismo, y farían el provecho de sus ánimas: aun entre estos pueblos que non son de esas costumbres, se ganaría gran crédito por nosotros viendo que aquellos prendiésemos y cativásemos, de quien ellos suelen rescibir daños, y tienen tamaño miedo que del hombre solo se espantan; certificando á sus Altezas que la venida é vista de esta flota acá en esta tierra así junta y hermosa, ha dado muy grande autoridad á esto, y muy grande seguridad para las cosas venideras, porque toda esta gente de esta grande isla y de las otras, viendo el buen tratamiento que á los buenos se fará y el castigo que á los malos se dará, verná á obediencia prestamente para poderlos mandar como vasallos de sus Altezas. Y como quier que ellos agora donde quier que hombre se baile non sólo hacen de grado lo que hombre quiere que fagan, mas ellos de su voluntad se ponen á todo lo que entienden que nos puede placer, y también pueden ser ciertos sus Altezas que non menos allá, entre los cristianos Príncipes haber dado gran reputación la venida desta armada por muchos respetos, así presentes como venideros. los cuales sus Altezas podrán mejor pensar y entender que non sabría decir. 
 
-Decirle heis lo que- acá ha habido en lo de los caníbales que 
-acá vinieron. 
+Decirle heis lo que acá ha habido en lo de los caníbales que acá vinieron. 
 
-Que está muí/ bien , y así lo debe hacer; pero que procure 
-allá, como si ser pudiere , se reduzqan á nuestra santa Fe ca- 
-tólica, y asimismo lo procure con los de las islas donde está. 
+Que está muy bien, y así lo debe hacer; pero que procure allá, como si ser pudiere , se reduzgan á nuestra santa Fe católica, y asimismo lo procure con los de las islas donde está. 
 
-Item: Diréis ó, sus Altezas, que el provecho de las al- 
-mas de los dichos caníbales, y aun destos de acá, ha 
-traído el pensamiento que cuantos más allá se llevasen 
-sería mejor, y en ello podrían sus Altezas ser servidos 
-desta manera; que visto cuánto son acá menester los ga- 
-nados y bestias de trabajo para el sostenimiento de la 
-gente que acá ha de estar y bien de todas estas islas, 
-sus Altezas podrán dar licencia é permiso á un número 
-de carabelas suficiente que vengan acá cada año, y tra- 
-yan de los dichos ganados y otros mantenimientos y 
-cosas para poblar el campo y aprovechar la tierra, y es- 
-to en precios razonables á sus costas de los que las {ru- 
-gieren, las cuales cosas se les podrían pagar en escla- 
-vos de estos caníbales, gente tan fiera y dispuesta, y 
-bien proporcionada y de muy buen entendimiento, los 
-cuales quitados de aquella inhumanidad creemos que 
-serán mejores que otros ningunos esclavos, la cual lue- 
-go perderán que sean fuera de su tierra, y de estos po- 
-drán haber muchos con las fustas de remos que acá se 
-entienden de hacer, fecho empero presupuesto que cada 
-una de las carabelas que viniesen de sus Altezas pusie- 
-sen una persona fiable, la cual defendiese las dichas ca- 
-rabelas que non descendiesen á ninguna otra parte ni 
+Item: Diréis á, sus Altezas, que el provecho de las almas de los dichos caníbales, y aun destos de acá, ha traído el pensamiento que cuantos más allá se llevasen sería mejor, y en ello podrían sus Altezas ser servidos desta manera; que visto cuánto son acá menester los ganados y bestias de trabajo para el sostenimiento de la gente que acá ha de estar y bien de todas estas islas, sus Altezas podrán dar licencia é permiso á un número de carabelas suficiente que vengan acá cada año, y trayan de los dichos ganados y otros mantenimientos y cosas para poblar el campo y aprovechar la tierra, y esto en precios razonables á sus costas de los que las trugieren, las cuales cosas se les podrían pagar en esclavos de estos caníbales, gente tan fiera y dispuesta, y bien proporcionada y de muy buen entendimiento, los cuales quitados de aquella inhumanidad creemos que serán mejores que otros ningunos esclavos, la cual luego perderán que sean fuera de su tierra, y de estos podrán haber muchos con las fustas de remos que acá se 
+entienden de hacer, fecho empero presupuesto que cada una de las carabelas que viniesen de sus Altezas pusiesen una persona fiable, la cual defendiese las dichas carabelas que non descendiesen á ninguna otra parte ni isla salvo aquí, donde ha de estar la carga y descarga de toda la mercaduría; y aun destos esclavos que se llevaren, sus Altezas podrían haber sus derechos allá; y desto traeréis ó enviaréis respuesta, porque acá se hagan los aparejos que son menester con más confianza, si á sus Altezas pareciere bien. 
 
-CKIM'ÓllAL COI Ó.\ 
+En esto se ha suspendido por agora hasta que venga otro camino de allá, y escriba el Almirante lo que en esto le paresciere. 
 
-2 I i 
+Item: También diréis á sus Altezas que más provechoso es, y menos costa, fletar los navios como los fletan los mercaderes para Flandes, por toneladas, que non de otra manera; por ende que yo vos di cargo de fletar á este respecto las dos carabelas que habéis luego de enviar: y así se podrá hacer de todas las otras que sus Altezas enviaren, si de aquella forma se ternán por servidos; pero non entiendo decir esto de las que han de venir con su licencia por la mercaduría de los esclavos. 
 
-isla salvo aquí, donde lia do estar la carga y descarga 
-de toda la mercaduría; y aun destos esclavos que se lle- 
-varen, sus Altezas podrían haber sus derechos allá; y 
-desto traeréis ó enviaréis respuesta, porque acá se ha- 
-gan los aparejos que son menester con más confianza, 
-si á sus Altezas pareciere bien. 
+Sus Altezas mandan á D. Juan de Fonseca que en el fletar de las carubelas tenga esta forma si ser pudiere. 
 
-En esto se ha suspendido por agora hasta que venga otro 
-camino de allá , y escriba el Almirante lo que en esto le pares- 
-ciere. 
+Item: Diréis á sus Altezas que á causa de excusar alguna más costa, yo merqué estas carabelas que lleváis por memorial para retenerlas acá con estas dos naos, conviene á saber: la Gallega y esa otra Capitana, de la cual merqué por semejante del Maestre della los tres ochavos por el precio que en el dicho memorial destas copias lleváis firmado de mi mano, los cuales navios non sólo darán autoridad y gran seguridad á la gente que ha de estar dentro y conversar con los indios para coger el oro, mas aun para otra cualquier cosa de peligro que de gente extraña pudiese aeontescer, allende que las carabelas son necesarias para el descubrir de la tierra firme y otras islas que entre aquí é allá están; y suplicaréis á sus Altezas que los maravedís que estos navios cuestan, manden pagar en los tiempos que se les ha prometido, porque sin dubda ellos ganaran bien su costa, según yo creo y espero en la misericordia de Dios. 
 
-Item: También diréis á sus Altezas que más prove- 
-choso es, y menos costa, lietar los navios como los Ilu- 
-tan los mercaderes para Flandes, por toneladas, que non 
-de otra manera; por ende que yo vos di cargo de fletar 
-á este respecto las dos carabelas que habéis luego de 
-enviar: y así se podrá hacer de todas las otras que sus 
-Altezas enviaren, si de aquella forma se ternán por ser- 
-vidos; pero non entiendo decir esto de las que han de 
-venir con su licencia por la mercaduría de los esclavos. 
+El Almirante lo hizo bien, y decirle heis cómo acá se pagó al que vendió la nao, y mandaron á D. Juan de Fonseca que pague lo de las carabelas que el Almirante compró. 
 
-Sus Altezas mandan á }). Juan de Fonseca que en el (Jetar 
-de las carubelas tenga esta forma si ser pudiere. 
+Item: Diréis á sus Altezas y suplicaréis de mi parte cuanto más humilmente pueda, que les plega mucho mirar en lo que por las cartas y otras escripiuras verán más largamente tocante á la paz ó sosiego é concordia de los que acá están, y que para las cosas del servicio de sus Altezas escojan tales personas que non se tenga recelo dellas, y que miren más á lo por que se envían, que non á sus propios intereses; y en esto, pues que todas las cosas vistes ó supistes, hablaréis é diréis á sus Altezas la verdad de todas las cosas como las comprendistes, y que la provisión de sus Altezas que sobre ello mandaren facer, venga con los primeros navios si posible fuere, á fin que acá non se hagan escándalos en cosa que tanto va en el servicio de sus Altezas. 
 
-Item: Diréis á sus Altezas que á causa de excusar al- 
-guna más costa, yo merqué estas carabelas que lleváis 
-por memorial para retenerlas acá con estas dos naos, 
-conviene á saber: la Gallega y esa otra Capitana, de la 
-cual merqué por semejante del Maestre della los tres 
-ochavos por eL precio que en el dicho memorial destas 
-copias lleváis firmado de mi mano, los cuales navios 
-non sólo darán autoridad y gran seguridad á la gente 
-que ha de estar dentro y conversar con los indios para 
-coger el oro, mas aun para otra cualquier cosa de peli- 
-gro que de gente extraña pudiese aeontescer, allende 
-que las carabelas son necesarias para el descubrir de 
-la tierra firme y otras islas que entre aquí é allá están; 
-y suplicaréis á sus Altezas que los maravedís que es- 
-tos navios cuestan, manden pagar en los tiempos que 
+Sus Altezas están bien informados desto, y en todo se proveerá como conviene. 
 
-REI, \CI0KES V CARTAS 
+Item: Diréis á sus Altezas el asiento de esta ciudad, é la fermosura de la provincia alderedor como lo vistes y compreendistes, y como yo vos hice Alcayde della por los poderes que de sus Altezas tengo para ello, á las cuales humildemente suplico que en alguna parte de satisfacción de vuestros servicios, tengan por bien la dicha provisión, como de sus Altezas yo espero.
 
-se les ha prometido, porque sin dubda ellos ganaran 
-bien su costa, según yo creo y espero en la misericor- 
-dia de Dios. 
+A sus Altezas plaze que vos seáis Alcayde. 
 
-El Almirante lo hizo bien, y decirleheis cómo acá se pagó al 
-que vendió la nao, y mandaron á D. Juan de Fonseca que pa- 
-gue lo de las carabelas que el Almirante compró. 
+Item: Porque Mosen Pedro Margarite, criado de sus Altezas, ha bien servido, y espero que así lo hará adelante en las cosas que le fueren encomendadas, he habido placer de su quedada aquí, y también de Gaspar y de Beltrán, por ser conocidos criados de sus Altezas, para los poner en cosas de confianza: suplicaréis á sus Altezas que especial al dicho Mosen Pedro, que es casado y tiene hijos, le provean de alguna encomienda en la Orden de Santiago, de la cual él tiene el hábito, porque su mujer é hijos tengan en qué vivir. Asimismo haréis relación de Juan Aguado, criado de sus Altezas, cuán bien ó diligentemente ha servido en todo lo que le ha seido mandado; que suplico a sus Altezas, á él é á los sobredichos los hayan por encomendados é por presentes. 
 
-Item: Diréis á sus Altezas y suplicaréis de mi parte 
-cuanto más humilmente pueda, que les plega mucho 
-mirar en lo que por las cartas y otras escripiuras verán 
-más largamente tocante á la paz ó sosiego é concordia 
-de los que acá están, y que para las cosas del servicio 
-de sus Altezas escojan tales personas que non se tenga 
-recelo dellas, y que miren más á lo por que se envían, 
-que non á sus propios intereses; y en esto, pues que to- 
-das las cosas vistes ó supist.es, hablaréis é diréis á sus 
-Altezas la verdad de todas las cosas como las compren- 
-distes, y que la provisión de sus Altezas que sobre ello 
-mandaren facer, venga con los primeros navios si posi- 
-ble fuere, á ñn que acá non se hagan escándalos en cosa 
-que tanto va en el servicio de sus Altezas. 
+Sus Altezas mandan asentar á Mosen Pedro 30.000 maravedís cada año, y á Gaspar y Beltrán á cada uno 15.000 maravedís cada año desde hoy 15 de Agosto de 94 en adelante, y 
+así les haga pagar el Almirante en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pagar: y en lo de Juan Aguado sus Altezas habrán memoria de él. 
 
-Sus Altezas están lien informados deslo, y en todo se pro- 
-veerá como conviene. 
+Item: Diréis á sus Altezas el trabajo que el Doctor Chanca tiene con el afruenta de tantos dolientes, y aun la estrechura de los mantenimientos, é aun con todo ello se dispone con gran diligencia y caridad en todo lo que cumple á su oíicio, y porque sus Altezas remitieron á mí el salario que acá se le había de dar, porqué estando acá es cierto quél non toma ni puede haber nada de ninguno, ni ganar de su oficio como en Castilla ganaba, é podría ganar estando á su reposo é viviendo de otra manera que acá no vive; y así que como quiera que él jura que es más lo que allá ganaba allende el salario que sus Altezas le dan, y non me quise extender más de cincuenta mil maravedís por el trabajo que acá pasa cada un año mientras acá estoviere; los cuales suplico á sus Altezas le manden librar con el sueldo de acá y eso mismo, porque él dice y afirma que todos los físicos de vuestras Altezas, que andan en reales ó semejantes cosas que éstas, suelen haber de derecho un día de sueldo en todo el año de toda la gente: con todo he seido informado, y dícenme, que como quier que esto sea, la costumbre es de darles cierta suma tasada á voluntad y mandamiento de sus Altezas en compensa de aquel día de sueldo. Suplicaréis á sus Altezas que en ello manden proveer, así en lo del salario como de esta costumbre, por forma que el dicho Doctor tenga razón de ser contento. 
 
-Item: Diréis á sus Altezas el asiento de esta ciudad, 
-ó iafermosura de la provincia alderedor como lo vistes 
-y compreendistes, y como yo vos hice Aleayde della 
-por los poderes que de sus Altezas tengo para ello, á 
-las cuales humildemente suplico que en alguna parte de 
-satisfacción de vuestros servicios, teugan por bien la 
-dicha provisión, como desús Altezas yo espero. 
+A sus Altezas place desto del Doctor Chanca, y que se le pague esto desde quel Almirante gelo asentó, y que qelos pague con lo del sueldo. 
 
-A sus Altezas píate que vos seáis Aleayde. 
+En esto del día del sueldo de los físicos, non lo acostumbran haber sino donde el Rey nuestro Señor esté en persona. 
 
-Item: Porque Mosen Pedro Alargar i te, criado de sus 
-Altezas, ha bien servido, y espero que así lo liará ade- 
-lante en las cosas que le fueren encomendadas, he ha- 
-bido placer de su quedada aquí, y también de Gaspar 
-y de Deltrán, por ser conocidos criados de sus Altezas, 
+Item: Diréis á sus Altezas de Coronel cuanto es hombre para servir á sus Altezas en muchas cosas, y cuanto ha servido basta aquí en todo lo más necesario, y la mengua que dél sentimos agora que está doliente, y que sirviendo de tal manera es razón quél sienta el fruto de su servicio, non sólo en las mercedes para después más en lo de su salario en lo presente, en manera quél é los que acá están sientan que les aprovecha el servicio, porque según el ejercicio que acá se ha de tener en coger este oro, no son de tener en poco las personas en quien tanta diligencia hay: y porque por su habilidad se proveyó acá por mí del oficio de Alguacil mayor destas Indias, y en la provisión va el salario en blanco, que suplico á sus Altezas gelo manden henchir como más sea su servicio, mirando sus servicios, confirmándole la provisión que acá se le dio, é proveyéndole de él de juro. 
 
-CRISTÓBAL COLÓN 
+Sus Altezas mandan que le asienten quince mil maravedís cada ano más de su sueldo, é que se le paguen cuando le pagaren su sueldo. 
 
-para los poner en cosas de confianza: suplicaréis á sus 
-Altezas que especial al dicho Mosen Pedro, que es ca- 
-sado y tiene hijos, le provean de alguna encomienda en 
-la Orden de Santiago, de la cual él tiene el hábito, por- 
-que su mujer é hijos tengan en qué vivir. Asimismo 
-haréis relación de Juan Aguado, criado de sus Altezas, 
-cuán bien ó diligentemente ha servido en todo lo que 
-le ha seido mandado; que suplico a sus Altezas, á él ó á 
-los sobredichos los hayan por encomendados c por pre- 
-sentes. 
+Asimismo diréis á sus Altezas como aquí vino el Bachiller Gil García por Alcalde mayor é non se le ha consignado ni nombrado salario, y es persona de bien y de buenas letras, é diligente, é es acá bien necesario; que suplico á sus Altezas le manden nombrar é consignar su salario, por manera que él se pueda sostener, é le sea librado con el dinero del sueldo de acá. 
 
-Sus Altezas mandan asentar á Mosen Pedro SO. 000 mara- 
-vedís cada año , y á Gaspar y Beltrán á caca uno 15.000 ma- 
-ravedís cada año desde hoy 15 de Agosto de 94 en adelante , y 
-así les haga pagar el Almirante en lo que allá se hobiere de 
-pagar, y D. Juan de Fonseca en lo que acá se hobiere de pa- 
-gar: y en lo de Juan Aguado sus Altezas habrán memoria 
-de él. 
+Sus Altezas le mandan asentar cada uño veinte mil maravedís en tanto que allá estoviere y más su sueldo, y que gelu paguen cuando pagaren el sueldo. 
 
-Item: Diréis á sus Altezas el trabajo que el Doctor 
-Chanca tiene con ol afmcnta de tantos dolientes, y aun 
-la estrechura de los mantenimientos, é aun con todo 
-ello se dispone con gran diligencia y caridad en todo lo 
-que cumple á su oíicio, y porque sus Altezas remitieron 
-á mí el salario que acá se le había de dar, ponqué estan- 
-do acá es cierto quéL non toma ni puede haber nada de 
-ninguno, ni ganar de su oficio como en Castilla ganaba, 
-ó podría ganar estando á su reposo c viviendo de otra 
-manera que acá no vive; y así que como quiera que él 
-jura que es más lo que allá ganaba allende el salario 
-que sus Altezas le dan, y non me quise extender más 
-de cincuenta mil maravedís por el trabajo que acá pasa 
-cada un año mientras acá estoviere; los cuales suplico 
-á sus Altezas le manden librar con el sueldo de acá y 
-eso mismo, porque él dice y afirma que todos los físi- 
-cos de vuestras Altezas, que andan en reales ó seme- 
-jantes cosas que éstas, suelen haber de derecho un día 
+Item: Diréis á sus Altezas como quier que ya se lo escribo por las cartas, que para este año non entiendo que sea posible ir á descobrir hasta que esto destos ríos 
+que se hallaron de oro sea puesto en el asiento debido á servicio de sus Altezas, que después mucho mejor se podrá facer, porque no es cosa que nadie la podiese facer sin mi presencia á mi grado, ni á servicio de sus Altezas, por muy bien que lo ficiese, como es en dubda según lo que hombre vee por su presencia. 
 
-RELACIONES Y CARTAS 
+Trabaje como lo más preciso que ser pueda se sepa lo adito de ese oro. 
 
-de sueldo en todo el año de toda la gente: con todo he 
-seido informado, y dícenme, que como quicr que esto 
-sea, la costumbre es de darles cierta suma tasada á vo- 
-luntad y mandamiento de sus Altezas en compensa de 
-aquel día de sueldo, Suplicaréis á sus Altezas que en 
-ello manden proveer, así en lo del salario como de esta 
-costumbre, por forma que el dicho Doctor tenga razón 
-de ser contento. 
+Item: Diréis á sus Altezas como los escuderos de caballo que vinieron de Granada, en el alarde que ficieron en Sevilla mostraron buenos caballos, é después al embarcar, yo no lo vi porque estaba un poco doliente, y metiéronlos tales quel mejor dellos non parece que vale dos mil maravedís, porque vendieron los otros y compraron estos, y esto fue de la suerte que se hizo lo de mucha gente que allá en los alardes de Sevilla yo vi muy buena; parece que Juan de Soria, después de dado el dinero de! sueldo, por algún interese suyo puso otros en lugar de aquellos que yo acá pensaba fallar, y fallo gente que yo nunca había visto: en esto ha habido gran maldad, de tal manera que yo no sé si me queje del solo: por esto, visto que á estos escuderos se ha fechado la costa basta aquí, allende de sus sueldos y también á sus caballos, y se hace de presente y son personas que cuando ellos están dolientes, ó non, se les antoja, non quieren que sus caballos sirvan sin ellos mismos; sus Altezas no quieren que se les compren estos caballos sino que sirvan á sus Altezas, y esto mismo no les paresce que deban servir ni cosa ninguna sino á caballo, lo cual agora de presente non face mucho al caso, é 
+por esto parece que sería mejor comprarles los caballos, pues que tan poco valen, y non estar cada día con ellos en estas pendencias; por ende que sus Altezas determinen esto como fuere su servicio. 
 
-1 sus Altezas place tiesto del Doctor Chanca, y que se le pa- 
-gue esto desde quel Almirante gelo asentó, y que yelos pague 
-con lo del sueldo. 
+Sus Altezas mandan á D. Juan de Fonseca que se informe de esto de estos caballos, y si se hallare que es verdad que hicieron ese engaño, lo envíen á sus Altezas porque lo mandarán castigar; y también se informe deso que dice de la otra gente, y envíe la pesquisa á sus Altezas; y en lo destos escuderos sus Altezas mandan que estén allá y sirvan, pues son de las guardas y criados de sus Altezas; y á los escuderos mandan sus Altezas que den los caballos cada vez que fueren menester y el Almirante lo mandare, y si algún daño recibieren los caballos oyendo otros en ellos , por medio del Almirante mandan sus Altezas que gelo paguen. 
 
-En esto del día del sueldo de los físicos, non lo acostumbran 
-haber sino donde el Rey nuestro Señor esté en persona. 
+Item; Diréis á sus Altezas como aquí han venido más de doscientas personas sin sueldo, y hay algunos dellos que sirven bien, y aun los otros por semejante se mandan que lo hagan así, y porque para estos primeros tres años será gran bien que aquí estén mil hombres para asentar y poner en muy gran seguridad esta isla y ríos de oro, y aunque hobiese ciento de caballo non se perdería nada, antes parece necesario, aunque en estos de caballo, fasta que oro se envíe, sus Altezas podrán sobreceer: con todo á estas doscientas personas, que vienen sin sueldo, sus Altezas deben enviar á decir si se les pagará sueldo como á los otros sirviendo bien, porque cierto son necesarios como dicho tengo para este comienzo. 
 
-Item: Diréis ásus Altezas de Coronel cuanto es hom- 
-bre para servir á. sus Altezas en muchas cosas, y cuan- 
-to lia servido basta aquí en todo lo más necesario, y la 
-mengua que dé! sentimos agora que está doliente, y que 
-sirviendo de tal manera es razón quél sienta el fruto de 
-su servicio, non sólo en las mercedes para después más 
-en lo de su salario en lo presente, en manera quél é los 
-que acá están sientan que les aprovecha el servicio, 
-porque según el ejercicio que acá se lia de tener en co- 
-ger este oro, no son de tener en poco las personas en 
-quien tanta diligencia hay: y porque por su habilidad 
-se proveyó acá por mí del oficio de Alguacil mayor des- 
-tas Indias, y en la provisión va el salario en Illanco, que 
-suplico á sus Altezas gelo manden henchir como más 
-sea su servicio, mirando sus servicios, confirmándole 
-la provisión que acá se le dio, é proveyéndole de él de 
-juro. 
+De estas doscientas personas que aquí dice que fueron sin sueldo, mandan sus Altezas que entren en lugar de los que han faltado y faltaren de los que iban á sueldo, seijendo hábiles y á contentamiento del Almirante, y sus Altezas mandan al Contador que los asiente en lugar de los que faltaren como el Almirante lo dijere. 
 
-Sus Altezas mandan que le asienten quince mil maravedís 
-cada ano más de su sueldo, é que se le paguen cuando le. .pa- 
-garen su sueldo. 
+Item: Porque en algo la costa de esta gente se puede aliviar con industria y formas que otros Príncipes suelen tener en otras, lo gastado mejor que acá se podría excusar, paresce que sería bien mandar traer en los navios que vinieren allende de las otras cosas que son para los mantenimientos comunes, y de la botica, zapatos y cueros para los mandar facer; camisas comunes y de otras, jubones, lienzo, sayos, calzas, paños para vestir en razonables precios; y otras cosas, como son conservas, que son fuera de ración, y para conservación de la salud, las cuales cosas todas la gente de acá recibiría de grado en descuento de su sueldo, y si allá esto se mercase por Ministros leales y que mirasen el servicio de sus Altezas, se ahorraría algo: por ende sabréis la voluntad de sus Altezas cerca desto, y si les pareciere ser su servicio, luego se debe poner en obra. 
 
-Asimismo diréis á sus Altezas como aquí vino el Ba- 
-chiller Gil García por Alcalde mayor é non se le lia con- 
-
-CIUSTÚ liAL colón 
-
-signado ni nombrado salario, y es persona de bien y de 
-buenas letras, é diligente, é es acá bien necesario; que 
-suplico á sus Altezas le manden nombrar é consignar 
-su salario, por manera que él se pueda sostener, 6 le sea 
-librado con el dinero del sueldo de acá. 
-
-Sus Altezas le mandan asentar cada uño veinte mil mara- 
-vedís en tanto que allá estoviere y más su sueldo, y que gelu 
-paguen cuando pagaren el sueldo. 
-
-Item: Diréis á sus Altezas como quier que ya se lo 
-escribo por las cartas, que para este año non entiendo 
-que sea posible ir á dcscobrir hasta que esto destos ríos 
-que se hallaron de oro sea puesto en el asiento debido 
-á servicio de sus Altezas, que después mucho mejor se 
-podrá facer, porque no es cosa que nadie la podiese fa- 
-cer sin mi presencia á mi grado, ni á servicio de sus 
-Altezas, por muy bien que lo ficiese, como es en dubda 
-según lo que hombre vee por su presencia. 
-
-Trabaje como lo más preciso que ser pueda se sepa lo adito 
-de ese oro. 
-
-Item: Diréis á sus Altezas como los escuderos de ca- 
-ballo que vinieron de Granada, en el alarde que iicieron 
-en Sevilla mostraron buenos caballos, c después al em- 
-barcar, yo no lo vi porque estaba un poco doliente, y 
-metiéronlos tales qnel mejor dellos non parece que vale 
-dos mil maravedís, porque vendieron los otros y com- 
-praron estos, y esto fue de la suerte que se hizo lo de 
-mucha gente que allá en los alardes de Sevilla yo vi 
-muy buena; parece que Juan de Soria, después de dado 
-el dinero de! sueldo, por algún interese suyo puso otros 
-en lugar de aquellos que yo acá pensaba fallar, y fallo 
-gente que yo nunca había visto: en esto ha habido gran 
-maldad, de tal manera que yo no sé si me queje del 
-solo: por esto, visto que á estos escuderos se lia fecha- 
-do la costa basta aquí, allende de sus sueldos y tam- 
-bién á sus caballos, y se hace de presente y son perso- 
-
-RELACIONES Y CARTAS 
-
-lias que cuando ellos están dolientes, ó non ,se les anto- 
-ja, non quieren que sus caballos sirvan sin ellos mismos; 
-sus Altezas no quieren que se les compren estos caba- 
-llos sino que sirvan á sus Altezas, y esto mismo no les 
-paresce que deban servir ni cosa ninguna sino á cuba- 
-do, lo cual agora de presente non face mucho al caso, é 
-por esto parece que sería mejor comprarles los caba- 
-llos, pues que tan poco valen, y non estar cada día con 
-ellos en estas pendencias; por ende que sus Altezas de- 
-terminen esto como fuere su servicio. 
-
-Sus Altezas mandan á D. Juan de Fonseca que se informe 
-de esto de estos caballos, y si se hallare que es verdad que hi- 
-cieron ese engaño , lo envíen á sus Altezas porque lo mandarán 
-castigar; y también se informe deso que dice de la otra gente, 
-y en víe la pesquisa á sus Altezas; y en lo destos escuderos sus 
-Altezas mandan que estén allá y sirvan, pues son de las guar- 
-das y criados de sus Altezas; y á los escuderos mandan sus 
-Altezas que den los caballos cada vez que fueren menester y el 
-Almirante lo mandare, y si algún daño recibieren los caballos 
-■yendo otros en ellos , por medio del Almirante mandan sus 
-Altezas que gelo paguen. 
-
-Item; Diréis á sus Altezas como aquí han venido más 
-de doscientas personas sin sueldo, y hay algunos d ellos 
-que sirven bien, y aun los otros por semejante se man- 
-dan que lo hagan así, y porque para estos primeros tres 
-años será gran bien que aquí estén mil hombres para 
-asentar y poner en muy gran seguridad esta isla y ríos 
-de oro, y aunque hobiese ciento de caballo non se per- 
-dería nada, antes parece necesario, aunque en estos de 
-caballo, fasta que oro se envíe, sus Altezas podrán so- 
-breceer: con todo á estas doscientas personas, que vie- 
-nen sin sueldo, sus Altezas deben enviar á decir si se 
-les pagará sueldo como á los otros sirviendo bien, por- 
-que cierto son necesarios como dicho tengo para este 
-comienzo. 
-
-CIUSTÓBA.L COLÓN 
-
-De estas doscientas personas que aquí dice que fueron sin 
-sueldo, mandan sus Altezas que entren en lugar de los que han 
-faltado y faltaren de los que iban á sueldo , seijendo hábiles y 
-á contentamiento del Almirante, y sus Altezas mandan al 
-Contador que los asiente en lugar de los que faltaren como el 
-Almirante lo dijere. 
-
-Item: Porque en algo la costa de esta gente se puede 
-aliviar con industria y formas que otros Príncipes sue- 
-len tener en otras, lo gastado mejor que acá se podría 
-excusar, paresce que sería bien mandar traer en los 
-navios que vinieren allende de las otras cosas que son 
-para los mantenimientos comunes, y de la botica, za- 
-patos y cueros para los mandar facer; camisas comu- 
-nes y de otras, jubones, lienzo, sayos, calzas, paños 
-para vestir en razonables precios; y otras cosas, como 
-son conservas, que son fuera de ración, y para conser- 
-vación de la salud, las cuales cosas todas la gente de 
-acá recibiría de grado en descuento de su sueldo, y si 
-allá esto se mercase por Ministros leales y que mirasen 
-el servicio de sus Altezas, se ahorraría algo: por ende 
-sabréis la voluntad de sus Altezas cerca desto, y si les 
-pareciere ser su servicio, luego se debe poner en obra. 
-
-Cor este camino se solia ser fasta que más escriba el Almi- 
-rante, y ya enviarán á mandar á D. Juan de Fonseca con J¿- 
-meno de Bribiesca que provea en esto. 
+Por este camino se solia ser fasta que más escriba el Almirante, y ya enviarán á mandar á D. Juan de Fonseca con Jimeno de Bribiesca que provea en esto. 
 
 Item: También diréis á sus Altezas, que por cuanto 
 ayer en el alarde queso tomó se falló la gente muy des- 

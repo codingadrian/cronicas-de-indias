@@ -18,27 +18,27 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 1
-  html: Sus Altezas enviaron á mandar á <mark>D. Juan de Fonseca</mark> que luego haya información de los que hicieron ese engaño en los toneles , y de sus bienes haga que se cobre todo el daño que vino en el vi…
+  html: Sus Altezas enviaron á mandar á <mark>D. Juan de Fonseca</mark> que luego haya información de los que hicieron ese engaño en los toneles, y de sus bienes haga que se cobre todo el daño que vino en el vin…
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 2
-  html: Sus Altezas mandan á }). <mark>Juan de Fonseca</mark> que en el (Jetar de las carubelas tenga esta forma si ser pudiere.
+  html: Sus Altezas mandan á <mark>D. Juan de Fonseca</mark> que en el fletar de las carubelas tenga esta forma si ser pudiere.
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 3
-  html: El Almirante lo hizo bien, y decirleheis cómo acá se pagó al que vendió la nao, y mandaron á <mark>D. Juan de Fonseca</mark> que pa- gue lo de las carabelas que el Almirante compró.
+  html: El Almirante lo hizo bien, y decirle heis cómo acá se pagó al que vendió la nao, y mandaron á <mark>D. Juan de Fonseca</mark> que pague lo de las carabelas que el Almirante compró.
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 4
-  html: '…000 ma- ravedís cada año desde hoy 15 de Agosto de 94 en adelante , y así les haga pagar el Almirante en lo que allá se hobiere de pagar, y <mark>D. Juan de Fonseca</mark> en lo que acá se hobiere de pa- gar: y en lo de Juan Aguado sus Altezas habrán memoria de él.'
+  html: '…15.000 maravedís cada año desde hoy 15 de Agosto de 94 en adelante, y así les haga pagar el Almirante en lo que allá se hobiere de pagar, y <mark>D. Juan de Fonseca</mark> en lo que acá se hobiere de pagar: y en lo de Juan Aguado sus Altezas habrán memoria de él.'
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 5
-  html: Sus Altezas mandan á <mark>D. Juan de Fonseca</mark> que se informe de esto de estos caballos, y si se hallare que es verdad que hi- cieron ese engaño , lo envíen á sus Altezas porque lo manda…
+  html: Sus Altezas mandan á <mark>D. Juan de Fonseca</mark> que se informe de esto de estos caballos, y si se hallare que es verdad que hicieron ese engaño, lo envíen á sus Altezas porque lo mandarán…
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 6
-  html: Cor este camino se solia ser fasta que más escriba el Almi- rante, y ya enviarán á mandar á <mark>D. Juan de Fonseca</mark> con J¿- meno de Bribiesca que provea en esto.
+  html: Por este camino se solia ser fasta que más escriba el Almirante, y ya enviarán á mandar á <mark>D. Juan de Fonseca</mark> con Jimeno de Bribiesca que provea en esto.
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 7

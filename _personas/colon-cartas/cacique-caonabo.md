@@ -15,7 +15,7 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: …eguirse liian dos peligros de alii, el uno de adolecer allá en la misma obra do no lia} 7 casa ni reparo alguno de aquel Cacique que llaman <mark>Caonabó</mark>, que es hombre, según relación de todos, muy malo y muy más atrevido, el cual viéndonos allá así desbaratados y dolientes, po- dría emprend…
+  html: … y seguirse hian dos peligros de alii, el uno de adolecer allá en la misma obra do no hay casa ni reparo alguno de aquel Cacique que llaman <mark>Caonabó</mark>, que es hombre, según relación de todos, muy malo y muy más atrevido, el cual viéndonos allá así desbaratados y dolientes, podría emprender…
 - heading: Instrucción a Mosén Pedro Margarit (1494)
   url: /documentos/colon-cartas/001/
   occ: 0

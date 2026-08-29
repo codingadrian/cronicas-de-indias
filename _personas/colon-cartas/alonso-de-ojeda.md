@@ -14,7 +14,7 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: …ribir á sus Altezas; pero porque allá va Clorbalán, que fue uno de los descubridores, él dirá lo que vio, aunque acá qiieda otro que llaman <mark>Hojeda</mark>, criado del Duque de Me- dinaceli, muy discreto mozo y de muy gran recábelo, que sin duda y aun sin comparación, descubrió mucho más, según…
+  html: …scribir á sus Altezas; pero porque allá va Gorbalán, que fue uno de los descubridores, él dirá lo que vio, aunque acá queda otro que llaman <mark>Hojeda</mark>, criado del Duque de Medinaceli, muy discreto mozo y de muy gran recabdo, que sin duda y aun sin comparación, descubrió mucho más, según el…
 - heading: Instrucción a Mosén Pedro Margarit (1494)
   url: /documentos/colon-cartas/001/
   occ: 0

@@ -13,11 +13,11 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 0
-  html: …comienda en la Orden de Santiago, de la cual él tiene el hábito, por- que su mujer é hijos tengan en qué vivir. Asimismo haréis relación de <mark>Juan Aguado</mark>, criado de sus Altezas, cuán bien ó diligentemente ha servido en todo lo que le ha seido mandado; que suplico a sus Altezas, á él ó á los s…
+  html: …encomienda en la Orden de Santiago, de la cual él tiene el hábito, porque su mujer é hijos tengan en qué vivir. Asimismo haréis relación de <mark>Juan Aguado</mark>, criado de sus Altezas, cuán bien ó diligentemente ha servido en todo lo que le ha seido mandado; que suplico a sus Altezas, á él é á los s…
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 1
-  html: '… y así les haga pagar el Almirante en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pa- gar: y en lo de <mark>Juan Aguado</mark> sus Altezas habrán memoria de él.'
+  html: '…e, y así les haga pagar el Almirante en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pagar: y en lo de <mark>Juan Aguado</mark> sus Altezas habrán memoria de él.'
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 0

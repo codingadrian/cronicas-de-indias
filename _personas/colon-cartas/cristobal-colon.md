@@ -10,7 +10,7 @@ role: autor/narrador de la mayoría de estos documentos (Almirante, Visorey y Ca
 mention_count_aprox: null
 status: candidata
 notas: en el Memorial a Antonio de Torres (doc. 1494) habla en tercera persona a través de su mensajero, que transmite sus palabras de viva voz a los Reyes
-mentions_hint: Se muestran 20 de 53 menciones a lo largo de la obra.
+mentions_hint: Se muestran 20 de 54 menciones a lo largo de la obra.
 blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
@@ -23,31 +23,31 @@ blurbs:
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
   occ: 5
-  html: En esto se ha suspendido por agora hasta que venga otro camino de allá , y escriba <mark>el Almirante</mark> lo que en esto le pares- ciere.
+  html: En esto se ha suspendido por agora hasta que venga otro camino de allá, y escriba <mark>el Almirante</mark> lo que en esto le paresciere.
 - heading: Carta a Luis de Santángel sobre el primer viaje (1493)
   url: /documentos/colon-cartas/000/
-  occ: 7
-  html: '…edís cada año , y á Gaspar y Beltrán á caca uno 15.000 ma- ravedís cada año desde hoy 15 de Agosto de 94 en adelante , y así les haga pagar <mark>el Almirante</mark> en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pa- gar: y en lo de Juan Aguado sus Altezas habrán mem…'
-- heading: Carta a los Reyes dando cuenta del segundo viaje (1494)
-  url: /documentos/colon-cartas/002/
-  occ: 0
-  html: '…lomé de las Casas, en el cap. CXIX del li- bro I de su Historia de las Indias, da noticia de esta car- ta en los siguientes términos: «Dice <mark>el Almirante</mark> en una carta que escribió á los Reyes que traía propósito deste viaje ir á las islas de los caníbales para las des- truir, pero como habían…'
+  occ: 8
+  html: … pues son de las guardas y criados de sus Altezas; y á los escuderos mandan sus Altezas que den los caballos cada vez que fueren menester y <mark>el Almirante</mark> lo mandare, y si algún daño recibieren los caballos oyendo otros en ellos , por medio del Almirante mandan sus Altezas que gelo paguen.
+- heading: Carta a Luis de Santángel sobre el primer viaje (1493)
+  url: /documentos/colon-cartas/000/
+  occ: 10
+  html: Por este camino se solia ser fasta que más escriba <mark>el Almirante</mark>, y ya enviarán á mandar á D. Juan de Fonseca con Jimeno de Bribiesca que provea en esto.
 - heading: Carta a su hermano D. Bartolomé (1497)
   url: /documentos/colon-cartas/003/
-  occ: 2
-  html: …l día que se hizo á la vela, y, ó en la nao que entró, por ventura, el dicho oficial, ó en tierra cuando que- ría desembarcarse, arrebatólo <mark>el Almirante</mark>, y dale ronchas co
+  occ: 1
+  html: …stas Indias, más que otro señalarse, y según en- tendí, no debiera ser cristiano viejo y creo que se llamaba Xi- meno, contra el cual debió <mark>el Almirante</mark> gravemente sentirse y enojarse, y aguardó el día que se hizo á la vela, y, ó en la nao que entró, por ventura, el dicho oficial, ó en tierr…
 - heading: Institución de mayorazgo
   url: /documentos/colon-cartas/005/
   occ: 0
   html: 'Y no escribirá sino <mark>el Almirante</mark> puesto que otros títu- los el Rey le diese ó ganase: esto se entiende en la fir- ma y no en su ditado que podrá escribir todos sus títu- lo…'
 - heading: Institución de mayorazgo
   url: /documentos/colon-cartas/005/
-  occ: 3
-  html: …stes indios hacían, eran reverenciados y adorados; poro no amados, antes aborrecidos como si fueran demonios infernales; y porque esta vida <mark>el Almirante</mark> sabia que aquí los españoles vivían y bailaban en la tierra para ello aparejo cuanto desear podían, con razón juzgaba que era la mejor del …
+  occ: 2
+  html: …erde, la cual parte de Polo á Polo, allende de la cual mandaron é me hicieron su Almirante en la mar, con todas las preeminencias que tiene <mark>el Almirante</mark> don Henifique en el Almirantazgo de Castilla, é me hicieron su Viso rey y Gobernador perpetuo para siempre jamás, y en todas las islas y ti…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
-  occ: 1
-  html: (5) Mandaban los tres navios que <mark>el Almirante</mark> destacó para la Española, Pedro de Arana, natural de Córdoba, hermano de la madre do D. Hernando Colón; Alonso Sánchez de Caraba- jal, Regi…
+  occ: 0
+  html: (1) Estos ejemplos que pone <mark>el Almirante</mark> déla historia an- ligua, los amplifica y comenta su historiador Casas con gran erudición y prolijidad en los capítulos 128 y 129 de su hist…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 3
@@ -58,8 +58,8 @@ blurbs:
   html: …dadas á Francisco Roldan, y de- más que le siguieron en aquella escandalosa y dañosa rebelión, las condiciones y asiento que con ellos hizo <mark>el Almirante</mark>, y para esto daba nueve razones.
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
-  occ: 9
-  html: …ieron en Castilla con pagar el sueldo de seis meses á los 40 hombres que tomó en los tres navios, y los que después se pasaron á él, venido <mark>el Almirante</mark>, los cuales venían cogidos y á sueldo de los Reyes para servir ó trabajar en las mi- nas, y en otras cosas que se les mandasen para servi- …
+  occ: 8
+  html: …os que- brantaron, á Xaraguá, y el sueldo y bastimento de los marineros, lo cual todo por su causa se perdió, y en ello ni en parte de ello <mark>el Almirante</mark> no pudo dispensar.
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 11
@@ -70,8 +70,8 @@ blurbs:
   html: … que le enviasen un letrado, persona experimen- tada para ejercer el oficio de la justicia, porque la gen- te que en esta isla estaba, dice <mark>el Almirante</mark>, era muy desmandada, y como cognoscían que él no osaba irles á la mano, ni castigarlos por los testimonios que en Castilla injustamente le …
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
-  occ: 17
-  html: (1) Ya se habla reconciliado Roldan con <mark>el Almirante</mark> y lo- grado éste apagar la sedición, cuando llegó Hojéela haciendo ostentación de su favor con el obispo Fonseca, enemigo do Co- lón, é int…
+  occ: 16
+  html: (2) Después de haber descubierto <mark>el Almirante</mark> la Isla do Trinidad, navegó por la costa do Paria, reconoció la Isla de la Margarita, fondeó el 20 de Agosto de 1498 entro la Beata y la Es…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 19
@@ -82,8 +82,8 @@ blurbs:
   html: Descripción que hizo D. Juan Bautista Muñoz del libro de las Profecías que juntó el Almirante <mark>D. Cristóbal Colón</mark>, con copia de las cartas que éste dirigió al Padre D. Gaspar Go- rricio y á los Reyes (1 ).
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
-  occ: 25
-  html: (1) Dominado <mark>el Almirante</mark> por .su antigua idea de que fue- ra recuperado el Santo Sepulcro con las riquezas que vendrían de América, escribió este libro durante su p…
+  occ: 24
+  html: Profecías que juntó el Almirante B. <mark>Cristóbal Colón</mark> de la recuperación de la Santa Ciudad de Hierusalén y del descubrimiento de las Indias, dirigidas á los Reyes Católicos. Un tomo en folio m…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
   url: /documentos/colon-cartas/008/
   occ: 27
