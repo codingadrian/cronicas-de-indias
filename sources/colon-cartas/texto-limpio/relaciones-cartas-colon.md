@@ -196,220 +196,41 @@ Que para los Reyes Católicos dió el Almirante D. Cristóbal Colón, en la ciud
 
 30 de Enero de 1494. 
 
-Lo que vos Antonio de Torres, Capitán de la nao Marigalante, é Alcaide de la ciudad Isabela, habéis de decir é suplicar de mi parte ai Rey é la Reina nuestros Señores, es lo siguiente: 
+Lo que vos Antonio de Torres, Capitán de la nao Marigalante, é Alcaide de la ciudad Isabela, habéis de decir é suplicar de mi parte ai Rey é la Reina nuestros Señores, es lo siguiente:
 
-Primeramente, dadas las cartas de creencia que lle- 
-váis de mí para sus Altezas, besaréis por mí sus reales 
-pies é manos, c me encomendaréis en sus Altezas como 
-á Rey é Reina mis Señores naturales, en cuyo servicio 
-yo deseo fenecer mis días, como esto más largamente 
-vos podréis decir á sus Altezas, según lo que en mí vis- 
-tes é supistes. 
+Primeramente, dadas las cartas de creencia que lleváis de mí para sus Altezas, besaréis por mí sus reales pies é manos, é me encomendaréis en sus Altezas como á Rey é Reina mis Señores naturales, en cuyo servicio yo deseo fenecer mis días, como esto más largamente vos podréis decir á sus Altezas, según lo que en mí vistes é supistes. 
 
 Sus Altezas se lo tienen en servicio. 
 
-ítem: Como quiera que por las cartas que á sus Al- 
-tezas escribo y aun el Padre Fray Buil y el Tesorero, 
-podrán comprender todo lo que acá después de nuestra 
-llegada se fizo, y esto harto por menudo y extensamen- 
-te; con todo diréis á sus Altezas de mi parte, que á 
+Item: Como quiera que por las cartas que á sus Altezas escribo y aun el Padre Fray Buil y el Tesorero, podrán comprender todo lo que acá después de nuestra llegada se fizo, y esto harto por menudo y extensamente; con todo diréis á sus Altezas de mi parte, que á 
 
-(1) En el original y en el traslado del registro, de donde se 
-sacó esta copia, están las respuestas al margen de cada ca- 
-pitulo. — Navarrcte. 
+(1) En el original y en el traslado del registro, de donde se sacó esta copia, están las respuestas al margen de cada capitulo. — Navarrete. 
 
-*20ij 
 
-CMSTUIIAL COLON 
+Dios ha placido darme tal gracia para en su servicio, que hasta aquí no hallo yo menos ni se ha hallado en cosa alguna de lo que yo escribí y dije, y afirmé á sus Altezas en los días pasados, antes por gracias de Dios espero que aun muy más claramente y muy presto por la obra parecerá, porque las cosas de especería en solas las orillas de la mar, sin haber entrado dentro en la tierra, se halla tal rastro é principios della, que es razón que se esperen muy mejores fines, y esto mismo en las minas del oro, porque con solos dos que fueron á descubrir cado uno por su parte, sin detenerse allá porque era poca gente, se ha descubierto tantos ríos tan poblados de oro, que cualquier de los que lo vieron é cogieron solamente con las manos por muestra, vinieron tan alegres, y dicen tantas cosas de la abundancia de11o, que yo tengo empacho de las decir y escribir á sus Altezas; pero porque allá va Gorbalán, que fue uno de los descubridores, él dirá lo que vio, aunque acá queda otro que llaman Hojeda, criado del Duque de Medinaceli, muy discreto mozo y de muy gran recabdo, que sin duda y aun sin comparación, descubrió mucho más, según el memorial de los ríos que él trajo, diciendo que en cada uno de ellos hay cosa de no creella; por lo cual sus Altezas pueden dar gracias á Dios, pues tan favorablemente se ha en todas sus cosas. 
 
-Dios lia placido darme tal gracia para en su servicio, 
-que liasta aquí no hallo yo menos ni se ha hallado en 
-cosa alguna de lo que yo escribí y dije, y afirmé á sus 
-Altezas en los días pasados, antes por gracias de Dios 
-espero que aun muy más claramente y muy presto por 
-la obra parecerá, porque las cosas de especería en solas 
-las orillas de la mar, sin haber entrado dentro en la tie- 
-rra, se halla tal rastro é principios della, que es razón 
-que se esperen muy mejores fines, y esto mismo en las 
-minas del oro, porque con solos dos que fueron á descu- 
-brir cado uno por su parte, sin detenerse allá porque 
-era poca gente, se ha descubierto tantos ríos tan po- 
-blados de oro, que cualquier de los que lo vieron é co- 
-gieron solamente con las manos por muestra, vinieron 
-tan alegres, y dicen tantas cosas de la abundancia de- 
-11o, que yo tengo empacho de las decir y escribir á sus 
-Altezas; pero porque allá va Clorbalán, que fue uno 
-de los descubridores, él dirá lo que vio, aunque acá 
-qiieda otro que llaman Hojeda, criado del Duque de Me- 
-dinaceli, muy discreto mozo y de muy gran recábelo, 
-que sin duda y aun sin comparación, descubrió mucho 
-más, según el memorial de los ríos que él trajo, dicien- 
-do que en cada uno de ellos hay cosa de no creella; pol- 
-lo cual sus Altezas pueden dar gracias á Dios, pues tan 
-favorablemente se lia en todas sus cosas. 
+Sus Altezas dan muchas tiradas á Dios por esto, y tienen en muy señalado servicio al Almirante todo lo que en esto ha fecho y hace, porque conocen que después de Dios á él son en cargo de todo lo que en esto han habido y hobierm; y porque, cerca desto le escriben más largo, á su carta se remiten. 
 
-Sus Altezas dan muchas tiradas á Dios por esto , y tienen en 
-muy señalado servicio al Almirante todo lo que en esto ha fe- 
-cho y hace, porque conocen que después de Dios á él son en 
-cargo de todo lo que en esto han habido y hobierm; y porque, 
-cerca desto le escriben más largo , á su carta se remiten. 
-
-Item: Diréis á sus Altezas, como quier que ya se les 
-escribe, que yo deseaba mucho en esta armada poder- 
-les enviar mayor cuantidad de oro del que acá se espe- 
-ra poder coger, si la gente que acá está nuestra, la ma- 
-yor parle súbitamente no cayera doliente; pero porque . 
-
-RELACIONES Y CAUTAS 
-
-i 07 
-
-va esta armada non se podía detener acá más, siquiera 
-por la costa grande que hace, siquiera porque el tiempo 
-es este propio para ir y poder volver los que han de 
-traer acá las cosas que aquí hacen mucha mengua, por- 
-que si tardasen de irse de aquí non podrían volverse 
-para Mayo los que han de volver, y allende desto si con 
-los sanos (pie acá se hallan, así en mar como en tierra 
-en la población, yo quisiera emprender de ir á las mi- 
-nas ó ríos agora, había muchas dificultades é aun peli- 
-gros, porque de aquí á veintitrés ó veinticuatro leguas, 
-en donde hay puertos é ríos para pasar y para tan lar- 
-go camino, y para estar allá al tiempo que sería menes- 
-ter para coger el oro, había menester llevar muchos 
-mantenimientos, los cuales non podían llevar á cues- 
-tas, ni hay bestias acá que á esto pudiesen suplir, ni los 
-caminos é pasos non están tan aparejados, como quier 
-que se han comenzado á adobar para que se podiesen 
-pasar; y también era grande inconveniente dejar acá 
-los dolientes en lugar abierto y chozas, y las provisiones 
-y mantenimientos que están en tierra, que como quier 
-que estos indios se hayan mostrado á los descubridores, 
-y se muestran cada día muy simples y sin malicia; con 
-todo, porque cada día vienen acá entre nosotros, non 
-pareció que fuera buen consejo meter á riesgo y á ven- 
-tura de perderse esta gente y los mantenimientos, lo 
-que un indio con un tizón podría hacer poniendo fuego 
-á las chozas, porque de noche y de día siempre van y 
-vienen: á causa d ellos tenernos guardas en el campo 
-mientras la población está abierta y sin defensión. 
+Item: Diréis á sus Altezas, como quier que ya se les escribe, que yo deseaba mucho en esta armada poderles enviar mayor cuantidad de oro del que acá se espera poder coger, si la gente que acá está nuestra, la mayor parle súbitamente no cayera doliente; pero porque va esta armada non se podía detener acá más, siquiera por la costa grande que hace, siquiera porque el tiempo es este propio para ir y poder volver los que han de traer acá las cosas que aquí hacen mucha mengua, porque si tardasen de irse de aquí non podrían volverse para Mayo los que han de volver, y allende desto si con los sanos (pie acá se hallan, así en mar como en tierra en la población, yo quisiera emprender de ir á las minas ó ríos agora, había muchas dificultades é aun peligros, porque de aquí á veintitrés ó veinticuatro leguas, en donde hay puertos é ríos para pasar y para tan largo camino, y para estar allá al tiempo que sería menester para coger el oro, había menester llevar muchos mantenimientos, los cuales non podían llevar á cuestas, ni hay bestias acá que á esto pudiesen suplir, ni los caminos é pasos non están tan aparejados, como quier que se han comenzado á adobar para que se podiesen pasar; y también era grande inconveniente dejar acá los dolientes en lugar abierto y chozas, y las provisiones y mantenimientos que están en tierra, que como quier que estos indios se hayan mostrado á los descubridores, y se muestran cada día muy simples y sin malicia; con todo, porque cada día vienen acá entre nosotros, non pareció que fuera buen consejo meter á riesgo y á ventura de perderse esta gente y los mantenimientos, lo que un indio con un tizón podría hacer poniendo fuego á las chozas, porque de noche y de día siempre van y vienen: á causa d ellos tenernos guardas en el campo mientras la población está abierta y sin defensión. 
 
 Que lo hizo bien. 
 
-Otrosí: Como habernos visto en los que fueron por 
-tierra á descobrir que los más cayeron dolientes des- 
-pués de vueltos, y aun algunos se hobievon de volver del 
-camino, era también razón de temer que otro tal conte- 
-ciese á los que agora irían destos sanos que se hallan. 
-
-208 CRISTÓBA I. COLÓ-V 
-
-y seguirse liian dos peligros de alii, el uno de adolecer 
-allá en la misma obra do no lia} 7 casa ni reparo alguno 
-de aquel Cacique que llaman Caonabó, que es hombre, 
-según relación de todos, muy malo y muy más atrevido, 
-el cual viéndonos allá así desbaratados y dolientes, po- 
-dría emprender lo que non osaría si Fuésemos sanos: y 
-con esto mismo se allega otra dificultad de traer acá lo 
-que llegásemos de oro, porque ó habíamos de traer poco 
-y ir y venir cada día, y meterse en el riesgo de las do- 
-lencias, ó se había de enviar con alguna parte de la 
-gente con el mismo peligro de perderlo. 
+Otrosí: Como habernos visto en los que fueron por tierra á descobrir que los más cayeron dolientes después de vueltos, y aun algunos se hobieron de volver del camino, era también razón de temer que otro tal conteciese á los que agora irían destos sanos que se hallan y seguirse hian dos peligros de alii, el uno de adolecer allá en la misma obra do no hay casa ni reparo alguno de aquel Cacique que llaman Caonabó, que es hombre, según relación de todos, muy malo y muy más atrevido, el cual viéndonos allá así desbaratados y dolientes, podría emprender lo que non osaría si fuésemos sanos: y con esto mismo se allega otra dificultad de traer acá lo que llegásemos de oro, porque ó habíamos de traer poco y ir y venir cada día, y meterse en el riesgo de las dolencias, ó se había de enviar con alguna parte de la gente con el mismo peligro de perderlo. 
 
 Lo hizo bien. 
 
-Así que, diréis á sus Altezas, que estas son las cabsas 
-porque de presente non se lia detenido el armada, ni 
-se les envía oro más de las muestras; pero confiando en 
-la misericordia de Dios, que en todo y por todo nos ha 
-guiado basta aquí, esta gente convalescerá presto, 
-como ya lo hace, porque solamente les aprueba la tie- 
-rra de algunas cecioues, y luego se levantan; y es cier- 
-to que si tovíesen algunas carnes frescas para conva- 
-lesccr muy presto serían todos en pie con ayuda de 
-Dios, é aún los más estarían ya convalescidos en este 
-tiempo, empero que ellos convaleseerán: con estos po- 
-cos sanos que acá quedan, cada día se entiende en ce- 
-rrar la población y meterla en alguna defensa, y los 
-mantenimientos en seguro, que será fecho en breves 
-días, porque non lia de ser sino albarradas que non son 
-gente los indios, que si dormiendo non nos fallasen para 
-emprender cosa ninguna, aunque la tuviesen pensada, 
-que así hicieron á los otros que acá quedaron por su 
-mal recabdo, los cuales por pocos que fuesen, y por ma- 
-yores ocasiones que dieran á los indios de haber é de 
-hacer lo que hicieron, nunca ellos osaran emprender de 
-dañarles si lo vieran á buen recado: y esto fecho luego 
-se entenderá, en ir á los dichos ríos, ó desde aquí to- 
+Así que, diréis á sus Altezas, que estas son las cabsas porque de presente non se ha detenido el armada, ni se les envía oro más de las muestras; pero confiando en la misericordia de Dios, que en todo y por todo nos ha guiado basta aquí, esta gente convalescerá presto, como ya lo hace, porque solamente les aprueba la tierra de algunas ceciones, y luego se levantan; y es cierto que si tovíesen algunas carnes frescas para convalescer muy presto serían todos en pie con ayuda de Dios, é aún los más estarían ya convalescidos en este tiempo, empero que ellos convalescerán: con estos pocos sanos que acá quedan, cada día se entiende en cerrar la población y meterla en alguna defensa, y los mantenimientos en seguro, que será fecho en breves días, porque non ha de ser sino albarradas que non son gente los indios, que si dormiendo non nos fallasen para emprender cosa ninguna, aunque la tuviesen pensada, que así hicieron á los otros que acá quedaron por su mal recabdo, los cuales por pocos que fuesen, y por mayores ocasiones que dieran á los indios de haber é de hacer lo que hicieron, nunca ellos osaran emprender de dañarles si lo vieran á buen recado: y esto fecho luego se entenderá, en ir á los dichos ríos, ó desde aquí tomando el camino, y buscando los mejores expedientes que se puedan, ó por la mar rodeando la isla fasta aquella parte de donde se dice que no debe haber más de seis ó siete leguas hasta los dichos ríos; por forma que con seguridad se pueda coger el oro y ponerlo en recabdo de alguna fortaleza ó torre que allí se haga luego, para tenerlo cogido al tiempo que las dos carabelas volverán acá, ó para que luego con el primer tiempo que sea para navegar este camino se envíe á buen recabdo. 
 
-RELACIONES Y CARTAS 
+Que está bien, y así lo debe hacer. 
 
-20ÍI 
+Item: Diréis á sus Altezas, como dicho es, que las causas de las dolencias tan general de todos es de mudamiento de aguas y aires, porque vemos que á todos arreo se extiende y peligran pocos; por consiguiente la conservación de la sanidad, después de Dios, está que esta gente sea proveída de los mantenimientos que en España acostumbraba, porque dellos, ni de otros que viniesen de nuevo sus Altezas se podrán servir si no están sanos; y esta provisión ha de durar hasta que acá se haya fecho cimiento de lo que acá se sembrare é plantare, digo de trigos y cebadas, é viñas, de lo cual para este año se ha fecho poco, porque no se pudo de antes tomar asiento, y luego que se tomó adolescieron aquellos poquitos labradores que acá estaban, los cuales aunque estuvieran sanos tenían tan pocas bestias y tan magras y flacas, que poco es lo que pudieran hacer: con todo, alguna cosa han sembrado, más para probar la tierra, que parece muy maravillosa, para que de allí se pueda esperar remedio alguno en nuestras necesidades.
 
-mando el camino, y buscando los mejores expedientes 
-que se puedan, ó por la mar rodeando la isla fasta aque- 
-lla parte de donde se dice que no debe haber más de 
-seis ó siete leguas liasta los dichos ríos; por forma que 
-con seguridad se pueda coger el oro y ponerlo en rc- 
-cabdo de alguna fortaleza ó torre que allí se haga luego, 
-para tenerlo cogido al tiempo que las dos carabelas vol- 
-verán acá, ó para que luego con el primer tiempo que 
-sea para navegar este camino se envíe á buen rocabdo. 
+Somos bien ciertos, como la obra lo muestra, que en esta tierra, así el trigo como el vino, nacerá muy bien; pero liase de esperar el fruto, el cual si tal será como 
+muéstrala presteza del nacer del trigo, y de algunos poquitos de sarmientos que se pusieron, es cierto que non fará mengua el Andalucía ni Secilia aquí, ni en las cañas de azúcar, según unas poquitas que se pusieron han prendido; porque es cierto que la hermosura ríe la tierra de estas islas, así de montes é sierras y aguas, como de vegas donde hay ríos cabdales, es tal la vista que ninguna otra tierra que sol escaliente puede ser mejor al parecer ni tan fermosa. 
 
-Que está bien, ¡j así lo debe hacer. 
+Pues la tierra es tal, que debe procurar que se siembre lo más que ser pudiere de todas cosas, y á D. Juan de Fonseca se escribe que envíe de contino todo lo que fuere menester para esto. 
 
-Item: Diréis á sus Altezas, como dicho es, que las 
-causas de las dolencias tan general de todos es de mu- 
-damiento de aguas y aires, porque vemos que á todos 
-arreo se extiende y peligran pocos; por consiguiente la 
-conservación de la sanidad, después de Dios, está que 
-esta gente sea proveída de los mantenimientos que en 
-España acostumbraba, porque dellos, ni de otros que 
-viniesen de nuevo sus Altezas se podrán servir si no 
-están sanos; y esta provisión ha de durar hasta que acá 
-se haya fecho cimiento de lo que acá se sembrare é 
-plantare, digo de trigos y cebadas, c viñas, de lo cual 
-para este año se ha fecho poco, porque no se pudo de 
-antes tomar asiento, y luego que se tomó adolescieron 
-aquellos poquitos labradores que acá estaban, los cua- 
-les aunque estuvieran sanos tenían tan pocas bestias y 
-tan magras y flacas, que poco es lo que pudieran hacer: 
-con todo, alguna cosa han sembrado, más para probar la 
-tierra, que parece muy maravillosa, para que de allí se 
-pueda esperar remedio alguno en nuestras necesidades. 
-Somos bien ciertos, como la obra lo muestra, que en 
-esta tierra, así el trigo como el vino, nacerá muy bien; 
-pero liase de esperar el fruto, el cual si tal será como 
-muéstrala presteza del nacer del trigo, y de algunos 
-poquitos de sarmientos que se pusieron, es cierto que 
-non íará mengua el Andalucía ni Secilia aquí, ni en las 
-
-u 
-
-210 CRISTÓBAL COLÓN 
-
-cañas de azúcar, según unas poquitas que se pusieron 
-lian prendido; porque es cierto que la hermosura ríe la 
-tierra do estas islas, así de montes é sierras y aguas, 
-como de vegas donde hay ríos cabdales, es tal la vista 
-que ninguna otra tierra que sol escaliente puede ser 
-mejor al parecer ni tan fermosa. 
-
-Pues la tierra es tal, que debe procurar que se siembre lo 
-más que ser pudiere de todas cosas, y á D. Juan de Fonseca se 
-escribe que envíe de contino todo lo que fuere menester para 
-esto. 
-
-Item: Diréis que á cabsa de haberse derramado mu - 
-cho vino en este camino del que la ilota traía, y esto, 
-según dicen los más. á culpa de la mala obra que los 
-toneleros ficieron en Sevilla, la mayor mengua que 
-agora tenemos aquí, ó esperarnos por esto tener, es de 
-vinos, y como quier que tengamos para más tiempo así 
-vizcocho como trigo, con todo es necesario que tam- 
-bién se envie alguna cantidad razonable, porque el ca- 
-mino es largo y cada día no se puede proveer, é asimis- 
-mo algunas canales, digo tocinos, y otra cecina que sea 
+Item: Diréis que á cabsa de haberse derramado mucho vino en este camino del que la flota traía, y esto, según dicen los más, á culpa de la mala obra que los toneleros ficieron en Sevilla, la mayor mengua que agora tenemos aquí, ó esperarnos por esto tener, es de vinos, y como quier que tengamos para más tiempo así vizcocho como trigo, con todo es necesario que también se envie alguna cantidad razonable, porque el camino es largo y cada día no se puede proveer, é asimismo algunas canales, digo tocinos, y otra cecina que sea 
 mejor que la que habernos traído este camino. De car- 
 neros vivos y aun antes corderos y cordericas, más fem- 
 bras que machos, y algunos becerros y becerras peque- 

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "place:canarias",
+    "canonical_name": "islas Canarias",
+    "aliases": ["islas Afortunadas"],
+    "modern_equivalent": "islas Canarias, España",
+    "status": "candidata"
+  },
+  {
+    "id": "place:espanola",
+    "canonical_name": "isla Española",
+    "aliases": [],
+    "modern_equivalent": "La Española (República Dominicana y Haití)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cuba",
+    "canonical_name": "Cuba",
+    "aliases": ["Juana", "Alfa y Omega"],
+    "modern_equivalent": "Cuba",
+    "status": "candidata",
+    "notas": "Colón la llamó Juana en su primer viaje, creyéndola parte del continente asiático; puso el nombre Alfa y Omega al punto donde comenzó a costearla en su segundo viaje."
+  },
+  {
+    "id": "place:jamaica",
+    "canonical_name": "Jamaica",
+    "aliases": [],
+    "modern_equivalent": "Jamaica",
+    "status": "candidata"
+  },
+  {
+    "id": "place:guadalupe",
+    "canonical_name": "Guadalupe",
+    "aliases": ["Carucueria"],
+    "modern_equivalent": "Guadalupe (Antillas Francesas)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isabela-ciudad",
+    "canonical_name": "La Isabela",
+    "aliases": [],
+    "modern_equivalent": "La Isabela, República Dominicana",
+    "status": "candidata",
+    "notas": "Primera ciudad fundada por Colón en la Española, en su segundo viaje."
+  },
+  {
+    "id": "place:santo-domingo-fuerte",
+    "canonical_name": "Santo Domingo (fuerte)",
+    "aliases": ["fuerte de Santo Domingo"],
+    "modern_equivalent": "Santo Domingo, República Dominicana",
+    "status": "candidata",
+    "notas": "Fundado por Bartolomé Colón en la costa meridional, como nueva sede tras la Isabela."
+  },
+  {
+    "id": "place:cibao",
+    "canonical_name": "provincia de Cibao",
+    "aliases": ["Cipango"],
+    "modern_equivalent": "región central de República Dominicana",
+    "status": "candidata"
+  },
+  {
+    "id": "place:magona",
+    "canonical_name": "valle de Magona",
+    "aliases": [],
+    "modern_equivalent": "República Dominicana (región de Caonabo)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:darien",
+    "canonical_name": "el Darién",
+    "aliases": [],
+    "modern_equivalent": "región del Darién, Panamá/Colombia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:golfo-san-miguel",
+    "canonical_name": "golfo de San Miguel",
+    "aliases": [],
+    "modern_equivalent": "golfo de San Miguel, Panamá",
+    "status": "candidata",
+    "notas": "Nombre puesto por Balboa a la ensenada del mar del Sur que exploró tras su descubrimiento."
+  },
+  {
+    "id": "place:mar-del-sur",
+    "canonical_name": "mar del Sur",
+    "aliases": ["mar Austral"],
+    "modern_equivalent": "océano Pacífico",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cempoal",
+    "canonical_name": "Cempoal",
+    "aliases": [],
+    "modern_equivalent": "Cempoala, Veracruz, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:vera-cruz-colonia",
+    "canonical_name": "Vera Cruz (colonia)",
+    "aliases": ["Villa Rica de la Vera Cruz"],
+    "modern_equivalent": "Veracruz, México",
+    "status": "candidata",
+    "notas": "Fundada por Cortés; el nombre viene del día en que tomó tierra allí, festividad de la Cruz de mayo."
+  },
+  {
+    "id": "place:tenustitan",
+    "canonical_name": "Tenustitán",
+    "aliases": ["Tenustita", "Méjico", "ciudad lacustre de Méjico"],
+    "modern_equivalent": "Ciudad de México",
+    "status": "candidata",
+    "notas": "Capital de Moctezuma, situada en medio de un lago salado; sitiada por Cortés setenta días en 1521."
+  },
+  {
+    "id": "place:tezcuco",
+    "canonical_name": "Tezcuco",
+    "aliases": [],
+    "modern_equivalent": "Texcoco, Estado de México",
+    "status": "candidata",
+    "notas": "Ciudad donde Cortés instaló su ejército y mandó construir los trece bergantines para el sitio de Méjico."
+  },
+  {
+    "id": "place:tlascalteca",
+    "canonical_name": "Tlascalteca",
+    "aliases": [],
+    "modern_equivalent": "Tlaxcala, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:aztapalapa",
+    "canonical_name": "Aztapalapa",
+    "aliases": [],
+    "modern_equivalent": "Iztapalapa, Ciudad de México",
+    "status": "candidata",
+    "notas": "Residencia del hermano de Moctezuma; arrasada por el ejército de Cortés durante el sitio."
+  },
+  {
+    "id": "place:golfo-figueras",
+    "canonical_name": "golfo de Figueras",
+    "aliases": [],
+    "modern_equivalent": "golfo de Honduras",
+    "status": "candidata",
+    "notas": "Donde Olid fundó su colonia (Triunfo de la Santa Cruz) y donde luego fue apresado y muerto."
+  },
+  {
+    "id": "place:nicaragua-lago",
+    "canonical_name": "lago de Nicaragua",
+    "aliases": ["mar de aguas dulces"],
+    "modern_equivalent": "lago de Nicaragua",
+    "status": "candidata",
+    "notas": "Descubierto por Gil González de Ávila."
+  },
+  {
+    "id": "place:medellin-puerto",
+    "canonical_name": "Medellín (puerto de Nueva España)",
+    "aliases": [],
+    "modern_equivalent": "cerca de Veracruz, México",
+    "status": "candidata",
+    "notas": "Puerto nombrado por Cortés en honor a su pueblo natal en Castilla."
+  }
+]

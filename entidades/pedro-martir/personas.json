@@ -1,0 +1,249 @@
+[
+  {
+    "id": "person:cristobal-colon",
+    "canonical_name": "Cristóbal Colón",
+    "aliases": ["el Almirante", "Prefecto marítimo", "el Prefecto"],
+    "role": "Almirante, descubridor y primer gobernador de las Indias",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bartolome-colon",
+    "canonical_name": "Bartolomé Colón",
+    "aliases": ["el Adelantado"],
+    "role": "hermano del Almirante, Adelantado de la isla Española",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-colon-indio-guanahani",
+    "canonical_name": "Diego Colón (intérprete indígena)",
+    "aliases": ["Diego"],
+    "role": "joven indígena de Guanahaní educado por Colón, sirvió de intérprete en la costa de Cuba",
+    "status": "candidata",
+    "notas": "Ambigüedad de nombre: Pedro Mártir llama así a un joven indígena tomado en el primer viaje, sin relación de sangre con el Almirante ni con su hermano Bartolomé. No confundir con person:bartolome-colon ni con ningún otro Colón. Mismo patrón de homónimo ya documentado para 'Diego Colón' en entidades/las-casas/."
+  },
+  {
+    "id": "person:guacanagari",
+    "canonical_name": "Guacanagarí",
+    "aliases": ["Guacanaril", "el cacique Guacanaril"],
+    "role": "cacique que recibió a Colón en su primer viaje; sospechado de complicidad en la matanza de los 38 españoles del fuerte de Navidad",
+    "status": "candidata"
+  },
+  {
+    "id": "person:caonabo",
+    "canonical_name": "Caonabo",
+    "aliases": ["Caunaboa"],
+    "role": "cacique de la región del oro (Cibao/Maguana), señor de la casa de oro; capturado por Hojeda, murió camino a España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-hojeda",
+    "canonical_name": "Alonso de Hojeda",
+    "aliases": ["Hojeda"],
+    "role": "capitán español; capturó a Caonabo con engaño; luego encabezó la expedición al continente (Década segunda)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:guarionex",
+    "canonical_name": "Guarionex",
+    "aliases": [],
+    "role": "cacique de la Vega Real; se rebeló y fue perseguido por el Adelantado Bartolomé Colón",
+    "status": "candidata"
+  },
+  {
+    "id": "person:mayobanex",
+    "canonical_name": "Mayobanex",
+    "aliases": [],
+    "role": "cacique de los ciguayos; dio refugio a Guarionex y se negó a entregarlo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-roldan",
+    "canonical_name": "Francisco Roldán",
+    "aliases": ["Roldán"],
+    "role": "antiguo hombre de confianza de Colón; encabezó una rebelión de colonos españoles contra los hermanos Colón",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-bobadilla",
+    "canonical_name": "Francisco de Bobadilla",
+    "aliases": ["el nuevo Gobernador"],
+    "role": "gobernador enviado por los Reyes a investigar la Española; prendió y encadenó a Colón y a su hermano en 1500",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-margarit",
+    "canonical_name": "Pedro Margarit",
+    "aliases": [],
+    "role": "antiguo familiar de la Corte, dejado al mando en la Española por Colón; regresó a España con quejas contra él",
+    "status": "candidata"
+  },
+  {
+    "id": "person:melchor-de-sevilla",
+    "canonical_name": "Melchor (de Sevilla)",
+    "aliases": ["cierto Melchor"],
+    "role": "enviado del Almirante para negociar con Guacanagarí; antiguo embajador ante el Sumo Pontífice",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vasco-nunez-de-balboa",
+    "canonical_name": "Vasco Núñez de Balboa",
+    "aliases": ["Vasco Núñez", "Vasco"],
+    "role": "capitán que cruzó el istmo del Darién y descubrió el mar del Sur (océano Pacífico) el 25 de septiembre de 1513",
+    "status": "candidata"
+  },
+  {
+    "id": "person:careta",
+    "canonical_name": "Careta",
+    "aliases": [],
+    "role": "cacique del litoral, primer aliado de Balboa en su travesía",
+    "status": "candidata"
+  },
+  {
+    "id": "person:poncha",
+    "canonical_name": "Poncha",
+    "aliases": [],
+    "role": "cacique aliado de Balboa; guió su tropa hacia las montañas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cuarecua",
+    "canonical_name": "Cuarecua",
+    "aliases": [],
+    "role": "cacique que se opuso a Balboa con las armas; derrotado y muerto junto con 600 de los suyos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:chiapes",
+    "canonical_name": "Chiapes",
+    "aliases": [],
+    "role": "cacique del litoral del mar del Sur; tras ser vencido se alió con Balboa y lo acompañó a explorar el golfo de San Miguel",
+    "status": "candidata"
+  },
+  {
+    "id": "person:coquera",
+    "canonical_name": "Coquera",
+    "aliases": [],
+    "role": "cacique vencido por Balboa; luego se alió con él y le dio oro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tumaco",
+    "canonical_name": "Tumaco",
+    "aliases": [],
+    "role": "cacique del golfo de San Miguel; entregó a Balboa oro labrado y perlas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedrarias-davila",
+    "canonical_name": "Pedro Arias de Ávila",
+    "aliases": ["Pedrarias", "Pedro Arias"],
+    "role": "gobernador de Castilla del Oro enviado al Darién con 1200 hombres a petición de Balboa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernan-cortes",
+    "canonical_name": "Hernán Cortés",
+    "aliases": ["Cortés"],
+    "role": "capitán general, conquistador de Nueva España, gobernador confirmado por el César",
+    "status": "candidata"
+  },
+  {
+    "id": "person:moctezuma",
+    "canonical_name": "Moctezuma",
+    "aliases": ["Moteczuma"],
+    "role": "potentísimo rey de Tenustitán (Tenochtitlan/Méjico), sometido y muerto durante la conquista de Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:catamazin",
+    "canonical_name": "Catamazín (Cuauhtémoc)",
+    "aliases": ["Catamazín"],
+    "role": "sobrino de Moctezuma, tercer y último rey mejicano antes de la caída de la ciudad; capturado por Cortés tras el sitio de 70 días",
+    "status": "candidata",
+    "notas": "Rendido 'Catamazín' en esta traducción de 1892 — corresponde al Cuauhtémoc de otras crónicas. Sucedió al hermano de Moctezuma (señor de Iztapalapa, muerto de viruelas a los tres meses de reinar), quien a su vez sucedió directamente a Moctezuma."
+  },
+  {
+    "id": "person:cristobal-de-olid",
+    "canonical_name": "Cristóbal de Olid",
+    "aliases": ["Olid"],
+    "role": "capitán enviado por Cortés a Honduras; se rebeló contra él, fue apresado y luego asesinado por Francisco de las Casas y Gil González de Ávila",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gil-gonzalez-de-avila",
+    "canonical_name": "Gil González de Ávila",
+    "aliases": ["Gil González"],
+    "role": "explorador de Nicaragua; descubrió el 'mar de agua dulce' (lago de Nicaragua); participó en la muerte de Olid",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-las-casas",
+    "canonical_name": "Francisco de las Casas",
+    "aliases": [],
+    "role": "capitán marítimo enviado por Cortés contra Olid; lo apresó junto con Gil González y ambos lo hicieron matar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-alvarado",
+    "canonical_name": "Pedro Alvarado",
+    "aliases": ["Alvarado"],
+    "role": "capitán al mando de uno de los tres ejércitos en el sitio de Tenochtitlan; luego enviado a explorar por el sur",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-de-sandoval",
+    "canonical_name": "Gonzalo de Sandoval",
+    "aliases": [],
+    "role": "alguacil, al mando de uno de los tres ejércitos en el sitio de Tenochtitlan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-olea",
+    "canonical_name": "Francisco de Olea",
+    "aliases": [],
+    "role": "familiar de Cortés; le salvó la vida en un puente durante el sitio de Méjico, muriendo él en el intento",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-velazquez",
+    "canonical_name": "Diego Velázquez",
+    "aliases": [],
+    "role": "gobernador de Cuba; enemistado con Cortés, fue apartado del mando por el Real Senado de Indias",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-ribera",
+    "canonical_name": "Juan de Ribera",
+    "aliases": ["Juan Rivera"],
+    "role": "secretario de Cortés desde el principio de sus empresas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-ordaz",
+    "canonical_name": "Diego Ordaz",
+    "aliases": [],
+    "role": "hidalgo español que participó en la exploración y conquista de Nueva España junto a Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:benavides",
+    "canonical_name": "Benavides",
+    "aliases": ["Benevides"],
+    "role": "hidalgo español, mensajero que trajo noticias de Nueva España a la corte tras la caída de Tenochtitlan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-fernandez-castilla-del-oro",
+    "canonical_name": "Francisco Fernández",
+    "aliases": [],
+    "role": "capitán de Pedro Arias que ocupó el reino de Nicaragua antes de la llegada de Gil González",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vasco-nunez-comogro",
+    "canonical_name": "Comogro (cacique)",
+    "aliases": [],
+    "role": "cacique cuyo hijo primero incitó a los españoles a cruzar las montañas hacia el mar del Sur",
+    "status": "candidata"
+  }
+]
