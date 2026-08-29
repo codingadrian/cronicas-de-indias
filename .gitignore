@@ -8,3 +8,6 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 Gemfile.lock
+
+# estado local de sesión de Claude Code — no es contenido del proyecto
+.claude/
