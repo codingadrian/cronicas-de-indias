@@ -227,8 +227,9 @@ dirigido al usuario (sitio, READMEs, METADATA).
 ├── _documentos/<obra>/NNN.md          contenido del sitio — un capítulo por archivo, editable a mano
 ├── _personas/<obra>/<slug>.md         una persona por archivo
 ├── _lugares/<obra>/<slug>.md          un lugar por archivo
-├── documentos/index.md, personas/index.md, lugares/index.md, cronologia/index.md   páginas índice
-├── index.md                           portada (misma biblioteca que documentos/index.md)
+├── documentos/index.md, personas/index.md, lugares/index.md   páginas índice
+├── index.md                           portada — introducción al proyecto, cómo usarlo,
+│                                       cómo colaborar, visión (no la biblioteca; esa vive en documentos/)
 ├── _layouts/                          default.html, capitulo.html, persona.html, lugar.html
 ├── _includes/                         nav.html, footer.html
 └── assets/
@@ -378,14 +379,19 @@ vez.
 
 ## El sitio Jekyll
 
-Sitio Jekyll multi-página (no ya un solo archivo HTML). Cuatro pestañas en
+Sitio Jekyll multi-página (no ya un solo archivo HTML). Tres pestañas en
 la barra de navegación real (`_includes/nav.html`): **Documentos**,
-**Personas**, **Lugares**, **Cronología** — no hay "Red de relaciones", se
-sacó del todo (no se migró el grafo de fuerza del viejo MVP).
+**Personas**, **Lugares** — no hay "Red de relaciones" (grafo de fuerza
+del viejo MVP, nunca migrado) ni "Cronología" (pestaña + página
+`cronologia/index.md` que sí se migró en su momento, pero se sacó del
+sitio del todo el 2026-08-29 a pedido del usuario — `scripts/
+generar_sitio.py` ya no la genera; los eventos siguen existiendo en
+`entidades/<obra>/relaciones-muestra.json`, solo que ya no tienen una
+vista propia en el sitio).
 
 **Contenido generado, no a mano**: `scripts/generar_sitio.py` lee
 `sources/<obra>/texto-limpio/*.md` y `entidades/<obra>/*.json` y escribe
-`_documentos/`, `_personas/`, `_lugares/`, `cronologia/index.md` y
+`_documentos/`, `_personas/`, `_lugares/` y
 `assets/data/*.json` — es una corrida de una sola vez (no forma parte del
 build de Jekyll). **Después de correrlo, el contenido generado queda
 versionado y es la fuente de verdad editable** — volver a correr el script
@@ -415,10 +421,10 @@ distinción (una corrección se hizo directo en `_documentos/`, no en el
   `<mark>` alrededor de la mención), y **muestrea parejo hasta 20** si hay
   más (`muestrear_parejo`/`CAP_BLURBS`) — no las primeras 20 nada más.
 - **`date_normalized` no siempre existe** en `relaciones-muestra.json`
-  (algunas obras sí lo tienen, otras solo `date_text` libre) — la
-  cronología ordena por `date_normalized` cuando está, si no intenta
-  sacar un año de 4 cifras de `date_text` con regex, y si tampoco eso
-  aparece la entrada queda al final ("sin fecha precisa").
+  (algunas obras sí lo tienen, otras solo `date_text` libre) — sigue
+  siendo un campo del esquema de eventos aunque el sitio ya no tiene una
+  vista de cronología que lo consuma (ver "El sitio Jekyll" más arriba,
+  pestaña Cronología sacada del sitio el 2026-08-29).
 
 ### Etiquetado de entidades dentro del texto (`assets/js/tag-entities.js`)
 

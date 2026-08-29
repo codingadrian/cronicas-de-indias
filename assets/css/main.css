@@ -282,15 +282,6 @@ main{ flex:1; padding:1.4rem 1.2rem 3rem; max-width:1180px; margin:0 auto; width
 .status-dot.revisada{ background:var(--accent); }
 .status-dot.candidata{ background:var(--accent-2); }
 
-/* ---------- Cronología ---------- */
-.timeline-list{ display:flex; flex-direction:column; gap:0.6rem; }
-.tl-item{ background:var(--surface); border:1px solid var(--line); border-left:3px solid var(--cat-evento); border-radius:2px; padding:0.85rem 1.05rem; }
-.tl-item .tl-date{ font-family:'Space Mono',monospace; font-size:0.68rem; color:var(--accent-soft); text-transform:uppercase; margin-bottom:0.25rem; }
-.tl-item .tl-name{ font-family:'IM Fell English', serif; font-size:1.1rem; }
-.tl-item .tl-place{ font-size:0.86rem; color:var(--ink-soft); }
-.undated{ margin-top:1.5rem; }
-.undated .card{ margin-top:0.6rem; }
-
 footer.app{ text-align:center; padding:1.2rem; font-family:'Space Mono',monospace; font-size:0.68rem; color:var(--ink-faint); border-top:1px solid var(--line); }
 .empty{ color:var(--ink-faint); font-style:italic; padding:2rem 0; text-align:center; }
 mark{ background:var(--mark); color:var(--ink); padding:0 1px; }
@@ -310,7 +301,6 @@ mark{ background:var(--mark); color:var(--ink); padding:0 1px; }
   .persona-head h2{ font-size:1.5rem; }
   .doc-reader .dr-head h2{ font-size:1.3rem; }
   .persona-bio, .persona-note, .blurb-list{ max-width:none; }
-  .timeline-wrap{ padding:1.6rem 1rem 1.2rem; }
   .doc-toc-list{ max-height:min(45vh, 320px); }
 }
 @media (max-width: 400px){

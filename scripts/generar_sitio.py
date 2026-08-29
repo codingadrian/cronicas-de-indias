@@ -5,7 +5,6 @@ proyecto:
   sources/<obra>/texto-limpio/*.md   -> _documentos/<obra>/NNN.md
   entidades/<obra>/personas.json     -> _personas/<obra>/<slug>.md
   entidades/<obra>/lugares.json      -> _lugares/<obra>/<slug>.md
-  entidades/<obra>/relaciones-muestra.json (eventos) -> cronologia/index.md
 
   también escribe assets/data/<obra>.json (para assets/js/tag-entities.js)
   y assets/data/search-index.json (para assets/js/search.js).
@@ -44,7 +43,6 @@ OBRAS = [
 
 CAP_BLURBS = 20
 VENTANA_SNIPPET = 140
-YEAR_RE = re.compile(r"\b(1[2-5]\d{2})\b")
 
 
 def slugify(texto):
@@ -167,7 +165,6 @@ def muestrear_parejo(lista, tope):
 
 
 def main():
-    todos_los_eventos = []  # para cronologia/index.md
     indice_busqueda = []  # para assets/data/search-index.json
 
     for obra in OBRAS:
@@ -298,66 +295,13 @@ def main():
             json.dumps(datos_obra, ensure_ascii=False, indent=0), encoding="utf-8"
         )
 
-        # eventos para cronología
-        lugares_por_id = {l["id"]: l for l in lugares}
-        for ev in relaciones.get("eventos", []):
-            lugar = lugares_por_id.get(ev.get("place_id"))
-            if lugar:
-                lugar_slug = lugar["id"].split(":", 1)[1]
-                lugar_nombre = lugar["canonical_name"]
-                lugar_url = f"/lugares/{clave}/{lugar_slug}/"
-            else:
-                lugar_nombre = ev.get("place_id", "")
-                lugar_url = None
-            date_normalized = ev.get("date_normalized")
-            if date_normalized:
-                clave_orden = date_normalized
-            else:
-                m = YEAR_RE.search(ev.get("date_text", ""))
-                clave_orden = f"{m.group(1)}-99-99" if m else "9999-99-99"
-            todos_los_eventos.append(
-                {
-                    "clave_orden": clave_orden,
-                    "nombre": ev.get("name", ""),
-                    "fecha_texto": ev.get("date_text", ""),
-                    "obra_titulo": obra_titulo,
-                    "lugar_nombre": lugar_nombre,
-                    "lugar_url": lugar_url,
-                }
-            )
-
     (ROOT / "assets" / "data" / "search-index.json").write_text(
         json.dumps(indice_busqueda, ensure_ascii=False, indent=0), encoding="utf-8"
     )
 
-    # cronologia/index.md — página estática (los datos ya quedan
-    # embebidos en el HTML, no hace falta Liquid para esto)
-    todos_los_eventos.sort(key=lambda e: e["clave_orden"])
-    filas = []
-    for ev in todos_los_eventos:
-        if ev["lugar_url"]:
-            lugar_html = f'<a href="{ev["lugar_url"]}">{html.escape(ev["lugar_nombre"])}</a>'
-        else:
-            lugar_html = html.escape(ev["lugar_nombre"]) if ev["lugar_nombre"] else ""
-        fecha = html.escape(ev["fecha_texto"]) if ev["fecha_texto"] else "sin fecha precisa"
-        filas.append(
-            f'  <div class="tl-item">\n'
-            f'    <div class="tl-date mono">{fecha}</div>\n'
-            f'    <div class="tl-name">{html.escape(ev["nombre"])}<div class="tl-obra">{html.escape(ev["obra_titulo"])}</div></div>\n'
-            f'    <div class="tl-place">{lugar_html}</div>\n'
-            f"  </div>"
-        )
-    cuerpo_cronologia = (
-        '<p class="hint">Eventos identificados en la primera pasada de extracción de relaciones '
-        "(todavía cubre solo una parte de cada obra — ver CLAUDE.md, sección Pendientes).</p>\n"
-        '<div class="timeline-list">\n' + "\n".join(filas) + "\n</div>\n"
-    )
-    escribir(ROOT / "cronologia" / "index.md", {"layout": "default", "title": "Cronología", "permalink": "/cronologia/"}, cuerpo_cronologia)
-
     print(f"Listo: {sum(1 for _ in (ROOT / '_documentos').rglob('*.md'))} documentos, "
           f"{sum(1 for _ in (ROOT / '_personas').rglob('*.md'))} personas, "
-          f"{sum(1 for _ in (ROOT / '_lugares').rglob('*.md'))} lugares, "
-          f"{len(todos_los_eventos)} eventos.")
+          f"{sum(1 for _ in (ROOT / '_lugares').rglob('*.md'))} lugares.")
 
 
 if __name__ == "__main__":

@@ -58,11 +58,11 @@ reales de Inca Garcilaso, y la *Crónica mexicáyotl* de Tezozómoc).
 ├── sources/                textos originales y limpios, por obra (dato de investigación, no se sirve)
 ├── entidades/              registros de personas/lugares/relaciones por obra (dato de investigación, no se sirve)
 ├── scripts/
-│   └── generar_sitio.py    genera _documentos/_personas/_lugares/cronología a partir de sources/ y entidades/
+│   └── generar_sitio.py    genera _documentos/_personas/_lugares a partir de sources/ y entidades/
 ├── _documentos/<obra>/NNN.md   un capítulo por archivo — contenido del sitio, editable a mano
 ├── _personas/<obra>/<slug>.md  una persona por archivo
 ├── _lugares/<obra>/<slug>.md   un lugar por archivo
-├── documentos/, personas/, lugares/, cronologia/   páginas índice del sitio
+├── documentos/, personas/, lugares/   páginas índice del sitio
 ├── assets/                 CSS, JS de etiquetado/búsqueda, y datos JSON generados
 └── _layouts/, _includes/   plantillas Jekyll
 ```
