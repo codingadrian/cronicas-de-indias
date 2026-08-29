@@ -7,7 +7,6 @@
     <a href="{{ '/documentos/' | relative_url }}"{% if page.url contains '/documentos/' %} class="active"{% endif %}>Documentos</a>
     <a href="{{ '/personas/' | relative_url }}"{% if page.url contains '/personas/' %} class="active"{% endif %}>Personas</a>
     <a href="{{ '/lugares/' | relative_url }}"{% if page.url contains '/lugares/' %} class="active"{% endif %}>Lugares</a>
-    <a href="{{ '/cronologia/' | relative_url }}"{% if page.url contains '/cronologia/' %} class="active"{% endif %}>Cronología</a>
   </nav>
   <div class="search-wrap">
     <input type="text" id="global-search" placeholder="Buscar… (personas, lugares, palabras)" autocomplete="off" data-index-url="{{ '/assets/data/search-index.json' | relative_url }}">
