@@ -214,6 +214,161 @@
 "url": "/personas/las-casas/diego-marquez/"
 },
 {
+"id": "person:pero-hernandez-coronel",
+"canonical_name": "Pero Hernández Coronel",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/pero-hernandez-coronel/"
+},
+{
+"id": "person:alonso-sanchez-de-carabajal",
+"canonical_name": "Alonso Sánchez de Carabajal",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/alonso-sanchez-de-carabajal/"
+},
+{
+"id": "person:juan-de-luxan",
+"canonical_name": "Juan de Luxán",
+"aliases": [
+"Juan de Luján"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/juan-de-luxan/"
+},
+{
+"id": "person:diego-colon-indio-guanahani",
+"canonical_name": "Diego Colón (indígena de Guanahaní)",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/diego-colon-indio-guanahani/"
+},
+{
+"id": "person:guatiguana",
+"canonical_name": "Guatiguaná",
+"aliases": [
+"Guatigana"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/guatiguana/"
+},
+{
+"id": "person:guarionex",
+"canonical_name": "Guarionex",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/guarionex/"
+},
+{
+"id": "person:vehechio",
+"canonical_name": "Vehechio",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/vehechio/"
+},
+{
+"id": "person:higuanama",
+"canonical_name": "Higuanamá",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/higuanama/"
+},
+{
+"id": "person:rey-enrique-vii-inglaterra",
+"canonical_name": "Enrique VII de Inglaterra",
+"aliases": [
+"rey Enrico",
+"rey de Inglaterra"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/rey-enrique-vii-inglaterra/"
+},
+{
+"id": "person:carlos-viii-francia",
+"canonical_name": "Carlos VIII de Francia",
+"aliases": [
+"Charles",
+"Cárlos, el Cabezudo",
+"rey de Francia"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/carlos-viii-francia/"
+},
+{
+"id": "person:diego-colon-hijo",
+"canonical_name": "Diego Colón (hijo del Almirante)",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/diego-colon-hijo/"
+},
+{
+"id": "person:hernando-colon",
+"canonical_name": "Hernando Colón (hijo del Almirante)",
+"aliases": [
+"D. Hernando Colon",
+"D. Hernando"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/hernando-colon/"
+},
+{
+"id": "person:juan-de-fonseca",
+"canonical_name": "Juan de Fonseca",
+"aliases": [
+"D. Juan de Fonseca",
+"Arcediano de Sevilla"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/juan-de-fonseca/"
+},
+{
+"id": "person:rey-manicao",
+"canonical_name": "Manicao",
+"aliases": [
+"el rey Manicao"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/rey-manicao/"
+},
+{
+"id": "person:manicaotex",
+"canonical_name": "Manicaotex",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/manicaotex/"
+},
+{
+"id": "person:gonzalo-fernandez-de-oviedo",
+"canonical_name": "Gonzalo Fernández de Oviedo",
+"aliases": [
+"Gonzalo Hernandez de Oviedo",
+"Oviedo"
+],
+"tipo": "persona",
+"url": "/personas/las-casas/gonzalo-fernandez-de-oviedo/"
+},
+{
+"id": "person:miguel-diaz",
+"canonical_name": "Miguel Díaz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/miguel-diaz/"
+},
+{
+"id": "person:francisco-de-garay",
+"canonical_name": "Francisco de Garay",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/francisco-de-garay/"
+},
+{
+"id": "person:peralonso-nino",
+"canonical_name": "Peralonso Niño",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/las-casas/peralonso-nino/"
+},
+{
 "id": "place:la-espanola",
 "canonical_name": "La Española",
 "aliases": [],
@@ -384,5 +539,167 @@
 "aliases": [],
 "tipo": "lugar",
 "url": "/lugares/las-casas/maguana/"
+},
+{
+"id": "place:jardin-de-la-reina",
+"canonical_name": "Jardín de la Reina",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/jardin-de-la-reina/"
+},
+{
+"id": "place:cabo-de-cruz",
+"canonical_name": "Cabo de Cruz",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/cabo-de-cruz/"
+},
+{
+"id": "place:isla-evangelista",
+"canonical_name": "isla del Evangelista",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/isla-evangelista/"
+},
+{
+"id": "place:cabo-tiburon",
+"canonical_name": "Cabo de Sant Miguel",
+"aliases": [
+"cabo del Tiburon",
+"cabo del Tiburón"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/cabo-tiburon/"
+},
+{
+"id": "place:isla-beata",
+"canonical_name": "isla Beata",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/isla-beata/"
+},
+{
+"id": "place:la-saona",
+"canonical_name": "la Saona",
+"aliases": [
+"Adamaney"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/la-saona/"
+},
+{
+"id": "place:isla-mona",
+"canonical_name": "isla de la Mona",
+"aliases": [
+"la Mona"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/isla-mona/"
+},
+{
+"id": "place:cabo-del-engano",
+"canonical_name": "cabo del Engaño",
+"aliases": [
+"cabo de Sant Rafael"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/cabo-del-engano/"
+},
+{
+"id": "place:rio-yaqui",
+"canonical_name": "río Yaquí",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/rio-yaqui/"
+},
+{
+"id": "place:la-magdalena-fortaleza",
+"canonical_name": "fortaleza de la Magdalena",
+"aliases": [
+"la Magdalena"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/la-magdalena-fortaleza/"
+},
+{
+"id": "place:inglaterra",
+"canonical_name": "Inglaterra",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/inglaterra/"
+},
+{
+"id": "place:francia",
+"canonical_name": "Francia",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/francia/"
+},
+{
+"id": "place:sevilla",
+"canonical_name": "Sevilla",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/sevilla/"
+},
+{
+"id": "place:valladolid",
+"canonical_name": "Valladolid",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/valladolid/"
+},
+{
+"id": "place:cadiz",
+"canonical_name": "Cádiz",
+"aliases": [
+"Cáliz"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/cadiz/"
+},
+{
+"id": "place:segovia",
+"canonical_name": "Segovia",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/segovia/"
+},
+{
+"id": "place:la-concepcion-fortaleza",
+"canonical_name": "fortaleza/villa de la Concepción",
+"aliases": [
+"la Concepcion"
+],
+"tipo": "lugar",
+"url": "/lugares/las-casas/la-concepcion-fortaleza/"
+},
+{
+"id": "place:bonao",
+"canonical_name": "Bonao",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/bonao/"
+},
+{
+"id": "place:rio-hayna",
+"canonical_name": "río Hayna",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/rio-hayna/"
+},
+{
+"id": "place:puerto-de-plata",
+"canonical_name": "Puerto de Plata",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/puerto-de-plata/"
+},
+{
+"id": "place:burgos",
+"canonical_name": "Burgos",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/las-casas/burgos/"
 }
 ]

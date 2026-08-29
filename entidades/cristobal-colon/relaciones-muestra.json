@@ -1,5 +1,5 @@
 {
-  "nota": "Relaciones extraídas a mano, entrada por entrada. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Proemio del Almirante + las primeras 20 entradas por día (3 de agosto al 18 de septiembre de 1492, de un total de 191). Los capítulos citan el índice del JSON embebido del MVP: cap-0 = Proemio, cap-1..cap-20 = las 20 primeras entradas por día en orden.",
+  "nota": "Relaciones extraídas a mano, entrada por entrada. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Proemio + días 1-40 de 191 (~21%). Los capítulos citan el orden de encabezados del texto-limpio: cap-0 = Proemio, cap-1..cap-40 = las primeras 40 entradas por día en orden (3 de agosto al 8 de octubre de 1492).",
   "entidades_nuevas": [
     {"id": "person:cristobal-colon", "canonical_name": "Cristóbal Colón (el Almirante)", "role": "almirante, autor y sujeto del diario", "status": "candidata", "capitulo": 0},
     {"id": "place:granada", "canonical_name": "Granada", "status": "candidata", "capitulo": 0},
@@ -16,11 +16,16 @@
     {"id": "place:hierro", "canonical_name": "Isla del Hierro", "status": "candidata", "capitulo": 7},
     {"id": "person:ines-peraza", "canonical_name": "Doña Inés Peraza", "role": "señora de La Gomera", "status": "candidata", "capitulo": 7},
     {"id": "place:madera", "canonical_name": "Isla de Madera", "status": "candidata", "capitulo": 7},
-    {"id": "place:azores", "canonical_name": "Islas de los Azores", "status": "candidata", "capitulo": 7}
+    {"id": "place:azores", "canonical_name": "Islas de los Azores", "status": "candidata", "capitulo": 7},
+    {"id": "place:cabo-verde", "canonical_name": "Islas de Cabo Verde", "status": "candidata", "capitulo": 31},
+    {"id": "place:cipango", "canonical_name": "Cipango", "status": "candidata", "capitulo": 38},
+    {"id": "place:sevilla", "canonical_name": "Sevilla", "status": "candidata", "capitulo": 40}
   ],
   "eventos": [
     {"id": "event:primer-viaje-colon-1492", "name": "Primer viaje de descubrimiento de Cristóbal Colón", "date_text": "3 de agosto de 1492 (partida de Palos)", "place_id": "place:saltes", "status": "candidata", "notas": "evento general que enmarca todo el diario; se referencia en varias entradas iniciales"},
-    {"id": "event:averia-timon-pinta", "name": "Avería y sospecha de sabotaje del timón de la carabela Pinta", "date_text": "6-9 de agosto de 1492", "place_id": "place:gran-canaria", "status": "candidata", "notas": "el timón se desencaja poco después de zarpar; Colón sospecha que Gómez Rascón y Cristóbal Quintero (dueños de la nave) lo hicieron a propósito por no querer viajar; se repara en Gran Canaria y la flota vuelve a reunirse en La Gomera"}
+    {"id": "event:averia-timon-pinta", "name": "Avería y sospecha de sabotaje del timón de la carabela Pinta", "date_text": "6-9 de agosto de 1492", "place_id": "place:gran-canaria", "status": "candidata", "notas": "el timón se desencaja poco después de zarpar; Colón sospecha que Gómez Rascón y Cristóbal Quintero (dueños de la nave) lo hicieron a propósito por no querer viajar; se repara en Gran Canaria y la flota vuelve a reunirse en La Gomera"},
+    {"id": "event:falso-avistamiento-tierra-25-sept", "name": "Falso avistamiento de tierra reportado por Martín Alonso Pinzón", "date_text": "25 de septiembre de 1492", "date_normalized": "1492-09-25", "status": "candidata", "notas": "Martín Alonso cree ver tierra y lo celebra con su tripulación; el Almirante se pone de rodillas a dar gracias; hacia la tarde del día siguiente se descubre que era un espejismo (\"cielo\", no tierra). Ocurre en alta mar, sin place_id asociado."},
+    {"id": "event:cambio-rumbo-oessudoeste", "name": "Cambio de rumbo al Oes-sudoeste por paso de aves migratorias", "date_text": "7 de octubre de 1492", "date_normalized": "1492-10-07", "status": "candidata", "notas": "el Almirante abandona el rumbo Oeste y ordena virar al Oes-sudoeste al ver grandes bandadas de aves volando en esa dirección, razonando que indicaban tierra cercana; decisivo para llegar a tierra pocos días después. Ocurre en alta mar, sin place_id asociado."}
   ],
   "relaciones": [
     {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:granada", "notas": "punto de partida antes de ir a Palos, según el propio proemio", "source": "source:cristobal-colon:cap-0", "status": "candidata"},
@@ -35,6 +40,9 @@
     {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:gran-canaria", "source": "source:cristobal-colon:cap-6", "status": "candidata"},
     {"from": "event:averia-timon-pinta", "relation": "ocurrió_en", "to": "place:gran-canaria", "notas": "ahí se reparó definitivamente el timón de la Pinta", "source": "source:cristobal-colon:cap-7", "status": "candidata"},
     {"from": "person:cristobal-colon", "relation": "viajó_a", "to": "place:gomera", "source": "source:cristobal-colon:cap-7", "status": "candidata"},
-    {"from": "person:ines-peraza", "relation": "estuvo_presente_en", "to": "event:primer-viaje-colon-1492", "notas": "no viaja, pero es la fuente del testimonio (recogido por el Almirante en La Gomera) de vecinos que decían ver tierra al oeste de Canarias todos los años", "source": "source:cristobal-colon:cap-7", "status": "candidata"}
+    {"from": "person:ines-peraza", "relation": "estuvo_presente_en", "to": "event:primer-viaje-colon-1492", "notas": "no viaja, pero es la fuente del testimonio (recogido por el Almirante en La Gomera) de vecinos que decían ver tierra al oeste de Canarias todos los años", "source": "source:cristobal-colon:cap-7", "status": "candidata"},
+    {"from": "person:martin-alonso-pinzon", "relation": "estuvo_presente_en", "to": "event:falso-avistamiento-tierra-25-sept", "notas": "es quien reporta ver tierra desde la Pinta y lo celebra con su gente", "source": "source:cristobal-colon:cap-27", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:falso-avistamiento-tierra-25-sept", "notas": "se echa de rodillas a dar gracias al oír a Martín Alonso; ordena cambiar el rumbo al Sudoeste hacia donde se creía ver tierra", "source": "source:cristobal-colon:cap-27", "status": "candidata"},
+    {"from": "person:cristobal-colon", "relation": "estuvo_presente_en", "to": "event:cambio-rumbo-oessudoeste", "notas": "ordena abandonar el rumbo Oeste y virar al Oes-sudoeste por el paso de aves", "source": "source:cristobal-colon:cap-39", "status": "candidata"}
   ]
 }

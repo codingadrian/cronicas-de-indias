@@ -1,24 +1,376 @@
 [
-  {"id": "place:la-espanola", "canonical_name": "La Española", "aliases": [], "modern_equivalent": "isla de Santo Domingo (Haití/República Dominicana)", "mention_count_aprox": null, "status": "revisada"},
-  {"id": "place:santo-domingo-ciudad", "canonical_name": "Santo Domingo (ciudad)", "aliases": ["Sancto Domingo"], "modern_equivalent": "Santo Domingo, República Dominicana", "mention_count_aprox": 85, "status": "revisada"},
-  {"id": "place:cabo-verde", "canonical_name": "Cabo Verde", "aliases": [], "modern_equivalent": "islas de Cabo Verde", "mention_count_aprox": 17, "status": "revisada"},
-  {"id": "place:vega-real", "canonical_name": "Vega Real", "aliases": [], "modern_equivalent": "Vega Real, República Dominicana", "mention_count_aprox": 12, "status": "revisada"},
-  {"id": "place:medina-del-campo", "canonical_name": "Medina del Campo", "aliases": [], "modern_equivalent": "Medina del Campo, España", "mention_count_aprox": 11, "status": "revisada"},
-  {"id": "place:cuba", "canonical_name": "Cuba", "aliases": [], "modern_equivalent": "Cuba", "mention_count_aprox": null, "status": "revisada"},
-  {"id": "place:jamaica", "canonical_name": "Jamaica", "aliases": [], "modern_equivalent": "Jamaica", "mention_count_aprox": null, "status": "revisada"},
-  {"id": "place:san-agustin", "canonical_name": "San Agustín", "aliases": ["Sant Agustin"], "modern_equivalent": "por confirmar", "mention_count_aprox": 9, "status": "candidata"},
-  {"id": "place:santo-tomas-fuerte", "canonical_name": "Fuerte de Santo Tomás", "aliases": ["Sancto Tomás"], "modern_equivalent": "cerca de Jánico, República Dominicana (región de Cibao, sobre el río Xanique)", "mention_count_aprox": 9, "status": "candidata"},
-  {"id": "place:la-isabela", "canonical_name": "La Isabela", "aliases": ["Isabela"], "modern_equivalent": "La Isabela, República Dominicana", "mention_count_aprox": 114, "status": "revisada"},
-  {"id": "place:castilla", "canonical_name": "Castilla", "aliases": [], "modern_equivalent": "España (reino de Castilla)", "mention_count_aprox": 272, "status": "revisada"},
-  {"id": "place:indias", "canonical_name": "las Indias", "aliases": [], "modern_equivalent": "término genérico de la época para América", "mention_count_aprox": 154, "status": "revisada"},
-  {"id": "place:paraiso-terrenal", "canonical_name": "el Paraíso Terrenal (concepto geográfico de Colón)", "aliases": ["Paraíso"], "modern_equivalent": "región del delta del Orinoco, según la especulación de Colón", "mention_count_aprox": 103, "status": "candidata", "notas": "es un concepto/hipótesis geográfica de Colón, no un lugar confirmado; tratar con cuidado en el esquema (¿Place o Event/idea?)"},
-  {"id": "place:barcelona", "canonical_name": "Barcelona", "aliases": [], "modern_equivalent": "Barcelona, España", "status": "candidata"},
-  {"id": "place:portugal", "canonical_name": "Portugal", "aliases": [], "modern_equivalent": "Portugal", "status": "candidata"},
-  {"id": "place:dominica", "canonical_name": "la Dominica", "aliases": ["Dominica"], "modern_equivalent": "Dominica", "status": "candidata", "notas": "primera tierra avistada en el segundo viaje (3 de noviembre de 1493), nombrada por haberse descubierto en domingo"},
-  {"id": "place:guadalupe", "canonical_name": "Guadalupe", "aliases": [], "modern_equivalent": "Guadalupe (Antillas Menores)", "status": "candidata"},
-  {"id": "place:san-juan-boriquen", "canonical_name": "San Juan Bautista (Boriquén)", "aliases": ["Sant Juan Baptista", "Boriquen", "Sant Juan"], "modern_equivalent": "Puerto Rico", "status": "candidata"},
-  {"id": "place:la-navidad", "canonical_name": "La Navidad (fuerte y puerto)", "aliases": ["Navidad"], "modern_equivalent": "cerca de Cap-Haïtien, Haití", "status": "candidata", "notas": "sitio del primer fuerte español en las Indias (primer viaje); hallado quemado al regreso del Almirante en el segundo viaje, con los 39 cristianos que allí había dejado muertos"},
-  {"id": "place:cibao", "canonical_name": "Cibao", "aliases": [], "modern_equivalent": "región de Cibao, República Dominicana", "status": "candidata", "notas": "región montañosa con las minas de oro que Colón creía que era Cipango; nombre del taíno 'ciba' (piedra)"},
-  {"id": "place:simancas", "canonical_name": "Simancas", "aliases": [], "modern_equivalent": "Simancas, España", "status": "candidata", "notas": "sitio del acuerdo de límites de 1494 entre Castilla y Portugal, precursor del Tratado de Tordesillas"},
-  {"id": "place:maguana", "canonical_name": "Maguana", "aliases": [], "modern_equivalent": "región central de La Española (actual San Juan de la Maguana, República Dominicana)", "status": "candidata", "notas": "territorio del cacique Caonabo"}
+  {
+    "id": "place:la-espanola",
+    "canonical_name": "La Española",
+    "aliases": [],
+    "modern_equivalent": "isla de Santo Domingo (Haití/República Dominicana)",
+    "mention_count_aprox": null,
+    "status": "revisada"
+  },
+  {
+    "id": "place:santo-domingo-ciudad",
+    "canonical_name": "Santo Domingo (ciudad)",
+    "aliases": [
+      "Sancto Domingo"
+    ],
+    "modern_equivalent": "Santo Domingo, República Dominicana",
+    "mention_count_aprox": 85,
+    "status": "revisada"
+  },
+  {
+    "id": "place:cabo-verde",
+    "canonical_name": "Cabo Verde",
+    "aliases": [],
+    "modern_equivalent": "islas de Cabo Verde",
+    "mention_count_aprox": 17,
+    "status": "revisada"
+  },
+  {
+    "id": "place:vega-real",
+    "canonical_name": "Vega Real",
+    "aliases": [],
+    "modern_equivalent": "Vega Real, República Dominicana",
+    "mention_count_aprox": 12,
+    "status": "revisada"
+  },
+  {
+    "id": "place:medina-del-campo",
+    "canonical_name": "Medina del Campo",
+    "aliases": [],
+    "modern_equivalent": "Medina del Campo, España",
+    "mention_count_aprox": 11,
+    "status": "revisada"
+  },
+  {
+    "id": "place:cuba",
+    "canonical_name": "Cuba",
+    "aliases": [],
+    "modern_equivalent": "Cuba",
+    "mention_count_aprox": null,
+    "status": "revisada"
+  },
+  {
+    "id": "place:jamaica",
+    "canonical_name": "Jamaica",
+    "aliases": [],
+    "modern_equivalent": "Jamaica",
+    "mention_count_aprox": null,
+    "status": "revisada"
+  },
+  {
+    "id": "place:san-agustin",
+    "canonical_name": "San Agustín",
+    "aliases": [
+      "Sant Agustin"
+    ],
+    "modern_equivalent": "por confirmar",
+    "mention_count_aprox": 9,
+    "status": "candidata"
+  },
+  {
+    "id": "place:santo-tomas-fuerte",
+    "canonical_name": "Fuerte de Santo Tomás",
+    "aliases": [
+      "Sancto Tomás"
+    ],
+    "modern_equivalent": "cerca de Jánico, República Dominicana (región de Cibao, sobre el río Xanique)",
+    "mention_count_aprox": 9,
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-isabela",
+    "canonical_name": "La Isabela",
+    "aliases": [
+      "Isabela"
+    ],
+    "modern_equivalent": "La Isabela, República Dominicana",
+    "mention_count_aprox": 114,
+    "status": "revisada"
+  },
+  {
+    "id": "place:castilla",
+    "canonical_name": "Castilla",
+    "aliases": [],
+    "modern_equivalent": "España (reino de Castilla)",
+    "mention_count_aprox": 272,
+    "status": "revisada"
+  },
+  {
+    "id": "place:indias",
+    "canonical_name": "las Indias",
+    "aliases": [],
+    "modern_equivalent": "término genérico de la época para América",
+    "mention_count_aprox": 154,
+    "status": "revisada"
+  },
+  {
+    "id": "place:paraiso-terrenal",
+    "canonical_name": "el Paraíso Terrenal (concepto geográfico de Colón)",
+    "aliases": [
+      "Paraíso"
+    ],
+    "modern_equivalent": "región del delta del Orinoco, según la especulación de Colón",
+    "mention_count_aprox": 103,
+    "status": "candidata",
+    "notas": "es un concepto/hipótesis geográfica de Colón, no un lugar confirmado; tratar con cuidado en el esquema (¿Place o Event/idea?)"
+  },
+  {
+    "id": "place:barcelona",
+    "canonical_name": "Barcelona",
+    "aliases": [],
+    "modern_equivalent": "Barcelona, España",
+    "status": "candidata"
+  },
+  {
+    "id": "place:portugal",
+    "canonical_name": "Portugal",
+    "aliases": [],
+    "modern_equivalent": "Portugal",
+    "status": "candidata"
+  },
+  {
+    "id": "place:dominica",
+    "canonical_name": "la Dominica",
+    "aliases": [
+      "Dominica"
+    ],
+    "modern_equivalent": "Dominica",
+    "status": "candidata",
+    "notas": "primera tierra avistada en el segundo viaje (3 de noviembre de 1493), nombrada por haberse descubierto en domingo"
+  },
+  {
+    "id": "place:guadalupe",
+    "canonical_name": "Guadalupe",
+    "aliases": [],
+    "modern_equivalent": "Guadalupe (Antillas Menores)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:san-juan-boriquen",
+    "canonical_name": "San Juan Bautista (Boriquén)",
+    "aliases": [
+      "Sant Juan Baptista",
+      "Boriquen",
+      "Sant Juan"
+    ],
+    "modern_equivalent": "Puerto Rico",
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-navidad",
+    "canonical_name": "La Navidad (fuerte y puerto)",
+    "aliases": [
+      "Navidad"
+    ],
+    "modern_equivalent": "cerca de Cap-Haïtien, Haití",
+    "status": "candidata",
+    "notas": "sitio del primer fuerte español en las Indias (primer viaje); hallado quemado al regreso del Almirante en el segundo viaje, con los 39 cristianos que allí había dejado muertos"
+  },
+  {
+    "id": "place:cibao",
+    "canonical_name": "Cibao",
+    "aliases": [],
+    "modern_equivalent": "región de Cibao, República Dominicana",
+    "status": "candidata",
+    "notas": "región montañosa con las minas de oro que Colón creía que era Cipango; nombre del taíno 'ciba' (piedra)"
+  },
+  {
+    "id": "place:simancas",
+    "canonical_name": "Simancas",
+    "aliases": [],
+    "modern_equivalent": "Simancas, España",
+    "status": "candidata",
+    "notas": "sitio del acuerdo de límites de 1494 entre Castilla y Portugal, precursor del Tratado de Tordesillas"
+  },
+  {
+    "id": "place:maguana",
+    "canonical_name": "Maguana",
+    "aliases": [],
+    "modern_equivalent": "región central de La Española (actual San Juan de la Maguana, República Dominicana)",
+    "status": "candidata",
+    "notas": "territorio del cacique Caonabo"
+  },
+  {
+    "id": "place:jardin-de-la-reina",
+    "canonical_name": "Jardín de la Reina",
+    "aliases": [],
+    "modern_equivalent": "archipiélago Jardines de la Reina, sur de Cuba",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:cabo-de-cruz",
+    "canonical_name": "Cabo de Cruz",
+    "aliases": [],
+    "modern_equivalent": "Cabo Cruz, Granma, Cuba",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-evangelista",
+    "canonical_name": "isla del Evangelista",
+    "aliases": [],
+    "modern_equivalent": "Isla de la Juventud (antes Isla de Pinos), Cuba",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:cabo-tiburon",
+    "canonical_name": "Cabo de Sant Miguel",
+    "aliases": [
+      "cabo del Tiburon",
+      "cabo del Tiburón"
+    ],
+    "modern_equivalent": "Cabo Tiburón, Haití",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-beata",
+    "canonical_name": "isla Beata",
+    "aliases": [],
+    "modern_equivalent": "Isla Beata, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-saona",
+    "canonical_name": "la Saona",
+    "aliases": [
+      "Adamaney"
+    ],
+    "modern_equivalent": "Isla Saona, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-mona",
+    "canonical_name": "isla de la Mona",
+    "aliases": [
+      "la Mona"
+    ],
+    "modern_equivalent": "Isla de Mona, Puerto Rico",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:cabo-del-engano",
+    "canonical_name": "cabo del Engaño",
+    "aliases": [
+      "cabo de Sant Rafael"
+    ],
+    "modern_equivalent": "Cabo Engaño, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-yaqui",
+    "canonical_name": "río Yaquí",
+    "aliases": [],
+    "modern_equivalent": "río Yaque del Norte, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-magdalena-fortaleza",
+    "canonical_name": "fortaleza de la Magdalena",
+    "aliases": [
+      "la Magdalena"
+    ],
+    "modern_equivalent": "cerca de Santiago de los Caballeros, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:inglaterra",
+    "canonical_name": "Inglaterra",
+    "aliases": [],
+    "modern_equivalent": "Inglaterra",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:francia",
+    "canonical_name": "Francia",
+    "aliases": [],
+    "modern_equivalent": "Francia",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:sevilla",
+    "canonical_name": "Sevilla",
+    "aliases": [],
+    "modern_equivalent": "Sevilla, España",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:valladolid",
+    "canonical_name": "Valladolid",
+    "aliases": [],
+    "modern_equivalent": "Valladolid, España",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:cadiz",
+    "canonical_name": "Cádiz",
+    "aliases": [
+      "Cáliz"
+    ],
+    "modern_equivalent": "Cádiz, España",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:segovia",
+    "canonical_name": "Segovia",
+    "aliases": [],
+    "modern_equivalent": "Segovia, España",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-concepcion-fortaleza",
+    "canonical_name": "fortaleza/villa de la Concepción",
+    "aliases": [
+      "la Concepcion"
+    ],
+    "modern_equivalent": "La Vega, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:bonao",
+    "canonical_name": "Bonao",
+    "aliases": [],
+    "modern_equivalent": "Bonao, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-hayna",
+    "canonical_name": "río Hayna",
+    "aliases": [],
+    "modern_equivalent": "río Haina, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:puerto-de-plata",
+    "canonical_name": "Puerto de Plata",
+    "aliases": [],
+    "modern_equivalent": "Puerto Plata, República Dominicana",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:burgos",
+    "canonical_name": "Burgos",
+    "aliases": [],
+    "modern_equivalent": "Burgos, España",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  }
 ]

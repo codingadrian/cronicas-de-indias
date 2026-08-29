@@ -80,6 +80,147 @@
 "url": "/personas/colon-cartas/pedro-margarite/"
 },
 {
+"id": "person:francisco-roldan",
+"canonical_name": "Francisco Roldán",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/francisco-roldan/"
+},
+{
+"id": "person:francisco-de-bobadilla",
+"canonical_name": "Francisco de Bobadilla",
+"aliases": [
+"el comendador Bobadilla",
+"el Comendador"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/francisco-de-bobadilla/"
+},
+{
+"id": "person:bartolome-colon",
+"canonical_name": "Bartolomé Colón",
+"aliases": [
+"D. Bartolomé",
+"el Adelantado"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/bartolome-colon/"
+},
+{
+"id": "person:diego-colon-hijo",
+"canonical_name": "Diego Colón (hijo)",
+"aliases": [
+"D. Diego"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/diego-colon-hijo/"
+},
+{
+"id": "person:fernando-colon",
+"canonical_name": "Fernando Colón",
+"aliases": [
+"D. Fernando"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/fernando-colon/"
+},
+{
+"id": "person:diego-colon-hermano",
+"canonical_name": "Diego Colón (hermano)",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/diego-colon-hermano/"
+},
+{
+"id": "person:juan-aguado",
+"canonical_name": "Juan Aguado",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/juan-aguado/"
+},
+{
+"id": "person:alfonso-sanchez-de-carvajal",
+"canonical_name": "Alfonso Sánchez de Carvajal",
+"aliases": [
+"Alonso Sánchez de Carvajal",
+"Alonso Sánchez de Carabajal"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/alfonso-sanchez-de-carvajal/"
+},
+{
+"id": "person:pedro-fernandez-coronel",
+"canonical_name": "Pedro Fernández Coronel",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/pedro-fernandez-coronel/"
+},
+{
+"id": "person:pedro-de-arana",
+"canonical_name": "Pedro de Arana",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/pedro-de-arana/"
+},
+{
+"id": "person:juan-antonio-colombo",
+"canonical_name": "Juan Antonio Colombo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/juan-antonio-colombo/"
+},
+{
+"id": "person:adrian-de-moxica",
+"canonical_name": "Adrián de Moxica",
+"aliases": [
+"Adrián"
+],
+"tipo": "persona",
+"url": "/personas/colon-cartas/adrian-de-moxica/"
+},
+{
+"id": "person:nicolas-de-ovando",
+"canonical_name": "Nicolás de Ovando",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/nicolas-de-ovando/"
+},
+{
+"id": "person:diego-mendez",
+"canonical_name": "Diego Méndez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/diego-mendez/"
+},
+{
+"id": "person:juan-de-porras",
+"canonical_name": "Juan de Porras",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/juan-de-porras/"
+},
+{
+"id": "person:fray-juan-perez-de-marchena",
+"canonical_name": "Fray Juan Pérez de Marchena",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/fray-juan-perez-de-marchena/"
+},
+{
+"id": "person:fray-diego-de-deza",
+"canonical_name": "Fray Diego de Deza",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/fray-diego-de-deza/"
+},
+{
+"id": "person:obispo-de-badajoz",
+"canonical_name": "Obispo de Badajoz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/colon-cartas/obispo-de-badajoz/"
+},
+{
 "id": "place:la-espanola",
 "canonical_name": "La Española",
 "aliases": [
@@ -166,5 +307,71 @@
 "aliases": [],
 "tipo": "lugar",
 "url": "/lugares/colon-cartas/jardin-de-la-reina/"
+},
+{
+"id": "place:santo-domingo",
+"canonical_name": "Santo Domingo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/santo-domingo/"
+},
+{
+"id": "place:bonao",
+"canonical_name": "El Bonao",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/bonao/"
+},
+{
+"id": "place:isla-de-la-trinidad",
+"canonical_name": "Isla de la Trinidad",
+"aliases": [
+"la Trinidad"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/isla-de-la-trinidad/"
+},
+{
+"id": "place:tierra-de-gracia",
+"canonical_name": "Tierra de Gracia",
+"aliases": [
+"Paria"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/tierra-de-gracia/"
+},
+{
+"id": "place:golfo-de-paria",
+"canonical_name": "Golfo de Paria",
+"aliases": [
+"Golfo de las Perlas"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/golfo-de-paria/"
+},
+{
+"id": "place:genova",
+"canonical_name": "Génova",
+"aliases": [
+"Génova"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/genova/"
+},
+{
+"id": "place:islas-canarias",
+"canonical_name": "Islas Canarias",
+"aliases": [
+"Canaria"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/islas-canarias/"
+},
+{
+"id": "place:valladolid",
+"canonical_name": "Valladolid",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/valladolid/"
 }
 ]

@@ -1,43 +1,608 @@
 [
-  {"id": "person:hernan-cortes", "canonical_name": "Hernán Cortés", "aliases": ["Cortés", "Hernando Cortés"], "role": "capitán de la expedición", "mention_count_aprox": 849, "status": "revisada"},
-  {"id": "person:moctezuma-ii", "canonical_name": "Moctezuma", "aliases": ["Montezuma"], "role": "tlatoani de Tenochtitlan", "mention_count_aprox": 477, "status": "revisada"},
-  {"id": "person:diego-velazquez-de-cuellar", "canonical_name": "Diego Velázquez", "aliases": ["Diego Velazquez"], "role": "gobernador de Cuba", "mention_count_aprox": 127, "status": "revisada"},
-  {"id": "person:pedro-de-alvarado", "canonical_name": "Pedro de Alvarado", "aliases": ["Pedro de Albarado", "Albarado"], "role": "capitán", "mention_count_aprox": 134, "status": "revisada"},
-  {"id": "person:juan-de-escalante", "canonical_name": "Juan de Escalante", "aliases": ["Juan de Escalante"], "role": "capitán", "mention_count_aprox": 28, "status": "revisada"},
-  {"id": "person:diego-de-ordas", "canonical_name": "Diego de Ordás", "aliases": ["Diego de Ordás"], "role": "capitán", "mention_count_aprox": 24, "status": "revisada"},
-  {"id": "person:juan-de-grijalva", "canonical_name": "Juan de Grijalva", "aliases": ["Juan de Grijalva"], "role": "capitán de expedición anterior a la de Cortés", "mention_count_aprox": 22, "status": "revisada"},
-  {"id": "person:juan-velazquez-de-leon", "canonical_name": "Juan Velázquez de León", "aliases": ["Juan Velazquez de Leon"], "role": "capitán", "mention_count_aprox": 18, "status": "revisada"},
-  {"id": "person:gonzalo-de-sandoval", "canonical_name": "Gonzalo de Sandoval", "aliases": ["Gonzalo de Sandoval"], "role": "capitán", "mention_count_aprox": 18, "status": "revisada"},
-  {"id": "person:alonso-de-avila", "canonical_name": "Alonso de Ávila", "aliases": ["Alonso de Ávila"], "role": "capitán", "mention_count_aprox": 16, "status": "revisada"},
-  {"id": "person:cristobal-de-olid", "canonical_name": "Cristóbal de Olid", "aliases": ["Cristóbal de Olí"], "role": "capitán", "mention_count_aprox": 14, "status": "revisada"},
-  {"id": "person:francisco-hernandez-de-cordoba", "canonical_name": "Francisco Hernández de Córdoba", "aliases": ["Francisco Hernandez de Córdoba"], "role": "capitán de expedición anterior (Yucatán, 1517)", "mention_count_aprox": 12, "status": "revisada"},
-  {"id": "person:francisco-de-montejo", "canonical_name": "Francisco de Montejo", "aliases": ["Francisco de Montejo"], "role": "capitán", "mention_count_aprox": 12, "status": "revisada"},
-  {"id": "person:alonso-hernandez-puertocarrero", "canonical_name": "Alonso Hernández Puertocarrero", "aliases": ["Alonso Hernandez Puertocarrero"], "role": "capitán", "mention_count_aprox": 11, "status": "revisada"},
-  {"id": "person:jeronimo-de-aguilar", "canonical_name": "Jerónimo de Aguilar", "aliases": ["Jerónimo de Aguilar", "Aguilar"], "role": "intérprete (náufrago español rescatado)", "mention_count_aprox": 81, "status": "revisada", "notas": "el alias 'Aguilar' (70 menciones sueltas) puede confundirse con otros Aguilar; revisar caso por caso"},
-  {"id": "person:francisco-de-lugo", "canonical_name": "Francisco de Lugo", "aliases": ["Francisco de Lugo"], "role": "capitán", "mention_count_aprox": 11, "status": "revisada"},
-  {"id": "person:bartolome-de-olmedo", "canonical_name": "Bartolomé de Olmedo", "aliases": ["Bartolomé de Olmedo"], "role": "fraile mercedario de la expedición", "mention_count_aprox": 10, "status": "revisada"},
-  {"id": "person:pedro-de-ircio", "canonical_name": "Pedro de Ircio", "aliases": ["Pedro de Ircio"], "role": "capitán", "mention_count_aprox": 9, "status": "revisada"},
-  {"id": "person:alonso-de-grado", "canonical_name": "Alonso de Grado", "aliases": ["Alonso de Grado"], "role": "capitán", "mention_count_aprox": 9, "status": "revisada"},
-  {"id": "person:anton-de-alaminos", "canonical_name": "Antón de Alaminos", "aliases": ["Anton de Alaminos"], "role": "piloto/navegante", "mention_count_aprox": 8, "status": "revisada"},
-  {"id": "person:marina-malinche", "canonical_name": "Marina (La Malinche)", "aliases": ["Marina", "doña Marina"], "role": "intérprete", "mention_count_aprox": 70, "status": "revisada"},
-  {"id": "person:xicotencatl", "canonical_name": "Xicoténcatl", "aliases": ["Xicotenga"], "role": "señor/capitán de Tlaxcala", "mention_count_aprox": 67, "status": "revisada"},
-  {"id": "person:obispo-de-burgos", "canonical_name": "Obispo de Búrgos (Juan Rodríguez de Fonseca)", "aliases": ["Obispo de Búrgos"], "role": "presidente del Consejo de Indias", "mention_count_aprox": 9, "status": "candidata", "notas": "referido solo por el título en el texto; confirmar identificación"},
-  {"id": "person:bernal-diaz-del-castillo", "canonical_name": "Bernal Díaz del Castillo", "aliases": ["Bernal Diaz"], "role": "autor y narrador, soldado de la expedición", "mention_count_aprox": null, "status": "revisada", "notas": "el propio cronista; no aparece en el conteo de frecuencia porque se narra en primera persona"},
-  {"id": "person:melchorejo", "canonical_name": "Melchorejo", "aliases": ["Melchor", "Melchorillo"], "role": "indígena maya capturado en Punta de Cotoche (1517) y bautizado; sirvió de intérprete a los españoles antes de Jerónimo de Aguilar y Marina", "mention_count_aprox": null, "status": "candidata"},
-  {"id": "person:julianillo", "canonical_name": "Julianillo", "aliases": ["Julián", "Julianico"], "role": "indígena maya capturado en Punta de Cotoche (1517) y bautizado; sirvió de intérprete a los españoles junto con Melchorejo", "mention_count_aprox": null, "status": "candidata"},
-  {"id": "person:alonso-bote", "canonical_name": "Alonso Bote", "aliases": [], "role": "soldado, capturado vivo por los indios en la batalla de Potonchán (1517)", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "person:berrio", "canonical_name": "Berrio", "aliases": [], "role": "soldado, desaparecido/muerto en la escaramuza de la Florida (1517), único que había salido ileso de Potonchán", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "person:pedro-de-avila", "canonical_name": "Pedro de Ávila", "aliases": [], "role": "vecino de la Habana, llevó a Bernal Díaz en canoa hasta la Trinidad", "mention_count_aprox": 3, "status": "candidata", "notas": "distinto de Pedro Arias de Ávila / Pedrarias Dávila (person:pedrarias-davila)"},
-  {"id": "person:juan-diaz-clerigo", "canonical_name": "Juan Díaz", "aliases": [], "role": "clérigo de la expedición de Juan de Grijalva (1518)", "mention_count_aprox": 6, "status": "candidata"},
-  {"id": "person:penalosa", "canonical_name": "Peñalosa", "aliases": [], "role": "veedor de la expedición de Juan de Grijalva (1518), natural de Segovia", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "person:juan-de-quiteria", "canonical_name": "Juan de Quiteria", "aliases": [], "role": "soldado, muerto en la segunda batalla de Champotón (1518)", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "person:francisco-indio-rio-banderas", "canonical_name": "Francisco (indio del río de Banderas)", "aliases": [], "role": "indígena tomado en el río de Banderas, bautizado como Francisco; Bernal Díaz lo volvió a ver casado en Santa Fe tras la conquista de México", "mention_count_aprox": 2, "status": "candidata", "notas": "no confundir con otras personas llamadas Francisco en la crónica"},
-  {"id": "person:bartolome-pardo", "canonical_name": "Bartolomé Pardo", "aliases": [], "role": "soldado que halló oro y objetos rituales en un adoratorio cerca de Tonalá (1518)", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "person:benito-martinez", "canonical_name": "Benito Martínez", "aliases": [], "role": "capellán de Diego Velázquez, enviado a Castilla como procurador para negociar licencias y el título de adelantado", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "person:francisco-lopez-de-gomara", "canonical_name": "Francisco López de Gómara", "aliases": ["Gómora", "Gómara"], "role": "cronista; autor de una historia de la conquista que Bernal Díaz corrige extensamente por considerarla mal informada y parcial hacia Cortés", "mention_count_aprox": null, "status": "candidata", "notas": "es también el autor de una obra propia en este proyecto (sources/lopez-de-gomara/, Fase 0) — acá es una entidad distinta, scoped a bernal-diaz, para la persona tal como aparece mencionada/criticada en esta crónica"},
-  {"id": "person:gonzalo-hernandez-de-oviedo", "canonical_name": "Gonzalo Fernández de Oviedo", "aliases": ["Gonzalo Hernandez de Oviedo"], "role": "cronista, mencionado junto con Gómara como fuente de relatos inexactos sobre el rescate de oro en Tabasco", "mention_count_aprox": 1, "status": "candidata", "notas": "también autor de una obra propia en este proyecto (sources/oviedo/, Fase 0) — entidad distinta, scoped a bernal-diaz"},
-  {"id": "person:pedrarias-davila", "canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)", "aliases": ["Pedro Arias de Ávila", "Pedrárias Dávila"], "role": "gobernador de Tierra Firme", "mention_count_aprox": 4, "status": "candidata", "notas": "capítulo 1 — corrige un vacío: esta entidad estaba en el log de relaciones-muestra.json pero nunca se había copiado al registro principal"},
-  {"id": "person:vasco-nunez-de-balboa", "canonical_name": "Vasco Núñez de Balboa", "aliases": ["Vasco Nuñez de Balboa"], "role": "conquistador, yerno de Pedrarias Dávila", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"},
-  {"id": "person:bernardino-iniguez", "canonical_name": "Bernardino Íñiguez", "aliases": ["Bernardino Iñiguez"], "role": "veedor de la expedición de 1517", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"},
-  {"id": "person:alonso-gonzalez-clerigo", "canonical_name": "Alonso González", "aliases": ["Alonso Gonzalez"], "role": "clérigo de la expedición de 1517", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"}
+  {
+    "id": "person:hernan-cortes",
+    "canonical_name": "Hernán Cortés",
+    "aliases": [
+      "Cortés",
+      "Hernando Cortés"
+    ],
+    "role": "capitán de la expedición",
+    "mention_count_aprox": 849,
+    "status": "revisada"
+  },
+  {
+    "id": "person:moctezuma-ii",
+    "canonical_name": "Moctezuma",
+    "aliases": [
+      "Montezuma"
+    ],
+    "role": "tlatoani de Tenochtitlan",
+    "mention_count_aprox": 477,
+    "status": "revisada"
+  },
+  {
+    "id": "person:diego-velazquez-de-cuellar",
+    "canonical_name": "Diego Velázquez",
+    "aliases": [
+      "Diego Velazquez"
+    ],
+    "role": "gobernador de Cuba",
+    "mention_count_aprox": 127,
+    "status": "revisada"
+  },
+  {
+    "id": "person:pedro-de-alvarado",
+    "canonical_name": "Pedro de Alvarado",
+    "aliases": [
+      "Pedro de Albarado",
+      "Albarado"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 134,
+    "status": "revisada"
+  },
+  {
+    "id": "person:juan-de-escalante",
+    "canonical_name": "Juan de Escalante",
+    "aliases": [
+      "Juan de Escalante"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 28,
+    "status": "revisada"
+  },
+  {
+    "id": "person:diego-de-ordas",
+    "canonical_name": "Diego de Ordás",
+    "aliases": [
+      "Diego de Ordás"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 24,
+    "status": "revisada"
+  },
+  {
+    "id": "person:juan-de-grijalva",
+    "canonical_name": "Juan de Grijalva",
+    "aliases": [
+      "Juan de Grijalva"
+    ],
+    "role": "capitán de expedición anterior a la de Cortés",
+    "mention_count_aprox": 22,
+    "status": "revisada"
+  },
+  {
+    "id": "person:juan-velazquez-de-leon",
+    "canonical_name": "Juan Velázquez de León",
+    "aliases": [
+      "Juan Velazquez de Leon"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 18,
+    "status": "revisada"
+  },
+  {
+    "id": "person:gonzalo-de-sandoval",
+    "canonical_name": "Gonzalo de Sandoval",
+    "aliases": [
+      "Gonzalo de Sandoval"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 18,
+    "status": "revisada"
+  },
+  {
+    "id": "person:alonso-de-avila",
+    "canonical_name": "Alonso de Ávila",
+    "aliases": [
+      "Alonso de Ávila"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 16,
+    "status": "revisada"
+  },
+  {
+    "id": "person:cristobal-de-olid",
+    "canonical_name": "Cristóbal de Olid",
+    "aliases": [
+      "Cristóbal de Olí"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 14,
+    "status": "revisada"
+  },
+  {
+    "id": "person:francisco-hernandez-de-cordoba",
+    "canonical_name": "Francisco Hernández de Córdoba",
+    "aliases": [
+      "Francisco Hernandez de Córdoba"
+    ],
+    "role": "capitán de expedición anterior (Yucatán, 1517)",
+    "mention_count_aprox": 12,
+    "status": "revisada"
+  },
+  {
+    "id": "person:francisco-de-montejo",
+    "canonical_name": "Francisco de Montejo",
+    "aliases": [
+      "Francisco de Montejo"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 12,
+    "status": "revisada"
+  },
+  {
+    "id": "person:alonso-hernandez-puertocarrero",
+    "canonical_name": "Alonso Hernández Puertocarrero",
+    "aliases": [
+      "Alonso Hernandez Puertocarrero"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 11,
+    "status": "revisada"
+  },
+  {
+    "id": "person:jeronimo-de-aguilar",
+    "canonical_name": "Jerónimo de Aguilar",
+    "aliases": [
+      "Jerónimo de Aguilar",
+      "Aguilar"
+    ],
+    "role": "intérprete (náufrago español rescatado)",
+    "mention_count_aprox": 81,
+    "status": "revisada",
+    "notas": "el alias 'Aguilar' (70 menciones sueltas) puede confundirse con otros Aguilar; revisar caso por caso"
+  },
+  {
+    "id": "person:francisco-de-lugo",
+    "canonical_name": "Francisco de Lugo",
+    "aliases": [
+      "Francisco de Lugo"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 11,
+    "status": "revisada"
+  },
+  {
+    "id": "person:bartolome-de-olmedo",
+    "canonical_name": "Bartolomé de Olmedo",
+    "aliases": [
+      "Bartolomé de Olmedo"
+    ],
+    "role": "fraile mercedario de la expedición",
+    "mention_count_aprox": 10,
+    "status": "revisada"
+  },
+  {
+    "id": "person:pedro-de-ircio",
+    "canonical_name": "Pedro de Ircio",
+    "aliases": [
+      "Pedro de Ircio"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 9,
+    "status": "revisada"
+  },
+  {
+    "id": "person:alonso-de-grado",
+    "canonical_name": "Alonso de Grado",
+    "aliases": [
+      "Alonso de Grado"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 9,
+    "status": "revisada"
+  },
+  {
+    "id": "person:anton-de-alaminos",
+    "canonical_name": "Antón de Alaminos",
+    "aliases": [
+      "Anton de Alaminos"
+    ],
+    "role": "piloto/navegante",
+    "mention_count_aprox": 8,
+    "status": "revisada"
+  },
+  {
+    "id": "person:marina-malinche",
+    "canonical_name": "Marina (La Malinche)",
+    "aliases": [
+      "Marina",
+      "doña Marina"
+    ],
+    "role": "intérprete",
+    "mention_count_aprox": 70,
+    "status": "revisada"
+  },
+  {
+    "id": "person:xicotencatl",
+    "canonical_name": "Xicoténcatl",
+    "aliases": [
+      "Xicotenga"
+    ],
+    "role": "señor/capitán de Tlaxcala",
+    "mention_count_aprox": 67,
+    "status": "revisada"
+  },
+  {
+    "id": "person:obispo-de-burgos",
+    "canonical_name": "Obispo de Búrgos (Juan Rodríguez de Fonseca)",
+    "aliases": [
+      "Obispo de Búrgos"
+    ],
+    "role": "presidente del Consejo de Indias",
+    "mention_count_aprox": 9,
+    "status": "candidata",
+    "notas": "referido solo por el título en el texto; confirmar identificación"
+  },
+  {
+    "id": "person:bernal-diaz-del-castillo",
+    "canonical_name": "Bernal Díaz del Castillo",
+    "aliases": [
+      "Bernal Diaz"
+    ],
+    "role": "autor y narrador, soldado de la expedición",
+    "mention_count_aprox": null,
+    "status": "revisada",
+    "notas": "el propio cronista; no aparece en el conteo de frecuencia porque se narra en primera persona"
+  },
+  {
+    "id": "person:melchorejo",
+    "canonical_name": "Melchorejo",
+    "aliases": [
+      "Melchor",
+      "Melchorillo"
+    ],
+    "role": "indígena maya capturado en Punta de Cotoche (1517) y bautizado; sirvió de intérprete a los españoles antes de Jerónimo de Aguilar y Marina",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:julianillo",
+    "canonical_name": "Julianillo",
+    "aliases": [
+      "Julián",
+      "Julianico"
+    ],
+    "role": "indígena maya capturado en Punta de Cotoche (1517) y bautizado; sirvió de intérprete a los españoles junto con Melchorejo",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-bote",
+    "canonical_name": "Alonso Bote",
+    "aliases": [],
+    "role": "soldado, capturado vivo por los indios en la batalla de Potonchán (1517)",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "person:berrio",
+    "canonical_name": "Berrio",
+    "aliases": [],
+    "role": "soldado, desaparecido/muerto en la escaramuza de la Florida (1517), único que había salido ileso de Potonchán",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-avila",
+    "canonical_name": "Pedro de Ávila",
+    "aliases": [],
+    "role": "vecino de la Habana, llevó a Bernal Díaz en canoa hasta la Trinidad",
+    "mention_count_aprox": 3,
+    "status": "candidata",
+    "notas": "distinto de Pedro Arias de Ávila / Pedrarias Dávila (person:pedrarias-davila)"
+  },
+  {
+    "id": "person:juan-diaz-clerigo",
+    "canonical_name": "Juan Díaz",
+    "aliases": [],
+    "role": "clérigo de la expedición de Juan de Grijalva (1518)",
+    "mention_count_aprox": 6,
+    "status": "candidata"
+  },
+  {
+    "id": "person:penalosa",
+    "canonical_name": "Peñalosa",
+    "aliases": [],
+    "role": "veedor de la expedición de Juan de Grijalva (1518), natural de Segovia",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-quiteria",
+    "canonical_name": "Juan de Quiteria",
+    "aliases": [],
+    "role": "soldado, muerto en la segunda batalla de Champotón (1518)",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-indio-rio-banderas",
+    "canonical_name": "Francisco (indio del río de Banderas)",
+    "aliases": [],
+    "role": "indígena tomado en el río de Banderas, bautizado como Francisco; Bernal Díaz lo volvió a ver casado en Santa Fe tras la conquista de México",
+    "mention_count_aprox": 2,
+    "status": "candidata",
+    "notas": "no confundir con otras personas llamadas Francisco en la crónica"
+  },
+  {
+    "id": "person:bartolome-pardo",
+    "canonical_name": "Bartolomé Pardo",
+    "aliases": [],
+    "role": "soldado que halló oro y objetos rituales en un adoratorio cerca de Tonalá (1518)",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "person:benito-martinez",
+    "canonical_name": "Benito Martínez",
+    "aliases": [],
+    "role": "capellán de Diego Velázquez, enviado a Castilla como procurador para negociar licencias y el título de adelantado",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-lopez-de-gomara",
+    "canonical_name": "Francisco López de Gómara",
+    "aliases": [
+      "Gómora",
+      "Gómara"
+    ],
+    "role": "cronista; autor de una historia de la conquista que Bernal Díaz corrige extensamente por considerarla mal informada y parcial hacia Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "es también el autor de una obra propia en este proyecto (sources/lopez-de-gomara/, Fase 0) — acá es una entidad distinta, scoped a bernal-diaz, para la persona tal como aparece mencionada/criticada en esta crónica"
+  },
+  {
+    "id": "person:gonzalo-hernandez-de-oviedo",
+    "canonical_name": "Gonzalo Fernández de Oviedo",
+    "aliases": [
+      "Gonzalo Hernandez de Oviedo"
+    ],
+    "role": "cronista, mencionado junto con Gómara como fuente de relatos inexactos sobre el rescate de oro en Tabasco",
+    "mention_count_aprox": 1,
+    "status": "candidata",
+    "notas": "también autor de una obra propia en este proyecto (sources/oviedo/, Fase 0) — entidad distinta, scoped a bernal-diaz"
+  },
+  {
+    "id": "person:pedrarias-davila",
+    "canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)",
+    "aliases": [
+      "Pedro Arias de Ávila",
+      "Pedrárias Dávila"
+    ],
+    "role": "gobernador de Tierra Firme",
+    "mention_count_aprox": 4,
+    "status": "candidata",
+    "notas": "capítulo 1 — corrige un vacío: esta entidad estaba en el log de relaciones-muestra.json pero nunca se había copiado al registro principal"
+  },
+  {
+    "id": "person:vasco-nunez-de-balboa",
+    "canonical_name": "Vasco Núñez de Balboa",
+    "aliases": [
+      "Vasco Nuñez de Balboa"
+    ],
+    "role": "conquistador, yerno de Pedrarias Dávila",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"
+  },
+  {
+    "id": "person:bernardino-iniguez",
+    "canonical_name": "Bernardino Íñiguez",
+    "aliases": [
+      "Bernardino Iñiguez"
+    ],
+    "role": "veedor de la expedición de 1517",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"
+  },
+  {
+    "id": "person:alonso-gonzalez-clerigo",
+    "canonical_name": "Alonso González",
+    "aliases": [
+      "Alonso Gonzalez"
+    ],
+    "role": "clérigo de la expedición de 1517",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"
+  },
+  {
+    "id": "person:andres-de-duero",
+    "canonical_name": "Andrés de Duero",
+    "aliases": [
+      "Duero"
+    ],
+    "role": "secretario de Diego Velázquez, gestionó en secreto la elección de Cortés como capitán general",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:amador-de-lares",
+    "canonical_name": "Amador de Lares",
+    "aliases": [
+      "Amador de Larez",
+      "el contador"
+    ],
+    "role": "contador de su majestad en Cuba, cómplice de Duero en la elección de Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:vasco-porcallo",
+    "canonical_name": "Vasco Porcallo",
+    "aliases": [],
+    "role": "hidalgo propuesto como capitán rival de Cortés, pariente cercano del conde de Feria",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:catalina-suarez-pacheco",
+    "canonical_name": "Catalina Suárez Pacheco",
+    "aliases": [
+      "doña Catalina Suarez Pacheco",
+      "Catalina Suarez la Marcaida",
+      "doña Catalina"
+    ],
+    "role": "esposa de Hernán Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-sedeno",
+    "canonical_name": "Juan Sedeño",
+    "aliases": [
+      "Juan de Sedeño"
+    ],
+    "role": "soldado que se unió a la armada con su propio navío, una yegua y un esclavo; el más rico de la expedición",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-verdugo",
+    "canonical_name": "Francisco Verdugo",
+    "aliases": [],
+    "role": "alcalde mayor de la villa de la Trinidad, cuñado de Diego Velázquez",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-millan",
+    "canonical_name": "Juan Millán",
+    "aliases": [
+      "el Astrólogo"
+    ],
+    "role": "anciano apodado 'el Astrólogo' que instigó a Diego Velázquez contra Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:gaspar-de-garnica",
+    "canonical_name": "Gaspar de Garnica",
+    "aliases": [
+      "Garnica"
+    ],
+    "role": "criado de Diego Velázquez enviado con mandamientos para detener y apresar a Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-barba",
+    "canonical_name": "Pedro Barba",
+    "aliases": [],
+    "role": "teniente de la villa de la Habana, no favoreció las órdenes de Velázquez contra Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:camacho",
+    "canonical_name": "Camacho",
+    "aliases": [],
+    "role": "piloto que desobedeció las instrucciones de navegación de Cortés y fue encarcelado",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:escobar",
+    "canonical_name": "Escobar",
+    "aliases": [],
+    "role": "capitán enviado por Cortés a explorar el puerto de Boca de Términos",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-dominguez",
+    "canonical_name": "Gonzalo Domínguez",
+    "aliases": [],
+    "role": "jinete de la armada de Cortés, participó en la carga de caballería de la batalla de Centla",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-gonzalez-de-trujillo",
+    "canonical_name": "Pedro González de Trujillo",
+    "aliases": [],
+    "role": "jinete de la armada de Cortés, participó en la carga de caballería de la batalla de Centla",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:moron-bayamo",
+    "canonical_name": "Morón",
+    "aliases": [
+      "Moron del Bayamo"
+    ],
+    "role": "jinete de la armada de Cortés, natural del Bayamo, participó en la carga de caballería de la batalla de Centla",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-godoy",
+    "canonical_name": "Diego de Godoy",
+    "aliases": [],
+    "role": "escribano del Rey que formalizó el requerimiento y el acta de toma de posesión en Tabasco",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:antonio-de-villarroel",
+    "canonical_name": "Antonio de Villarroel",
+    "aliases": [
+      "Antonio Serrano de Cardona"
+    ],
+    "role": "alférez de la armada de Cortés, luego llamado Antonio Serrano de Cardona",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:mesa-artillero",
+    "canonical_name": "Mesa",
+    "aliases": [],
+    "role": "artillero de la armada de Cortés, encargado de los tiros de bronce",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-morla",
+    "canonical_name": "Francisco de Morla",
+    "aliases": [],
+    "role": "capitán y jinete de la armada de Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-orozco",
+    "canonical_name": "Francisco de Orozco",
+    "aliases": [],
+    "role": "capitán de la artillería de la armada de Cortés, veterano de las guerras de Italia",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-guerrero",
+    "canonical_name": "Gonzalo Guerrero",
+    "aliases": [],
+    "role": "español náufrago que vivía entre los mayas de Yucatán como cacique y se negó a reunirse con Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:andres-de-tapia",
+    "canonical_name": "Andrés de Tapia",
+    "aliases": [],
+    "role": "soldado de la armada de Cortés, uno de los que halló a Jerónimo de Aguilar en Cozumel",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-rangel",
+    "canonical_name": "Rodrigo Rangel",
+    "aliases": [],
+    "role": "hidalgo reclutado en la villa de la Trinidad, luego camarero de Cortés",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  }
 ]

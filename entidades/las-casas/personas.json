@@ -1,28 +1,417 @@
 [
-  {"id": "person:cristobal-colon", "canonical_name": "Cristóbal Colón", "aliases": ["el Almirante", "D Cristóbal Colon", "Almirante D Cristóbal Colon"], "role": "almirante, virrey y gobernador de las Indias", "mention_count_aprox": 1150, "status": "revisada", "notas": "el texto lo nombra casi siempre por el título 'el Almirante', no por su nombre"},
-  {"id": "person:francisco-roldan", "canonical_name": "Francisco Roldán", "aliases": ["Francisco Roldan", "Roldan"], "role": "alcalde mayor de La Española, líder de una rebelión contra Colón", "mention_count_aprox": 304, "status": "revisada"},
-  {"id": "person:bartolome-colon", "canonical_name": "Bartolomé Colón", "aliases": ["D Bartolomé", "D Bartolomé Colon", "Bartolomé Colon", "el Adelantado"], "role": "adelantado de las Indias, hermano del Almirante", "mention_count_aprox": 120, "status": "revisada", "notas": "el título 'Adelantado' (120 menciones) casi siempre se refiere a él en este tomo"},
-  {"id": "person:diego-colon-hermano", "canonical_name": "Diego Colón (hermano del Almirante)", "aliases": ["D Diego"], "role": "hermano del Almirante, quedó a cargo en su ausencia", "mention_count_aprox": null, "status": "candidata", "notas": "posible confusión con Diego Colón hijo (el segundo Almirante); requiere revisión caso por caso"},
-  {"id": "person:juan-aguado", "canonical_name": "Juan Aguado", "aliases": [], "role": "enviado de los Reyes Católicos para investigar el gobierno de Colón", "mention_count_aprox": 31, "status": "revisada"},
-  {"id": "person:alonso-de-ojeda", "canonical_name": "Alonso de Ojeda", "aliases": ["Alonso de Hojeda", "Hojeda"], "role": "capitán y explorador", "mention_count_aprox": 194, "status": "revisada"},
-  {"id": "person:antonio-de-torres", "canonical_name": "Antonio de Torres", "aliases": [], "role": "capitán, enlace entre La Española y Castilla", "mention_count_aprox": 18, "status": "revisada"},
-  {"id": "person:cristobal-guerra", "canonical_name": "Cristóbal Guerra", "aliases": [], "role": "explorador/mercader", "mention_count_aprox": 17, "status": "revisada"},
-  {"id": "person:vicente-yanez-pinzon", "canonical_name": "Vicente Yáñez Pinzón", "aliases": ["Vicente Yañez"], "role": "navegante", "mention_count_aprox": 14, "status": "revisada"},
-  {"id": "person:diego-de-escobar", "canonical_name": "Diego de Escobar", "aliases": [], "role": "capitán", "mention_count_aprox": 10, "status": "revisada"},
-  {"id": "person:pedro-margarite", "canonical_name": "Pedro Margarite", "aliases": ["Mosen Pedro Margarite"], "role": "capitán", "mention_count_aprox": 9, "status": "revisada"},
-  {"id": "person:francisco-de-bobadilla", "canonical_name": "Francisco de Bobadilla", "aliases": [], "role": "enviado real que depuso y arrestó a Colón", "mention_count_aprox": 8, "status": "revisada"},
-  {"id": "person:diego-de-lepe", "canonical_name": "Diego de Lepe", "aliases": [], "role": "navegante", "mention_count_aprox": 9, "status": "revisada"},
-  {"id": "person:americo-vespucio", "canonical_name": "Américo Vespucio", "aliases": ["Américo"], "role": "navegante", "mention_count_aprox": 104, "status": "revisada"},
-  {"id": "person:reyes-catolicos", "canonical_name": "los Reyes Católicos (Fernando e Isabel)", "aliases": ["los Reyes", "Sus Altezas", "Vuestras Altezas"], "role": "monarcas de Castilla y Aragón", "mention_count_aprox": 657, "status": "revisada", "notas": "el texto casi siempre se refiere a ambos monarcas juntos, sin distinguir; separar en dos entidades si un pasaje concreto lo exige"},
-  {"id": "person:bartolome-de-las-casas", "canonical_name": "Bartolomé de las Casas", "aliases": [], "role": "autor y narrador", "mention_count_aprox": null, "status": "revisada", "notas": "el propio cronista; no aparece en el conteo de frecuencia porque narra en tercera persona sobre los hechos, no sobre sí mismo"},
-  {"id": "person:pedro-de-ayala", "canonical_name": "D. Pedro de Ayala", "aliases": [], "role": "embajador de los Reyes Católicos ante Portugal", "status": "candidata"},
-  {"id": "person:garcia-de-carbajal", "canonical_name": "D. García de Carbajal", "aliases": [], "role": "embajador, hermano del Cardenal de Santa Cruz", "status": "candidata"},
-  {"id": "person:juan-de-la-parra", "canonical_name": "Juan de la Parra", "aliases": [], "role": "secretario de la Reina", "status": "candidata"},
-  {"id": "person:rey-de-portugal", "canonical_name": "D. Juan II de Portugal", "aliases": ["el rey de Portugal", "Rey de Portugal"], "role": "rey de Portugal", "status": "candidata", "notas": "no se nombra por su nombre en el Capítulo 1 ('el rey de Portugal' nada más); el Capítulo 5 sí lo nombra explícitamente como 'D. Juan II de Portugal', lo que confirma la conjetura original"},
-  {"id": "person:guacanagari", "canonical_name": "Guacanagarí", "aliases": [], "role": "cacique de Marién, aliado de Colón; defendió a los cristianos de La Navidad de Caonabo y salió herido", "status": "candidata"},
-  {"id": "person:caonabo", "canonical_name": "Caonabo", "aliases": ["Canabo"], "role": "cacique de Maguana; mató a los cristianos que quedaron en La Navidad y luego amenazó la fortaleza de Santo Tomás", "status": "candidata"},
-  {"id": "person:diego-de-arana", "canonical_name": "Diego de Arana", "aliases": [], "role": "capitán dejado a cargo del fuerte de la Navidad; muerto allí junto con los demás cristianos", "status": "candidata"},
-  {"id": "person:fray-buil", "canonical_name": "Fray Buil", "aliases": [], "role": "fraile benedictino, legado apostólico del segundo viaje; opositor de Colón", "status": "candidata", "notas": "identificado por historiadores modernos como Bernardo Boyl; el texto solo lo llama 'fray Buil'"},
-  {"id": "person:bernal-de-pisa", "canonical_name": "Bernal de Pisa", "aliases": [], "role": "alguacil de corte y contador de la isla; encabezó la primera rebelión contra Colón en las Indias (1494)", "status": "candidata"},
-  {"id": "person:diego-marquez", "canonical_name": "Diego Márquez", "aliases": [], "role": "veedor, capitán de un navío; se perdió en Guadalupe con 8 hombres sin licencia del Almirante", "status": "candidata"}
+  {
+    "id": "person:cristobal-colon",
+    "canonical_name": "Cristóbal Colón",
+    "aliases": [
+      "el Almirante",
+      "D Cristóbal Colon",
+      "Almirante D Cristóbal Colon"
+    ],
+    "role": "almirante, virrey y gobernador de las Indias",
+    "mention_count_aprox": 1150,
+    "status": "revisada",
+    "notas": "el texto lo nombra casi siempre por el título 'el Almirante', no por su nombre"
+  },
+  {
+    "id": "person:francisco-roldan",
+    "canonical_name": "Francisco Roldán",
+    "aliases": [
+      "Francisco Roldan",
+      "Roldan"
+    ],
+    "role": "alcalde mayor de La Española, líder de una rebelión contra Colón",
+    "mention_count_aprox": 304,
+    "status": "revisada"
+  },
+  {
+    "id": "person:bartolome-colon",
+    "canonical_name": "Bartolomé Colón",
+    "aliases": [
+      "D Bartolomé",
+      "D Bartolomé Colon",
+      "Bartolomé Colon",
+      "el Adelantado"
+    ],
+    "role": "adelantado de las Indias, hermano del Almirante",
+    "mention_count_aprox": 120,
+    "status": "revisada",
+    "notas": "el título 'Adelantado' (120 menciones) casi siempre se refiere a él en este tomo"
+  },
+  {
+    "id": "person:diego-colon-hermano",
+    "canonical_name": "Diego Colón (hermano del Almirante)",
+    "aliases": [
+      "D Diego"
+    ],
+    "role": "hermano del Almirante, quedó a cargo en su ausencia",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "posible confusión con person:diego-colon-hijo (hijo del Almirante, segundo Almirante) y con person:diego-colon-indio-guanahani (indígena bautizado con el mismo nombre, intérprete) -- tres personas distintas con el mismo nombre en este texto; requiere revisión caso por caso."
+  },
+  {
+    "id": "person:juan-aguado",
+    "canonical_name": "Juan Aguado",
+    "aliases": [],
+    "role": "enviado de los Reyes Católicos para investigar el gobierno de Colón",
+    "mention_count_aprox": 31,
+    "status": "revisada"
+  },
+  {
+    "id": "person:alonso-de-ojeda",
+    "canonical_name": "Alonso de Ojeda",
+    "aliases": [
+      "Alonso de Hojeda",
+      "Hojeda"
+    ],
+    "role": "capitán y explorador",
+    "mention_count_aprox": 194,
+    "status": "revisada"
+  },
+  {
+    "id": "person:antonio-de-torres",
+    "canonical_name": "Antonio de Torres",
+    "aliases": [],
+    "role": "capitán, enlace entre La Española y Castilla",
+    "mention_count_aprox": 18,
+    "status": "revisada"
+  },
+  {
+    "id": "person:cristobal-guerra",
+    "canonical_name": "Cristóbal Guerra",
+    "aliases": [],
+    "role": "explorador/mercader",
+    "mention_count_aprox": 17,
+    "status": "revisada"
+  },
+  {
+    "id": "person:vicente-yanez-pinzon",
+    "canonical_name": "Vicente Yáñez Pinzón",
+    "aliases": [
+      "Vicente Yañez"
+    ],
+    "role": "navegante",
+    "mention_count_aprox": 14,
+    "status": "revisada"
+  },
+  {
+    "id": "person:diego-de-escobar",
+    "canonical_name": "Diego de Escobar",
+    "aliases": [],
+    "role": "capitán",
+    "mention_count_aprox": 10,
+    "status": "revisada"
+  },
+  {
+    "id": "person:pedro-margarite",
+    "canonical_name": "Pedro Margarite",
+    "aliases": [
+      "Mosen Pedro Margarite"
+    ],
+    "role": "capitán",
+    "mention_count_aprox": 9,
+    "status": "revisada"
+  },
+  {
+    "id": "person:francisco-de-bobadilla",
+    "canonical_name": "Francisco de Bobadilla",
+    "aliases": [],
+    "role": "enviado real que depuso y arrestó a Colón",
+    "mention_count_aprox": 8,
+    "status": "revisada"
+  },
+  {
+    "id": "person:diego-de-lepe",
+    "canonical_name": "Diego de Lepe",
+    "aliases": [],
+    "role": "navegante",
+    "mention_count_aprox": 9,
+    "status": "revisada"
+  },
+  {
+    "id": "person:americo-vespucio",
+    "canonical_name": "Américo Vespucio",
+    "aliases": [
+      "Américo"
+    ],
+    "role": "navegante",
+    "mention_count_aprox": 104,
+    "status": "revisada"
+  },
+  {
+    "id": "person:reyes-catolicos",
+    "canonical_name": "los Reyes Católicos (Fernando e Isabel)",
+    "aliases": [
+      "los Reyes",
+      "Sus Altezas",
+      "Vuestras Altezas"
+    ],
+    "role": "monarcas de Castilla y Aragón",
+    "mention_count_aprox": 657,
+    "status": "revisada",
+    "notas": "el texto casi siempre se refiere a ambos monarcas juntos, sin distinguir; separar en dos entidades si un pasaje concreto lo exige"
+  },
+  {
+    "id": "person:bartolome-de-las-casas",
+    "canonical_name": "Bartolomé de las Casas",
+    "aliases": [],
+    "role": "autor y narrador",
+    "mention_count_aprox": null,
+    "status": "revisada",
+    "notas": "el propio cronista; no aparece en el conteo de frecuencia porque narra en tercera persona sobre los hechos, no sobre sí mismo"
+  },
+  {
+    "id": "person:pedro-de-ayala",
+    "canonical_name": "D. Pedro de Ayala",
+    "aliases": [],
+    "role": "embajador de los Reyes Católicos ante Portugal",
+    "status": "candidata"
+  },
+  {
+    "id": "person:garcia-de-carbajal",
+    "canonical_name": "D. García de Carbajal",
+    "aliases": [],
+    "role": "embajador, hermano del Cardenal de Santa Cruz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-la-parra",
+    "canonical_name": "Juan de la Parra",
+    "aliases": [],
+    "role": "secretario de la Reina",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rey-de-portugal",
+    "canonical_name": "D. Juan II de Portugal",
+    "aliases": [
+      "el rey de Portugal",
+      "Rey de Portugal"
+    ],
+    "role": "rey de Portugal",
+    "status": "candidata",
+    "notas": "no se nombra por su nombre en el Capítulo 1 ('el rey de Portugal' nada más); el Capítulo 5 sí lo nombra explícitamente como 'D. Juan II de Portugal', lo que confirma la conjetura original"
+  },
+  {
+    "id": "person:guacanagari",
+    "canonical_name": "Guacanagarí",
+    "aliases": [],
+    "role": "cacique de Marién, aliado de Colón; defendió a los cristianos de La Navidad de Caonabo y salió herido",
+    "status": "candidata"
+  },
+  {
+    "id": "person:caonabo",
+    "canonical_name": "Caonabo",
+    "aliases": [
+      "Canabo"
+    ],
+    "role": "cacique de Maguana; mató a los cristianos que quedaron en La Navidad y luego amenazó la fortaleza de Santo Tomás",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-arana",
+    "canonical_name": "Diego de Arana",
+    "aliases": [],
+    "role": "capitán dejado a cargo del fuerte de la Navidad; muerto allí junto con los demás cristianos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-buil",
+    "canonical_name": "Fray Buil",
+    "aliases": [],
+    "role": "fraile benedictino, legado apostólico del segundo viaje; opositor de Colón",
+    "status": "candidata",
+    "notas": "identificado por historiadores modernos como Bernardo Boyl; el texto solo lo llama 'fray Buil'"
+  },
+  {
+    "id": "person:bernal-de-pisa",
+    "canonical_name": "Bernal de Pisa",
+    "aliases": [],
+    "role": "alguacil de corte y contador de la isla; encabezó la primera rebelión contra Colón en las Indias (1494)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-marquez",
+    "canonical_name": "Diego Márquez",
+    "aliases": [],
+    "role": "veedor, capitán de un navío; se perdió en Guadalupe con 8 hombres sin licencia del Almirante",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pero-hernandez-coronel",
+    "canonical_name": "Pero Hernández Coronel",
+    "aliases": [],
+    "role": "Alguacil mayor, miembro del Consejo de gobierno (1494)",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-sanchez-de-carabajal",
+    "canonical_name": "Alonso Sánchez de Carabajal",
+    "aliases": [],
+    "role": "Regidor de Baza, miembro del Consejo de gobierno (1494)",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-luxan",
+    "canonical_name": "Juan de Luxán",
+    "aliases": [
+      "Juan de Luján"
+    ],
+    "role": "caballero de Madrid, criado de la Casa real, miembro del Consejo de gobierno (1494)",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-colon-indio-guanahani",
+    "canonical_name": "Diego Colón (indígena de Guanahaní)",
+    "aliases": [],
+    "role": "indígena de Guanahaní tomado en el primer viaje, llevado a Castilla y bautizado con el nombre de su padrino; volvió como intérprete en el segundo viaje",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "OJO: comparte el nombre de pila 'Diego Colón' con person:diego-colon-hermano (hermano del Almirante) y con person:diego-colon-hijo (hijo del Almirante, segundo Almirante) -- tres personas distintas con el mismo nombre en este texto. El etiquetado automático no desambigua homónimos, así que las menciones sueltas de 'Diego Colon' en el texto pueden quedar linkeadas a cualquiera de las tres; requiere revisión manual capítulo por capítulo."
+  },
+  {
+    "id": "person:guatiguana",
+    "canonical_name": "Guatiguaná",
+    "aliases": [
+      "Guatigana"
+    ],
+    "role": "cacique de un pueblo junto al río Yaquí; mandó matar a diez cristianos",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:guarionex",
+    "canonical_name": "Guarionex",
+    "aliases": [],
+    "role": "cacique/rey de la Vega Real, uno de los cuatro reyes principales de la isla",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:vehechio",
+    "canonical_name": "Vehechio",
+    "aliases": [],
+    "role": "uno de los cuatro reyes principales de la isla",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:higuanama",
+    "canonical_name": "Higuanamá",
+    "aliases": [],
+    "role": "uno de los cuatro reyes/cacicas principales de la isla",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:rey-enrique-vii-inglaterra",
+    "canonical_name": "Enrique VII de Inglaterra",
+    "aliases": [
+      "rey Enrico",
+      "rey de Inglaterra"
+    ],
+    "role": "rey de Inglaterra a quien Bartolomé Colón propuso el proyecto de descubrimiento",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:carlos-viii-francia",
+    "canonical_name": "Carlos VIII de Francia",
+    "aliases": [
+      "Charles",
+      "Cárlos, el Cabezudo",
+      "rey de Francia"
+    ],
+    "role": "rey de Francia; dio noticia a Bartolomé Colón del descubrimiento de su hermano",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-colon-hijo",
+    "canonical_name": "Diego Colón (hijo del Almirante)",
+    "aliases": [],
+    "role": "hijo mayor del Almirante; paje del príncipe D. Juan; sucedió a su padre como segundo Almirante de las Indias",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "OJO: comparte nombre con person:diego-colon-hermano (hermano del Almirante) y person:diego-colon-indio-guanahani (intérprete indígena) -- ver nota de ambigüedad en esas entradas."
+  },
+  {
+    "id": "person:hernando-colon",
+    "canonical_name": "Hernando Colón (hijo del Almirante)",
+    "aliases": [
+      "D. Hernando Colon",
+      "D. Hernando"
+    ],
+    "role": "hijo menor del Almirante; paje del príncipe D. Juan; después escribió una historia de su padre, citada varias veces por Las Casas",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-fonseca",
+    "canonical_name": "Juan de Fonseca",
+    "aliases": [
+      "D. Juan de Fonseca",
+      "Arcediano de Sevilla"
+    ],
+    "role": "Arcediano de Sevilla, encargado de organizar los envíos a las Indias",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:rey-manicao",
+    "canonical_name": "Manicao",
+    "aliases": [
+      "el rey Manicao"
+    ],
+    "role": "cacique tributario de las minas de Cibao",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "no confundir con person:manicaotex, cacique distinto cerca del río Yaquí"
+  },
+  {
+    "id": "person:manicaotex",
+    "canonical_name": "Manicaotex",
+    "aliases": [],
+    "role": "gran señor cerca del río Yaquí; en cuya casa se conspiró contra el Almirante a la llegada de Juan Aguado",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "no confundir con person:rey-manicao, cacique distinto tributario de Cibao -- nombres similares pero el texto los distingue"
+  },
+  {
+    "id": "person:gonzalo-fernandez-de-oviedo",
+    "canonical_name": "Gonzalo Fernández de Oviedo",
+    "aliases": [
+      "Gonzalo Hernandez de Oviedo",
+      "Oviedo"
+    ],
+    "role": "cronista de Indias; Las Casas refuta extensamente su relato de este período por considerarlo falso",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:miguel-diaz",
+    "canonical_name": "Miguel Díaz",
+    "aliases": [],
+    "role": "huyó del Adelantado tras una travesura; su relación con una cacica llevó a la fundación de Santo Domingo en ese sitio",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-garay",
+    "canonical_name": "Francisco de Garay",
+    "aliases": [],
+    "role": "enviado con Miguel Díaz a buscar minas de oro; encontraron las del río Hayna",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "person:peralonso-nino",
+    "canonical_name": "Peralonso Niño",
+    "aliases": [],
+    "role": "maestre y capitán de las carabelas que volvieron a la isla con instrucciones para Bartolomé Colón (1496)",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  }
 ]

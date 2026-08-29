@@ -64,7 +64,7 @@ blurbs:
 - heading: Segunda carta-relación
   url: /documentos/cortes/001/
   occ: 0
-  html: Enviada a su sacra majestad del emperador nuestro señor, por el capitán general de la Nueva España, llamado don <mark>Fernando Cortés</mark>, en la cual hace relación de las tierras y provincias sin cuento que ha descubierto nuevamente en el Yucatán del año de diez y nueve a esta…
+  html: Enviada a su sacra majestad del emperador nuestro señor, por el capitán general de la Nueva España, llamado don Fernando <mark>Cortés</mark>, en la cual hace relación de las tierras y provincias sin cuento que ha descubierto nuevamente en el Yucatán del año de diez y nueve a esta…
 - heading: Tercera carta-relación
   url: /documentos/cortes/002/
   occ: 1

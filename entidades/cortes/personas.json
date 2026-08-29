@@ -1,13 +1,314 @@
 [
-  {"id": "person:hernan-cortes", "canonical_name": "Hernando Cortés", "aliases": ["Fernando Cortés", "Cortés", "capitán Fernando Cortés"], "role": "capitán general y luego justicia mayor de la Villa Rica de la Vera Cruz", "status": "candidata"},
-  {"id": "person:diego-velazquez-de-cuellar", "canonical_name": "Diego Velázquez", "aliases": ["teniente de almirante de la isla Fernandina"], "role": "gobernador/teniente de almirante de Cuba, organizó y financió parte de la armada de Cortés", "status": "candidata"},
-  {"id": "person:juan-de-grijalva", "canonical_name": "Juan de Grijalva", "aliases": ["Juan de Grijalba"], "role": "capitán de la expedición anterior a la de Cortés (1518), pariente de Diego Velázquez", "status": "candidata"},
-  {"id": "person:francisco-hernandez-de-cordoba", "canonical_name": "Francisco Fernández de Córdoba", "aliases": ["Francisco Hernández de Córdoba"], "role": "capitán de la primera expedición de descubrimiento (1517)", "status": "candidata"},
-  {"id": "person:anton-de-alaminos", "canonical_name": "Antón de Alaminos", "aliases": [], "role": "piloto, vecino de Palos; guió las tres expediciones (Hernández de Córdoba, Grijalva y Cortés)", "status": "candidata"},
-  {"id": "person:jeronimo-de-aguilar", "canonical_name": "Jerónimo de Aguilar", "aliases": [], "role": "español náufrago, cautivo siete años en Yucatán, rescatado por Cortés en Cozumel y usado como intérprete", "status": "candidata"},
-  {"id": "person:alonso-hernandez-puertocarrero", "canonical_name": "Alonso Hernández Puertocarrero", "aliases": ["Alonso Fernández Portocarrero", "Alonso Fernández Puerto-Carrero", "Puerto Carrero"], "role": "procurador enviado a España con el primer tesoro y esta carta", "status": "candidata"},
-  {"id": "person:francisco-de-montejo", "canonical_name": "Francisco de Montejo", "aliases": [], "role": "procurador enviado a España junto con Puertocarrero; tesorero", "status": "candidata"},
-  {"id": "person:alonso-de-avila", "canonical_name": "Alonso de Ávila", "aliases": [], "role": "tesorero de la Villa Rica de la Vera Cruz", "status": "candidata"},
-  {"id": "person:alonso-de-grado", "canonical_name": "Alonso de Grado", "aliases": [], "role": "veedor de la Villa Rica de la Vera Cruz", "status": "candidata"},
-  {"id": "person:gonzalo-de-guzman", "canonical_name": "Gonzalo de Guzmán", "aliases": [], "role": "enviado por Diego Velázquez a España, sin conocimiento de los frailes Jerónimos, a pedir para sí el título de adelantado y gobernador", "status": "candidata"}
+  {
+    "id": "person:hernan-cortes",
+    "canonical_name": "Hernando Cortés",
+    "aliases": [
+      "Fernando Cortés",
+      "Cortés",
+      "capitán Fernando Cortés"
+    ],
+    "role": "capitán general y luego justicia mayor de la Villa Rica de la Vera Cruz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-velazquez-de-cuellar",
+    "canonical_name": "Diego Velázquez",
+    "aliases": [
+      "teniente de almirante de la isla Fernandina"
+    ],
+    "role": "gobernador/teniente de almirante de Cuba, organizó y financió parte de la armada de Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-grijalva",
+    "canonical_name": "Juan de Grijalva",
+    "aliases": [
+      "Juan de Grijalba"
+    ],
+    "role": "capitán de la expedición anterior a la de Cortés (1518), pariente de Diego Velázquez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-hernandez-de-cordoba",
+    "canonical_name": "Francisco Fernández de Córdoba",
+    "aliases": [
+      "Francisco Hernández de Córdoba"
+    ],
+    "role": "capitán de la primera expedición de descubrimiento (1517)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:anton-de-alaminos",
+    "canonical_name": "Antón de Alaminos",
+    "aliases": [],
+    "role": "piloto, vecino de Palos; guió las tres expediciones (Hernández de Córdoba, Grijalva y Cortés)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:jeronimo-de-aguilar",
+    "canonical_name": "Jerónimo de Aguilar",
+    "aliases": [],
+    "role": "español náufrago, cautivo siete años en Yucatán, rescatado por Cortés en Cozumel y usado como intérprete",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-hernandez-puertocarrero",
+    "canonical_name": "Alonso Hernández Puertocarrero",
+    "aliases": [
+      "Alonso Fernández Portocarrero",
+      "Alonso Fernández Puerto-Carrero",
+      "Puerto Carrero"
+    ],
+    "role": "procurador enviado a España con el primer tesoro y esta carta",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-montejo",
+    "canonical_name": "Francisco de Montejo",
+    "aliases": [],
+    "role": "procurador enviado a España junto con Puertocarrero; tesorero",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-avila",
+    "canonical_name": "Alonso de Ávila",
+    "aliases": [],
+    "role": "tesorero de la Villa Rica de la Vera Cruz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-grado",
+    "canonical_name": "Alonso de Grado",
+    "aliases": [],
+    "role": "veedor de la Villa Rica de la Vera Cruz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-de-guzman",
+    "canonical_name": "Gonzalo de Guzmán",
+    "aliases": [],
+    "role": "enviado por Diego Velázquez a España, sin conocimiento de los frailes Jerónimos, a pedir para sí el título de adelantado y gobernador",
+    "status": "candidata"
+  },
+  {
+    "id": "person:moctezuma-ii",
+    "canonical_name": "Moctezuma",
+    "aliases": [
+      "Mutezuma",
+      "Motezuma"
+    ],
+    "role": "señor/tlatoani de Temixtitan (Tenochtitlan)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:xicotencatl",
+    "canonical_name": "Xicoténcatl",
+    "aliases": [
+      "Sicutengal",
+      "Sintengal",
+      "Singutecal"
+    ],
+    "role": "capitán general de la provincia de Tascaltecal (Tlaxcala)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:maxixcatzin",
+    "canonical_name": "Maxixcatzin",
+    "aliases": [
+      "Magiscasin",
+      "Magiscacin"
+    ],
+    "role": "la persona más principal de la provincia de Tascaltecal",
+    "status": "candidata"
+  },
+  {
+    "id": "person:qualpopoca",
+    "canonical_name": "Qualpopoca",
+    "aliases": [],
+    "role": "señor de la ciudad de Almería (Nautecal), vasallo de Mutezuma; mandó matar a cuatro españoles y fue quemado por orden de Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cacamatzin",
+    "canonical_name": "Cacamazin",
+    "aliases": [
+      "Cacamazín"
+    ],
+    "role": "señor de Tezcuco (Texcoco), sobrino/deudo de Mutezuma; preso por Cortés y depuesto en favor de su hermano Cucuzcacin",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cuitlahuac",
+    "canonical_name": "Cuetravacin",
+    "aliases": [
+      "Cuitláhuac"
+    ],
+    "role": "hermano de Mutezuma, señor de Iztapalapa; sucedió a Mutezuma en el señorío tras su muerte",
+    "status": "candidata"
+  },
+  {
+    "id": "person:panfilo-de-narvaez",
+    "canonical_name": "Pánfilo de Narváez",
+    "aliases": [],
+    "role": "capitán enviado por Diego Velázquez para prender a Cortés, vecino de la isla Fernandina",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-de-sandoval",
+    "canonical_name": "Gonzalo de Sandoval",
+    "aliases": [],
+    "role": "alguacil mayor de Cortés; prendió a Pánfilo de Narváez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-velazquez-de-leon",
+    "canonical_name": "Juan Velázquez de León",
+    "aliases": [],
+    "role": "capitán enviado a Cuacucalco; avisó a Cortés de la llegada de Narváez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:andres-de-duero",
+    "canonical_name": "Andrés de Duero",
+    "aliases": [],
+    "role": "vecino de la isla Fernandina, vino con Narváez y medió con Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:lucas-vazquez-de-ayllon",
+    "canonical_name": "Lucas Vázquez de Ayllón",
+    "aliases": [],
+    "role": "licenciado, juez enviado desde la isla Española a impedir la armada de Narváez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-de-figueroa",
+    "canonical_name": "Rodrigo de Figueroa",
+    "aliases": [
+      "Figueroa"
+    ],
+    "role": "licenciado, juez de residencia en la isla Española",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cucuzcacin",
+    "canonical_name": "Cucuzcacin",
+    "aliases": [],
+    "role": "hijo de Mutezuma, puesto por Cortés como señor de Tezcuco tras la prisión de Cacamazin",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cuauhtemoc",
+    "canonical_name": "Guatimucín",
+    "aliases": [
+      "Cuauhtémoc"
+    ],
+    "role": "señor de Temixtitan tras Cuitláhuac; último tlatoani, capturado al caer la ciudad",
+    "status": "candidata"
+  },
+  {
+    "id": "person:garci-holguin",
+    "canonical_name": "Garci Holguín",
+    "aliases": [],
+    "role": "capitán de un bergantín; capturó a Guatimucín al caer Temixtitan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ciguacoacin",
+    "canonical_name": "Ciguacoacín",
+    "aliases": [],
+    "role": "principal capitán y gobernador de los de Temixtitan durante el sitio",
+    "status": "candidata",
+    "notas": "puede corresponder al título náhuatl Cihuacóatl (segundo cargo del señorío) más que a un nombre propio individual — a confirmar"
+  },
+  {
+    "id": "person:guanacacin",
+    "canonical_name": "Guanacacin",
+    "aliases": [],
+    "role": "hermano de Cacamazin, alzado señor de Tezcuco tras la Noche Triste, aliado de Culúa; huyó a Temixtitan cuando Cortés volvió a Tezcuco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ixtlilxochitl-don-fernando",
+    "canonical_name": "don Fernando",
+    "aliases": [
+      "Ixtlilxóchitl"
+    ],
+    "role": "hermano menor de Cacamazin, se quedó con Cortés, se bautizó, y fue puesto por señor de Tezcuco tras la huida de Guanacacin",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-ordaz",
+    "canonical_name": "Diego de Ordaz",
+    "aliases": [],
+    "role": "enviado por Cortés a explorar la provincia de Guazacualco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-de-tapia",
+    "canonical_name": "Cristóbal de Tapia",
+    "aliases": [],
+    "role": "enviado desde Castilla, causó bullicios y desasosiego entre los naturales aliados",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-ocampo",
+    "canonical_name": "Diego de Ocampo",
+    "aliases": [],
+    "role": "alcalde mayor enviado a castigar a los alborotadores de Segura de la Frontera (Tututepeque)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:casulci",
+    "canonical_name": "Casulci",
+    "aliases": [],
+    "role": "señor de la provincia de Mechuacán (Michoacán); se ofreció vasallo de la corona",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-de-olid",
+    "canonical_name": "Cristóbal de Olid",
+    "aliases": [],
+    "role": "capitán enviado por Cortés a las Hibueras (Honduras); se rebeló contra su autoridad",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-de-salazar",
+    "canonical_name": "Gonzalo de Salazar",
+    "aliases": [],
+    "role": "factor de la corona, acompañó a Cortés en la expedición a las Hibueras",
+    "status": "candidata"
+  },
+  {
+    "id": "person:peralmidez-chirinos",
+    "canonical_name": "Peralmídez Chirinos",
+    "aliases": [],
+    "role": "veedor de la corona, acompañó a Cortés en la expedición a las Hibueras",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-zuazo",
+    "canonical_name": "Alonso de Zuazo",
+    "aliases": [],
+    "role": "licenciado, dejado a cargo de la justicia de Temixtitan durante la expedición a Honduras",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gil-gonzalez-davila",
+    "canonical_name": "Gil González Dávila",
+    "aliases": [
+      "Gil González"
+    ],
+    "role": "capitán rival en la región de Hibueras (Honduras)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedrarias-davila",
+    "canonical_name": "Pedrarias Dávila",
+    "aliases": [
+      "Pedro Arias de Ávila"
+    ],
+    "role": "gobernador de la corona en la región cercana a las Hibueras",
+    "status": "candidata"
+  }
 ]

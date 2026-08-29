@@ -8,7 +8,7 @@ aliases:
 role: hermano del Almirante, quedó a cargo en su ausencia
 mention_count_aprox: null
 status: candidata
-notas: posible confusión con Diego Colón hijo (el segundo Almirante); requiere revisión caso por caso
+notas: posible confusión con person:diego-colon-hijo (hijo del Almirante, segundo Almirante) y con person:diego-colon-indio-guanahani (indígena bautizado con el mismo nombre, intérprete) -- tres personas distintas con el mismo nombre en este texto; requiere revisión caso por caso.
 mentions_hint: No se encontraron menciones etiquetadas en el texto.
 blurbs: []
 ---

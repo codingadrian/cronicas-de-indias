@@ -1,154 +1,1955 @@
 {
-  "nota": "Relaciones extraídas a mano, capítulo por capítulo. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Capítulos 1-18 (quedan 93 capítulos sin procesar).",
+  "nota": "Relaciones extraídas a mano, capítulo por capítulo. Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Capítulos 1-35 (quedan 76 capítulos sin procesar).",
   "entidades_nuevas": [
-    {"id": "person:pedrarias-davila", "canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)", "aliases": ["Pedro Arias de Ávila", "Pedrárias Dávila"], "role": "gobernador de Tierra Firme", "status": "candidata", "capitulo": 1},
-    {"id": "person:vasco-nunez-de-balboa", "canonical_name": "Vasco Núñez de Balboa", "aliases": ["Vasco Nuñez de Balboa"], "role": "conquistador, yerno de Pedrarias Dávila", "status": "candidata", "capitulo": 1},
-    {"id": "person:bernardino-iniguez", "canonical_name": "Bernardino Íñiguez", "aliases": ["Bernardino Iñiguez"], "role": "veedor de la expedición de 1517", "status": "candidata", "capitulo": 1},
-    {"id": "person:alonso-gonzalez-clerigo", "canonical_name": "Alonso González", "aliases": ["Alonso Gonzalez"], "role": "clérigo de la expedición de 1517", "status": "candidata", "capitulo": 1},
-    {"id": "place:tierra-firme", "canonical_name": "Tierra Firme", "aliases": [], "modern_equivalent": "Panamá/costa continental", "status": "candidata", "capitulo": 1},
-    {"id": "place:nombre-de-dios", "canonical_name": "Nombre de Dios", "aliases": [], "modern_equivalent": "Nombre de Dios, Panamá", "status": "candidata", "capitulo": 1},
-    {"id": "place:ajaruco", "canonical_name": "Ajaruco", "aliases": [], "modern_equivalent": "por confirmar (costa norte de Cuba)", "status": "candidata", "capitulo": 1},
-    {"id": "place:san-cristobal-cuba", "canonical_name": "San Cristóbal", "aliases": [], "modern_equivalent": "asentamiento predecesor de La Habana", "status": "candidata", "capitulo": 1},
-    {"id": "person:melchorejo", "canonical_name": "Melchorejo", "aliases": ["Melchor", "Melchorillo"], "role": "indígena maya capturado en Punta de Cotoche (1517), intérprete", "status": "candidata", "capitulo": 2},
-    {"id": "person:julianillo", "canonical_name": "Julianillo", "aliases": ["Julián", "Julianico"], "role": "indígena maya capturado en Punta de Cotoche (1517), intérprete", "status": "candidata", "capitulo": 2},
-    {"id": "person:alonso-bote", "canonical_name": "Alonso Bote", "aliases": [], "role": "soldado, capturado vivo en Potonchán", "status": "candidata", "capitulo": 4},
-    {"id": "person:berrio", "canonical_name": "Berrio", "aliases": [], "role": "soldado, desaparecido en la Florida", "status": "candidata", "capitulo": 6},
-    {"id": "person:pedro-de-avila", "canonical_name": "Pedro de Ávila", "aliases": [], "role": "vecino de la Habana", "status": "candidata", "capitulo": 7},
-    {"id": "person:juan-diaz-clerigo", "canonical_name": "Juan Díaz", "aliases": [], "role": "clérigo de la expedición de Grijalva (1518)", "status": "candidata", "capitulo": 8},
-    {"id": "person:penalosa", "canonical_name": "Peñalosa", "aliases": [], "role": "veedor de la expedición de Grijalva (1518)", "status": "candidata", "capitulo": 8},
-    {"id": "place:campeche", "canonical_name": "Campeche", "aliases": ["Lázaro", "San Lázaro"], "modern_equivalent": "Campeche, México", "status": "candidata", "capitulo": 3},
-    {"id": "place:potonchan", "canonical_name": "Potonchán", "aliases": ["Potonchan", "Champotón", "Champoton"], "modern_equivalent": "Champotón, Campeche, México", "status": "candidata", "capitulo": 3},
-    {"id": "place:florida", "canonical_name": "Florida", "aliases": [], "modern_equivalent": "Florida, EE. UU.", "status": "candidata", "capitulo": 5},
-    {"id": "place:habana", "canonical_name": "La Habana", "aliases": ["Habana", "Puerto de Carenas"], "modern_equivalent": "La Habana, Cuba", "status": "candidata", "capitulo": 6},
-    {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": ["Yucatan"], "modern_equivalent": "península de Yucatán, México", "status": "candidata", "capitulo": 6},
-    {"id": "place:trinidad-cuba", "canonical_name": "Villa de la Trinidad", "aliases": ["Trinidad"], "modern_equivalent": "Trinidad, Cuba", "status": "candidata", "capitulo": 7},
-    {"id": "place:matanzas", "canonical_name": "Puerto de Matanzas", "aliases": ["Matanzas"], "modern_equivalent": "Matanzas, Cuba", "status": "candidata", "capitulo": 8},
-    {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": [], "modern_equivalent": "Cozumel, México", "status": "candidata", "capitulo": 8},
-    {"id": "person:juan-de-quiteria", "canonical_name": "Juan de Quiteria", "aliases": [], "role": "soldado, muerto en la segunda batalla de Champotón (1518)", "status": "candidata", "capitulo": 9},
-    {"id": "person:francisco-indio-rio-banderas", "canonical_name": "Francisco (indio del río de Banderas)", "aliases": [], "role": "indígena bautizado, tomado en el río de Banderas", "status": "candidata", "capitulo": 13},
-    {"id": "person:gonzalo-hernandez-de-oviedo", "canonical_name": "Gonzalo Fernández de Oviedo", "aliases": ["Gonzalo Hernandez de Oviedo"], "role": "cronista mencionado junto con Gómara", "status": "candidata", "capitulo": 13},
-    {"id": "person:bartolome-pardo", "canonical_name": "Bartolomé Pardo", "aliases": [], "role": "soldado que halló oro cerca de Tonalá", "status": "candidata", "capitulo": 16},
-    {"id": "person:benito-martinez", "canonical_name": "Benito Martínez", "aliases": [], "role": "capellán de Diego Velázquez, procurador enviado a Castilla", "status": "candidata", "capitulo": 17},
-    {"id": "person:francisco-lopez-de-gomara", "canonical_name": "Francisco López de Gómara", "aliases": ["Gómora", "Gómara"], "role": "cronista corregido extensamente por Bernal Díaz", "status": "candidata", "capitulo": 17},
-    {"id": "place:boca-de-terminos", "canonical_name": "Boca de Términos", "aliases": [], "modern_equivalent": "Laguna de Términos, Campeche, México", "status": "candidata", "capitulo": 10},
-    {"id": "place:rio-tabasco", "canonical_name": "Río de Tabasco (río de Grijalva)", "aliases": ["río de Grijalva"], "modern_equivalent": "río Grijalva, Tabasco, México", "status": "candidata", "capitulo": 11},
-    {"id": "place:la-rambla", "canonical_name": "La-Rambla (Aguayaluco)", "aliases": ["Aguayaluco"], "modern_equivalent": "por confirmar (costa de Tabasco)", "status": "candidata", "capitulo": 12},
-    {"id": "place:rio-de-alvarado", "canonical_name": "Río de Alvarado", "aliases": ["Papalohuna"], "modern_equivalent": "río Papaloapan, Veracruz, México", "status": "candidata", "capitulo": 12},
-    {"id": "place:guacacualco", "canonical_name": "Guacacualco", "aliases": ["Guazacualco", "Guacayualco"], "modern_equivalent": "Coatzacoalcos, Veracruz, México", "status": "candidata", "capitulo": 12},
-    {"id": "place:rio-de-banderas", "canonical_name": "Río de Banderas", "aliases": [], "modern_equivalent": "por confirmar (costa de Veracruz)", "status": "candidata", "capitulo": 12},
-    {"id": "place:isla-de-sacrificios", "canonical_name": "Isla de Sacrificios", "aliases": [], "modern_equivalent": "Isla de Sacrificios, Veracruz, México", "status": "candidata", "capitulo": 13},
-    {"id": "place:rio-de-canoas", "canonical_name": "Río de Canoas", "aliases": [], "modern_equivalent": "por confirmar (costa de Veracruz/Pánuco)", "status": "candidata", "capitulo": 16},
-    {"id": "place:tonala", "canonical_name": "Tonalá (San Antón)", "aliases": ["San Anton"], "modern_equivalent": "Tonalá, Chiapas, México", "status": "candidata", "capitulo": 16}
+    {
+      "id": "person:pedrarias-davila",
+      "canonical_name": "Pedro Arias de Ávila (Pedrarias Dávila)",
+      "aliases": [
+        "Pedro Arias de Ávila",
+        "Pedrárias Dávila"
+      ],
+      "role": "gobernador de Tierra Firme",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:vasco-nunez-de-balboa",
+      "canonical_name": "Vasco Núñez de Balboa",
+      "aliases": [
+        "Vasco Nuñez de Balboa"
+      ],
+      "role": "conquistador, yerno de Pedrarias Dávila",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:bernardino-iniguez",
+      "canonical_name": "Bernardino Íñiguez",
+      "aliases": [
+        "Bernardino Iñiguez"
+      ],
+      "role": "veedor de la expedición de 1517",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:alonso-gonzalez-clerigo",
+      "canonical_name": "Alonso González",
+      "aliases": [
+        "Alonso Gonzalez"
+      ],
+      "role": "clérigo de la expedición de 1517",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:tierra-firme",
+      "canonical_name": "Tierra Firme",
+      "aliases": [],
+      "modern_equivalent": "Panamá/costa continental",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:nombre-de-dios",
+      "canonical_name": "Nombre de Dios",
+      "aliases": [],
+      "modern_equivalent": "Nombre de Dios, Panamá",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:ajaruco",
+      "canonical_name": "Ajaruco",
+      "aliases": [],
+      "modern_equivalent": "por confirmar (costa norte de Cuba)",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:san-cristobal-cuba",
+      "canonical_name": "San Cristóbal",
+      "aliases": [],
+      "modern_equivalent": "asentamiento predecesor de La Habana",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:melchorejo",
+      "canonical_name": "Melchorejo",
+      "aliases": [
+        "Melchor",
+        "Melchorillo"
+      ],
+      "role": "indígena maya capturado en Punta de Cotoche (1517), intérprete",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:julianillo",
+      "canonical_name": "Julianillo",
+      "aliases": [
+        "Julián",
+        "Julianico"
+      ],
+      "role": "indígena maya capturado en Punta de Cotoche (1517), intérprete",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:alonso-bote",
+      "canonical_name": "Alonso Bote",
+      "aliases": [],
+      "role": "soldado, capturado vivo en Potonchán",
+      "status": "candidata",
+      "capitulo": 4
+    },
+    {
+      "id": "person:berrio",
+      "canonical_name": "Berrio",
+      "aliases": [],
+      "role": "soldado, desaparecido en la Florida",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "person:pedro-de-avila",
+      "canonical_name": "Pedro de Ávila",
+      "aliases": [],
+      "role": "vecino de la Habana",
+      "status": "candidata",
+      "capitulo": 7
+    },
+    {
+      "id": "person:juan-diaz-clerigo",
+      "canonical_name": "Juan Díaz",
+      "aliases": [],
+      "role": "clérigo de la expedición de Grijalva (1518)",
+      "status": "candidata",
+      "capitulo": 8
+    },
+    {
+      "id": "person:penalosa",
+      "canonical_name": "Peñalosa",
+      "aliases": [],
+      "role": "veedor de la expedición de Grijalva (1518)",
+      "status": "candidata",
+      "capitulo": 8
+    },
+    {
+      "id": "place:campeche",
+      "canonical_name": "Campeche",
+      "aliases": [
+        "Lázaro",
+        "San Lázaro"
+      ],
+      "modern_equivalent": "Campeche, México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:potonchan",
+      "canonical_name": "Potonchán",
+      "aliases": [
+        "Potonchan",
+        "Champotón",
+        "Champoton"
+      ],
+      "modern_equivalent": "Champotón, Campeche, México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:florida",
+      "canonical_name": "Florida",
+      "aliases": [],
+      "modern_equivalent": "Florida, EE. UU.",
+      "status": "candidata",
+      "capitulo": 5
+    },
+    {
+      "id": "place:habana",
+      "canonical_name": "La Habana",
+      "aliases": [
+        "Habana",
+        "Puerto de Carenas"
+      ],
+      "modern_equivalent": "La Habana, Cuba",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "place:yucatan",
+      "canonical_name": "Yucatán",
+      "aliases": [
+        "Yucatan"
+      ],
+      "modern_equivalent": "península de Yucatán, México",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "place:trinidad-cuba",
+      "canonical_name": "Villa de la Trinidad",
+      "aliases": [
+        "Trinidad"
+      ],
+      "modern_equivalent": "Trinidad, Cuba",
+      "status": "candidata",
+      "capitulo": 7
+    },
+    {
+      "id": "place:matanzas",
+      "canonical_name": "Puerto de Matanzas",
+      "aliases": [
+        "Matanzas"
+      ],
+      "modern_equivalent": "Matanzas, Cuba",
+      "status": "candidata",
+      "capitulo": 8
+    },
+    {
+      "id": "place:cozumel",
+      "canonical_name": "Cozumel",
+      "aliases": [],
+      "modern_equivalent": "Cozumel, México",
+      "status": "candidata",
+      "capitulo": 8
+    },
+    {
+      "id": "person:juan-de-quiteria",
+      "canonical_name": "Juan de Quiteria",
+      "aliases": [],
+      "role": "soldado, muerto en la segunda batalla de Champotón (1518)",
+      "status": "candidata",
+      "capitulo": 9
+    },
+    {
+      "id": "person:francisco-indio-rio-banderas",
+      "canonical_name": "Francisco (indio del río de Banderas)",
+      "aliases": [],
+      "role": "indígena bautizado, tomado en el río de Banderas",
+      "status": "candidata",
+      "capitulo": 13
+    },
+    {
+      "id": "person:gonzalo-hernandez-de-oviedo",
+      "canonical_name": "Gonzalo Fernández de Oviedo",
+      "aliases": [
+        "Gonzalo Hernandez de Oviedo"
+      ],
+      "role": "cronista mencionado junto con Gómara",
+      "status": "candidata",
+      "capitulo": 13
+    },
+    {
+      "id": "person:bartolome-pardo",
+      "canonical_name": "Bartolomé Pardo",
+      "aliases": [],
+      "role": "soldado que halló oro cerca de Tonalá",
+      "status": "candidata",
+      "capitulo": 16
+    },
+    {
+      "id": "person:benito-martinez",
+      "canonical_name": "Benito Martínez",
+      "aliases": [],
+      "role": "capellán de Diego Velázquez, procurador enviado a Castilla",
+      "status": "candidata",
+      "capitulo": 17
+    },
+    {
+      "id": "person:francisco-lopez-de-gomara",
+      "canonical_name": "Francisco López de Gómara",
+      "aliases": [
+        "Gómora",
+        "Gómara"
+      ],
+      "role": "cronista corregido extensamente por Bernal Díaz",
+      "status": "candidata",
+      "capitulo": 17
+    },
+    {
+      "id": "place:boca-de-terminos",
+      "canonical_name": "Boca de Términos",
+      "aliases": [],
+      "modern_equivalent": "Laguna de Términos, Campeche, México",
+      "status": "candidata",
+      "capitulo": 10
+    },
+    {
+      "id": "place:rio-tabasco",
+      "canonical_name": "Río de Tabasco (río de Grijalva)",
+      "aliases": [
+        "río de Grijalva"
+      ],
+      "modern_equivalent": "río Grijalva, Tabasco, México",
+      "status": "candidata",
+      "capitulo": 11
+    },
+    {
+      "id": "place:la-rambla",
+      "canonical_name": "La-Rambla (Aguayaluco)",
+      "aliases": [
+        "Aguayaluco"
+      ],
+      "modern_equivalent": "por confirmar (costa de Tabasco)",
+      "status": "candidata",
+      "capitulo": 12
+    },
+    {
+      "id": "place:rio-de-alvarado",
+      "canonical_name": "Río de Alvarado",
+      "aliases": [
+        "Papalohuna"
+      ],
+      "modern_equivalent": "río Papaloapan, Veracruz, México",
+      "status": "candidata",
+      "capitulo": 12
+    },
+    {
+      "id": "place:guacacualco",
+      "canonical_name": "Guacacualco",
+      "aliases": [
+        "Guazacualco",
+        "Guacayualco"
+      ],
+      "modern_equivalent": "Coatzacoalcos, Veracruz, México",
+      "status": "candidata",
+      "capitulo": 12
+    },
+    {
+      "id": "place:rio-de-banderas",
+      "canonical_name": "Río de Banderas",
+      "aliases": [],
+      "modern_equivalent": "por confirmar (costa de Veracruz)",
+      "status": "candidata",
+      "capitulo": 12
+    },
+    {
+      "id": "place:isla-de-sacrificios",
+      "canonical_name": "Isla de Sacrificios",
+      "aliases": [],
+      "modern_equivalent": "Isla de Sacrificios, Veracruz, México",
+      "status": "candidata",
+      "capitulo": 13
+    },
+    {
+      "id": "place:rio-de-canoas",
+      "canonical_name": "Río de Canoas",
+      "aliases": [],
+      "modern_equivalent": "por confirmar (costa de Veracruz/Pánuco)",
+      "status": "candidata",
+      "capitulo": 16
+    },
+    {
+      "id": "place:tonala",
+      "canonical_name": "Tonalá (San Antón)",
+      "aliases": [
+        "San Anton"
+      ],
+      "modern_equivalent": "Tonalá, Chiapas, México",
+      "status": "candidata",
+      "capitulo": 16
+    },
+    {
+      "id": "person:andres-de-duero",
+      "canonical_name": "Andrés de Duero",
+      "aliases": [
+        "Duero"
+      ],
+      "role": "secretario de Diego Velázquez, gestionó en secreto la elección de Cortés como capitán general",
+      "status": "candidata",
+      "capitulo": 19
+    },
+    {
+      "id": "person:amador-de-lares",
+      "canonical_name": "Amador de Lares",
+      "aliases": [
+        "Amador de Larez",
+        "el contador"
+      ],
+      "role": "contador de su majestad en Cuba, cómplice de Duero en la elección de Cortés",
+      "status": "candidata",
+      "capitulo": 19
+    },
+    {
+      "id": "person:vasco-porcallo",
+      "canonical_name": "Vasco Porcallo",
+      "aliases": [],
+      "role": "hidalgo propuesto como capitán rival de Cortés, pariente cercano del conde de Feria",
+      "status": "candidata",
+      "capitulo": 19
+    },
+    {
+      "id": "person:catalina-suarez-pacheco",
+      "canonical_name": "Catalina Suárez Pacheco",
+      "aliases": [
+        "doña Catalina Suarez Pacheco",
+        "Catalina Suarez la Marcaida",
+        "doña Catalina"
+      ],
+      "role": "esposa de Hernán Cortés",
+      "status": "candidata",
+      "capitulo": 19
+    },
+    {
+      "id": "person:juan-sedeno",
+      "canonical_name": "Juan Sedeño",
+      "aliases": [
+        "Juan de Sedeño"
+      ],
+      "role": "soldado que se unió a la armada con su propio navío, una yegua y un esclavo; el más rico de la expedición",
+      "status": "candidata",
+      "capitulo": 21
+    },
+    {
+      "id": "person:francisco-verdugo",
+      "canonical_name": "Francisco Verdugo",
+      "aliases": [],
+      "role": "alcalde mayor de la villa de la Trinidad, cuñado de Diego Velázquez",
+      "status": "candidata",
+      "capitulo": 22
+    },
+    {
+      "id": "person:juan-millan",
+      "canonical_name": "Juan Millán",
+      "aliases": [
+        "el Astrólogo"
+      ],
+      "role": "anciano apodado 'el Astrólogo' que instigó a Diego Velázquez contra Cortés",
+      "status": "candidata",
+      "capitulo": 22
+    },
+    {
+      "id": "person:gaspar-de-garnica",
+      "canonical_name": "Gaspar de Garnica",
+      "aliases": [
+        "Garnica"
+      ],
+      "role": "criado de Diego Velázquez enviado con mandamientos para detener y apresar a Cortés",
+      "status": "candidata",
+      "capitulo": 22
+    },
+    {
+      "id": "person:pedro-barba",
+      "canonical_name": "Pedro Barba",
+      "aliases": [],
+      "role": "teniente de la villa de la Habana, no favoreció las órdenes de Velázquez contra Cortés",
+      "status": "candidata",
+      "capitulo": 23
+    },
+    {
+      "id": "person:camacho",
+      "canonical_name": "Camacho",
+      "aliases": [],
+      "role": "piloto que desobedeció las instrucciones de navegación de Cortés y fue encarcelado",
+      "status": "candidata",
+      "capitulo": 23
+    },
+    {
+      "id": "person:escobar",
+      "canonical_name": "Escobar",
+      "aliases": [],
+      "role": "capitán enviado por Cortés a explorar el puerto de Boca de Términos",
+      "status": "candidata",
+      "capitulo": 23
+    },
+    {
+      "id": "person:gonzalo-dominguez",
+      "canonical_name": "Gonzalo Domínguez",
+      "aliases": [],
+      "role": "jinete de la armada de Cortés, participó en la carga de caballería de la batalla de Centla",
+      "status": "candidata",
+      "capitulo": 23
+    },
+    {
+      "id": "person:pedro-gonzalez-de-trujillo",
+      "canonical_name": "Pedro González de Trujillo",
+      "aliases": [],
+      "role": "jinete de la armada de Cortés, participó en la carga de caballería de la batalla de Centla",
+      "status": "candidata",
+      "capitulo": 23
+    },
+    {
+      "id": "person:moron-bayamo",
+      "canonical_name": "Morón",
+      "aliases": [
+        "Moron del Bayamo"
+      ],
+      "role": "jinete de la armada de Cortés, natural del Bayamo, participó en la carga de caballería de la batalla de Centla",
+      "status": "candidata",
+      "capitulo": 23
+    },
+    {
+      "id": "person:diego-de-godoy",
+      "canonical_name": "Diego de Godoy",
+      "aliases": [],
+      "role": "escribano del Rey que formalizó el requerimiento y el acta de toma de posesión en Tabasco",
+      "status": "candidata",
+      "capitulo": 31
+    },
+    {
+      "id": "person:antonio-de-villarroel",
+      "canonical_name": "Antonio de Villarroel",
+      "aliases": [
+        "Antonio Serrano de Cardona"
+      ],
+      "role": "alférez de la armada de Cortés, luego llamado Antonio Serrano de Cardona",
+      "status": "candidata",
+      "capitulo": 33
+    },
+    {
+      "id": "person:mesa-artillero",
+      "canonical_name": "Mesa",
+      "aliases": [],
+      "role": "artillero de la armada de Cortés, encargado de los tiros de bronce",
+      "status": "candidata",
+      "capitulo": 20
+    },
+    {
+      "id": "person:francisco-de-morla",
+      "canonical_name": "Francisco de Morla",
+      "aliases": [],
+      "role": "capitán y jinete de la armada de Cortés",
+      "status": "candidata",
+      "capitulo": 20
+    },
+    {
+      "id": "person:francisco-de-orozco",
+      "canonical_name": "Francisco de Orozco",
+      "aliases": [],
+      "role": "capitán de la artillería de la armada de Cortés, veterano de las guerras de Italia",
+      "status": "candidata",
+      "capitulo": 26
+    },
+    {
+      "id": "person:gonzalo-guerrero",
+      "canonical_name": "Gonzalo Guerrero",
+      "aliases": [],
+      "role": "español náufrago que vivía entre los mayas de Yucatán como cacique y se negó a reunirse con Cortés",
+      "status": "candidata",
+      "capitulo": 27
+    },
+    {
+      "id": "person:andres-de-tapia",
+      "canonical_name": "Andrés de Tapia",
+      "aliases": [],
+      "role": "soldado de la armada de Cortés, uno de los que halló a Jerónimo de Aguilar en Cozumel",
+      "status": "candidata",
+      "capitulo": 29
+    },
+    {
+      "id": "person:rodrigo-rangel",
+      "canonical_name": "Rodrigo Rangel",
+      "aliases": [],
+      "role": "hidalgo reclutado en la villa de la Trinidad, luego camarero de Cortés",
+      "status": "candidata",
+      "capitulo": 21
+    },
+    {
+      "id": "place:cintia",
+      "canonical_name": "Cintia",
+      "aliases": [],
+      "modern_equivalent": "cerca de Tabasco, en la zona de la batalla de Centla (sitio no identificado con precisión)",
+      "status": "candidata",
+      "capitulo": 33
+    },
+    {
+      "id": "place:santa-maria-de-la-victoria",
+      "canonical_name": "Santa María de la Victoria",
+      "aliases": [],
+      "modern_equivalent": "cerca de Frontera, Tabasco (villa fundada por Cortés tras la batalla de Centla)",
+      "status": "candidata",
+      "capitulo": 34
+    },
+    {
+      "id": "place:punta-de-las-mujeres",
+      "canonical_name": "Punta de las Mujeres",
+      "aliases": [],
+      "modern_equivalent": "Isla Mujeres, Quintana Roo (aprox.)",
+      "status": "candidata",
+      "capitulo": 30
+    },
+    {
+      "id": "place:isla-de-pinos",
+      "canonical_name": "Isla de Pinos",
+      "aliases": [
+        "los Jardines"
+      ],
+      "modern_equivalent": "Isla de la Juventud, Cuba",
+      "status": "candidata",
+      "capitulo": 23
+    },
+    {
+      "id": "place:guaniguanico",
+      "canonical_name": "Guaniguanico",
+      "aliases": [],
+      "modern_equivalent": "región de Pinar del Río, Cuba (aprox.)",
+      "status": "candidata",
+      "capitulo": 23
+    }
   ],
   "eventos": [
-    {"id": "event:ejecucion-balboa", "name": "Ejecución de Vasco Núñez de Balboa", "date_text": "no especificada en el capítulo", "place_id": "place:tierra-firme", "status": "candidata"},
-    {"id": "event:expedicion-hernandez-de-cordoba-1517", "name": "Expedición de Francisco Hernández de Córdoba a Yucatán (1517)", "date_text": "1517 (implícito, por contexto)", "place_id": "place:yucatan", "status": "candidata"},
-    {"id": "event:batalla-punta-cotoche", "name": "Escaramuza de Punta de Cotoche", "date_text": "1517, poco después de tocar tierra por primera vez", "place_id": "place:punta-de-cotoche", "status": "candidata", "notas": "parte de la expedición de Hernández de Córdoba; termina con la captura de Melchorejo y Julianillo"},
-    {"id": "event:batalla-potonchan-1517", "name": "Batalla de Potonchán (Bahía de Mala Pelea)", "date_text": "1517", "place_id": "place:potonchan", "status": "candidata", "notas": "parte de la expedición de Hernández de Córdoba; el capitán recibe doce flechazos, mueren más de 50 soldados españoles"},
-    {"id": "event:escaramuza-florida-1517", "name": "Escaramuza en la Florida", "date_text": "1517, en el viaje de regreso a Cuba", "place_id": "place:florida", "status": "candidata", "notas": "parte de la expedición de Hernández de Córdoba; el piloto Alaminos es herido en la garganta, desaparece el soldado Berrio"},
-    {"id": "event:muerte-francisco-hernandez-de-cordoba", "name": "Muerte de Francisco Hernández de Córdoba", "date_text": "1517, diez días después de llegar a su encomienda en Santispíritus", "place_id": null, "status": "candidata", "notas": "muere de las heridas recibidas en la batalla de Potonchán"},
-    {"id": "event:expedicion-grijalva-1518", "name": "Expedición de Juan de Grijalva (1518)", "date_text": "5 de abril de 1518 (partida)", "place_id": "place:cozumel", "status": "candidata", "notas": "segunda expedición desde Cuba, organizada por Diego Velázquez; primer avistamiento en Cozumel"},
-    {"id": "event:batalla-champoton-1518", "name": "Segunda batalla de Champotón", "date_text": "1518, durante la expedición de Grijalva", "place_id": "place:potonchan", "status": "candidata", "notas": "los indios de Champotón, ya victoriosos en 1517, volvieron a atacar; muere el soldado Juan de Quiteria y es herido Juan de Grijalva (tres flechazos, dos dientes rotos)"},
-    {"id": "event:encuentro-rio-banderas-1518", "name": "Encuentro con gobernadores de Moctezuma en el río de Banderas", "date_text": "1518", "place_id": "place:rio-de-banderas", "status": "candidata", "notas": "primer contacto documentado de la expedición con representantes del imperio de Moctezuma; primer rescate de oro y noticia de 'Culba, México'"},
-    {"id": "event:ataque-rio-de-canoas-1518", "name": "Ataque indígena en el río de Canoas", "date_text": "1518", "place_id": "place:rio-de-canoas", "status": "candidata", "notas": "dieciséis canoas de guerra atacan el navío al mando de Alonso de Ávila; los españoles repelen el ataque con ballestas y escopetas"}
+    {
+      "id": "event:ejecucion-balboa",
+      "name": "Ejecución de Vasco Núñez de Balboa",
+      "date_text": "no especificada en el capítulo",
+      "place_id": "place:tierra-firme",
+      "status": "candidata"
+    },
+    {
+      "id": "event:expedicion-hernandez-de-cordoba-1517",
+      "name": "Expedición de Francisco Hernández de Córdoba a Yucatán (1517)",
+      "date_text": "1517 (implícito, por contexto)",
+      "place_id": "place:yucatan",
+      "status": "candidata"
+    },
+    {
+      "id": "event:batalla-punta-cotoche",
+      "name": "Escaramuza de Punta de Cotoche",
+      "date_text": "1517, poco después de tocar tierra por primera vez",
+      "place_id": "place:punta-de-cotoche",
+      "status": "candidata",
+      "notas": "parte de la expedición de Hernández de Córdoba; termina con la captura de Melchorejo y Julianillo"
+    },
+    {
+      "id": "event:batalla-potonchan-1517",
+      "name": "Batalla de Potonchán (Bahía de Mala Pelea)",
+      "date_text": "1517",
+      "place_id": "place:potonchan",
+      "status": "candidata",
+      "notas": "parte de la expedición de Hernández de Córdoba; el capitán recibe doce flechazos, mueren más de 50 soldados españoles"
+    },
+    {
+      "id": "event:escaramuza-florida-1517",
+      "name": "Escaramuza en la Florida",
+      "date_text": "1517, en el viaje de regreso a Cuba",
+      "place_id": "place:florida",
+      "status": "candidata",
+      "notas": "parte de la expedición de Hernández de Córdoba; el piloto Alaminos es herido en la garganta, desaparece el soldado Berrio"
+    },
+    {
+      "id": "event:muerte-francisco-hernandez-de-cordoba",
+      "name": "Muerte de Francisco Hernández de Córdoba",
+      "date_text": "1517, diez días después de llegar a su encomienda en Santispíritus",
+      "place_id": null,
+      "status": "candidata",
+      "notas": "muere de las heridas recibidas en la batalla de Potonchán"
+    },
+    {
+      "id": "event:expedicion-grijalva-1518",
+      "name": "Expedición de Juan de Grijalva (1518)",
+      "date_text": "5 de abril de 1518 (partida)",
+      "place_id": "place:cozumel",
+      "status": "candidata",
+      "notas": "segunda expedición desde Cuba, organizada por Diego Velázquez; primer avistamiento en Cozumel"
+    },
+    {
+      "id": "event:batalla-champoton-1518",
+      "name": "Segunda batalla de Champotón",
+      "date_text": "1518, durante la expedición de Grijalva",
+      "place_id": "place:potonchan",
+      "status": "candidata",
+      "notas": "los indios de Champotón, ya victoriosos en 1517, volvieron a atacar; muere el soldado Juan de Quiteria y es herido Juan de Grijalva (tres flechazos, dos dientes rotos)"
+    },
+    {
+      "id": "event:encuentro-rio-banderas-1518",
+      "name": "Encuentro con gobernadores de Moctezuma en el río de Banderas",
+      "date_text": "1518",
+      "place_id": "place:rio-de-banderas",
+      "status": "candidata",
+      "notas": "primer contacto documentado de la expedición con representantes del imperio de Moctezuma; primer rescate de oro y noticia de 'Culba, México'"
+    },
+    {
+      "id": "event:ataque-rio-de-canoas-1518",
+      "name": "Ataque indígena en el río de Canoas",
+      "date_text": "1518",
+      "place_id": "place:rio-de-canoas",
+      "status": "candidata",
+      "notas": "dieciséis canoas de guerra atacan el navío al mando de Alonso de Ávila; los españoles repelen el ataque con ballestas y escopetas"
+    },
+    {
+      "id": "event:eleccion-cortes-capitan-general",
+      "name": "Elección de Hernando Cortés como capitán general",
+      "date_text": "hacia noviembre de 1518 (implícito, tras el regreso de Grijalva)",
+      "place_id": "place:santiago-de-cuba",
+      "status": "candidata"
+    },
+    {
+      "id": "event:intento-revocacion-mandato-cortes",
+      "name": "Intento de Diego Velázquez de revocarle el mando a Cortés",
+      "date_text": "fines de 1518 / inicios de 1519",
+      "place_id": "place:habana",
+      "status": "candidata"
+    },
+    {
+      "id": "event:llegada-cortes-cozumel-1519",
+      "name": "Llegada de la armada de Cortés a Cozumel",
+      "date_text": "10 de febrero de 1519 (salida de Cuba); llegada pocos días después",
+      "place_id": "place:cozumel",
+      "status": "candidata"
+    },
+    {
+      "id": "event:rescate-jeronimo-de-aguilar",
+      "name": "Rescate de Jerónimo de Aguilar en Cozumel",
+      "date_text": "marzo de 1519 (poco antes de partir hacia Tabasco)",
+      "place_id": "place:cozumel",
+      "status": "candidata"
+    },
+    {
+      "id": "event:toma-posesion-rio-tabasco-1519",
+      "name": "Toma de posesión y primer combate en el río de Tabasco",
+      "date_text": "12 de marzo de 1519 (implícito)",
+      "place_id": "place:rio-tabasco",
+      "status": "candidata"
+    },
+    {
+      "id": "event:batalla-centla-1519",
+      "name": "Batalla de Centla",
+      "date_text": "25 de marzo de 1519 (día de Nuestra Señora de Marzo)",
+      "place_id": "place:cintia",
+      "status": "candidata"
+    }
   ],
   "relaciones": [
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:tierra-firme", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-    {"from": "person:pedrarias-davila", "relation": "estuvo_presente_en", "to": "event:ejecucion-balboa", "notas": "ordenó la ejecución", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-    {"from": "person:vasco-nunez-de-balboa", "relation": "estuvo_presente_en", "to": "event:ejecucion-balboa", "notas": "fue ejecutado por orden de Pedrarias, su suegro", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:cuba", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "gobernador de Cuba, autorizó y proveyó la expedición", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "elegido capitán de la expedición", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "piloto principal", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-    {"from": "event:expedicion-hernandez-de-cordoba-1517", "relation": "ocurrió_en", "to": "place:cuba", "source": "source:bernal-diaz:cap-1", "status": "candidata"},
-
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:punta-de-cotoche", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
-    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:batalla-punta-cotoche", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
-    {"from": "person:alonso-gonzalez-clerigo", "relation": "estuvo_presente_en", "to": "event:batalla-punta-cotoche", "notas": "recogió el oro y los ídolos hallados en los adoratorios", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
-    {"from": "person:melchorejo", "relation": "estuvo_presente_en", "to": "event:batalla-punta-cotoche", "notas": "capturado y bautizado tras la escaramuza", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
-    {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:batalla-punta-cotoche", "notas": "capturado y bautizado tras la escaramuza", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
-    {"from": "event:batalla-punta-cotoche", "relation": "ocurrió_en", "to": "place:punta-de-cotoche", "source": "source:bernal-diaz:cap-2", "status": "candidata"},
-
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:campeche", "source": "source:bernal-diaz:cap-3", "status": "candidata"},
-
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:potonchan", "source": "source:bernal-diaz:cap-4", "status": "candidata"},
-    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:batalla-potonchan-1517", "notas": "capitán, recibió doce flechazos", "source": "source:bernal-diaz:cap-4", "status": "candidata"},
-    {"from": "person:alonso-bote", "relation": "estuvo_presente_en", "to": "event:batalla-potonchan-1517", "notas": "capturado vivo por los indios", "source": "source:bernal-diaz:cap-4", "status": "candidata"},
-    {"from": "event:batalla-potonchan-1517", "relation": "ocurrió_en", "to": "place:potonchan", "source": "source:bernal-diaz:cap-4", "status": "candidata"},
-
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:florida", "notas": "de camino de regreso a Cuba, a buscar agua", "source": "source:bernal-diaz:cap-5", "status": "candidata"},
-    {"from": "person:anton-de-alaminos", "relation": "viajó_a", "to": "place:florida", "notas": "propuso desviar la ruta de regreso hacia la Florida", "source": "source:bernal-diaz:cap-5", "status": "candidata"},
-
-    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:escaramuza-florida-1517", "notas": "herido en la garganta", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
-    {"from": "person:berrio", "relation": "estuvo_presente_en", "to": "event:escaramuza-florida-1517", "notas": "desaparecido, presumiblemente capturado o muerto", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
-    {"from": "event:escaramuza-florida-1517", "relation": "ocurrió_en", "to": "place:florida", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:habana", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
-    {"from": "person:francisco-hernandez-de-cordoba", "relation": "viajó_a", "to": "place:habana", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
-    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:muerte-francisco-hernandez-de-cordoba", "source": "source:bernal-diaz:cap-6", "status": "candidata"},
-
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:trinidad-cuba", "source": "source:bernal-diaz:cap-7", "status": "candidata"},
-    {"from": "person:pedro-de-avila", "relation": "viajó_a", "to": "place:trinidad-cuba", "notas": "llevó a Bernal Díaz y otros dos soldados en su canoa", "source": "source:bernal-diaz:cap-7", "status": "candidata"},
-
-    {"from": "person:juan-de-grijalva", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán general, deudo de Diego Velázquez", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:pedro-de-alvarado", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán de uno de los cuatro navíos", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:francisco-de-montejo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán de uno de los cuatro navíos", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:alonso-de-avila", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán de uno de los cuatro navíos", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "organizó y financió la armada desde Santiago de Cuba", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:bernal-diaz-del-castillo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "piloto mayor", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:juan-diaz-clerigo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:penalosa", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "veedor de la armada", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:melchorejo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "llevado como intérprete", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "llevado como intérprete", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:matanzas", "notas": "escala de reabastecimiento antes de zarpar hacia Yucatán", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:cozumel", "notas": "primer avistamiento de tierra de la expedición", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-    {"from": "event:expedicion-grijalva-1518", "relation": "ocurrió_en", "to": "place:cozumel", "source": "source:bernal-diaz:cap-8", "status": "candidata"},
-
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:potonchan", "notas": "de vuelta con la expedición de Grijalva, un año después de la primera batalla", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "estuvo_presente_en", "to": "event:batalla-champoton-1518", "notas": "recibió tres flechazos y le rompieron dos dientes", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
-    {"from": "person:juan-de-quiteria", "relation": "estuvo_presente_en", "to": "event:batalla-champoton-1518", "notas": "murió en la batalla", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
-    {"from": "person:melchorejo", "relation": "estuvo_presente_en", "to": "event:batalla-champoton-1518", "notas": "enviado como mensajero a los caciques junto con Julianillo; Bernal Díaz sospecha que no transmitieron fielmente el mensaje", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
-    {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:batalla-champoton-1518", "notas": "enviado como mensajero a los caciques junto con Melchorejo", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
-    {"from": "event:batalla-champoton-1518", "relation": "ocurrió_en", "to": "place:potonchan", "source": "source:bernal-diaz:cap-9", "status": "candidata"},
-
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:boca-de-terminos", "source": "source:bernal-diaz:cap-10", "status": "candidata"},
-    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "propuso el nombre 'Boca de Términos' creyendo que era una isla", "source": "source:bernal-diaz:cap-10", "status": "candidata"},
-
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:rio-tabasco", "notas": "el río se renombró 'de Grijalva' por haberlo descubierto él", "source": "source:bernal-diaz:cap-11", "status": "candidata"},
-    {"from": "person:melchorejo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "sirvió de intérprete en el encuentro con los indios del río de Tabasco", "source": "source:bernal-diaz:cap-11", "status": "candidata"},
-    {"from": "person:julianillo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "sirvió de intérprete en el encuentro con los indios del río de Tabasco", "source": "source:bernal-diaz:cap-11", "status": "candidata"},
-
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:la-rambla", "source": "source:bernal-diaz:cap-12", "status": "candidata"},
-    {"from": "person:pedro-de-alvarado", "relation": "viajó_a", "to": "place:rio-de-alvarado", "notas": "se adelantó a la armada sin licencia; el general se enojó con él por esto", "source": "source:bernal-diaz:cap-12", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:guacacualco", "notas": "vio el paraje del río pero no entró por mal tiempo", "source": "source:bernal-diaz:cap-12", "status": "candidata"},
-
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:rio-de-banderas", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
-    {"from": "person:francisco-de-montejo", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "desembarcó primero con los ballesteros y escopeteros a explorar", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "recibió el presente de oro de los gobernadores de Moctezuma", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
-    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "se tomó posesión de la tierra en su nombre como gobernador de Cuba", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
-    {"from": "person:francisco-indio-rio-banderas", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "tomado y bautizado aquí; Bernal Díaz lo volvió a ver después casado en Santa Fe", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
-    {"from": "event:encuentro-rio-banderas-1518", "relation": "ocurrió_en", "to": "place:rio-de-banderas", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:isla-de-sacrificios", "notas": "encontró indicios de sacrificios humanos recientes", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
-    {"from": "person:francisco-lopez-de-gomara", "relation": "estuvo_presente_en", "to": "event:encuentro-rio-banderas-1518", "notas": "Bernal Díaz corrige aquí una versión de Gómara/Oviedo sobre el origen del oro rescatado", "source": "source:bernal-diaz:cap-13", "status": "candidata"},
-
-    {"from": "person:francisco-indio-rio-banderas", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "actuó como intérprete improvisado en San Juan de Ulúa junto a Julianillo", "source": "source:bernal-diaz:cap-14", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:san-juan-de-ulua", "notas": "aquí se le dio el nombre por ser capitán Juan y día de San Juan", "source": "source:bernal-diaz:cap-14", "status": "candidata"},
-    {"from": "person:pedro-de-alvarado", "relation": "viajó_a", "to": "place:habana", "notas": "enviado a Cuba a dar aviso a Diego Velázquez con el oro rescatado y los soldados heridos", "source": "source:bernal-diaz:cap-14", "status": "candidata"},
-
-    {"from": "person:cristobal-de-olid", "relation": "viajó_a", "to": "place:cuba", "notas": "enviado por Diego Velázquez en un navío pequeño en busca de la expedición de Grijalva; una tormenta lo obligó a volver a Santiago de Cuba", "source": "source:bernal-diaz:cap-15", "status": "candidata"},
-    {"from": "person:pedro-de-alvarado", "relation": "viajó_a", "to": "place:santiago-de-cuba", "notas": "llegó con el oro rescatado; Diego Velázquez celebró varios días", "source": "source:bernal-diaz:cap-15", "status": "candidata"},
-
-    {"from": "person:alonso-de-avila", "relation": "estuvo_presente_en", "to": "event:ataque-rio-de-canoas-1518", "notas": "capitán del navío atacado por dieciséis canoas de guerra", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
-    {"from": "event:ataque-rio-de-canoas-1518", "relation": "ocurrió_en", "to": "place:rio-de-canoas", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:tonala", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
-    {"from": "person:bartolome-pardo", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "halló oro y objetos rituales en un adoratorio cerca de Tonalá; se le permitió quedarse con el oro tras pagar el quinto real", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
-    {"from": "person:bernal-diaz-del-castillo", "relation": "viajó_a", "to": "place:tonala", "notas": "aquí sembró las primeras semillas de naranjo de la Nueva España", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:santiago-de-cuba", "notas": "regreso de la expedición, con unos veinte mil pesos de oro en total", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
-    {"from": "person:francisco-de-montejo", "relation": "enfrentado_a", "to": "person:juan-de-grijalva", "notas": "Montejo y Alonso de Ávila se oponían a la idea de Grijalva de poblar la tierra", "source": "source:bernal-diaz:cap-16", "status": "candidata"},
-
-    {"from": "person:diego-velazquez-de-cuellar", "relation": "aliado_de", "to": "person:obispo-de-burgos", "notas": "Velázquez enviaba oro y regalos al Obispo de Búrgos para asegurar su favor en el Consejo de Indias", "source": "source:bernal-diaz:cap-17", "status": "candidata"},
-
-    {"from": "person:francisco-lopez-de-gomara", "relation": "enfrentado_a", "to": "person:bernal-diaz-del-castillo", "notas": "Bernal Díaz dedica los Capítulos 17-18 a corregir extensamente la crónica de Gómara, que considera mal informada y sesgada a favor de Cortés", "source": "source:bernal-diaz:cap-18", "status": "candidata"},
-    {"from": "person:gonzalo-hernandez-de-oviedo", "relation": "enfrentado_a", "to": "person:bernal-diaz-del-castillo", "notas": "mencionado junto con Gómara como fuente de datos inexactos", "source": "source:bernal-diaz:cap-13", "status": "candidata"}
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:tierra-firme",
+      "source": "source:bernal-diaz:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedrarias-davila",
+      "relation": "estuvo_presente_en",
+      "to": "event:ejecucion-balboa",
+      "notas": "ordenó la ejecución",
+      "source": "source:bernal-diaz:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:vasco-nunez-de-balboa",
+      "relation": "estuvo_presente_en",
+      "to": "event:ejecucion-balboa",
+      "notas": "fue ejecutado por orden de Pedrarias, su suegro",
+      "source": "source:bernal-diaz:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:cuba",
+      "source": "source:bernal-diaz:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-hernandez-de-cordoba-1517",
+      "notas": "gobernador de Cuba, autorizó y proveyó la expedición",
+      "source": "source:bernal-diaz:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-hernandez-de-cordoba",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-hernandez-de-cordoba-1517",
+      "notas": "elegido capitán de la expedición",
+      "source": "source:bernal-diaz:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:anton-de-alaminos",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-hernandez-de-cordoba-1517",
+      "notas": "piloto principal",
+      "source": "source:bernal-diaz:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "event:expedicion-hernandez-de-cordoba-1517",
+      "relation": "ocurrió_en",
+      "to": "place:cuba",
+      "source": "source:bernal-diaz:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:punta-de-cotoche",
+      "source": "source:bernal-diaz:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-hernandez-de-cordoba",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-punta-cotoche",
+      "source": "source:bernal-diaz:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-gonzalez-clerigo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-punta-cotoche",
+      "notas": "recogió el oro y los ídolos hallados en los adoratorios",
+      "source": "source:bernal-diaz:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:melchorejo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-punta-cotoche",
+      "notas": "capturado y bautizado tras la escaramuza",
+      "source": "source:bernal-diaz:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:julianillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-punta-cotoche",
+      "notas": "capturado y bautizado tras la escaramuza",
+      "source": "source:bernal-diaz:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:batalla-punta-cotoche",
+      "relation": "ocurrió_en",
+      "to": "place:punta-de-cotoche",
+      "source": "source:bernal-diaz:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:campeche",
+      "source": "source:bernal-diaz:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:potonchan",
+      "source": "source:bernal-diaz:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-hernandez-de-cordoba",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-potonchan-1517",
+      "notas": "capitán, recibió doce flechazos",
+      "source": "source:bernal-diaz:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-bote",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-potonchan-1517",
+      "notas": "capturado vivo por los indios",
+      "source": "source:bernal-diaz:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "event:batalla-potonchan-1517",
+      "relation": "ocurrió_en",
+      "to": "place:potonchan",
+      "source": "source:bernal-diaz:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:florida",
+      "notas": "de camino de regreso a Cuba, a buscar agua",
+      "source": "source:bernal-diaz:cap-5",
+      "status": "candidata"
+    },
+    {
+      "from": "person:anton-de-alaminos",
+      "relation": "viajó_a",
+      "to": "place:florida",
+      "notas": "propuso desviar la ruta de regreso hacia la Florida",
+      "source": "source:bernal-diaz:cap-5",
+      "status": "candidata"
+    },
+    {
+      "from": "person:anton-de-alaminos",
+      "relation": "estuvo_presente_en",
+      "to": "event:escaramuza-florida-1517",
+      "notas": "herido en la garganta",
+      "source": "source:bernal-diaz:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:berrio",
+      "relation": "estuvo_presente_en",
+      "to": "event:escaramuza-florida-1517",
+      "notas": "desaparecido, presumiblemente capturado o muerto",
+      "source": "source:bernal-diaz:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "event:escaramuza-florida-1517",
+      "relation": "ocurrió_en",
+      "to": "place:florida",
+      "source": "source:bernal-diaz:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-hernandez-de-cordoba",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-hernandez-de-cordoba",
+      "relation": "estuvo_presente_en",
+      "to": "event:muerte-francisco-hernandez-de-cordoba",
+      "source": "source:bernal-diaz:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:trinidad-cuba",
+      "source": "source:bernal-diaz:cap-7",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-avila",
+      "relation": "viajó_a",
+      "to": "place:trinidad-cuba",
+      "notas": "llevó a Bernal Díaz y otros dos soldados en su canoa",
+      "source": "source:bernal-diaz:cap-7",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "capitán general, deudo de Diego Velázquez",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "capitán de uno de los cuatro navíos",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-montejo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "capitán de uno de los cuatro navíos",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-avila",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "capitán de uno de los cuatro navíos",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "organizó y financió la armada desde Santiago de Cuba",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:anton-de-alaminos",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "piloto mayor",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-diaz-clerigo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:penalosa",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "veedor de la armada",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:melchorejo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "llevado como intérprete",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:julianillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "llevado como intérprete",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:matanzas",
+      "notas": "escala de reabastecimiento antes de zarpar hacia Yucatán",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:cozumel",
+      "notas": "primer avistamiento de tierra de la expedición",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "event:expedicion-grijalva-1518",
+      "relation": "ocurrió_en",
+      "to": "place:cozumel",
+      "source": "source:bernal-diaz:cap-8",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:potonchan",
+      "notas": "de vuelta con la expedición de Grijalva, un año después de la primera batalla",
+      "source": "source:bernal-diaz:cap-9",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-champoton-1518",
+      "notas": "recibió tres flechazos y le rompieron dos dientes",
+      "source": "source:bernal-diaz:cap-9",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-quiteria",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-champoton-1518",
+      "notas": "murió en la batalla",
+      "source": "source:bernal-diaz:cap-9",
+      "status": "candidata"
+    },
+    {
+      "from": "person:melchorejo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-champoton-1518",
+      "notas": "enviado como mensajero a los caciques junto con Julianillo; Bernal Díaz sospecha que no transmitieron fielmente el mensaje",
+      "source": "source:bernal-diaz:cap-9",
+      "status": "candidata"
+    },
+    {
+      "from": "person:julianillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-champoton-1518",
+      "notas": "enviado como mensajero a los caciques junto con Melchorejo",
+      "source": "source:bernal-diaz:cap-9",
+      "status": "candidata"
+    },
+    {
+      "from": "event:batalla-champoton-1518",
+      "relation": "ocurrió_en",
+      "to": "place:potonchan",
+      "source": "source:bernal-diaz:cap-9",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:boca-de-terminos",
+      "source": "source:bernal-diaz:cap-10",
+      "status": "candidata"
+    },
+    {
+      "from": "person:anton-de-alaminos",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "propuso el nombre 'Boca de Términos' creyendo que era una isla",
+      "source": "source:bernal-diaz:cap-10",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:rio-tabasco",
+      "notas": "el río se renombró 'de Grijalva' por haberlo descubierto él",
+      "source": "source:bernal-diaz:cap-11",
+      "status": "candidata"
+    },
+    {
+      "from": "person:melchorejo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "sirvió de intérprete en el encuentro con los indios del río de Tabasco",
+      "source": "source:bernal-diaz:cap-11",
+      "status": "candidata"
+    },
+    {
+      "from": "person:julianillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "sirvió de intérprete en el encuentro con los indios del río de Tabasco",
+      "source": "source:bernal-diaz:cap-11",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:la-rambla",
+      "source": "source:bernal-diaz:cap-12",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "viajó_a",
+      "to": "place:rio-de-alvarado",
+      "notas": "se adelantó a la armada sin licencia; el general se enojó con él por esto",
+      "source": "source:bernal-diaz:cap-12",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:guacacualco",
+      "notas": "vio el paraje del río pero no entró por mal tiempo",
+      "source": "source:bernal-diaz:cap-12",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:rio-de-banderas",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-montejo",
+      "relation": "estuvo_presente_en",
+      "to": "event:encuentro-rio-banderas-1518",
+      "notas": "desembarcó primero con los ballesteros y escopeteros a explorar",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "estuvo_presente_en",
+      "to": "event:encuentro-rio-banderas-1518",
+      "notas": "recibió el presente de oro de los gobernadores de Moctezuma",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "estuvo_presente_en",
+      "to": "event:encuentro-rio-banderas-1518",
+      "notas": "se tomó posesión de la tierra en su nombre como gobernador de Cuba",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-indio-rio-banderas",
+      "relation": "estuvo_presente_en",
+      "to": "event:encuentro-rio-banderas-1518",
+      "notas": "tomado y bautizado aquí; Bernal Díaz lo volvió a ver después casado en Santa Fe",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "event:encuentro-rio-banderas-1518",
+      "relation": "ocurrió_en",
+      "to": "place:rio-de-banderas",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:isla-de-sacrificios",
+      "notas": "encontró indicios de sacrificios humanos recientes",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-lopez-de-gomara",
+      "relation": "estuvo_presente_en",
+      "to": "event:encuentro-rio-banderas-1518",
+      "notas": "Bernal Díaz corrige aquí una versión de Gómara/Oviedo sobre el origen del oro rescatado",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-indio-rio-banderas",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "actuó como intérprete improvisado en San Juan de Ulúa junto a Julianillo",
+      "source": "source:bernal-diaz:cap-14",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:san-juan-de-ulua",
+      "notas": "aquí se le dio el nombre por ser capitán Juan y día de San Juan",
+      "source": "source:bernal-diaz:cap-14",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "notas": "enviado a Cuba a dar aviso a Diego Velázquez con el oro rescatado y los soldados heridos",
+      "source": "source:bernal-diaz:cap-14",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cristobal-de-olid",
+      "relation": "viajó_a",
+      "to": "place:cuba",
+      "notas": "enviado por Diego Velázquez en un navío pequeño en busca de la expedición de Grijalva; una tormenta lo obligó a volver a Santiago de Cuba",
+      "source": "source:bernal-diaz:cap-15",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "viajó_a",
+      "to": "place:santiago-de-cuba",
+      "notas": "llegó con el oro rescatado; Diego Velázquez celebró varios días",
+      "source": "source:bernal-diaz:cap-15",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-avila",
+      "relation": "estuvo_presente_en",
+      "to": "event:ataque-rio-de-canoas-1518",
+      "notas": "capitán del navío atacado por dieciséis canoas de guerra",
+      "source": "source:bernal-diaz:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "event:ataque-rio-de-canoas-1518",
+      "relation": "ocurrió_en",
+      "to": "place:rio-de-canoas",
+      "source": "source:bernal-diaz:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:tonala",
+      "source": "source:bernal-diaz:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bartolome-pardo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "halló oro y objetos rituales en un adoratorio cerca de Tonalá; se le permitió quedarse con el oro tras pagar el quinto real",
+      "source": "source:bernal-diaz:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "viajó_a",
+      "to": "place:tonala",
+      "notas": "aquí sembró las primeras semillas de naranjo de la Nueva España",
+      "source": "source:bernal-diaz:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:santiago-de-cuba",
+      "notas": "regreso de la expedición, con unos veinte mil pesos de oro en total",
+      "source": "source:bernal-diaz:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-montejo",
+      "relation": "enfrentado_a",
+      "to": "person:juan-de-grijalva",
+      "notas": "Montejo y Alonso de Ávila se oponían a la idea de Grijalva de poblar la tierra",
+      "source": "source:bernal-diaz:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "aliado_de",
+      "to": "person:obispo-de-burgos",
+      "notas": "Velázquez enviaba oro y regalos al Obispo de Búrgos para asegurar su favor en el Consejo de Indias",
+      "source": "source:bernal-diaz:cap-17",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-lopez-de-gomara",
+      "relation": "enfrentado_a",
+      "to": "person:bernal-diaz-del-castillo",
+      "notas": "Bernal Díaz dedica los Capítulos 17-18 a corregir extensamente la crónica de Gómara, que considera mal informada y sesgada a favor de Cortés",
+      "source": "source:bernal-diaz:cap-18",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-hernandez-de-oviedo",
+      "relation": "enfrentado_a",
+      "to": "person:bernal-diaz-del-castillo",
+      "notas": "mencionado junto con Gómara como fuente de datos inexactos",
+      "source": "source:bernal-diaz:cap-13",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:eleccion-cortes-capitan-general",
+      "source": "source:bernal-diaz:cap-19",
+      "status": "candidata",
+      "notas": "elegido capitán general de la armada"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "estuvo_presente_en",
+      "to": "event:eleccion-cortes-capitan-general",
+      "source": "source:bernal-diaz:cap-19",
+      "status": "candidata",
+      "notas": "gobernador de Cuba, aprobó la elección tras ser persuadido por Duero y Lares"
+    },
+    {
+      "from": "person:andres-de-duero",
+      "relation": "estuvo_presente_en",
+      "to": "event:eleccion-cortes-capitan-general",
+      "source": "source:bernal-diaz:cap-19",
+      "status": "candidata",
+      "notas": "secretario de Velázquez, gestionó en secreto la elección de Cortés"
+    },
+    {
+      "from": "person:amador-de-lares",
+      "relation": "estuvo_presente_en",
+      "to": "event:eleccion-cortes-capitan-general",
+      "source": "source:bernal-diaz:cap-19",
+      "status": "candidata",
+      "notas": "contador de su majestad, cómplice de Duero"
+    },
+    {
+      "from": "person:vasco-porcallo",
+      "relation": "estuvo_presente_en",
+      "to": "event:eleccion-cortes-capitan-general",
+      "source": "source:bernal-diaz:cap-19",
+      "status": "candidata",
+      "notas": "candidato rival propuesto por otros hidalgos, no fue elegido"
+    },
+    {
+      "from": "person:catalina-suarez-pacheco",
+      "relation": "aliado_de",
+      "to": "person:hernan-cortes",
+      "source": "source:bernal-diaz:cap-19",
+      "status": "candidata",
+      "notas": "esposa de Cortés (el esquema no tiene un tipo de relación matrimonial; se usa aliado_de como aproximación)"
+    },
+    {
+      "from": "event:eleccion-cortes-capitan-general",
+      "relation": "ocurrió_en",
+      "to": "place:santiago-de-cuba",
+      "source": "source:bernal-diaz:cap-19",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:trinidad-cuba",
+      "source": "source:bernal-diaz:cap-20",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-de-ordas",
+      "relation": "aliado_de",
+      "to": "person:diego-velazquez-de-cuellar",
+      "source": "source:bernal-diaz:cap-20",
+      "status": "candidata",
+      "notas": "mayordomo mayor de Velázquez, enviado para vigilar la armada de Cortés"
+    },
+    {
+      "from": "person:francisco-de-morla",
+      "relation": "aliado_de",
+      "to": "person:diego-velazquez-de-cuellar",
+      "source": "source:bernal-diaz:cap-20",
+      "status": "candidata",
+      "notas": "vino con la armada desde la casa de Velázquez"
+    },
+    {
+      "from": "person:alonso-hernandez-puertocarrero",
+      "relation": "viajó_a",
+      "to": "place:trinidad-cuba",
+      "source": "source:bernal-diaz:cap-21",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-de-sandoval",
+      "relation": "viajó_a",
+      "to": "place:trinidad-cuba",
+      "source": "source:bernal-diaz:cap-21",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-velazquez-de-leon",
+      "relation": "viajó_a",
+      "to": "place:trinidad-cuba",
+      "source": "source:bernal-diaz:cap-21",
+      "status": "candidata"
+    },
+    {
+      "from": "person:rodrigo-rangel",
+      "relation": "viajó_a",
+      "to": "place:trinidad-cuba",
+      "source": "source:bernal-diaz:cap-21",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-sedeno",
+      "relation": "viajó_a",
+      "to": "place:trinidad-cuba",
+      "source": "source:bernal-diaz:cap-21",
+      "status": "candidata",
+      "notas": "se unió con su propio navío, yegua y un esclavo"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "enfrentado_a",
+      "to": "person:hernan-cortes",
+      "source": "source:bernal-diaz:cap-21",
+      "status": "candidata",
+      "notas": "envió cartas y mandamientos para detener la armada, primer indicio de ruptura"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "estuvo_presente_en",
+      "to": "event:intento-revocacion-mandato-cortes",
+      "source": "source:bernal-diaz:cap-22",
+      "status": "candidata",
+      "notas": "ordenó revocar el mando de Cortés y dárselo a Vasco Porcallo"
+    },
+    {
+      "from": "person:juan-millan",
+      "relation": "estuvo_presente_en",
+      "to": "event:intento-revocacion-mandato-cortes",
+      "source": "source:bernal-diaz:cap-22",
+      "status": "candidata",
+      "notas": "instigó a Velázquez contra Cortés"
+    },
+    {
+      "from": "person:gaspar-de-garnica",
+      "relation": "estuvo_presente_en",
+      "to": "event:intento-revocacion-mandato-cortes",
+      "source": "source:bernal-diaz:cap-22",
+      "status": "candidata",
+      "notas": "enviado con los mandamientos para detener a Cortés"
+    },
+    {
+      "from": "person:francisco-verdugo",
+      "relation": "estuvo_presente_en",
+      "to": "event:intento-revocacion-mandato-cortes",
+      "source": "source:bernal-diaz:cap-22",
+      "status": "candidata",
+      "notas": "alcalde mayor de Trinidad, no hizo cumplir la orden"
+    },
+    {
+      "from": "person:diego-de-ordas",
+      "relation": "aliado_de",
+      "to": "person:hernan-cortes",
+      "source": "source:bernal-diaz:cap-22",
+      "status": "candidata",
+      "notas": "pese a ser hombre de Velázquez, no favoreció la revocación del mando"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "enfrentado_a",
+      "to": "person:diego-velazquez-de-cuellar",
+      "source": "source:bernal-diaz:cap-22",
+      "status": "candidata",
+      "notas": "ruptura abierta tras el intento de revocación del mando"
+    },
+    {
+      "from": "person:vasco-porcallo",
+      "relation": "estuvo_presente_en",
+      "to": "event:intento-revocacion-mandato-cortes",
+      "source": "source:bernal-diaz:cap-22",
+      "status": "candidata",
+      "notas": "Velázquez le había otorgado el mando en lugar de Cortés"
+    },
+    {
+      "from": "event:intento-revocacion-mandato-cortes",
+      "relation": "ocurrió_en",
+      "to": "place:trinidad-cuba",
+      "source": "source:bernal-diaz:cap-22",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-23",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-escalante",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-23",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-23",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-montejo",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-23",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-barba",
+      "relation": "estuvo_presente_en",
+      "to": "event:intento-revocacion-mandato-cortes",
+      "source": "source:bernal-diaz:cap-23",
+      "status": "candidata",
+      "notas": "teniente de la Habana, no favoreció la orden de Velázquez"
+    },
+    {
+      "from": "person:escobar",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-23",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gaspar-de-garnica",
+      "relation": "viajó_a",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-24",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-velazquez-de-leon",
+      "relation": "aliado_de",
+      "to": "person:hernan-cortes",
+      "source": "source:bernal-diaz:cap-24",
+      "status": "candidata",
+      "notas": "pese a ser pariente de Velázquez, se puso del lado de Cortés"
+    },
+    {
+      "from": "person:bartolome-de-olmedo",
+      "relation": "aliado_de",
+      "to": "person:hernan-cortes",
+      "source": "source:bernal-diaz:cap-24",
+      "status": "candidata",
+      "notas": "fraile mercedario que avisó a Cortés de las cartas de Velázquez"
+    },
+    {
+      "from": "event:intento-revocacion-mandato-cortes",
+      "relation": "ocurrió_en",
+      "to": "place:habana",
+      "source": "source:bernal-diaz:cap-24",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:cozumel",
+      "source": "source:bernal-diaz:cap-25",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:llegada-cortes-cozumel-1519",
+      "source": "source:bernal-diaz:cap-25",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "estuvo_presente_en",
+      "to": "event:llegada-cortes-cozumel-1519",
+      "source": "source:bernal-diaz:cap-25",
+      "status": "candidata",
+      "notas": "llegó primero a Cozumel, tomó objetos de un adoratorio indígena"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "viajó_a",
+      "to": "place:cozumel",
+      "source": "source:bernal-diaz:cap-25",
+      "status": "candidata"
+    },
+    {
+      "from": "person:melchorejo",
+      "relation": "viajó_a",
+      "to": "place:cozumel",
+      "source": "source:bernal-diaz:cap-25",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-morla",
+      "relation": "estuvo_presente_en",
+      "to": "event:llegada-cortes-cozumel-1519",
+      "source": "source:bernal-diaz:cap-25",
+      "status": "candidata",
+      "notas": "capitán de un navío al que se le rompió el gobernalle"
+    },
+    {
+      "from": "person:camacho",
+      "relation": "estuvo_presente_en",
+      "to": "event:llegada-cortes-cozumel-1519",
+      "source": "source:bernal-diaz:cap-25",
+      "status": "candidata",
+      "notas": "encarcelado por Cortés por no seguir las instrucciones de navegación"
+    },
+    {
+      "from": "event:llegada-cortes-cozumel-1519",
+      "relation": "ocurrió_en",
+      "to": "place:cozumel",
+      "source": "source:bernal-diaz:cap-25",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-orozco",
+      "relation": "estuvo_presente_en",
+      "to": "event:llegada-cortes-cozumel-1519",
+      "source": "source:bernal-diaz:cap-26",
+      "status": "candidata",
+      "notas": "nombrado capitán de la artillería durante el alarde"
+    },
+    {
+      "from": "person:mesa-artillero",
+      "relation": "estuvo_presente_en",
+      "to": "event:llegada-cortes-cozumel-1519",
+      "source": "source:bernal-diaz:cap-26",
+      "status": "candidata",
+      "notas": "artillero encargado de los tiros de bronce"
+    },
+    {
+      "from": "person:jeronimo-de-aguilar",
+      "relation": "viajó_a",
+      "to": "place:cozumel",
+      "source": "source:bernal-diaz:cap-27",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-guerrero",
+      "relation": "estuvo_presente_en",
+      "to": "event:rescate-jeronimo-de-aguilar",
+      "source": "source:bernal-diaz:cap-27",
+      "status": "candidata",
+      "notas": "se negó a abandonar Yucatán y reunirse con Cortés"
+    },
+    {
+      "from": "person:jeronimo-de-aguilar",
+      "relation": "estuvo_presente_en",
+      "to": "event:rescate-jeronimo-de-aguilar",
+      "source": "source:bernal-diaz:cap-27",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:rescate-jeronimo-de-aguilar",
+      "source": "source:bernal-diaz:cap-27",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-de-ordas",
+      "relation": "viajó_a",
+      "to": "place:punta-de-cotoche",
+      "source": "source:bernal-diaz:cap-27",
+      "status": "candidata",
+      "notas": "enviado a esperar noticias de Aguilar"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:rio-tabasco",
+      "source": "source:bernal-diaz:cap-28",
+      "status": "candidata"
+    },
+    {
+      "from": "person:andres-de-tapia",
+      "relation": "estuvo_presente_en",
+      "to": "event:rescate-jeronimo-de-aguilar",
+      "source": "source:bernal-diaz:cap-29",
+      "status": "candidata",
+      "notas": "uno de los soldados que halló a Aguilar en la canoa"
+    },
+    {
+      "from": "event:rescate-jeronimo-de-aguilar",
+      "relation": "ocurrió_en",
+      "to": "place:cozumel",
+      "source": "source:bernal-diaz:cap-29",
+      "status": "candidata"
+    },
+    {
+      "from": "person:escobar",
+      "relation": "viajó_a",
+      "to": "place:boca-de-terminos",
+      "source": "source:bernal-diaz:cap-30",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:punta-de-las-mujeres",
+      "source": "source:bernal-diaz:cap-30",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:toma-posesion-rio-tabasco-1519",
+      "source": "source:bernal-diaz:cap-31",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:rio-tabasco",
+      "source": "source:bernal-diaz:cap-31",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-avila",
+      "relation": "estuvo_presente_en",
+      "to": "event:toma-posesion-rio-tabasco-1519",
+      "source": "source:bernal-diaz:cap-31",
+      "status": "candidata",
+      "notas": "condujo el avance por tierra"
+    },
+    {
+      "from": "person:jeronimo-de-aguilar",
+      "relation": "estuvo_presente_en",
+      "to": "event:toma-posesion-rio-tabasco-1519",
+      "source": "source:bernal-diaz:cap-31",
+      "status": "candidata",
+      "notas": "intérprete en el requerimiento a los indios"
+    },
+    {
+      "from": "person:diego-de-godoy",
+      "relation": "estuvo_presente_en",
+      "to": "event:toma-posesion-rio-tabasco-1519",
+      "source": "source:bernal-diaz:cap-31",
+      "status": "candidata",
+      "notas": "escribano del Rey, formalizó el requerimiento y el acta de posesión"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:toma-posesion-rio-tabasco-1519",
+      "source": "source:bernal-diaz:cap-31",
+      "status": "candidata",
+      "notas": "recibió un flechazo en el muslo durante el combate"
+    },
+    {
+      "from": "event:toma-posesion-rio-tabasco-1519",
+      "relation": "ocurrió_en",
+      "to": "place:rio-tabasco",
+      "source": "source:bernal-diaz:cap-31",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "estuvo_presente_en",
+      "to": "event:toma-posesion-rio-tabasco-1519",
+      "source": "source:bernal-diaz:cap-32",
+      "status": "candidata",
+      "notas": "encabezó una columna atacada por guerreros de Tabasco"
+    },
+    {
+      "from": "person:francisco-de-lugo",
+      "relation": "estuvo_presente_en",
+      "to": "event:toma-posesion-rio-tabasco-1519",
+      "source": "source:bernal-diaz:cap-32",
+      "status": "candidata",
+      "notas": "encabezó otra columna, cercada por escuadrones indígenas"
+    },
+    {
+      "from": "person:diego-de-ordas",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-33",
+      "status": "candidata",
+      "notas": "capitán de los infantes y ballesteros en la batalla"
+    },
+    {
+      "from": "person:antonio-de-villarroel",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-33",
+      "status": "candidata",
+      "notas": "alférez de la armada"
+    },
+    {
+      "from": "person:mesa-artillero",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-33",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cristobal-de-olid",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata",
+      "notas": "uno de los trece jinetes de la carga decisiva"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata",
+      "notas": "uno de los trece jinetes"
+    },
+    {
+      "from": "person:alonso-hernandez-puertocarrero",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-escalante",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-montejo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-avila",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-velazquez-de-leon",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-morla",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-dominguez",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-gonzalez-de-trujillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:moron-bayamo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata",
+      "notas": "participó en la batalla, la primera gran victoria campal en la Nueva España"
+    },
+    {
+      "from": "event:batalla-centla-1519",
+      "relation": "ocurrió_en",
+      "to": "place:cintia",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:bernal-diaz-del-castillo",
+      "relation": "enfrentado_a",
+      "to": "person:francisco-lopez-de-gomara",
+      "source": "source:bernal-diaz:cap-34",
+      "status": "candidata",
+      "notas": "disputa la versión de Gómara sobre la batalla, que atribuye la victoria a la aparición de los apóstoles Santiago o San Pedro (uso aproximado de enfrentado_a para una disputa historiográfica, no un enfrentamiento físico)"
+    },
+    {
+      "from": "person:jeronimo-de-aguilar",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-centla-1519",
+      "source": "source:bernal-diaz:cap-35",
+      "status": "candidata",
+      "notas": "intérprete en las negociaciones de paz tras la batalla"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:cintia",
+      "source": "source:bernal-diaz:cap-35",
+      "status": "candidata"
+    }
   ]
 }

@@ -359,6 +359,179 @@
 "url": "/personas/bernal-diaz/alonso-gonzalez-clerigo/"
 },
 {
+"id": "person:andres-de-duero",
+"canonical_name": "Andrés de Duero",
+"aliases": [
+"Duero"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/andres-de-duero/"
+},
+{
+"id": "person:amador-de-lares",
+"canonical_name": "Amador de Lares",
+"aliases": [
+"Amador de Larez",
+"el contador"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/amador-de-lares/"
+},
+{
+"id": "person:vasco-porcallo",
+"canonical_name": "Vasco Porcallo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/vasco-porcallo/"
+},
+{
+"id": "person:catalina-suarez-pacheco",
+"canonical_name": "Catalina Suárez Pacheco",
+"aliases": [
+"doña Catalina Suarez Pacheco",
+"Catalina Suarez la Marcaida",
+"doña Catalina"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/catalina-suarez-pacheco/"
+},
+{
+"id": "person:juan-sedeno",
+"canonical_name": "Juan Sedeño",
+"aliases": [
+"Juan de Sedeño"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/juan-sedeno/"
+},
+{
+"id": "person:francisco-verdugo",
+"canonical_name": "Francisco Verdugo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/francisco-verdugo/"
+},
+{
+"id": "person:juan-millan",
+"canonical_name": "Juan Millán",
+"aliases": [
+"el Astrólogo"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/juan-millan/"
+},
+{
+"id": "person:gaspar-de-garnica",
+"canonical_name": "Gaspar de Garnica",
+"aliases": [
+"Garnica"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/gaspar-de-garnica/"
+},
+{
+"id": "person:pedro-barba",
+"canonical_name": "Pedro Barba",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/pedro-barba/"
+},
+{
+"id": "person:camacho",
+"canonical_name": "Camacho",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/camacho/"
+},
+{
+"id": "person:escobar",
+"canonical_name": "Escobar",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/escobar/"
+},
+{
+"id": "person:gonzalo-dominguez",
+"canonical_name": "Gonzalo Domínguez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/gonzalo-dominguez/"
+},
+{
+"id": "person:pedro-gonzalez-de-trujillo",
+"canonical_name": "Pedro González de Trujillo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/pedro-gonzalez-de-trujillo/"
+},
+{
+"id": "person:moron-bayamo",
+"canonical_name": "Morón",
+"aliases": [
+"Moron del Bayamo"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/moron-bayamo/"
+},
+{
+"id": "person:diego-de-godoy",
+"canonical_name": "Diego de Godoy",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/diego-de-godoy/"
+},
+{
+"id": "person:antonio-de-villarroel",
+"canonical_name": "Antonio de Villarroel",
+"aliases": [
+"Antonio Serrano de Cardona"
+],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/antonio-de-villarroel/"
+},
+{
+"id": "person:mesa-artillero",
+"canonical_name": "Mesa",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/mesa-artillero/"
+},
+{
+"id": "person:francisco-de-morla",
+"canonical_name": "Francisco de Morla",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/francisco-de-morla/"
+},
+{
+"id": "person:francisco-de-orozco",
+"canonical_name": "Francisco de Orozco",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/francisco-de-orozco/"
+},
+{
+"id": "person:gonzalo-guerrero",
+"canonical_name": "Gonzalo Guerrero",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/gonzalo-guerrero/"
+},
+{
+"id": "person:andres-de-tapia",
+"canonical_name": "Andrés de Tapia",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/andres-de-tapia/"
+},
+{
+"id": "person:rodrigo-rangel",
+"canonical_name": "Rodrigo Rangel",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/bernal-diaz/rodrigo-rangel/"
+},
+{
 "id": "place:nueva-espana",
 "canonical_name": "Nueva España",
 "aliases": [
@@ -611,5 +784,42 @@
 "aliases": [],
 "tipo": "lugar",
 "url": "/lugares/bernal-diaz/san-cristobal-cuba/"
+},
+{
+"id": "place:cintia",
+"canonical_name": "Cintia",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/cintia/"
+},
+{
+"id": "place:santa-maria-de-la-victoria",
+"canonical_name": "Santa María de la Victoria",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/santa-maria-de-la-victoria/"
+},
+{
+"id": "place:punta-de-las-mujeres",
+"canonical_name": "Punta de las Mujeres",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/punta-de-las-mujeres/"
+},
+{
+"id": "place:isla-de-pinos",
+"canonical_name": "Isla de Pinos",
+"aliases": [
+"los Jardines"
+],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/isla-de-pinos/"
+},
+{
+"id": "place:guaniguanico",
+"canonical_name": "Guaniguanico",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/bernal-diaz/guaniguanico/"
 }
 ]

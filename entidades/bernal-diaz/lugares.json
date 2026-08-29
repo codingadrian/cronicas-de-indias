@@ -1,33 +1,335 @@
 [
-  {"id": "place:nueva-espana", "canonical_name": "Nueva España", "aliases": ["Nueva-España"], "modern_equivalent": "México (virreinato colonial)", "mention_count_aprox": 43, "status": "revisada"},
-  {"id": "place:villa-rica-de-la-vera-cruz", "canonical_name": "Villa Rica de la Vera Cruz", "aliases": ["Villa Rica"], "modern_equivalent": "Veracruz", "mention_count_aprox": 30, "status": "revisada"},
-  {"id": "place:punta-de-cotoche", "canonical_name": "Punta de Cotoche", "aliases": [], "modern_equivalent": "Cabo Catoche, Yucatán", "mention_count_aprox": 17, "status": "revisada"},
-  {"id": "place:santiago-de-cuba", "canonical_name": "Santiago de Cuba", "aliases": [], "modern_equivalent": "Santiago de Cuba", "mention_count_aprox": 13, "status": "revisada"},
-  {"id": "place:san-juan-de-ulua", "canonical_name": "San Juan de Ulúa", "aliases": [], "modern_equivalent": "San Juan de Ulúa, Veracruz", "mention_count_aprox": 13, "status": "revisada"},
-  {"id": "place:santo-domingo", "canonical_name": "Santo Domingo", "aliases": [], "modern_equivalent": "Santo Domingo, República Dominicana", "mention_count_aprox": 9, "status": "revisada"},
-  {"id": "place:mexico-tenochtitlan", "canonical_name": "México (Tenochtitlan)", "aliases": ["Méjico"], "modern_equivalent": "Ciudad de México", "mention_count_aprox": 182, "status": "revisada"},
-  {"id": "place:tlaxcala", "canonical_name": "Tlaxcala", "aliases": ["Tlascala"], "modern_equivalent": "Tlaxcala", "mention_count_aprox": 86, "status": "revisada"},
-  {"id": "place:cempoala", "canonical_name": "Cempoala", "aliases": ["Cempoal"], "modern_equivalent": "Cempoala, Veracruz", "mention_count_aprox": 76, "status": "revisada"},
-  {"id": "place:cuba", "canonical_name": "Cuba", "aliases": [], "modern_equivalent": "Cuba", "mention_count_aprox": 122, "status": "revisada"},
-  {"id": "place:campeche", "canonical_name": "Campeche", "aliases": ["Lázaro", "San Lázaro"], "modern_equivalent": "Campeche, México", "mention_count_aprox": 2, "status": "candidata", "notas": "los españoles la llamaron 'Lázaro'/'San Lázaro' por haber desembarcado un domingo de Lázaro"},
-  {"id": "place:potonchan", "canonical_name": "Potonchán", "aliases": ["Potonchan", "Champotón", "Champoton"], "modern_equivalent": "Champotón, Campeche, México (19°21′22″N 90°43′26″O)", "mention_count_aprox": 17, "status": "candidata", "notas": "los pilotos la llamaron 'Bahía de Mala Pelea' tras la batalla de 1517. Bernal Díaz usa 'Potonchán' y 'Champotón' de forma intercambiable para el mismo lugar (ver cap. 3-4 y las referencias retrospectivas a la batalla en cap. 9, 13, etc.). Referencia usada para identificar el equivalente moderno y desambiguar: https://es.wikipedia.org/wiki/Champot%C3%B3n — esa misma página advierte que Champotón 'se confunde frecuentemente con Potonchán' (una región de Tabasco) precisamente por este uso intercambiable en Bernal Díaz; se decidió mantener una sola entrada porque en este corpus las dos palabras nombran el mismo sitio."},
-  {"id": "place:florida", "canonical_name": "Florida", "aliases": [], "modern_equivalent": "Florida, EE. UU.", "mention_count_aprox": 6, "status": "candidata"},
-  {"id": "place:habana", "canonical_name": "La Habana", "aliases": ["Habana", "Puerto de Carenas"], "modern_equivalent": "La Habana, Cuba", "mention_count_aprox": 40, "status": "candidata"},
-  {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": ["Yucatan"], "modern_equivalent": "península de Yucatán, México", "mention_count_aprox": 14, "status": "candidata"},
-  {"id": "place:trinidad-cuba", "canonical_name": "Villa de la Trinidad", "aliases": ["Trinidad"], "modern_equivalent": "Trinidad, Cuba", "mention_count_aprox": 19, "status": "candidata"},
-  {"id": "place:matanzas", "canonical_name": "Puerto de Matanzas", "aliases": ["Matanzas"], "modern_equivalent": "Matanzas, Cuba", "mention_count_aprox": 4, "status": "candidata"},
-  {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": [], "modern_equivalent": "Cozumel, México", "mention_count_aprox": 28, "status": "candidata"},
-  {"id": "place:boca-de-terminos", "canonical_name": "Boca de Términos", "aliases": [], "modern_equivalent": "Laguna de Términos, Campeche, México", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "place:rio-tabasco", "canonical_name": "Río de Tabasco (río de Grijalva)", "aliases": ["río de Grijalva"], "modern_equivalent": "río Grijalva, Tabasco, México", "mention_count_aprox": 2, "status": "candidata"},
-  {"id": "place:la-rambla", "canonical_name": "La-Rambla (Aguayaluco)", "aliases": ["Aguayaluco"], "modern_equivalent": "por confirmar (costa de Tabasco)", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "place:rio-de-alvarado", "canonical_name": "Río de Alvarado", "aliases": ["Papalohuna"], "modern_equivalent": "río Papaloapan, Veracruz, México", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "place:guacacualco", "canonical_name": "Guacacualco", "aliases": ["Guazacualco", "Guacayualco"], "modern_equivalent": "Coatzacoalcos, Veracruz, México", "mention_count_aprox": 2, "status": "candidata"},
-  {"id": "place:rio-de-banderas", "canonical_name": "Río de Banderas", "aliases": [], "modern_equivalent": "por confirmar (costa de Veracruz)", "mention_count_aprox": 2, "status": "candidata"},
-  {"id": "place:isla-de-sacrificios", "canonical_name": "Isla de Sacrificios", "aliases": [], "modern_equivalent": "Isla de Sacrificios, Veracruz, México", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "place:rio-de-canoas", "canonical_name": "Río de Canoas", "aliases": [], "modern_equivalent": "por confirmar (costa de Veracruz/Pánuco)", "mention_count_aprox": 1, "status": "candidata"},
-  {"id": "place:tonala", "canonical_name": "Tonalá (San Antón)", "aliases": ["San Anton"], "modern_equivalent": "Tonalá, Chiapas, México", "mention_count_aprox": 2, "status": "candidata"},
-  {"id": "place:tierra-firme", "canonical_name": "Tierra Firme", "aliases": [], "modern_equivalent": "Panamá/costa continental", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — corrige un vacío: estaba en el log de relaciones-muestra.json pero nunca se había copiado al registro principal"},
-  {"id": "place:nombre-de-dios", "canonical_name": "Nombre de Dios", "aliases": [], "modern_equivalent": "Nombre de Dios, Panamá", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"},
-  {"id": "place:ajaruco", "canonical_name": "Ajaruco", "aliases": [], "modern_equivalent": "por confirmar (costa norte de Cuba)", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"},
-  {"id": "place:san-cristobal-cuba", "canonical_name": "San Cristóbal", "aliases": [], "modern_equivalent": "asentamiento predecesor de La Habana", "mention_count_aprox": null, "status": "candidata", "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"}
+  {
+    "id": "place:nueva-espana",
+    "canonical_name": "Nueva España",
+    "aliases": [
+      "Nueva-España"
+    ],
+    "modern_equivalent": "México (virreinato colonial)",
+    "mention_count_aprox": 43,
+    "status": "revisada"
+  },
+  {
+    "id": "place:villa-rica-de-la-vera-cruz",
+    "canonical_name": "Villa Rica de la Vera Cruz",
+    "aliases": [
+      "Villa Rica"
+    ],
+    "modern_equivalent": "Veracruz",
+    "mention_count_aprox": 30,
+    "status": "revisada"
+  },
+  {
+    "id": "place:punta-de-cotoche",
+    "canonical_name": "Punta de Cotoche",
+    "aliases": [],
+    "modern_equivalent": "Cabo Catoche, Yucatán",
+    "mention_count_aprox": 17,
+    "status": "revisada"
+  },
+  {
+    "id": "place:santiago-de-cuba",
+    "canonical_name": "Santiago de Cuba",
+    "aliases": [],
+    "modern_equivalent": "Santiago de Cuba",
+    "mention_count_aprox": 13,
+    "status": "revisada"
+  },
+  {
+    "id": "place:san-juan-de-ulua",
+    "canonical_name": "San Juan de Ulúa",
+    "aliases": [],
+    "modern_equivalent": "San Juan de Ulúa, Veracruz",
+    "mention_count_aprox": 13,
+    "status": "revisada"
+  },
+  {
+    "id": "place:santo-domingo",
+    "canonical_name": "Santo Domingo",
+    "aliases": [],
+    "modern_equivalent": "Santo Domingo, República Dominicana",
+    "mention_count_aprox": 9,
+    "status": "revisada"
+  },
+  {
+    "id": "place:mexico-tenochtitlan",
+    "canonical_name": "México (Tenochtitlan)",
+    "aliases": [
+      "Méjico"
+    ],
+    "modern_equivalent": "Ciudad de México",
+    "mention_count_aprox": 182,
+    "status": "revisada"
+  },
+  {
+    "id": "place:tlaxcala",
+    "canonical_name": "Tlaxcala",
+    "aliases": [
+      "Tlascala"
+    ],
+    "modern_equivalent": "Tlaxcala",
+    "mention_count_aprox": 86,
+    "status": "revisada"
+  },
+  {
+    "id": "place:cempoala",
+    "canonical_name": "Cempoala",
+    "aliases": [
+      "Cempoal"
+    ],
+    "modern_equivalent": "Cempoala, Veracruz",
+    "mention_count_aprox": 76,
+    "status": "revisada"
+  },
+  {
+    "id": "place:cuba",
+    "canonical_name": "Cuba",
+    "aliases": [],
+    "modern_equivalent": "Cuba",
+    "mention_count_aprox": 122,
+    "status": "revisada"
+  },
+  {
+    "id": "place:campeche",
+    "canonical_name": "Campeche",
+    "aliases": [
+      "Lázaro",
+      "San Lázaro"
+    ],
+    "modern_equivalent": "Campeche, México",
+    "mention_count_aprox": 2,
+    "status": "candidata",
+    "notas": "los españoles la llamaron 'Lázaro'/'San Lázaro' por haber desembarcado un domingo de Lázaro"
+  },
+  {
+    "id": "place:potonchan",
+    "canonical_name": "Potonchán",
+    "aliases": [
+      "Potonchan",
+      "Champotón",
+      "Champoton"
+    ],
+    "modern_equivalent": "Champotón, Campeche, México (19°21′22″N 90°43′26″O)",
+    "mention_count_aprox": 17,
+    "status": "candidata",
+    "notas": "los pilotos la llamaron 'Bahía de Mala Pelea' tras la batalla de 1517. Bernal Díaz usa 'Potonchán' y 'Champotón' de forma intercambiable para el mismo lugar (ver cap. 3-4 y las referencias retrospectivas a la batalla en cap. 9, 13, etc.). Referencia usada para identificar el equivalente moderno y desambiguar: https://es.wikipedia.org/wiki/Champot%C3%B3n — esa misma página advierte que Champotón 'se confunde frecuentemente con Potonchán' (una región de Tabasco) precisamente por este uso intercambiable en Bernal Díaz; se decidió mantener una sola entrada porque en este corpus las dos palabras nombran el mismo sitio."
+  },
+  {
+    "id": "place:florida",
+    "canonical_name": "Florida",
+    "aliases": [],
+    "modern_equivalent": "Florida, EE. UU.",
+    "mention_count_aprox": 6,
+    "status": "candidata"
+  },
+  {
+    "id": "place:habana",
+    "canonical_name": "La Habana",
+    "aliases": [
+      "Habana",
+      "Puerto de Carenas"
+    ],
+    "modern_equivalent": "La Habana, Cuba",
+    "mention_count_aprox": 40,
+    "status": "candidata"
+  },
+  {
+    "id": "place:yucatan",
+    "canonical_name": "Yucatán",
+    "aliases": [
+      "Yucatan"
+    ],
+    "modern_equivalent": "península de Yucatán, México",
+    "mention_count_aprox": 14,
+    "status": "candidata"
+  },
+  {
+    "id": "place:trinidad-cuba",
+    "canonical_name": "Villa de la Trinidad",
+    "aliases": [
+      "Trinidad"
+    ],
+    "modern_equivalent": "Trinidad, Cuba",
+    "mention_count_aprox": 19,
+    "status": "candidata"
+  },
+  {
+    "id": "place:matanzas",
+    "canonical_name": "Puerto de Matanzas",
+    "aliases": [
+      "Matanzas"
+    ],
+    "modern_equivalent": "Matanzas, Cuba",
+    "mention_count_aprox": 4,
+    "status": "candidata"
+  },
+  {
+    "id": "place:cozumel",
+    "canonical_name": "Cozumel",
+    "aliases": [],
+    "modern_equivalent": "Cozumel, México",
+    "mention_count_aprox": 28,
+    "status": "candidata"
+  },
+  {
+    "id": "place:boca-de-terminos",
+    "canonical_name": "Boca de Términos",
+    "aliases": [],
+    "modern_equivalent": "Laguna de Términos, Campeche, México",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-tabasco",
+    "canonical_name": "Río de Tabasco (río de Grijalva)",
+    "aliases": [
+      "río de Grijalva"
+    ],
+    "modern_equivalent": "río Grijalva, Tabasco, México",
+    "mention_count_aprox": 2,
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-rambla",
+    "canonical_name": "La-Rambla (Aguayaluco)",
+    "aliases": [
+      "Aguayaluco"
+    ],
+    "modern_equivalent": "por confirmar (costa de Tabasco)",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-de-alvarado",
+    "canonical_name": "Río de Alvarado",
+    "aliases": [
+      "Papalohuna"
+    ],
+    "modern_equivalent": "río Papaloapan, Veracruz, México",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "place:guacacualco",
+    "canonical_name": "Guacacualco",
+    "aliases": [
+      "Guazacualco",
+      "Guacayualco"
+    ],
+    "modern_equivalent": "Coatzacoalcos, Veracruz, México",
+    "mention_count_aprox": 2,
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-de-banderas",
+    "canonical_name": "Río de Banderas",
+    "aliases": [],
+    "modern_equivalent": "por confirmar (costa de Veracruz)",
+    "mention_count_aprox": 2,
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-de-sacrificios",
+    "canonical_name": "Isla de Sacrificios",
+    "aliases": [],
+    "modern_equivalent": "Isla de Sacrificios, Veracruz, México",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-de-canoas",
+    "canonical_name": "Río de Canoas",
+    "aliases": [],
+    "modern_equivalent": "por confirmar (costa de Veracruz/Pánuco)",
+    "mention_count_aprox": 1,
+    "status": "candidata"
+  },
+  {
+    "id": "place:tonala",
+    "canonical_name": "Tonalá (San Antón)",
+    "aliases": [
+      "San Anton"
+    ],
+    "modern_equivalent": "Tonalá, Chiapas, México",
+    "mention_count_aprox": 2,
+    "status": "candidata"
+  },
+  {
+    "id": "place:tierra-firme",
+    "canonical_name": "Tierra Firme",
+    "aliases": [],
+    "modern_equivalent": "Panamá/costa continental",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "capítulo 1 — corrige un vacío: estaba en el log de relaciones-muestra.json pero nunca se había copiado al registro principal"
+  },
+  {
+    "id": "place:nombre-de-dios",
+    "canonical_name": "Nombre de Dios",
+    "aliases": [],
+    "modern_equivalent": "Nombre de Dios, Panamá",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"
+  },
+  {
+    "id": "place:ajaruco",
+    "canonical_name": "Ajaruco",
+    "aliases": [],
+    "modern_equivalent": "por confirmar (costa norte de Cuba)",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"
+  },
+  {
+    "id": "place:san-cristobal-cuba",
+    "canonical_name": "San Cristóbal",
+    "aliases": [],
+    "modern_equivalent": "asentamiento predecesor de La Habana",
+    "mention_count_aprox": null,
+    "status": "candidata",
+    "notas": "capítulo 1 — mismo caso, corrige un vacío del registro"
+  },
+  {
+    "id": "place:cintia",
+    "canonical_name": "Cintia",
+    "aliases": [],
+    "modern_equivalent": "cerca de Tabasco, en la zona de la batalla de Centla (sitio no identificado con precisión)",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:santa-maria-de-la-victoria",
+    "canonical_name": "Santa María de la Victoria",
+    "aliases": [],
+    "modern_equivalent": "cerca de Frontera, Tabasco (villa fundada por Cortés tras la batalla de Centla)",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:punta-de-las-mujeres",
+    "canonical_name": "Punta de las Mujeres",
+    "aliases": [],
+    "modern_equivalent": "Isla Mujeres, Quintana Roo (aprox.)",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-de-pinos",
+    "canonical_name": "Isla de Pinos",
+    "aliases": [
+      "los Jardines"
+    ],
+    "modern_equivalent": "Isla de la Juventud, Cuba",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  },
+  {
+    "id": "place:guaniguanico",
+    "canonical_name": "Guaniguanico",
+    "aliases": [],
+    "modern_equivalent": "región de Pinar del Río, Cuba (aprox.)",
+    "mention_count_aprox": null,
+    "status": "candidata"
+  }
 ]

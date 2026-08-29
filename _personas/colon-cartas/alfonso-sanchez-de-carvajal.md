@@ -1,0 +1,20 @@
+---
+obra: colon-cartas
+obra_titulo: Relaciones y cartas de Cristóbal Colón (cartas y documentos, sin el Diario)
+entity_id: person:alfonso-sanchez-de-carvajal
+canonical_name: Alfonso Sánchez de Carvajal
+aliases:
+- Alonso Sánchez de Carvajal
+- Alonso Sánchez de Carabajal
+role: Regidor de Baeza; capitán de uno de los navíos del tercer viaje (1498)
+mention_count_aprox: null
+status: candidata
+notas: ''
+mentions_hint: Las 1 menciones de esta persona en el texto.
+blurbs:
+- heading: Carta al obispo de Badajoz
+  url: /documentos/colon-cartas/004/
+  occ: 0
+  html: '…e prometían: y ago- ra, Señor, me paresce que por lo que á mí SS. AA. re- mitieron, é porque veo que es su servicio, que se debe de pagar á <mark>Alfonso Sánchez de Carvajal</mark> todo el dinero tpie se le debe de su servicio, y á Pedro Fernández Co-'
+---
+Aparece en el texto como Regidor de Baeza; capitán de uno de los navíos del tercer viaje (1498). También aparece nombrada como: Alonso Sánchez de Carvajal, Alonso Sánchez de Carabajal.

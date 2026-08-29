@@ -1,11 +1,255 @@
 [
-  {"id": "place:villa-rica-de-la-vera-cruz", "canonical_name": "Villa Rica de la Vera Cruz", "aliases": ["Rica Villa de la Vera Cruz", "Rica Villa de la Veracruz"], "modern_equivalent": "Veracruz, México", "status": "candidata"},
-  {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": ["isla de Santa Cruz", "Santa Cruz"], "modern_equivalent": "Cozumel, México", "status": "candidata", "notas": "esta carta dice que Cozumel 'ahora se dice de Santa Cruz'"},
-  {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": [], "modern_equivalent": "península de Yucatán, México", "status": "candidata", "notas": "la carta explica que el nombre viene de un malentendido: los españoles preguntaron el nombre de la tierra y los indios respondieron 'Yucatán, Yucatán' que significaba 'no entiendo'"},
-  {"id": "place:campeche", "canonical_name": "Campeche", "aliases": ["puerto Campeche"], "modern_equivalent": "Campeche, México", "status": "candidata", "notas": "el señor de este pueblo fue llamado 'Lázaro' por los españoles"},
-  {"id": "place:potonchan", "canonical_name": "Potonchán (Champotón)", "aliases": ["Nochopobón"], "modern_equivalent": "Champotón, Campeche, México", "status": "candidata", "notas": "esta carta llama al pueblo 'Nochopobón' y dice que 'el señor de él [era llamado]' Champotón — es decir, en esta versión Champotón parece nombre del cacique, no solo del lugar (compárese con Bernal Díaz, que usa Potonchán/Champotón como nombre del lugar — ver entidades/bernal-diaz/lugares.json place:potonchan). Sitio de la batalla de 1517 donde murió Hernández de Córdoba de sus heridas."},
-  {"id": "place:cuba", "canonical_name": "Cuba", "aliases": ["isla Fernandina"], "modern_equivalent": "Cuba", "status": "candidata"},
-  {"id": "place:isla-espanola", "canonical_name": "isla Española", "aliases": [], "modern_equivalent": "La Española (Santo Domingo/Haití)", "status": "candidata", "notas": "sede de los frailes Jerónimos, gobernadores de las Indias, que autorizaron las expediciones"},
-  {"id": "place:rio-grijalva-tabasco", "canonical_name": "Río de Grijalva", "aliases": ["río grande que se dice de Grijalba"], "modern_equivalent": "río Grijalva, Tabasco, México", "status": "candidata"},
-  {"id": "place:bahia-de-san-juan", "canonical_name": "Bahía y puerto de San Juan", "aliases": [], "modern_equivalent": "por confirmar (costa de Tabasco/Campeche)", "status": "candidata", "notas": "donde Grijalva había hecho su rescate en 1518"}
+  {
+    "id": "place:villa-rica-de-la-vera-cruz",
+    "canonical_name": "Villa Rica de la Vera Cruz",
+    "aliases": [
+      "Rica Villa de la Vera Cruz",
+      "Rica Villa de la Veracruz"
+    ],
+    "modern_equivalent": "Veracruz, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cozumel",
+    "canonical_name": "Cozumel",
+    "aliases": [
+      "isla de Santa Cruz",
+      "Santa Cruz"
+    ],
+    "modern_equivalent": "Cozumel, México",
+    "status": "candidata",
+    "notas": "esta carta dice que Cozumel 'ahora se dice de Santa Cruz'"
+  },
+  {
+    "id": "place:yucatan",
+    "canonical_name": "Yucatán",
+    "aliases": [],
+    "modern_equivalent": "península de Yucatán, México",
+    "status": "candidata",
+    "notas": "la carta explica que el nombre viene de un malentendido: los españoles preguntaron el nombre de la tierra y los indios respondieron 'Yucatán, Yucatán' que significaba 'no entiendo'"
+  },
+  {
+    "id": "place:campeche",
+    "canonical_name": "Campeche",
+    "aliases": [
+      "puerto Campeche"
+    ],
+    "modern_equivalent": "Campeche, México",
+    "status": "candidata",
+    "notas": "el señor de este pueblo fue llamado 'Lázaro' por los españoles"
+  },
+  {
+    "id": "place:potonchan",
+    "canonical_name": "Potonchán (Champotón)",
+    "aliases": [
+      "Nochopobón"
+    ],
+    "modern_equivalent": "Champotón, Campeche, México",
+    "status": "candidata",
+    "notas": "esta carta llama al pueblo 'Nochopobón' y dice que 'el señor de él [era llamado]' Champotón — es decir, en esta versión Champotón parece nombre del cacique, no solo del lugar (compárese con Bernal Díaz, que usa Potonchán/Champotón como nombre del lugar — ver entidades/bernal-diaz/lugares.json place:potonchan). Sitio de la batalla de 1517 donde murió Hernández de Córdoba de sus heridas."
+  },
+  {
+    "id": "place:cuba",
+    "canonical_name": "Cuba",
+    "aliases": [
+      "isla Fernandina"
+    ],
+    "modern_equivalent": "Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-espanola",
+    "canonical_name": "isla Española",
+    "aliases": [],
+    "modern_equivalent": "La Española (Santo Domingo/Haití)",
+    "status": "candidata",
+    "notas": "sede de los frailes Jerónimos, gobernadores de las Indias, que autorizaron las expediciones"
+  },
+  {
+    "id": "place:rio-grijalva-tabasco",
+    "canonical_name": "Río de Grijalva",
+    "aliases": [
+      "río grande que se dice de Grijalba"
+    ],
+    "modern_equivalent": "río Grijalva, Tabasco, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:bahia-de-san-juan",
+    "canonical_name": "Bahía y puerto de San Juan",
+    "aliases": [],
+    "modern_equivalent": "por confirmar (costa de Tabasco/Campeche)",
+    "status": "candidata",
+    "notas": "donde Grijalva había hecho su rescate en 1518"
+  },
+  {
+    "id": "place:tascaltecal",
+    "canonical_name": "Tascaltecal",
+    "aliases": [
+      "Tlascaltecal",
+      "Tlaxcala"
+    ],
+    "modern_equivalent": "Tlaxcala, México",
+    "status": "candidata",
+    "notas": "provincia/señorío sin señor único (se gobierna como Venecia/Génova, según la carta); enemiga histórica de Mutezuma"
+  },
+  {
+    "id": "place:churultecal",
+    "canonical_name": "Churultecal",
+    "aliases": [
+      "Chururtecal",
+      "Cholula"
+    ],
+    "modern_equivalent": "Cholula, Puebla, México",
+    "status": "candidata",
+    "notas": "sitio de la matanza de Cholula narrada en la Segunda carta"
+  },
+  {
+    "id": "place:guasucingo",
+    "canonical_name": "Guasucingo",
+    "aliases": [
+      "Guasocingo",
+      "Guajocingo"
+    ],
+    "modern_equivalent": "Huejotzingo, Puebla, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:temixtitan",
+    "canonical_name": "Temixtitan",
+    "aliases": [
+      "Tenuxtitan",
+      "Tenochtitlan"
+    ],
+    "modern_equivalent": "Ciudad de México (centro histórico)",
+    "status": "candidata",
+    "notas": "gran ciudad lacustre, capital del señorío de Mutezuma; descrita en extenso en la Segunda carta"
+  },
+  {
+    "id": "place:tezcuco",
+    "canonical_name": "Tezcuco",
+    "aliases": [
+      "Texcoco"
+    ],
+    "modern_equivalent": "Texcoco, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:iztapalapa",
+    "canonical_name": "Iztapalapa",
+    "aliases": [],
+    "modern_equivalent": "Iztapalapa, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chalco",
+    "canonical_name": "Chalco",
+    "aliases": [],
+    "modern_equivalent": "Chalco, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tacuba",
+    "canonical_name": "Tacuba",
+    "aliases": [],
+    "modern_equivalent": "Tacuba, Ciudad de México",
+    "status": "candidata",
+    "notas": "ciudad donde llegó Cortés huyendo tras la Noche Triste"
+  },
+  {
+    "id": "place:tepeaca",
+    "canonical_name": "Tepeaca",
+    "aliases": [
+      "Segura de la Frontera"
+    ],
+    "modern_equivalent": "Tepeaca, Puebla, México",
+    "status": "candidata",
+    "notas": "Cortés fundó aquí la villa española 'Segura de la Frontera'"
+  },
+  {
+    "id": "place:guacachula",
+    "canonical_name": "Guacachula",
+    "aliases": [],
+    "modern_equivalent": "por confirmar (región de Puebla)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:izcucan",
+    "canonical_name": "Izcucan",
+    "aliases": [],
+    "modern_equivalent": "por confirmar (región de Puebla)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:otumba",
+    "canonical_name": "Otumba",
+    "aliases": [],
+    "modern_equivalent": "Otumba, Estado de México",
+    "status": "candidata",
+    "notas": "sitio de la gran batalla donde se juntó 'todo el poder de México y Temixtitan' contra los españoles tras la Noche Triste, según la Tercera carta"
+  },
+  {
+    "id": "place:michoacan",
+    "canonical_name": "Mechuacán",
+    "aliases": [
+      "Michoacán"
+    ],
+    "modern_equivalent": "Michoacán, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:zacatula",
+    "canonical_name": "Zacatula",
+    "aliases": [],
+    "modern_equivalent": "Zacatula, Guerrero, México",
+    "status": "candidata",
+    "notas": "villa fundada por Cortés en la costa del mar del Sur"
+  },
+  {
+    "id": "place:coliman",
+    "canonical_name": "Colimán",
+    "aliases": [],
+    "modern_equivalent": "Colima, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tututepeque",
+    "canonical_name": "Tututepeque",
+    "aliases": [],
+    "modern_equivalent": "Tututepec, Oaxaca, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:panuco",
+    "canonical_name": "Pánuco",
+    "aliases": [],
+    "modern_equivalent": "río Pánuco / región de Pánuco, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:guazacualco",
+    "canonical_name": "Guazacualco",
+    "aliases": [
+      "Cozacoalco"
+    ],
+    "modern_equivalent": "Coatzacoalcos, Veracruz, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:honduras",
+    "canonical_name": "Hibueras",
+    "aliases": [
+      "golfo de Hibueras",
+      "Honduras"
+    ],
+    "modern_equivalent": "Honduras",
+    "status": "candidata"
+  },
+  {
+    "id": "place:trujillo-honduras",
+    "canonical_name": "Trujillo",
+    "aliases": [],
+    "modern_equivalent": "Trujillo, Honduras",
+    "status": "candidata"
+  }
 ]

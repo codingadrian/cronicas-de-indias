@@ -1,65 +1,1465 @@
 {
-  "nota": "Relaciones extraídas a mano de la Primera carta-relación (de 5). Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura: Carta 1 de 5 (quedan 4 cartas sin procesar).",
+  "nota": "Relaciones extraídas a mano de las 5 cartas-relación completas (cap-1 a cap-5). Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión).",
   "entidades_nuevas": [
-    {"id": "person:hernan-cortes", "canonical_name": "Hernando Cortés", "aliases": ["Fernando Cortés", "Cortés"], "role": "capitán general y luego justicia mayor", "status": "candidata", "capitulo": 1},
-    {"id": "person:diego-velazquez-de-cuellar", "canonical_name": "Diego Velázquez", "aliases": [], "role": "gobernador de Cuba", "status": "candidata", "capitulo": 1},
-    {"id": "person:juan-de-grijalva", "canonical_name": "Juan de Grijalva", "aliases": ["Juan de Grijalba"], "role": "capitán de la expedición de 1518", "status": "candidata", "capitulo": 1},
-    {"id": "person:francisco-hernandez-de-cordoba", "canonical_name": "Francisco Fernández de Córdoba", "aliases": [], "role": "capitán de la expedición de 1517", "status": "candidata", "capitulo": 1},
-    {"id": "person:anton-de-alaminos", "canonical_name": "Antón de Alaminos", "aliases": [], "role": "piloto de las tres expediciones", "status": "candidata", "capitulo": 1},
-    {"id": "person:jeronimo-de-aguilar", "canonical_name": "Jerónimo de Aguilar", "aliases": [], "role": "náufrago rescatado, intérprete", "status": "candidata", "capitulo": 1},
-    {"id": "person:alonso-hernandez-puertocarrero", "canonical_name": "Alonso Hernández Puertocarrero", "aliases": ["Alonso Fernández Portocarrero"], "role": "procurador enviado a España", "status": "candidata", "capitulo": 1},
-    {"id": "person:francisco-de-montejo", "canonical_name": "Francisco de Montejo", "aliases": [], "role": "procurador enviado a España, tesorero", "status": "candidata", "capitulo": 1},
-    {"id": "person:alonso-de-avila", "canonical_name": "Alonso de Ávila", "aliases": [], "role": "tesorero de la Villa Rica", "status": "candidata", "capitulo": 1},
-    {"id": "person:alonso-de-grado", "canonical_name": "Alonso de Grado", "aliases": [], "role": "veedor de la Villa Rica", "status": "candidata", "capitulo": 1},
-    {"id": "person:gonzalo-de-guzman", "canonical_name": "Gonzalo de Guzmán", "aliases": [], "role": "enviado de Diego Velázquez a España", "status": "candidata", "capitulo": 1},
-    {"id": "place:villa-rica-de-la-vera-cruz", "canonical_name": "Villa Rica de la Vera Cruz", "aliases": [], "modern_equivalent": "Veracruz, México", "status": "candidata", "capitulo": 1},
-    {"id": "place:cozumel", "canonical_name": "Cozumel", "aliases": ["Santa Cruz"], "modern_equivalent": "Cozumel, México", "status": "candidata", "capitulo": 1},
-    {"id": "place:yucatan", "canonical_name": "Yucatán", "aliases": [], "modern_equivalent": "península de Yucatán, México", "status": "candidata", "capitulo": 1},
-    {"id": "place:campeche", "canonical_name": "Campeche", "aliases": [], "modern_equivalent": "Campeche, México", "status": "candidata", "capitulo": 1},
-    {"id": "place:potonchan", "canonical_name": "Potonchán (Champotón)", "aliases": ["Nochopobón"], "modern_equivalent": "Champotón, Campeche, México", "status": "candidata", "capitulo": 1},
-    {"id": "place:cuba", "canonical_name": "Cuba", "aliases": ["isla Fernandina"], "modern_equivalent": "Cuba", "status": "candidata", "capitulo": 1},
-    {"id": "place:isla-espanola", "canonical_name": "isla Española", "aliases": [], "modern_equivalent": "La Española", "status": "candidata", "capitulo": 1},
-    {"id": "place:rio-grijalva-tabasco", "canonical_name": "Río de Grijalva", "aliases": [], "modern_equivalent": "río Grijalva, Tabasco, México", "status": "candidata", "capitulo": 1},
-    {"id": "place:bahia-de-san-juan", "canonical_name": "Bahía y puerto de San Juan", "aliases": [], "modern_equivalent": "por confirmar (costa de Tabasco/Campeche)", "status": "candidata", "capitulo": 1}
+    {
+      "id": "person:hernan-cortes",
+      "canonical_name": "Hernando Cortés",
+      "aliases": [
+        "Fernando Cortés",
+        "Cortés"
+      ],
+      "role": "capitán general y luego justicia mayor",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:diego-velazquez-de-cuellar",
+      "canonical_name": "Diego Velázquez",
+      "aliases": [],
+      "role": "gobernador de Cuba",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:juan-de-grijalva",
+      "canonical_name": "Juan de Grijalva",
+      "aliases": [
+        "Juan de Grijalba"
+      ],
+      "role": "capitán de la expedición de 1518",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:francisco-hernandez-de-cordoba",
+      "canonical_name": "Francisco Fernández de Córdoba",
+      "aliases": [],
+      "role": "capitán de la expedición de 1517",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:anton-de-alaminos",
+      "canonical_name": "Antón de Alaminos",
+      "aliases": [],
+      "role": "piloto de las tres expediciones",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:jeronimo-de-aguilar",
+      "canonical_name": "Jerónimo de Aguilar",
+      "aliases": [],
+      "role": "náufrago rescatado, intérprete",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:alonso-hernandez-puertocarrero",
+      "canonical_name": "Alonso Hernández Puertocarrero",
+      "aliases": [
+        "Alonso Fernández Portocarrero"
+      ],
+      "role": "procurador enviado a España",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:francisco-de-montejo",
+      "canonical_name": "Francisco de Montejo",
+      "aliases": [],
+      "role": "procurador enviado a España, tesorero",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:alonso-de-avila",
+      "canonical_name": "Alonso de Ávila",
+      "aliases": [],
+      "role": "tesorero de la Villa Rica",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:alonso-de-grado",
+      "canonical_name": "Alonso de Grado",
+      "aliases": [],
+      "role": "veedor de la Villa Rica",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:gonzalo-de-guzman",
+      "canonical_name": "Gonzalo de Guzmán",
+      "aliases": [],
+      "role": "enviado de Diego Velázquez a España",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:villa-rica-de-la-vera-cruz",
+      "canonical_name": "Villa Rica de la Vera Cruz",
+      "aliases": [],
+      "modern_equivalent": "Veracruz, México",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:cozumel",
+      "canonical_name": "Cozumel",
+      "aliases": [
+        "Santa Cruz"
+      ],
+      "modern_equivalent": "Cozumel, México",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:yucatan",
+      "canonical_name": "Yucatán",
+      "aliases": [],
+      "modern_equivalent": "península de Yucatán, México",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:campeche",
+      "canonical_name": "Campeche",
+      "aliases": [],
+      "modern_equivalent": "Campeche, México",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:potonchan",
+      "canonical_name": "Potonchán (Champotón)",
+      "aliases": [
+        "Nochopobón"
+      ],
+      "modern_equivalent": "Champotón, Campeche, México",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:cuba",
+      "canonical_name": "Cuba",
+      "aliases": [
+        "isla Fernandina"
+      ],
+      "modern_equivalent": "Cuba",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:isla-espanola",
+      "canonical_name": "isla Española",
+      "aliases": [],
+      "modern_equivalent": "La Española",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:rio-grijalva-tabasco",
+      "canonical_name": "Río de Grijalva",
+      "aliases": [],
+      "modern_equivalent": "río Grijalva, Tabasco, México",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:bahia-de-san-juan",
+      "canonical_name": "Bahía y puerto de San Juan",
+      "aliases": [],
+      "modern_equivalent": "por confirmar (costa de Tabasco/Campeche)",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:moctezuma-ii",
+      "canonical_name": "Moctezuma",
+      "aliases": [
+        "Mutezuma",
+        "Motezuma"
+      ],
+      "role": "señor/tlatoani de Temixtitan (Tenochtitlan)",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:xicotencatl",
+      "canonical_name": "Xicoténcatl",
+      "aliases": [
+        "Sicutengal",
+        "Sintengal",
+        "Singutecal"
+      ],
+      "role": "capitán general de la provincia de Tascaltecal (Tlaxcala)",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:maxixcatzin",
+      "canonical_name": "Maxixcatzin",
+      "aliases": [
+        "Magiscasin",
+        "Magiscacin"
+      ],
+      "role": "la persona más principal de la provincia de Tascaltecal",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:qualpopoca",
+      "canonical_name": "Qualpopoca",
+      "aliases": [],
+      "role": "señor de la ciudad de Almería (Nautecal), vasallo de Mutezuma; mandó matar a cuatro españoles y fue quemado por orden de Cortés",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:cacamatzin",
+      "canonical_name": "Cacamazin",
+      "aliases": [
+        "Cacamazín"
+      ],
+      "role": "señor de Tezcuco (Texcoco), sobrino/deudo de Mutezuma; preso por Cortés y depuesto en favor de su hermano Cucuzcacin",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:cuitlahuac",
+      "canonical_name": "Cuetravacin",
+      "aliases": [
+        "Cuitláhuac"
+      ],
+      "role": "hermano de Mutezuma, señor de Iztapalapa; sucedió a Mutezuma en el señorío tras su muerte",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:panfilo-de-narvaez",
+      "canonical_name": "Pánfilo de Narváez",
+      "aliases": [],
+      "role": "capitán enviado por Diego Velázquez para prender a Cortés, vecino de la isla Fernandina",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:gonzalo-de-sandoval",
+      "canonical_name": "Gonzalo de Sandoval",
+      "aliases": [],
+      "role": "alguacil mayor de Cortés; prendió a Pánfilo de Narváez",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:juan-velazquez-de-leon",
+      "canonical_name": "Juan Velázquez de León",
+      "aliases": [],
+      "role": "capitán enviado a Cuacucalco; avisó a Cortés de la llegada de Narváez",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:andres-de-duero",
+      "canonical_name": "Andrés de Duero",
+      "aliases": [],
+      "role": "vecino de la isla Fernandina, vino con Narváez y medió con Cortés",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:lucas-vazquez-de-ayllon",
+      "canonical_name": "Lucas Vázquez de Ayllón",
+      "aliases": [],
+      "role": "licenciado, juez enviado desde la isla Española a impedir la armada de Narváez",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:rodrigo-de-figueroa",
+      "canonical_name": "Rodrigo de Figueroa",
+      "aliases": [
+        "Figueroa"
+      ],
+      "role": "licenciado, juez de residencia en la isla Española",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:cucuzcacin",
+      "canonical_name": "Cucuzcacin",
+      "aliases": [],
+      "role": "hijo de Mutezuma, puesto por Cortés como señor de Tezcuco tras la prisión de Cacamazin",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:tascaltecal",
+      "canonical_name": "Tascaltecal",
+      "aliases": [
+        "Tlascaltecal",
+        "Tlaxcala"
+      ],
+      "modern_equivalent": "Tlaxcala, México",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:churultecal",
+      "canonical_name": "Churultecal",
+      "aliases": [
+        "Chururtecal",
+        "Cholula"
+      ],
+      "modern_equivalent": "Cholula, Puebla, México",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:guasucingo",
+      "canonical_name": "Guasucingo",
+      "aliases": [
+        "Guasocingo",
+        "Guajocingo"
+      ],
+      "modern_equivalent": "Huejotzingo, Puebla, México",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:temixtitan",
+      "canonical_name": "Temixtitan",
+      "aliases": [
+        "Tenuxtitan",
+        "Tenochtitlan"
+      ],
+      "modern_equivalent": "Ciudad de México (centro histórico)",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:tezcuco",
+      "canonical_name": "Tezcuco",
+      "aliases": [
+        "Texcoco"
+      ],
+      "modern_equivalent": "Texcoco, Estado de México",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:iztapalapa",
+      "canonical_name": "Iztapalapa",
+      "aliases": [],
+      "modern_equivalent": "Iztapalapa, Ciudad de México",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:chalco",
+      "canonical_name": "Chalco",
+      "aliases": [],
+      "modern_equivalent": "Chalco, Estado de México",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:tacuba",
+      "canonical_name": "Tacuba",
+      "aliases": [],
+      "modern_equivalent": "Tacuba, Ciudad de México",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:tepeaca",
+      "canonical_name": "Tepeaca",
+      "aliases": [
+        "Segura de la Frontera"
+      ],
+      "modern_equivalent": "Tepeaca, Puebla, México",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:guacachula",
+      "canonical_name": "Guacachula",
+      "aliases": [],
+      "modern_equivalent": "por confirmar (región de Puebla)",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "place:izcucan",
+      "canonical_name": "Izcucan",
+      "aliases": [],
+      "modern_equivalent": "por confirmar (región de Puebla)",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:cuauhtemoc",
+      "canonical_name": "Guatimucín",
+      "aliases": [
+        "Cuauhtémoc"
+      ],
+      "role": "señor de Temixtitan tras Cuitláhuac; último tlatoani, capturado al caer la ciudad",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:garci-holguin",
+      "canonical_name": "Garci Holguín",
+      "aliases": [],
+      "role": "capitán de un bergantín; capturó a Guatimucín al caer Temixtitan",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:ciguacoacin",
+      "canonical_name": "Ciguacoacín",
+      "aliases": [],
+      "role": "principal capitán y gobernador de los de Temixtitan durante el sitio",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:guanacacin",
+      "canonical_name": "Guanacacin",
+      "aliases": [],
+      "role": "hermano de Cacamazin, alzado señor de Tezcuco tras la Noche Triste, aliado de Culúa; huyó a Temixtitan cuando Cortés volvió a Tezcuco",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:ixtlilxochitl-don-fernando",
+      "canonical_name": "don Fernando",
+      "aliases": [
+        "Ixtlilxóchitl"
+      ],
+      "role": "hermano menor de Cacamazin, se quedó con Cortés, se bautizó, y fue puesto por señor de Tezcuco tras la huida de Guanacacin",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:diego-de-ordaz",
+      "canonical_name": "Diego de Ordaz",
+      "aliases": [],
+      "role": "enviado por Cortés a explorar la provincia de Guazacualco",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:cristobal-de-tapia",
+      "canonical_name": "Cristóbal de Tapia",
+      "aliases": [],
+      "role": "enviado desde Castilla, causó bullicios y desasosiego entre los naturales aliados",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:diego-de-ocampo",
+      "canonical_name": "Diego de Ocampo",
+      "aliases": [],
+      "role": "alcalde mayor enviado a castigar a los alborotadores de Segura de la Frontera (Tututepeque)",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:casulci",
+      "canonical_name": "Casulci",
+      "aliases": [],
+      "role": "señor de la provincia de Mechuacán (Michoacán); se ofreció vasallo de la corona",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:cristobal-de-olid",
+      "canonical_name": "Cristóbal de Olid",
+      "aliases": [],
+      "role": "capitán enviado por Cortés a las Hibueras (Honduras); se rebeló contra su autoridad",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:gonzalo-de-salazar",
+      "canonical_name": "Gonzalo de Salazar",
+      "aliases": [],
+      "role": "factor de la corona, acompañó a Cortés en la expedición a las Hibueras",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:peralmidez-chirinos",
+      "canonical_name": "Peralmídez Chirinos",
+      "aliases": [],
+      "role": "veedor de la corona, acompañó a Cortés en la expedición a las Hibueras",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:alonso-de-zuazo",
+      "canonical_name": "Alonso de Zuazo",
+      "aliases": [],
+      "role": "licenciado, dejado a cargo de la justicia de Temixtitan durante la expedición a Honduras",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:gil-gonzalez-davila",
+      "canonical_name": "Gil González Dávila",
+      "aliases": [
+        "Gil González"
+      ],
+      "role": "capitán rival en la región de Hibueras (Honduras)",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "person:pedrarias-davila",
+      "canonical_name": "Pedrarias Dávila",
+      "aliases": [
+        "Pedro Arias de Ávila"
+      ],
+      "role": "gobernador de la corona en la región cercana a las Hibueras",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:otumba",
+      "canonical_name": "Otumba",
+      "aliases": [],
+      "modern_equivalent": "Otumba, Estado de México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:michoacan",
+      "canonical_name": "Mechuacán",
+      "aliases": [
+        "Michoacán"
+      ],
+      "modern_equivalent": "Michoacán, México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:zacatula",
+      "canonical_name": "Zacatula",
+      "aliases": [],
+      "modern_equivalent": "Zacatula, Guerrero, México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:coliman",
+      "canonical_name": "Colimán",
+      "aliases": [],
+      "modern_equivalent": "Colima, México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:tututepeque",
+      "canonical_name": "Tututepeque",
+      "aliases": [],
+      "modern_equivalent": "Tututepec, Oaxaca, México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:panuco",
+      "canonical_name": "Pánuco",
+      "aliases": [],
+      "modern_equivalent": "río Pánuco / región de Pánuco, México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:guazacualco",
+      "canonical_name": "Guazacualco",
+      "aliases": [
+        "Cozacoalco"
+      ],
+      "modern_equivalent": "Coatzacoalcos, Veracruz, México",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:honduras",
+      "canonical_name": "Hibueras",
+      "aliases": [
+        "golfo de Hibueras",
+        "Honduras"
+      ],
+      "modern_equivalent": "Honduras",
+      "status": "candidata",
+      "capitulo": 3
+    },
+    {
+      "id": "place:trujillo-honduras",
+      "canonical_name": "Trujillo",
+      "aliases": [],
+      "modern_equivalent": "Trujillo, Honduras",
+      "status": "candidata",
+      "capitulo": 3
+    }
   ],
   "eventos": [
-    {"id": "event:expedicion-hernandez-de-cordoba-1517", "name": "Expedición de Francisco Hernández de Córdoba a Yucatán (1517)", "date_text": "1517", "place_id": "place:yucatan", "status": "candidata"},
-    {"id": "event:batalla-potonchan-1517", "name": "Batalla de Potonchán/Champotón (1517)", "date_text": "1517", "place_id": "place:potonchan", "status": "candidata", "notas": "mueren 26 españoles (esta carta da un número distinto al de Bernal Díaz); Hernández de Córdoba recibe treinta y tantas heridas y muere después"},
-    {"id": "event:expedicion-grijalva-1518", "name": "Expedición de Juan de Grijalva (1518)", "date_text": "1518", "place_id": "place:cozumel", "status": "candidata"},
-    {"id": "event:expedicion-cortes-1519", "name": "Expedición de Hernando Cortés a Yucatán y Nueva España (1519)", "date_text": "salió de Cuba el 12 de febrero de 1519", "place_id": "place:cuba", "status": "candidata"},
-    {"id": "event:rescate-jeronimo-de-aguilar", "name": "Rescate de Jerónimo de Aguilar en Cozumel", "date_text": "1519", "place_id": "place:cozumel", "status": "candidata", "notas": "Cortés envía cartas y bergantines a buscar a los españoles cautivos en Yucatán; Aguilar llega en canoa a Cozumel"},
-    {"id": "event:batalla-rio-grijalva-1519", "name": "Batalla del río de Grijalva / Tabasco", "date_text": "1519", "place_id": "place:rio-grijalva-tabasco", "status": "candidata", "notas": "según la carta, hasta 40 000 indios de ocho provincias contra 400 españoles; mueren unos 220 indios; termina en paz y sumisión de los caciques"},
-    {"id": "event:fundacion-villa-rica-vera-cruz", "name": "Fundación de la Villa Rica de la Vera Cruz", "date_text": "1519", "place_id": "place:villa-rica-de-la-vera-cruz", "status": "candidata", "notas": "el cabildo nombra a Cortés justicia mayor y capitán, desconociendo la autoridad de Diego Velázquez"}
+    {
+      "id": "event:expedicion-hernandez-de-cordoba-1517",
+      "name": "Expedición de Francisco Hernández de Córdoba a Yucatán (1517)",
+      "date_text": "1517",
+      "place_id": "place:yucatan",
+      "status": "candidata"
+    },
+    {
+      "id": "event:batalla-potonchan-1517",
+      "name": "Batalla de Potonchán/Champotón (1517)",
+      "date_text": "1517",
+      "place_id": "place:potonchan",
+      "status": "candidata",
+      "notas": "mueren 26 españoles (esta carta da un número distinto al de Bernal Díaz); Hernández de Córdoba recibe treinta y tantas heridas y muere después"
+    },
+    {
+      "id": "event:expedicion-grijalva-1518",
+      "name": "Expedición de Juan de Grijalva (1518)",
+      "date_text": "1518",
+      "place_id": "place:cozumel",
+      "status": "candidata"
+    },
+    {
+      "id": "event:expedicion-cortes-1519",
+      "name": "Expedición de Hernando Cortés a Yucatán y Nueva España (1519)",
+      "date_text": "salió de Cuba el 12 de febrero de 1519",
+      "place_id": "place:cuba",
+      "status": "candidata"
+    },
+    {
+      "id": "event:rescate-jeronimo-de-aguilar",
+      "name": "Rescate de Jerónimo de Aguilar en Cozumel",
+      "date_text": "1519",
+      "place_id": "place:cozumel",
+      "status": "candidata",
+      "notas": "Cortés envía cartas y bergantines a buscar a los españoles cautivos en Yucatán; Aguilar llega en canoa a Cozumel"
+    },
+    {
+      "id": "event:batalla-rio-grijalva-1519",
+      "name": "Batalla del río de Grijalva / Tabasco",
+      "date_text": "1519",
+      "place_id": "place:rio-grijalva-tabasco",
+      "status": "candidata",
+      "notas": "según la carta, hasta 40 000 indios de ocho provincias contra 400 españoles; mueren unos 220 indios; termina en paz y sumisión de los caciques"
+    },
+    {
+      "id": "event:fundacion-villa-rica-vera-cruz",
+      "name": "Fundación de la Villa Rica de la Vera Cruz",
+      "date_text": "1519",
+      "place_id": "place:villa-rica-de-la-vera-cruz",
+      "status": "candidata",
+      "notas": "el cabildo nombra a Cortés justicia mayor y capitán, desconociendo la autoridad de Diego Velázquez"
+    },
+    {
+      "id": "event:guerra-tlaxcala-1519",
+      "name": "Guerra de Cortés contra Tascaltecal (Tlaxcala)",
+      "date_text": "1519",
+      "place_id": "place:tascaltecal",
+      "status": "candidata",
+      "notas": "varias batallas hasta la paz con Xicoténcatl y Maxixcatzin"
+    },
+    {
+      "id": "event:matanza-cholula-1519",
+      "name": "Matanza de Churultecal (Cholula)",
+      "date_text": "1519",
+      "place_id": "place:churultecal",
+      "status": "candidata",
+      "notas": "Cortés dice haber actuado por aviso de una traición planeada por Mutezuma"
+    },
+    {
+      "id": "event:entrada-temixtitan-1519",
+      "name": "Entrada de Cortés en Temixtitan y encuentro con Mutezuma",
+      "date_text": "8 de noviembre de 1519",
+      "place_id": "place:temixtitan",
+      "status": "candidata"
+    },
+    {
+      "id": "event:prision-moctezuma-1519",
+      "name": "Prisión de Mutezuma",
+      "date_text": "1519",
+      "place_id": "place:temixtitan",
+      "status": "candidata"
+    },
+    {
+      "id": "event:quema-qualpopoca-1520",
+      "name": "Quema pública de Qualpopoca y sus principales",
+      "date_text": "1520",
+      "place_id": "place:temixtitan",
+      "status": "candidata"
+    },
+    {
+      "id": "event:prision-cacamatzin-1520",
+      "name": "Prisión de Cacamazin, señor de Tezcuco",
+      "date_text": "1520",
+      "place_id": "place:tezcuco",
+      "status": "candidata"
+    },
+    {
+      "id": "event:derrota-narvaez-1520",
+      "name": "Derrota y prisión de Pánfilo de Narváez en Cempoal",
+      "date_text": "Pascua de Espíritu Santo, 1520",
+      "place_id": "place:villa-rica-de-la-vera-cruz",
+      "status": "candidata",
+      "notas": "Narváez venía enviado por Diego Velázquez a prender a Cortés"
+    },
+    {
+      "id": "event:sitio-temixtitan-1520",
+      "name": "Sitio y combate de los españoles en Temixtitan",
+      "date_text": "1520",
+      "place_id": "place:temixtitan",
+      "status": "candidata",
+      "notas": "incluye la muerte de Mutezuma por una pedrada de los suyos"
+    },
+    {
+      "id": "event:noche-triste-1520",
+      "name": "Retirada de los españoles de Temixtitan con grandes pérdidas",
+      "date_text": "1520",
+      "place_id": "place:tacuba",
+      "status": "candidata",
+      "notas": "conocida después como la 'Noche Triste'; murieron 150 españoles y 45 caballos, según la carta"
+    },
+    {
+      "id": "event:fundacion-segura-de-la-frontera-1520",
+      "name": "Fundación de la villa Segura de la Frontera",
+      "date_text": "1520",
+      "place_id": "place:tepeaca",
+      "status": "candidata"
+    },
+    {
+      "id": "event:toma-guacachula-1520",
+      "name": "Toma de Guacachula a la guarnición de Culúa",
+      "date_text": "1520",
+      "place_id": "place:guacachula",
+      "status": "candidata"
+    },
+    {
+      "id": "event:batalla-otumba-1520",
+      "name": "Batalla de Otumba",
+      "date_text": "julio de 1520",
+      "place_id": "place:otumba",
+      "status": "candidata",
+      "notas": "gran batalla en la retirada tras la Noche Triste; según la carta, murió un principal enemigo y con su muerte cesó la lucha"
+    },
+    {
+      "id": "event:matanza-iztapalapa-1521",
+      "name": "Ataque español a Iztapalapa",
+      "date_text": "1521",
+      "place_id": "place:iztapalapa",
+      "status": "candidata",
+      "notas": "murieron más de 6000 personas; casi terminó en desastre por una presa abierta que inundó la calzada de salida"
+    },
+    {
+      "id": "event:transporte-bergantines-1521",
+      "name": "Transporte por tierra de los trece bergantines desde Tascaltecal hasta Tesuico",
+      "date_text": "1521",
+      "place_id": "place:tezcuco",
+      "status": "candidata",
+      "notas": "más de ocho mil hombres, con Chichimecatecle, Yustecad y Teutipil como capitanes tlaxcaltecas"
+    },
+    {
+      "id": "event:sitio-temixtitan-1521",
+      "name": "Sitio de Temixtitan",
+      "date_text": "30 de mayo a 13 de agosto de 1521 (75 días)",
+      "place_id": "place:temixtitan",
+      "status": "candidata",
+      "notas": "sitio final que terminó con la prisión de Guatimucín y la caída de la ciudad"
+    },
+    {
+      "id": "event:caida-temixtitan-1521",
+      "name": "Caída de Temixtitan y prisión de Guatimucín",
+      "date_text": "13 de agosto de 1521, día de San Hipólito",
+      "place_id": "place:temixtitan",
+      "status": "candidata"
+    },
+    {
+      "id": "event:rebelion-cristobal-de-olid-1524",
+      "name": "Rebelión de Cristóbal de Olid en las Hibueras",
+      "date_text": "1524-1526",
+      "place_id": "place:honduras",
+      "status": "candidata",
+      "notas": "motivó la expedición de Cortés a Honduras"
+    }
   ],
   "relaciones": [
-    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "coorganizador/financiador parcial, según esta carta", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "capitán elegido", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-hernandez-de-cordoba-1517", "notas": "piloto", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:francisco-hernandez-de-cordoba", "relation": "estuvo_presente_en", "to": "event:batalla-potonchan-1517", "notas": "recibió más de treinta heridas, murió después", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "event:batalla-potonchan-1517", "relation": "ocurrió_en", "to": "place:potonchan", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "organizó la armada", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "capitán, pariente de Diego Velázquez", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-grijalva-1518", "notas": "piloto mayor", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:cozumel", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:juan-de-grijalva", "relation": "viajó_a", "to": "place:bahia-de-san-juan", "notas": "hizo su rescate allí", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "event:expedicion-grijalva-1518", "relation": "ocurrió_en", "to": "place:cozumel", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:hernan-cortes", "relation": "estuvo_presente_en", "to": "event:expedicion-cortes-1519", "notas": "capitán general, financió dos tercios de la armada", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:diego-velazquez-de-cuellar", "relation": "estuvo_presente_en", "to": "event:expedicion-cortes-1519", "notas": "concertó la armada con Cortés, puso un tercio del costo, luego nombró a Cortés capitán", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:anton-de-alaminos", "relation": "estuvo_presente_en", "to": "event:expedicion-cortes-1519", "notas": "piloto mayor", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:hernan-cortes", "relation": "viajó_a", "to": "place:cozumel", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:jeronimo-de-aguilar", "relation": "estuvo_presente_en", "to": "event:rescate-jeronimo-de-aguilar", "notas": "rescatado tras siete años de cautiverio en Yucatán", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:hernan-cortes", "relation": "estuvo_presente_en", "to": "event:rescate-jeronimo-de-aguilar", "notas": "organizó la búsqueda y el rescate", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "event:rescate-jeronimo-de-aguilar", "relation": "ocurrió_en", "to": "place:cozumel", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:hernan-cortes", "relation": "viajó_a", "to": "place:rio-grijalva-tabasco", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:hernan-cortes", "relation": "estuvo_presente_en", "to": "event:batalla-rio-grijalva-1519", "notas": "dirigió la carga de caballería que decidió la batalla", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:jeronimo-de-aguilar", "relation": "estuvo_presente_en", "to": "event:batalla-rio-grijalva-1519", "notas": "sirvió de intérprete durante los requerimientos previos", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "event:batalla-rio-grijalva-1519", "relation": "ocurrió_en", "to": "place:rio-grijalva-tabasco", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:hernan-cortes", "relation": "estuvo_presente_en", "to": "event:fundacion-villa-rica-vera-cruz", "notas": "fundó la villa y fue nombrado justicia mayor por el cabildo", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:alonso-de-avila", "relation": "estuvo_presente_en", "to": "event:fundacion-villa-rica-vera-cruz", "notas": "nombrado tesorero", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:alonso-de-grado", "relation": "estuvo_presente_en", "to": "event:fundacion-villa-rica-vera-cruz", "notas": "nombrado veedor", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "event:fundacion-villa-rica-vera-cruz", "relation": "ocurrió_en", "to": "place:villa-rica-de-la-vera-cruz", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:alonso-hernandez-puertocarrero", "relation": "viajó_a", "to": "place:cuba", "notas": "procurador enviado a España con el tesoro y la carta, partiendo desde Villa Rica", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:francisco-de-montejo", "relation": "estuvo_presente_en", "to": "event:fundacion-villa-rica-vera-cruz", "notas": "elegido procurador junto con Puertocarrero para llevar la carta y el tesoro a España", "source": "source:cortes:cap-1", "status": "candidata"},
-    {"from": "person:gonzalo-de-guzman", "relation": "viajó_a", "to": "place:isla-espanola", "notas": "enviado por Diego Velázquez a pedir para sí el adelantamiento, sin conocimiento de los frailes gobernadores", "source": "source:cortes:cap-1", "status": "candidata"}
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-hernandez-de-cordoba-1517",
+      "notas": "coorganizador/financiador parcial, según esta carta",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-hernandez-de-cordoba",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-hernandez-de-cordoba-1517",
+      "notas": "capitán elegido",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:anton-de-alaminos",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-hernandez-de-cordoba-1517",
+      "notas": "piloto",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-hernandez-de-cordoba",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-potonchan-1517",
+      "notas": "recibió más de treinta heridas, murió después",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "event:batalla-potonchan-1517",
+      "relation": "ocurrió_en",
+      "to": "place:potonchan",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "organizó la armada",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "capitán, pariente de Diego Velázquez",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:anton-de-alaminos",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-grijalva-1518",
+      "notas": "piloto mayor",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:cozumel",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-grijalva",
+      "relation": "viajó_a",
+      "to": "place:bahia-de-san-juan",
+      "notas": "hizo su rescate allí",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "event:expedicion-grijalva-1518",
+      "relation": "ocurrió_en",
+      "to": "place:cozumel",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-cortes-1519",
+      "notas": "capitán general, financió dos tercios de la armada",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-cortes-1519",
+      "notas": "concertó la armada con Cortés, puso un tercio del costo, luego nombró a Cortés capitán",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:anton-de-alaminos",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-cortes-1519",
+      "notas": "piloto mayor",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:cozumel",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:jeronimo-de-aguilar",
+      "relation": "estuvo_presente_en",
+      "to": "event:rescate-jeronimo-de-aguilar",
+      "notas": "rescatado tras siete años de cautiverio en Yucatán",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:rescate-jeronimo-de-aguilar",
+      "notas": "organizó la búsqueda y el rescate",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "event:rescate-jeronimo-de-aguilar",
+      "relation": "ocurrió_en",
+      "to": "place:cozumel",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:rio-grijalva-tabasco",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-rio-grijalva-1519",
+      "notas": "dirigió la carga de caballería que decidió la batalla",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:jeronimo-de-aguilar",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-rio-grijalva-1519",
+      "notas": "sirvió de intérprete durante los requerimientos previos",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "event:batalla-rio-grijalva-1519",
+      "relation": "ocurrió_en",
+      "to": "place:rio-grijalva-tabasco",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-villa-rica-vera-cruz",
+      "notas": "fundó la villa y fue nombrado justicia mayor por el cabildo",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-avila",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-villa-rica-vera-cruz",
+      "notas": "nombrado tesorero",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-grado",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-villa-rica-vera-cruz",
+      "notas": "nombrado veedor",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-villa-rica-vera-cruz",
+      "relation": "ocurrió_en",
+      "to": "place:villa-rica-de-la-vera-cruz",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-hernandez-puertocarrero",
+      "relation": "viajó_a",
+      "to": "place:cuba",
+      "notas": "procurador enviado a España con el tesoro y la carta, partiendo desde Villa Rica",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-de-montejo",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-villa-rica-vera-cruz",
+      "notas": "elegido procurador junto con Puertocarrero para llevar la carta y el tesoro a España",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-de-guzman",
+      "relation": "viajó_a",
+      "to": "place:isla-espanola",
+      "notas": "enviado por Diego Velázquez a pedir para sí el adelantamiento, sin conocimiento de los frailes gobernadores",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:xicotencatl",
+      "relation": "enfrentado_a",
+      "to": "person:hernan-cortes",
+      "notas": "capitán general de Tlaxcala, resistió la entrada española antes de la paz",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:xicotencatl",
+      "relation": "estuvo_presente_en",
+      "to": "event:guerra-tlaxcala-1519",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:maxixcatzin",
+      "relation": "estuvo_presente_en",
+      "to": "event:guerra-tlaxcala-1519",
+      "notas": "pidió la paz junto con Xicoténcatl",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:guerra-tlaxcala-1519",
+      "relation": "ocurrió_en",
+      "to": "place:tascaltecal",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "aliado_de",
+      "to": "person:xicotencatl",
+      "notas": "tras la paz, los tlaxcaltecas se vuelven aliados clave contra Mutezuma",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:matanza-cholula-1519",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:matanza-cholula-1519",
+      "relation": "ocurrió_en",
+      "to": "place:churultecal",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:moctezuma-ii",
+      "relation": "estuvo_presente_en",
+      "to": "event:entrada-temixtitan-1519",
+      "notas": "recibió a Cortés en la calzada de Iztapalapa",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:entrada-temixtitan-1519",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:entrada-temixtitan-1519",
+      "relation": "ocurrió_en",
+      "to": "place:temixtitan",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:qualpopoca",
+      "relation": "estuvo_presente_en",
+      "to": "event:quema-qualpopoca-1520",
+      "notas": "quemado tras confesar que Mutezuma mandó matar a los españoles de Almería",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:moctezuma-ii",
+      "relation": "estuvo_presente_en",
+      "to": "event:prision-moctezuma-1519",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:prision-moctezuma-1519",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:prision-moctezuma-1519",
+      "relation": "ocurrió_en",
+      "to": "place:temixtitan",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cacamatzin",
+      "relation": "enfrentado_a",
+      "to": "person:hernan-cortes",
+      "notas": "se rebeló contra Cortés y contra Mutezuma tras la prisión de éste",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cacamatzin",
+      "relation": "estuvo_presente_en",
+      "to": "event:prision-cacamatzin-1520",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:prision-cacamatzin-1520",
+      "relation": "ocurrió_en",
+      "to": "place:tezcuco",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cucuzcacin",
+      "relation": "estuvo_presente_en",
+      "to": "event:prision-cacamatzin-1520",
+      "notas": "puesto por Cortés como señor de Tezcuco en reemplazo de su hermano Cacamazin",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:panfilo-de-narvaez",
+      "relation": "enfrentado_a",
+      "to": "person:hernan-cortes",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-velazquez-de-cuellar",
+      "relation": "aliado_de",
+      "to": "person:panfilo-de-narvaez",
+      "notas": "lo envió con una armada para prender a Cortés",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-de-sandoval",
+      "relation": "estuvo_presente_en",
+      "to": "event:derrota-narvaez-1520",
+      "notas": "alguacil mayor, prendió a Narváez por mandado de Cortés",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:panfilo-de-narvaez",
+      "relation": "estuvo_presente_en",
+      "to": "event:derrota-narvaez-1520",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:derrota-narvaez-1520",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-velazquez-de-leon",
+      "relation": "aliado_de",
+      "to": "person:hernan-cortes",
+      "notas": "avisó a Cortés de la llegada de Narváez en vez de unirse a él",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:lucas-vazquez-de-ayllon",
+      "relation": "enfrentado_a",
+      "to": "person:diego-velazquez-de-cuellar",
+      "notas": "requirió a Velázquez que no enviase la armada de Narváez; fue preso por Narváez y devuelto a la Española",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:sitio-temixtitan-1520",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:moctezuma-ii",
+      "relation": "estuvo_presente_en",
+      "to": "event:sitio-temixtitan-1520",
+      "notas": "murió durante el sitio, herido por los suyos al intentar apaciguarlos",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:sitio-temixtitan-1520",
+      "relation": "ocurrió_en",
+      "to": "place:temixtitan",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:noche-triste-1520",
+      "notas": "salió herido; murieron dos hijas e hijo de Mutezuma que llevaba presos",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:noche-triste-1520",
+      "relation": "ocurrió_en",
+      "to": "place:tacuba",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:tascaltecal",
+      "notas": "se retiró allí a curarse tras la Noche Triste, protegido por Xicoténcatl y Maxixcatzin",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-segura-de-la-frontera-1520",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-segura-de-la-frontera-1520",
+      "relation": "ocurrió_en",
+      "to": "place:tepeaca",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-de-sandoval",
+      "relation": "estuvo_presente_en",
+      "to": "event:toma-guacachula-1520",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:toma-guacachula-1520",
+      "relation": "ocurrió_en",
+      "to": "place:guacachula",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cuitlahuac",
+      "relation": "estuvo_presente_en",
+      "to": "event:sitio-temixtitan-1520",
+      "notas": "sucedió a Mutezuma tras su muerte y organizó la defensa de la ciudad",
+      "source": "source:cortes:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:batalla-otumba-1520",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "event:batalla-otumba-1520",
+      "relation": "ocurrió_en",
+      "to": "place:otumba",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:matanza-iztapalapa-1521",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:guanacacin",
+      "relation": "enfrentado_a",
+      "to": "person:hernan-cortes",
+      "notas": "aliado de Culúa, huyó a Temixtitan al volver Cortés a Tezcuco",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:ixtlilxochitl-don-fernando",
+      "relation": "aliado_de",
+      "to": "person:hernan-cortes",
+      "notas": "se bautizó y fue puesto señor de Tezcuco en lugar de su hermano Guanacacin",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-de-sandoval",
+      "relation": "estuvo_presente_en",
+      "to": "event:transporte-bergantines-1521",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "event:transporte-bergantines-1521",
+      "relation": "ocurrió_en",
+      "to": "place:tezcuco",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:sitio-temixtitan-1521",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cuauhtemoc",
+      "relation": "estuvo_presente_en",
+      "to": "event:sitio-temixtitan-1521",
+      "notas": "señor de la ciudad durante el sitio final",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:ciguacoacin",
+      "relation": "estuvo_presente_en",
+      "to": "event:sitio-temixtitan-1521",
+      "notas": "capitán y gobernador de los de Temixtitan durante el sitio",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "event:sitio-temixtitan-1521",
+      "relation": "ocurrió_en",
+      "to": "place:temixtitan",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:garci-holguin",
+      "relation": "estuvo_presente_en",
+      "to": "event:caida-temixtitan-1521",
+      "notas": "capturó a Guatimucín en una canoa al huir",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cuauhtemoc",
+      "relation": "estuvo_presente_en",
+      "to": "event:caida-temixtitan-1521",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "estuvo_presente_en",
+      "to": "event:caida-temixtitan-1521",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "event:caida-temixtitan-1521",
+      "relation": "ocurrió_en",
+      "to": "place:temixtitan",
+      "source": "source:cortes:cap-3",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-de-ordaz",
+      "relation": "viajó_a",
+      "to": "place:guazacualco",
+      "source": "source:cortes:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "person:casulci",
+      "relation": "aliado_de",
+      "to": "person:hernan-cortes",
+      "notas": "señor de Michoacán, se ofreció vasallo por sus mensajeros",
+      "source": "source:cortes:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:michoacan",
+      "source": "source:cortes:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cristobal-de-tapia",
+      "relation": "enfrentado_a",
+      "to": "person:hernan-cortes",
+      "notas": "su llegada causó bullicios entre las provincias aliadas del Norte",
+      "source": "source:cortes:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cristobal-de-olid",
+      "relation": "enfrentado_a",
+      "to": "person:hernan-cortes",
+      "notas": "se rebeló en las Hibueras (Honduras), motivando la expedición de Cortés",
+      "source": "source:cortes:cap-5",
+      "status": "candidata"
+    },
+    {
+      "from": "person:hernan-cortes",
+      "relation": "viajó_a",
+      "to": "place:honduras",
+      "source": "source:cortes:cap-5",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gonzalo-de-salazar",
+      "relation": "estuvo_presente_en",
+      "to": "event:rebelion-cristobal-de-olid-1524",
+      "notas": "acompañó a Cortés en la expedición a las Hibueras",
+      "source": "source:cortes:cap-5",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-zuazo",
+      "relation": "aliado_de",
+      "to": "person:hernan-cortes",
+      "notas": "quedó a cargo de la justicia de Temixtitan durante la expedición",
+      "source": "source:cortes:cap-5",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gil-gonzalez-davila",
+      "relation": "enfrentado_a",
+      "to": "person:cristobal-de-olid",
+      "notas": "capitanes rivales en la región de Hibueras",
+      "source": "source:cortes:cap-5",
+      "status": "candidata"
+    }
   ]
 }

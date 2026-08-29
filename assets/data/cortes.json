@@ -91,6 +91,226 @@
 "url": "/personas/cortes/gonzalo-de-guzman/"
 },
 {
+"id": "person:moctezuma-ii",
+"canonical_name": "Moctezuma",
+"aliases": [
+"Mutezuma",
+"Motezuma"
+],
+"tipo": "persona",
+"url": "/personas/cortes/moctezuma-ii/"
+},
+{
+"id": "person:xicotencatl",
+"canonical_name": "Xicoténcatl",
+"aliases": [
+"Sicutengal",
+"Sintengal",
+"Singutecal"
+],
+"tipo": "persona",
+"url": "/personas/cortes/xicotencatl/"
+},
+{
+"id": "person:maxixcatzin",
+"canonical_name": "Maxixcatzin",
+"aliases": [
+"Magiscasin",
+"Magiscacin"
+],
+"tipo": "persona",
+"url": "/personas/cortes/maxixcatzin/"
+},
+{
+"id": "person:qualpopoca",
+"canonical_name": "Qualpopoca",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/qualpopoca/"
+},
+{
+"id": "person:cacamatzin",
+"canonical_name": "Cacamazin",
+"aliases": [
+"Cacamazín"
+],
+"tipo": "persona",
+"url": "/personas/cortes/cacamatzin/"
+},
+{
+"id": "person:cuitlahuac",
+"canonical_name": "Cuetravacin",
+"aliases": [
+"Cuitláhuac"
+],
+"tipo": "persona",
+"url": "/personas/cortes/cuitlahuac/"
+},
+{
+"id": "person:panfilo-de-narvaez",
+"canonical_name": "Pánfilo de Narváez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/panfilo-de-narvaez/"
+},
+{
+"id": "person:gonzalo-de-sandoval",
+"canonical_name": "Gonzalo de Sandoval",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/gonzalo-de-sandoval/"
+},
+{
+"id": "person:juan-velazquez-de-leon",
+"canonical_name": "Juan Velázquez de León",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/juan-velazquez-de-leon/"
+},
+{
+"id": "person:andres-de-duero",
+"canonical_name": "Andrés de Duero",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/andres-de-duero/"
+},
+{
+"id": "person:lucas-vazquez-de-ayllon",
+"canonical_name": "Lucas Vázquez de Ayllón",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/lucas-vazquez-de-ayllon/"
+},
+{
+"id": "person:rodrigo-de-figueroa",
+"canonical_name": "Rodrigo de Figueroa",
+"aliases": [
+"Figueroa"
+],
+"tipo": "persona",
+"url": "/personas/cortes/rodrigo-de-figueroa/"
+},
+{
+"id": "person:cucuzcacin",
+"canonical_name": "Cucuzcacin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/cucuzcacin/"
+},
+{
+"id": "person:cuauhtemoc",
+"canonical_name": "Guatimucín",
+"aliases": [
+"Cuauhtémoc"
+],
+"tipo": "persona",
+"url": "/personas/cortes/cuauhtemoc/"
+},
+{
+"id": "person:garci-holguin",
+"canonical_name": "Garci Holguín",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/garci-holguin/"
+},
+{
+"id": "person:ciguacoacin",
+"canonical_name": "Ciguacoacín",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/ciguacoacin/"
+},
+{
+"id": "person:guanacacin",
+"canonical_name": "Guanacacin",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/guanacacin/"
+},
+{
+"id": "person:ixtlilxochitl-don-fernando",
+"canonical_name": "don Fernando",
+"aliases": [
+"Ixtlilxóchitl"
+],
+"tipo": "persona",
+"url": "/personas/cortes/ixtlilxochitl-don-fernando/"
+},
+{
+"id": "person:diego-de-ordaz",
+"canonical_name": "Diego de Ordaz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/diego-de-ordaz/"
+},
+{
+"id": "person:cristobal-de-tapia",
+"canonical_name": "Cristóbal de Tapia",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/cristobal-de-tapia/"
+},
+{
+"id": "person:diego-de-ocampo",
+"canonical_name": "Diego de Ocampo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/diego-de-ocampo/"
+},
+{
+"id": "person:casulci",
+"canonical_name": "Casulci",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/casulci/"
+},
+{
+"id": "person:cristobal-de-olid",
+"canonical_name": "Cristóbal de Olid",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/cristobal-de-olid/"
+},
+{
+"id": "person:gonzalo-de-salazar",
+"canonical_name": "Gonzalo de Salazar",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/gonzalo-de-salazar/"
+},
+{
+"id": "person:peralmidez-chirinos",
+"canonical_name": "Peralmídez Chirinos",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/peralmidez-chirinos/"
+},
+{
+"id": "person:alonso-de-zuazo",
+"canonical_name": "Alonso de Zuazo",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/cortes/alonso-de-zuazo/"
+},
+{
+"id": "person:gil-gonzalez-davila",
+"canonical_name": "Gil González Dávila",
+"aliases": [
+"Gil González"
+],
+"tipo": "persona",
+"url": "/personas/cortes/gil-gonzalez-davila/"
+},
+{
+"id": "person:pedrarias-davila",
+"canonical_name": "Pedrarias Dávila",
+"aliases": [
+"Pedro Arias de Ávila"
+],
+"tipo": "persona",
+"url": "/personas/cortes/pedrarias-davila/"
+},
+{
 "id": "place:villa-rica-de-la-vera-cruz",
 "canonical_name": "Villa Rica de la Vera Cruz",
 "aliases": [
@@ -166,5 +386,168 @@
 "aliases": [],
 "tipo": "lugar",
 "url": "/lugares/cortes/bahia-de-san-juan/"
+},
+{
+"id": "place:tascaltecal",
+"canonical_name": "Tascaltecal",
+"aliases": [
+"Tlascaltecal",
+"Tlaxcala"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/tascaltecal/"
+},
+{
+"id": "place:churultecal",
+"canonical_name": "Churultecal",
+"aliases": [
+"Chururtecal",
+"Cholula"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/churultecal/"
+},
+{
+"id": "place:guasucingo",
+"canonical_name": "Guasucingo",
+"aliases": [
+"Guasocingo",
+"Guajocingo"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/guasucingo/"
+},
+{
+"id": "place:temixtitan",
+"canonical_name": "Temixtitan",
+"aliases": [
+"Tenuxtitan",
+"Tenochtitlan"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/temixtitan/"
+},
+{
+"id": "place:tezcuco",
+"canonical_name": "Tezcuco",
+"aliases": [
+"Texcoco"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/tezcuco/"
+},
+{
+"id": "place:iztapalapa",
+"canonical_name": "Iztapalapa",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/iztapalapa/"
+},
+{
+"id": "place:chalco",
+"canonical_name": "Chalco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/chalco/"
+},
+{
+"id": "place:tacuba",
+"canonical_name": "Tacuba",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/tacuba/"
+},
+{
+"id": "place:tepeaca",
+"canonical_name": "Tepeaca",
+"aliases": [
+"Segura de la Frontera"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/tepeaca/"
+},
+{
+"id": "place:guacachula",
+"canonical_name": "Guacachula",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/guacachula/"
+},
+{
+"id": "place:izcucan",
+"canonical_name": "Izcucan",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/izcucan/"
+},
+{
+"id": "place:otumba",
+"canonical_name": "Otumba",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/otumba/"
+},
+{
+"id": "place:michoacan",
+"canonical_name": "Mechuacán",
+"aliases": [
+"Michoacán"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/michoacan/"
+},
+{
+"id": "place:zacatula",
+"canonical_name": "Zacatula",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/zacatula/"
+},
+{
+"id": "place:coliman",
+"canonical_name": "Colimán",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/coliman/"
+},
+{
+"id": "place:tututepeque",
+"canonical_name": "Tututepeque",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/tututepeque/"
+},
+{
+"id": "place:panuco",
+"canonical_name": "Pánuco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/panuco/"
+},
+{
+"id": "place:guazacualco",
+"canonical_name": "Guazacualco",
+"aliases": [
+"Cozacoalco"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/guazacualco/"
+},
+{
+"id": "place:honduras",
+"canonical_name": "Hibueras",
+"aliases": [
+"golfo de Hibueras",
+"Honduras"
+],
+"tipo": "lugar",
+"url": "/lugares/cortes/honduras/"
+},
+{
+"id": "place:trujillo-honduras",
+"canonical_name": "Trujillo",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/cortes/trujillo-honduras/"
 }
 ]
