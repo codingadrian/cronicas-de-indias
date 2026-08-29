@@ -1,0 +1,23 @@
+[
+  {
+    "anchor": "veinte",
+    "origen": "original",
+    "autor": "Navarrete",
+    "color": "#c9a227",
+    "texto": "En el original está en números romanos muy confusos y parece decir «setenta y un días». En la copia de Volafán dice «en treinta días pasé de las Islas Canarias á las Indias»."
+  },
+  {
+    "anchor": "Guanahanin",
+    "origen": "editor",
+    "autor": "A. Robles",
+    "color": "#3f8f4f",
+    "texto": "Posible error de OCR: debería decir «Guanahaní». Dejado así hasta cotejar contra el original — ver METADATA.md de esta obra."
+  },
+  {
+    "anchor": "Cibau",
+    "origen": "original",
+    "autor": "Navarrete",
+    "color": "#c9a227",
+    "texto": "En el texto de 1493 se lee claramente «Auan»; en el de Volafán, «Nahn». Muñoz y Bernáldez también leyeron «Nahn»."
+  }
+]

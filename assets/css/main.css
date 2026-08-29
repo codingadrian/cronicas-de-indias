@@ -216,6 +216,34 @@ main{ flex:1; padding:1.4rem 1.2rem 3rem; max-width:1180px; margin:0 auto; width
 .doc-toc-list a:hover{ background:var(--surface-2); border-color:var(--accent-soft); }
 .doc-toc-list a.current{ border-color:var(--accent); color:var(--accent); font-weight:600; }
 
+/* ---------- Comentarios al margen (prototipo, ver assets/js/comments.js) ---------- */
+.doc-reader-wrap{ display:flex; justify-content:center; align-items:flex-start; gap:0; width:100%; }
+.doc-reader-wrap.has-comments .doc-reader{ margin:0; border-right:1px solid var(--line-strong); padding-right:1.8rem; }
+.comments-rail{ position:relative; width:270px; flex-shrink:0; margin-left:1.8rem; }
+.comment-anchor{
+  background:none; border-bottom:1.5px dotted var(--comment-color, var(--accent));
+  cursor:default;
+}
+.comment-connector{
+  position:absolute; left:-1.8rem; width:1.8rem; height:0;
+  border-top:2px dotted var(--comment-color, var(--accent)); pointer-events:none;
+}
+.comment-box{
+  position:absolute; left:0; width:100%; box-sizing:border-box;
+  background:var(--surface); border:1px solid var(--line);
+  border-left:3px solid var(--comment-color, var(--accent));
+  border-radius:2px; padding:0.6rem 0.85rem;
+}
+.comment-box .cb-autor{
+  display:block; font-family:'Space Mono',monospace; font-size:0.6rem; text-transform:uppercase;
+  letter-spacing:0.05em; color:var(--comment-color, var(--accent)); margin-bottom:0.3rem;
+}
+.comment-box p{ font-size:0.83rem; line-height:1.5; color:var(--ink-soft); margin:0; }
+@media (max-width: 1080px){
+  .comments-rail{ display:none; }
+  .doc-reader-wrap.has-comments .doc-reader{ border-right:none; padding-right:0; }
+}
+
 .doc-reader{ max-width:720px; margin:0 auto; width:100%; }
 .doc-reader .dr-head{ margin-bottom:0.3rem; text-align:center; }
 .doc-reader .dr-head h2{ font-size:1.55rem; }
