@@ -1,0 +1,16 @@
+# KPIs globales mostrados en la barra de navegación (nav.html), junto al
+# buscador. Mantenido a mano — no se recalcula en el build de Jekyll porque
+# eventos/relaciones viven en entidades/*/relaciones-muestra.json, que está
+# excluido de lo que sirve el sitio (ver _config.yml exclude). Actualizar
+# estos números cada vez que se suma una tanda de Fase 2 (ver CLAUDE.md,
+# sección "Estado actual" / "Pendientes" punto 1).
+#
+# obras = cantidad de obras activas en el sitio (Bernal Díaz, Las Casas,
+# Diario de Colón, Cortés, Colón — Cartas). No cuenta las 17 obras del
+# catálogo que siguen "por procesar" (ver CLAUDE.md, sección "Estado
+# actual").
+obras: 5
+personas: 179
+lugares: 140
+eventos: 76
+relaciones: 415

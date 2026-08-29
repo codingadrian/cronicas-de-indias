@@ -13,4 +13,11 @@
     <input type="text" id="global-search" placeholder="Buscar… (personas, lugares, palabras)" autocomplete="off" data-index-url="{{ '/assets/data/search-index.json' | relative_url }}">
     <div class="results" id="search-results" style="display:none; position:absolute; top:100%; left:0; right:0; z-index:30; margin-top:0.4rem;"></div>
   </div>
+  <div class="stats mono">
+    <span><b>{{ site.data.stats.obras }}</b> obras</span>
+    <span><b>{{ site.data.stats.personas }}</b> personas</span>
+    <span><b>{{ site.data.stats.lugares }}</b> lugares</span>
+    <span><b>{{ site.data.stats.eventos }}</b> eventos</span>
+    <span><b>{{ site.data.stats.relaciones }}</b> relaciones</span>
+  </div>
 </header>
