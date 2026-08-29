@@ -192,18 +192,11 @@ Tales son los sucesos que he descrito con brevedad. A Dios. En Lisboa á catorce
 
 MEMORIAL 
 
-Que para los Reyes Católicos dió el Almirante D. Cristóbal 
-Colón , en la ciudad Isabela, á, 30 de Enero de 1494 á An- 
-tonio de Torres, sobre el suceso de su segundo viaje á las 
-Indias; y al final de cada capítulo la respuesta de sus Al- 
-tezas (1). 
+Que para los Reyes Católicos dió el Almirante D. Cristóbal Colón, en la ciudad Isabela, á, 30 de Enero de 1494 á Antonio de Torres, sobre el suceso de su segundo viaje á las Indias; y al final de cada capítulo la respuesta de sus Altezas (1). 
 
 30 de Enero de 1494. 
 
-Lo que vos Antonio de Torres, Capitán de la nao 
-Marigalantt ¡, ó Alcaide de la ciudad Isabela, habéis de 
-decir é suplicar de mi parte ai Rey é la Reina nuestros 
-Señores, es lo siguiente: 
+Lo que vos Antonio de Torres, Capitán de la nao Marigalante, é Alcaide de la ciudad Isabela, habéis de decir é suplicar de mi parte ai Rey é la Reina nuestros Señores, es lo siguiente: 
 
 Primeramente, dadas las cartas de creencia que lle- 
 váis de mí para sus Altezas, besaréis por mí sus reales 
