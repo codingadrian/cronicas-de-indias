@@ -144,6 +144,37 @@ dirigido al usuario (sitio, READMEs, METADATA).
   https://github.com/codingadrian/cronicas-de-indias (público) y el sitio se
   sirve en https://codingadrian.github.io/cronicas-de-indias/. Ver
   "GitHub / GitHub Pages" más abajo para cómo está armado el deploy.
+- **Diseño visual: fondo más claro y letra ~12.5% más grande (2026-08-29)**.
+  En `assets/css/main.css`: se aclararon las paletas de `--bg`/`--surface`/
+  `--surface-2`/`--surface-3` en los dos temas (claro y oscuro, ya que el
+  sitio sigue la preferencia del sistema operativo sin selector manual), y
+  se agregó `html{ font-size: 18px; }` (era el default de 16px del
+  navegador) con `body` pasado a `font-size: 1rem` para que herede — como
+  casi todo el resto del CSS ya usaba `rem`, esto escaló toda la
+  tipografía del sitio junto, no solo el cuerpo del texto.
+- **Bug de integridad encontrado en Colón — Cartas (2026-08-29), ver
+  regla nueva en "Convenciones a mantener"**: se descubrió que
+  `sources/colon-cartas/texto-limpio/relaciones-cartas-colon.md` se
+  había editado repetidas veces **directamente en los archivos
+  generados** (`_documentos/colon-cartas/000.md` y `_documentos/cortes/
+  *.md`) en vez de en el `texto-limpio/` de origen — probablemente por
+  una sesión concurrente de Claude Code trabajando en el mismo repo
+  (se vio como peer session activa, `migrate-mvp-jekyll-multipage`,
+  vía `ListAgents`). Esto dejó el sitio publicado con más limpieza de
+  la que tenía el `texto-limpio/` real, y en un caso concreto un editor
+  (humano o agente) promovió por error dos títulos de sub-documento de
+  texto plano ("CARTA DEL ALMIRANTE... RAFAEL SÁNCHEZ" y "MEMORIAL")
+  a encabezados `## ` reales dentro de `sources/colon-cartas/`,
+  duplicando el título y subiendo el conteo de "capítulos" de 10 a 12
+  — desalineando en silencio la numeración `cap-N` que ya citan las 65
+  relaciones de `entidades/colon-cartas/relaciones-muestra.json`. Se
+  corrigió (encabezados vueltos a texto plano, contenido regenerado
+  solo para `colon-cartas` con un script puntual que reusa la lógica de
+  `scripts/generar_sitio.py` sin tocar las otras 12 obras del sitio) —
+  ver el historial de commits del 2026-08-29 para el detalle completo.
+  **La causa raíz era editar el archivo generado en vez del de origen —
+  ahora hay una regla explícita contra esto, ver "Convenciones a
+  mantener".**
 
 ## Estructura de carpetas
 
@@ -361,6 +392,16 @@ versionado y es la fuente de verdad editable** — volver a correr el script
 sobre una obra que ya tiene ediciones manuales en sus páginas las pisaría,
 así que no correrlo a ciegas sobre todo el sitio una vez que haya contenido
 corregido a mano.
+
+**Esto último es para una corrección puntual de un colaborador externo
+vía Pull Request** (ver README.md), que en la práctica no va a volver a
+correr el generador para esa obra. **Para trabajo de Claude Code/un
+agente arreglando texto de una crónica, la regla es la contraria: editar
+siempre `sources/<obra>/texto-limpio/*.md`, nunca `_documentos/`
+directamente** — ver la regla dura en "Convenciones a mantener" y el bug
+real de Colón — Cartas en "Estado actual" que salió de romper esta
+distinción (una corrección se hizo directo en `_documentos/`, no en el
+`texto-limpio/` de origen, y quedó desincronizada).
 
 - **División de capítulos**: cualquier línea `## Encabezado` en el
   `texto-limpio/*.md` de una obra es un límite de capítulo/página — no
@@ -644,6 +685,23 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
   slug en minúsculas con guiones, **scoped por obra** (ver nota en "Modelo
   de datos").
 - Toda relación cita su `Source` exacta (obra + capítulo).
+- **Regla dura: el texto de una crónica solo se corrige dentro de
+  `sources/<obra>/texto-limpio/*.md`. Nunca editar directamente
+  `_documentos/`, `_personas/`, `_lugares/`, ni `assets/data/*.json`.**
+  Esos son contenido *generado* por `scripts/generar_sitio.py` a partir
+  de `sources/` + `entidades/` — una corrección hecha ahí directamente
+  queda desincronizada del origen y se pierde (silenciosamente, sin
+  error) la próxima vez que alguien regenere esa obra, porque el
+  generador sobreescribe esos archivos sin mirar si tienen ediciones
+  manuales encima. Esto ya pasó de verdad — ver "Estado actual", el bug
+  de integridad de Colón — Cartas del 2026-08-29, causado exactamente
+  por esto. Si hace falta corregir una errata que ya está publicada:
+  corregir `sources/<obra>/texto-limpio/*.md` y volver a generar (para
+  una sola obra sin tocar las demás, ver "El sitio Jekyll"/"Pendientes"
+  para el patrón de regeneración acotada por obra). **Esta regla es solo
+  para el texto de la crónica** — `entidades/<obra>/*.json` sí se edita
+  directamente a mano o por agente, ese es su diseño (es dato de
+  investigación fuente, igual que `sources/`, no contenido generado).
 - **Aparato editorial: el criterio es la fecha del editor, no si "molesta".**
   Aparato editorial viejo (pre-1900, ya seguro de dominio público — un
   prólogo de 1862, una introducción de 1875) se conserva, separado en su
