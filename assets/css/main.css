@@ -1,8 +1,8 @@
 :root{
-  --bg: #E7E2D3;
-  --surface: #F4F0E4;
-  --surface-2: #ECE7D8;
-  --surface-3: #E1DAC5;
+  --bg: #F2EEE1;
+  --surface: #F8F5EC;
+  --surface-2: #F1ECDF;
+  --surface-3: #E9E2D0;
   --ink: #2A2620;
   --ink-soft: #55503F;
   --ink-faint: #8A836D;
@@ -19,10 +19,10 @@
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
-    --bg: #1B1D19;
-    --surface: #232520;
-    --surface-2: #292B24;
-    --surface-3: #31332A;
+    --bg: #2E312A;
+    --surface: #3A3D35;
+    --surface-2: #44473C;
+    --surface-3: #4F5244;
     --ink: #E9E3D2;
     --ink-soft: #B9B29B;
     --ink-faint: #8B8570;
@@ -39,10 +39,10 @@
   }
 }
 :root[data-theme="dark"]{
-  --bg: #1B1D19;
-  --surface: #232520;
-  --surface-2: #292B24;
-  --surface-3: #31332A;
+  --bg: #2E312A;
+  --surface: #3A3D35;
+  --surface-2: #44473C;
+  --surface-3: #4F5244;
   --ink: #E9E3D2;
   --ink-soft: #B9B29B;
   --ink-faint: #8B8570;
@@ -59,13 +59,14 @@
 }
 
 *{ box-sizing: border-box; }
+html{ font-size: 18px; }
 html, body { height: 100%; }
 body{
   margin: 0;
   background: var(--bg);
   color: var(--ink);
   font-family: 'Spectral', Georgia, 'Times New Roman', serif;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   display: flex;
