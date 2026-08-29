@@ -1,0 +1,284 @@
+[
+  {
+    "id": "person:pedro-de-cieza-de-leon",
+    "canonical_name": "Pedro de Cieza de León",
+    "aliases": [],
+    "role": "autor de la crónica, soldado y cronista (escribió 1541-1550)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-colon",
+    "canonical_name": "Cristóbal Colón",
+    "aliases": [],
+    "role": "descubridor de las Indias (1492)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-ojeda",
+    "canonical_name": "Alonso de Ojeda",
+    "aliases": [],
+    "role": "gobernador de Tierra Firme, fundó el primer asentamiento en Urabá",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-nicuesa",
+    "canonical_name": "Diego de Nicuesa",
+    "aliases": [
+      "Nicuesa"
+    ],
+    "role": "cogobernador de Tierra Firme junto con Ojeda",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-la-cosa",
+    "canonical_name": "Juan de la Cosa",
+    "aliases": [],
+    "role": "capitán, muerto en batalla contra los indios de Turbaco/Calamar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedrarias-davila",
+    "canonical_name": "Pedrarias Dávila",
+    "aliases": [
+      "Pedrarias"
+    ],
+    "role": "gobernador de Tierra Firme, fundó Panamá (1520), mandó decapitar a su yerno Vasco Núñez de Balboa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vasco-nunez-de-balboa",
+    "canonical_name": "Vasco Núñez de Balboa",
+    "aliases": [],
+    "role": "adelantado, yerno de Pedrarias, decapitado por este",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-heredia",
+    "canonical_name": "Pedro de Heredia",
+    "aliases": [],
+    "role": "gobernador de la provincia de Cartagena",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-heredia",
+    "canonical_name": "Alonso de Heredia",
+    "aliases": [],
+    "role": "hermano de Pedro de Heredia, fundó (segunda vez) la ciudad de San Sebastián de Buena Vista en Urabá",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-vadillo",
+    "canonical_name": "Juan de Vadillo",
+    "aliases": [],
+    "role": "licenciado, juez de residencia y gobernador de Cartagena; salió con su armada en 1537, cruzó de mar a mar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:jorge-robledo",
+    "canonical_name": "Jorge Robledo",
+    "aliases": [],
+    "role": "capitán, fundó las ciudades de Antiocha y Ancerma",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cacique-macuri",
+    "canonical_name": "Macuri",
+    "aliases": [],
+    "role": "cacique de Bahaire (Cartagena), explicó a Cieza la composición del veneno de flechas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cacique-nutibara",
+    "canonical_name": "Nutibara",
+    "aliases": [],
+    "role": "cacique de la comarca de Antiocha",
+    "status": "candidata"
+  },
+  {
+    "id": "person:sebastian-de-belalcazar",
+    "canonical_name": "Sebastián de Belalcázar",
+    "aliases": [
+      "Benalcázar"
+    ],
+    "role": "capitán, luego adelantado y gobernador de Popayán; fundó Popayán, Quito, Cali (primera vez) y participó en la fundación de Guayaquil",
+    "status": "candidata"
+  },
+  {
+    "id": "person:miguel-munoz",
+    "canonical_name": "Miguel Muñoz",
+    "aliases": [],
+    "role": "capitán, fundó/refundó las ciudades de Cali (1537) y Cartago (1542)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:lorenzo-de-aldana",
+    "canonical_name": "Lorenzo de Aldana",
+    "aliases": [],
+    "role": "capitán, fundó la villa de Pasto",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-pizarro",
+    "canonical_name": "Francisco Pizarro",
+    "aliases": [
+      "el marqués don Francisco Pizarro",
+      "el adelantado don Francisco Pizarro"
+    ],
+    "role": "gobernador y capitán general del Perú; uno de los Trece del Gallo; fundó San Miguel, Trujillo, la ciudad de los Reyes (Lima) y León de Guánuco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-almagro",
+    "canonical_name": "Diego de Almagro",
+    "aliases": [
+      "el mariscal don Diego de Almagro",
+      "el Adelantado"
+    ],
+    "role": "mariscal y adelantado, socio de Pizarro en la conquista; se concertó con Pedro de Alvarado en Riobamba (1534) por los derechos de conquista de Quito",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-alvarado",
+    "canonical_name": "Pedro de Alvarado",
+    "aliases": [
+      "el adelantado don Pedro de Albarado"
+    ],
+    "role": "adelantado, intentó conquistar Quito de forma independiente; se concertó con Almagro en Riobamba (1534)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-pacheco",
+    "canonical_name": "Francisco Pacheco",
+    "aliases": [],
+    "role": "capitán, fundó la ciudad de Puerto Viejo (12 de marzo de 1535) por orden de Diego de Almagro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-daza",
+    "canonical_name": "Diego Daza",
+    "aliases": [],
+    "role": "alcaide y capitán dejado por Belalcázar en la primera fundación de Guayaquil; sobrevivió a la matanza de los españoles por los indios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-mercadillo",
+    "canonical_name": "Alonso de Mercadillo",
+    "aliases": [],
+    "role": "capitán, fundó la ciudad de Loja (1546)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-alvarado",
+    "canonical_name": "Alonso de Alvarado",
+    "aliases": [
+      "Alonso de Albarado"
+    ],
+    "role": "capitán, fundó la ciudad de la Frontera de los Chachapoyas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gomez-de-alvarado",
+    "canonical_name": "Gómez de Alvarado",
+    "aliases": [
+      "Gómez de Albarado"
+    ],
+    "role": "hermano de Pedro de Alvarado, teniente de Francisco Pizarro, fundó la ciudad de León de Guánuco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-barroso",
+    "canonical_name": "Pedro Barroso",
+    "aliases": [],
+    "role": "reedificó la ciudad de León de Guánuco tras un alzamiento indígena",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-puelles",
+    "canonical_name": "Pedro de Puelles",
+    "aliases": [],
+    "role": "asentó definitivamente León de Guánuco tras la batalla de Chupas, con poderes del licenciado Vaca de Castro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:peranzurez",
+    "canonical_name": "Peranzúrez",
+    "aliases": [],
+    "role": "capitán, fundó la villa de Plata en la provincia de los Charcas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-domingo-de-santo-tomas",
+    "canonical_name": "Domingo de Santo Tomás",
+    "aliases": [],
+    "role": "fraile, fundó el monasterio de Santo Domingo en Trujillo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:mangocapa",
+    "canonical_name": "Mangocapa",
+    "aliases": [
+      "Manco Cápac"
+    ],
+    "role": "primer rey inga legendario, fundador de la ciudad del Cuzco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:inga-yupangue",
+    "canonical_name": "Inga Yupanque",
+    "aliases": [
+      "Inca Yupanqui"
+    ],
+    "role": "rey inga, padre de Topainga; construyó los aposentos de Tumebamba",
+    "status": "candidata"
+  },
+  {
+    "id": "person:topainga-yupangue",
+    "canonical_name": "Topainga Yupangue",
+    "aliases": [
+      "Túpac Yupanqui"
+    ],
+    "role": "rey inga, hijo de Inga Yupanque, padre de Guaynacapa; fundador del templo de Tumebamba, recordado como gobernante piadoso",
+    "status": "candidata"
+  },
+  {
+    "id": "person:guaynacapa",
+    "canonical_name": "Guaynacapa",
+    "aliases": [
+      "Huayna Cápac"
+    ],
+    "role": "rey inga, padre de Huáscar y Atabaliba; profetizó la llegada de gente extraña (los españoles) antes de morir",
+    "status": "candidata"
+  },
+  {
+    "id": "person:guascar",
+    "canonical_name": "Guáscar",
+    "aliases": [
+      "Huáscar"
+    ],
+    "role": "rey inga, hijo legítimo de Guaynacapa, hermano de Atabaliba; disputó el señorío con él",
+    "status": "candidata"
+  },
+  {
+    "id": "person:atabaliba",
+    "canonical_name": "Atabaliba",
+    "aliases": [
+      "Atahualpa"
+    ],
+    "role": "rey inga, hijo de Guaynacapa; venció a Guáscar y ordenó una matanza en Ambato tras derrotar al general Atoco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:atoco",
+    "canonical_name": "Atoco",
+    "aliases": [],
+    "role": "capitán general de Guáscar, derrotado y muerto por Atabaliba en Ambato",
+    "status": "candidata"
+  },
+  {
+    "id": "person:urrua",
+    "canonical_name": "Urrúa",
+    "aliases": [],
+    "role": "cacique principal que lideró a los pueblos de Carrapa en su traslado hacia Quimbaya",
+    "status": "candidata"
+  }
+]

@@ -1,0 +1,449 @@
+[
+  {
+    "id": "person:fray-toribio-motolinia",
+    "canonical_name": "Fray Toribio de Motolinía",
+    "aliases": ["Fray Toribio de Benavente", "Fray Toribio de Paredes", "Motolinia (sic)"],
+    "role": "autor/narrador; franciscano, uno de los Doce Apóstoles de México, guardián de Tlaxcala",
+    "status": "candidata",
+    "notas": "Narrador en primera persona de toda la obra; se nombra a sí mismo pocas veces (firma la Epístola proemial, y en la Carta final habla en primera persona sin repetir su nombre)."
+  },
+  {
+    "id": "person:fray-martin-de-valencia",
+    "canonical_name": "Fray Martín de Valencia",
+    "aliases": ["el siervo de Dios", "el varón de Dios", "padre fray Martín"],
+    "role": "primer custodio y luego primer provincial de la orden franciscana en la Nueva España; líder de los Doce Apóstoles de México",
+    "status": "candidata",
+    "notas": "Sujeto de la biografía completa en Tratado tercero, Capítulo 2 (natural de Valencia de Don Juan, provincia de León; murió en 1534 camino a México desde Talmanalco)."
+  },
+  {
+    "id": "person:hernando-cortes",
+    "canonical_name": "Hernando Cortés",
+    "aliases": ["el marqués del Valle", "don Hernando Cortés", "el Capitán", "el capitán general", "el gobernador"],
+    "role": "capitán general de la conquista de México, marqués del Valle",
+    "status": "candidata"
+  },
+  {
+    "id": "person:moteczuma",
+    "canonical_name": "Moteczuma",
+    "aliases": ["Motezuma", "Moteczumatzin", "Moctezuma"],
+    "role": "señor/emperador de México a la llegada de los españoles",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ahuitzotl",
+    "canonical_name": "Ahuitzotzin",
+    "aliases": ["Ahuitzoci"],
+    "role": "señor de México, antecesor de Moteczuma",
+    "status": "candidata",
+    "notas": "Según la Carta al Emperador, ofreció en sacrificio a 80.400 hombres en un solo templo en tres o cuatro días."
+  },
+  {
+    "id": "person:fray-juan-de-zumarraga",
+    "canonical_name": "Fray Juan de Zumárraga",
+    "aliases": ["don fray Juan de Zumárraga", "fray Juan de Azumárraga"],
+    "role": "primer obispo de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-pedro-de-gante",
+    "canonical_name": "Fray Pedro de Gante",
+    "aliases": [],
+    "role": "maestro de niños en México; doctrinó esa comarca más de once años",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bartolome-de-las-casas",
+    "canonical_name": "Bartolomé de las Casas",
+    "aliases": ["el de las Casas", "el de las Casas o Casaus", "Obispo que fue de Chiapa"],
+    "role": "obispo de Chiapa, fraile dominico, autor de escritos críticos contra el trato a los indios",
+    "status": "candidata",
+    "notas": "Blanco polémico central de la Carta final de Motolinía al Emperador (1555); relación abiertamente hostil, presentada como testigo de vista de casi 15 años de trato previo."
+  },
+  {
+    "id": "person:carlos-v",
+    "canonical_name": "Carlos V",
+    "aliases": ["el Emperador", "V.M.", "Vuestra Majestad", "césar don Carlos", "invictísimo césar don Carlos"],
+    "role": "rey de España y emperador; destinatario de la Carta final",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-domingo-de-betanzos",
+    "canonical_name": "Fray Domingo de Betanzos",
+    "aliases": ["el de Betanzos"],
+    "role": "fraile dominico; escribió una carta pública muy crítica de Las Casas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:antonio-de-mendoza",
+    "canonical_name": "Antonio de Mendoza",
+    "aliases": ["don Antonio de Mendoza", "visorrey"],
+    "role": "primer virrey y gobernador de la Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:luis-de-velasco",
+    "canonical_name": "Luis de Velasco",
+    "aliases": ["don Luis de Velasco"],
+    "role": "virrey de la Nueva España (mencionado como el que gobierna al escribirse la Carta, 1555)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:sebastian-ramirez-de-fuenleal",
+    "canonical_name": "Sebastián Ramírez de Fuenleal",
+    "aliases": ["don Sebastián Ramírez", "el obispo don Sebastián Ramírez", "presidente de la Audiencia Real"],
+    "role": "obispo, presidente de la segunda Audiencia Real de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-alvarado",
+    "canonical_name": "Pedro de Alvarado",
+    "aliases": ["el adelantado don Pedro de Alvarado"],
+    "role": "capitán conquistador, adelantado",
+    "status": "candidata"
+  },
+  {
+    "id": "person:jeronimo-de-aguilar",
+    "canonical_name": "Aguilar",
+    "aliases": [],
+    "role": "español, intérprete de Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:dona-marina",
+    "canonical_name": "Doña Marina",
+    "aliases": [],
+    "role": "intérprete indígena de Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:xicotencatl-el-viejo",
+    "canonical_name": "Xicoténcatl",
+    "aliases": ["Xicotengalth"],
+    "role": "señor anciano y ciego de Tlaxcala (Tizatlán); recibió y favoreció a Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:maxixcatzin",
+    "canonical_name": "Maxixcatzin",
+    "aliases": ["Maxiscazi", "Maxiscazin"],
+    "role": "principal capitán de Tlaxcala (Ocotelulco); recibió a los españoles",
+    "status": "candidata"
+  },
+  {
+    "id": "person:julian-garces",
+    "canonical_name": "Julián Garcés",
+    "aliases": ["don Julián Garcés"],
+    "role": "primer obispo de Tlaxcala",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-antonio-de-ciudad-rodrigo",
+    "canonical_name": "Fray Antonio de Ciudad Rodrigo",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México; provincial que envió varias expediciones misioneras",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-bernardino-minaya",
+    "canonical_name": "Fray Bernardino Minaya",
+    "aliases": [],
+    "role": "fraile dominico, encaminado a Guaxacac con los niños mártires Antonio y Juan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nino-cristobal-tlaxcala",
+    "canonical_name": "Cristóbal",
+    "aliases": [],
+    "role": "niño indígena de Tlaxcala, hijo mayor de Axutecatl; martirizado por su padre por destruir ídolos",
+    "status": "candidata",
+    "notas": "Uno de los llamados Niños Mártires de Tlaxcala (Cristóbal, Antonio y Juan)."
+  },
+  {
+    "id": "person:nino-antonio-tepeaca",
+    "canonical_name": "Antonio",
+    "aliases": [],
+    "role": "niño indígena, nieto de Xicoténcatl el viejo; martirizado cerca de Tepeaca por destruir ídolos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nino-juan-tepeaca",
+    "canonical_name": "Juan",
+    "aliases": [],
+    "role": "niño indígena, criado/paje de Antonio; martirizado junto con él",
+    "status": "candidata"
+  },
+  {
+    "id": "person:axutecatl",
+    "canonical_name": "Axutecatl",
+    "aliases": ["Ayutecatlh"],
+    "role": "señor principal de Tlaxcala, padre de Cristóbal; lo mató por destruir ídolos y vino",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bernardino-heredero-axutecatl",
+    "canonical_name": "Bernardino",
+    "aliases": [],
+    "role": "hijo de Axutecatl, hermano de Cristóbal; heredó el señorío tras la muerte de este último",
+    "status": "candidata"
+  },
+  {
+    "id": "person:luis-testigo-axutecatl",
+    "canonical_name": "Luis",
+    "aliases": ["don Luis Moscoso"],
+    "role": "hijo de Axutecatl, hermano mayor de los tres enviados al monasterio; testigo presencial del asesinato de Cristóbal",
+    "status": "candidata"
+  },
+  {
+    "id": "person:xuchipapalozin",
+    "canonical_name": "Xuchipapalozin",
+    "aliases": ["Flor de mariposa"],
+    "role": "una de las mujeres de Axutecatl; instigó el asesinato de Cristóbal para que heredara su propio hijo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:martin-de-calahorra",
+    "canonical_name": "Martín de Calahorra",
+    "aliases": [],
+    "role": "vecino de México y conquistador; pesquisidor que investigó y sentenció a Axutecatl",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-andres-de-cordoba",
+    "canonical_name": "Fray Andrés de Córdoba",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México (lego); recuperó el cuerpo del niño Cristóbal",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alvaro-de-sandoval",
+    "canonical_name": "Álvaro de Sandoval",
+    "aliases": [],
+    "role": "alguacil español en Tepeaca; investigó la muerte de los niños Antonio y Juan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-de-argumanes",
+    "canonical_name": "Fray Juan de Argumanes",
+    "aliases": [],
+    "role": "maestro de fray Martín de Valencia en España; después provincial de Santiago",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-de-guadalupe",
+    "canonical_name": "Fray Juan de Guadalupe",
+    "aliases": [],
+    "role": "fraile reformador en España, con quien fray Martín de Valencia buscó vivir en pobreza extrema",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-miguel-de-cordoba",
+    "canonical_name": "Fray Miguel de Córdoba",
+    "aliases": [],
+    "role": "primer custodio de la custodia de San Gabriel en España (1516)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-francisco-de-los-angeles",
+    "canonical_name": "Fray Francisco de los Ángeles",
+    "aliases": ["cardenal de Santa Cruz", "Fray Francisco de Quiñones"],
+    "role": "ministro general de la orden franciscana; envió a los Doce a la Nueva España; luego cardenal de Santa Cruz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-clapion",
+    "canonical_name": "Fray Juan Clapión",
+    "aliases": [],
+    "role": "fraile que debía traer las bulas papales a la Nueva España junto con el cardenal de Santa Cruz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-salmeron",
+    "canonical_name": "Juan de Salmerón",
+    "aliases": ["licenciado Juan de Salmerón"],
+    "role": "oidor de la segunda Audiencia Real de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-maldonado",
+    "canonical_name": "Alonso Maldonado",
+    "aliases": ["licenciado Alonso Maldonado"],
+    "role": "oidor de la segunda Audiencia Real de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:licenciado-ceynos",
+    "canonical_name": "Ceynos",
+    "aliases": ["licenciado Ceynos", "licenciado Ceinos"],
+    "role": "oidor de la segunda Audiencia Real de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:licenciado-quiroga",
+    "canonical_name": "Quiroga",
+    "aliases": ["licenciado Quiroga"],
+    "role": "oidor de la segunda Audiencia Real de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-garcia-de-cisneros",
+    "canonical_name": "Fray García de Cisneros",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-caro",
+    "canonical_name": "Fray Juan Caro",
+    "aliases": [],
+    "role": "fraile que introdujo el canto llano y el canto de órgano en la Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-de-perpinan",
+    "canonical_name": "Fray Juan de Perpiñán",
+    "aliases": [],
+    "role": "fraile bautizador de los primeros años, mencionado por Motolinía entre los que más bautizaron",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-francisco-de-valencia",
+    "canonical_name": "Fray Francisco de Valencia",
+    "aliases": [],
+    "role": "fraile bautizador de los primeros años, mencionado por Motolinía entre los que más bautizaron",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-de-tecto",
+    "canonical_name": "Fray Juan de Tecto",
+    "aliases": [],
+    "role": "teólogo flamenco (natural de Gante), catedrático en París; confesor del Emperador; murió el segundo año en la Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:don-francisco-cuitlahuac",
+    "canonical_name": "Don Francisco",
+    "aliases": [],
+    "role": "principal señor de Cuitláhuac, primero de la laguna dulce en pedir el bautismo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:don-hernando-tezcuco",
+    "canonical_name": "Don Hernando",
+    "aliases": [],
+    "role": "hermano del señor de Tezcuco; se desposó públicamente en 1526, primera boda cristiana solemne de la Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:don-martin-cuauhquechula",
+    "canonical_name": "Don Martín",
+    "aliases": [],
+    "role": "señor de Cuauhquechula; procuró llevar frailes a su pueblo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:don-juan-tarecato",
+    "canonical_name": "Don Juan",
+    "aliases": [],
+    "role": "señor principal de Tarecato (Michuacán); renunció su señorío y liberó a sus esclavos por devoción a San Francisco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:emperatriz-isabel",
+    "canonical_name": "Emperatriz doña Isabel",
+    "aliases": [],
+    "role": "emperatriz consorte de Carlos V; mandó enviar más frailes a la Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-de-paz",
+    "canonical_name": "Rodrigo de Paz",
+    "aliases": [],
+    "role": "alguacil mayor de México; padrino de bautismo del hijo enfermo de Moteczuma",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-francisco-de-soto",
+    "canonical_name": "Fray Francisco de Soto",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-martin-de-la-coruna",
+    "canonical_name": "Fray Martín de la Coruña",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-de-rivas",
+    "canonical_name": "Fray Juan de Rivas",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-francisco-jimenez",
+    "canonical_name": "Fray Francisco Jiménez",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-juarez",
+    "canonical_name": "Fray Juan Juárez",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-luis-de-fuensalida",
+    "canonical_name": "Fray Luis de Fuensalida",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-de-palos",
+    "canonical_name": "Fray Juan de Palos",
+    "aliases": [],
+    "role": "uno de los Doce Apóstoles de México (lego)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:beata-del-barco-de-avila",
+    "canonical_name": "la beata del Barco de Ávila",
+    "aliases": [],
+    "role": "mística española a quien fray Martín de Valencia consultó sobre su deseo de ir entre infieles",
+    "status": "candidata",
+    "notas": "No se da su nombre propio en el texto."
+  },
+  {
+    "id": "person:alfonso-de-avila",
+    "canonical_name": "Alfonso de Ávila",
+    "aliases": [],
+    "role": "español honrado invitado desde México a la primera boda cristiana solemne en Tezcuco (1526)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-sanchez-farfan",
+    "canonical_name": "Pedro Sánchez Farfán",
+    "aliases": ["Pedro Sánchez Far(fán)"],
+    "role": "español honrado invitado desde México a la primera boda cristiana solemne en Tezcuco (1526)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-polanco",
+    "canonical_name": "Juan Polanco",
+    "aliases": [],
+    "role": "español castigado por Cortés con cien azotes por robar ropa a un indio",
+    "status": "candidata"
+  },
+  {
+    "id": "person:soldado-mora",
+    "canonical_name": "Mora",
+    "aliases": [],
+    "role": "español que Cortés mandó ahorcar por tomar una gallina a indios de paz; salvado por Pedro de Alvarado",
+    "status": "candidata"
+  }
+]

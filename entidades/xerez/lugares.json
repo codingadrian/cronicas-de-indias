@@ -1,0 +1,115 @@
+[
+  {
+    "id": "place:panama",
+    "canonical_name": "Panamá",
+    "aliases": [
+      "ciudad de Panamá"
+    ],
+    "modern_equivalent": "Ciudad de Panamá, Panamá",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-del-gallo",
+    "canonical_name": "Isla del Gallo",
+    "aliases": [],
+    "modern_equivalent": "Isla del Gallo, costa pacífica de Colombia",
+    "notas": "donde se quedó Pizarro con un puñado de hombres (los luego llamados 'los trece de la fama') mientras Almagro volvía a Panamá por más gente",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tumbez",
+    "canonical_name": "Túmbez",
+    "aliases": [
+      "Tumbez"
+    ],
+    "modern_equivalent": "Tumbes, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-de-santiago",
+    "canonical_name": "Isla de Santiago",
+    "aliases": [
+      "la Pugna",
+      "isla de la Pugna"
+    ],
+    "modern_equivalent": "Isla Puná, Ecuador",
+    "notas": "los indios la llamaban 'la Pugna' (Puná); los españoles le pusieron el nombre de isla de Santiago. Distinta de la Isla del Gallo, mencionada antes en el texto",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cajamarca",
+    "canonical_name": "Cajamarca",
+    "aliases": [
+      "Caxamalca"
+    ],
+    "modern_equivalent": "Cajamarca, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:san-miguel-de-piura",
+    "canonical_name": "San Miguel",
+    "aliases": [
+      "ciudad de Sant Miguel",
+      "Tangarara"
+    ],
+    "modern_equivalent": "San Miguel de Piura, Perú",
+    "notas": "fundada por Pizarro sobre el pueblo indígena de Tangarara",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cuzco",
+    "canonical_name": "Cuzco",
+    "aliases": [
+      "la ciudad del Cuzco"
+    ],
+    "modern_equivalent": "Cusco, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:pachacamac",
+    "canonical_name": "Pachacámac",
+    "aliases": [
+      "Pachacama",
+      "Xachacama"
+    ],
+    "modern_equivalent": "Santuario arqueológico de Pachacámac, Lima, Perú",
+    "notas": "sitio del oráculo/ídolo visitado por Hernando Pizarro, quien mandó destruirlo",
+    "status": "candidata"
+  },
+  {
+    "id": "place:jauja",
+    "canonical_name": "Jauja",
+    "aliases": [
+      "Xauxa"
+    ],
+    "modern_equivalent": "Jauja, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:quito",
+    "canonical_name": "Quito",
+    "aliases": [
+      "Guito"
+    ],
+    "modern_equivalent": "Quito, Ecuador",
+    "notas": "provincia que Huayna Cápac dejó en herencia a Atahualpa",
+    "status": "candidata"
+  },
+  {
+    "id": "place:sevilla",
+    "canonical_name": "Sevilla",
+    "aliases": [],
+    "modern_equivalent": "Sevilla, España",
+    "status": "candidata"
+  },
+  {
+    "id": "place:coaque",
+    "canonical_name": "Coaque",
+    "aliases": [
+      "Quaque"
+    ],
+    "modern_equivalent": "Coaque, Ecuador",
+    "notas": "primer pueblo saqueado por Pizarro en su viaje de conquista, donde se tomó gran cantidad de oro, plata y esmeraldas (estas últimas no reconocidas entonces como piedras de valor)",
+    "status": "candidata"
+  }
+]

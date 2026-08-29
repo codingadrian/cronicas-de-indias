@@ -1,0 +1,344 @@
+[
+  {
+    "id": "place:panama-ciudad",
+    "canonical_name": "Panamá",
+    "aliases": [],
+    "modern_equivalent": "Ciudad de Panamá, Panamá",
+    "status": "candidata",
+    "notas": "fundada por Pedrarias Dávila en 1520"
+  },
+  {
+    "id": "place:nombre-de-dios",
+    "canonical_name": "Nombre de Dios",
+    "aliases": [],
+    "modern_equivalent": "Nombre de Dios, Colón, Panamá",
+    "status": "candidata"
+  },
+  {
+    "id": "place:islas-de-las-perlas",
+    "canonical_name": "islas de las Perlas",
+    "aliases": [],
+    "modern_equivalent": "Archipiélago de las Perlas, Panamá",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-de-gorgona",
+    "canonical_name": "isla de la Gorgona",
+    "aliases": [
+      "Gorgona"
+    ],
+    "modern_equivalent": "Isla Gorgona, Colombia",
+    "status": "candidata",
+    "notas": "aquí esperó Francisco Pizarro con los Trece del Gallo"
+  },
+  {
+    "id": "place:isla-del-gallo",
+    "canonical_name": "isla del Gallo",
+    "aliases": [],
+    "modern_equivalent": "Isla del Gallo, Colombia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-de-plata",
+    "canonical_name": "isla de Plata",
+    "aliases": [],
+    "modern_equivalent": "Isla de la Plata, Ecuador",
+    "status": "candidata",
+    "notas": "nombrada así porque Pizarro y sus trece compañeros hallaron plata y oro allí"
+  },
+  {
+    "id": "place:puerto-viejo",
+    "canonical_name": "Puerto Viejo",
+    "aliases": [],
+    "modern_equivalent": "Portoviejo, Ecuador",
+    "status": "candidata",
+    "notas": "fundada por Francisco Pacheco el 12 de marzo de 1535"
+  },
+  {
+    "id": "place:tumbez",
+    "canonical_name": "Tumbez",
+    "aliases": [],
+    "modern_equivalent": "Tumbes, Perú",
+    "status": "candidata",
+    "notas": "fortaleza inca con templo del sol y casa de mamaconas"
+  },
+  {
+    "id": "place:isla-puna",
+    "canonical_name": "isla de la Puná",
+    "aliases": [
+      "Puna"
+    ],
+    "modern_equivalent": "Isla Puná, Ecuador",
+    "status": "candidata"
+  },
+  {
+    "id": "place:callao",
+    "canonical_name": "El Callao",
+    "aliases": [],
+    "modern_equivalent": "Callao, Perú",
+    "status": "candidata",
+    "notas": "puerto de la ciudad de los Reyes (Lima)"
+  },
+  {
+    "id": "place:cartagena",
+    "canonical_name": "Cartagena",
+    "aliases": [
+      "provincia de Cartagena"
+    ],
+    "modern_equivalent": "Cartagena de Indias, Colombia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:turbaco",
+    "canonical_name": "Turbaco",
+    "aliases": [
+      "Calamar"
+    ],
+    "modern_equivalent": "Turbaco, Bolívar, Colombia",
+    "status": "candidata",
+    "notas": "aquí murió Juan de la Cosa en batalla contra los indios"
+  },
+  {
+    "id": "place:urabá",
+    "canonical_name": "Urabá",
+    "aliases": [
+      "Culata de Urabá"
+    ],
+    "modern_equivalent": "Golfo de Urabá, Colombia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:san-sebastian-de-buena-vista",
+    "canonical_name": "San Sebastián de Buena Vista",
+    "aliases": [],
+    "modern_equivalent": "región del golfo de Urabá, Colombia",
+    "status": "candidata",
+    "notas": "fundada por Alonso de Heredia en el sitio de Urabá, segunda vez tras el primer intento de Ojeda"
+  },
+  {
+    "id": "place:darien",
+    "canonical_name": "Darién",
+    "aliases": [
+      "Nuestra Señora del Antigua"
+    ],
+    "modern_equivalent": "región del Darién, Colombia/Panamá",
+    "status": "candidata"
+  },
+  {
+    "id": "place:antiocha",
+    "canonical_name": "Antiocha",
+    "aliases": [],
+    "modern_equivalent": "Santa Fe de Antioquia, Colombia",
+    "status": "candidata",
+    "notas": "fundada por Jorge Robledo"
+  },
+  {
+    "id": "place:ancerma",
+    "canonical_name": "villa de Ancerma",
+    "aliases": [
+      "Anserma"
+    ],
+    "modern_equivalent": "Anserma, Caldas, Colombia",
+    "status": "candidata",
+    "notas": "fundada por Jorge Robledo"
+  },
+  {
+    "id": "place:cartago",
+    "canonical_name": "Cartago",
+    "aliases": [],
+    "modern_equivalent": "Cartago, Valle del Cauca, Colombia",
+    "status": "candidata",
+    "notas": "fundada por Miguel Muñoz bajo Belalcázar, año de 1542"
+  },
+  {
+    "id": "place:cali",
+    "canonical_name": "ciudad de Cali",
+    "aliases": [],
+    "modern_equivalent": "Cali, Colombia",
+    "status": "candidata",
+    "notas": "fundada primero por Belalcázar, luego reedificada por Miguel Muñoz en 1537 bajo Francisco Pizarro"
+  },
+  {
+    "id": "place:popayan",
+    "canonical_name": "Popayán",
+    "aliases": [],
+    "modern_equivalent": "Popayán, Colombia",
+    "status": "candidata",
+    "notas": "fundada por Sebastián de Belalcázar bajo Francisco Pizarro"
+  },
+  {
+    "id": "place:pasto",
+    "canonical_name": "villa de Pasto",
+    "aliases": [],
+    "modern_equivalent": "Pasto, Colombia",
+    "status": "candidata",
+    "notas": "fundada por Lorenzo de Aldana bajo Francisco Pizarro"
+  },
+  {
+    "id": "place:quito",
+    "canonical_name": "San Francisco del Quito",
+    "aliases": [
+      "Quito"
+    ],
+    "modern_equivalent": "Quito, Ecuador",
+    "status": "candidata",
+    "notas": "fundada por Sebastián de Belalcázar en 1534"
+  },
+  {
+    "id": "place:tumebamba",
+    "canonical_name": "Tumebamba",
+    "aliases": [
+      "Tumebamba"
+    ],
+    "modern_equivalent": "Cuenca, Ecuador (ruinas incas cercanas)",
+    "status": "candidata",
+    "notas": "reales aposentos incas con templo del sol; construido por Inga Yupangue y Topainga"
+  },
+  {
+    "id": "place:ambato",
+    "canonical_name": "Ambato",
+    "aliases": [],
+    "modern_equivalent": "Ambato, Ecuador",
+    "status": "candidata",
+    "notas": "aquí Atabaliba masacró a la población tras vencer al general de Guáscar, Atoco"
+  },
+  {
+    "id": "place:guayaquil",
+    "canonical_name": "Santiago de Guayaquil",
+    "aliases": [
+      "Guayaquil"
+    ],
+    "modern_equivalent": "Guayaquil, Ecuador",
+    "status": "candidata",
+    "notas": "fundada por Belalcázar; los indios mataron a casi todos los españoles poco después; se repobló más tarde"
+  },
+  {
+    "id": "place:loja",
+    "canonical_name": "ciudad de Loja",
+    "aliases": [],
+    "modern_equivalent": "Loja, Ecuador",
+    "status": "candidata",
+    "notas": "fundada por Alonso de Mercadillo en 1546"
+  },
+  {
+    "id": "place:san-miguel",
+    "canonical_name": "San Miguel",
+    "aliases": [
+      "San Miguel de Piura"
+    ],
+    "modern_equivalent": "San Miguel de Piura, Perú",
+    "status": "candidata",
+    "notas": "primera ciudad fundada por Francisco Pizarro en el Perú, c. 1532"
+  },
+  {
+    "id": "place:trujillo-peru",
+    "canonical_name": "ciudad de Trujillo",
+    "aliases": [],
+    "modern_equivalent": "Trujillo, Perú",
+    "status": "candidata",
+    "notas": "sitio escogido por Diego de Almagro, poblada después por Francisco Pizarro"
+  },
+  {
+    "id": "place:ciudad-de-los-reyes",
+    "canonical_name": "ciudad de los Reyes",
+    "aliases": [
+      "Lima"
+    ],
+    "modern_equivalent": "Lima, Perú",
+    "status": "candidata",
+    "notas": "fundada por Francisco Pizarro en los llanos y arenales"
+  },
+  {
+    "id": "place:arequipa",
+    "canonical_name": "Arequipa",
+    "aliases": [],
+    "modern_equivalent": "Arequipa, Perú",
+    "status": "candidata",
+    "notas": "trasladada desde su sitio original al valle de Quilca"
+  },
+  {
+    "id": "place:frontera-chachapoyas",
+    "canonical_name": "ciudad de la Frontera",
+    "aliases": [
+      "Frontera de los Chachapoyas",
+      "Levanto"
+    ],
+    "modern_equivalent": "Chachapoyas, Perú (área)",
+    "status": "candidata",
+    "notas": "fundada por Alonso de Alvarado"
+  },
+  {
+    "id": "place:leon-de-guanuco",
+    "canonical_name": "León de Guánuco",
+    "aliases": [],
+    "modern_equivalent": "Huánuco, Perú",
+    "status": "candidata",
+    "notas": "fundada por Gómez de Alvarado, destruida en un alzamiento, reedificada por Pedro Barroso, asentada finalmente por Pedro de Puelles tras la batalla de Chupas"
+  },
+  {
+    "id": "place:cuzco",
+    "canonical_name": "ciudad del Cuzco",
+    "aliases": [
+      "Cuzco"
+    ],
+    "modern_equivalent": "Cusco, Perú",
+    "status": "candidata",
+    "notas": "fundada legendariamente por Mangocapa, primer inga; dividida en Hanancuzco y Orencuzco"
+  },
+  {
+    "id": "place:villa-de-plata",
+    "canonical_name": "villa de Plata",
+    "aliases": [],
+    "modern_equivalent": "Sucre, Bolivia",
+    "status": "candidata",
+    "notas": "fundada por el capitán Peranzúrez en la provincia de los Charcas"
+  },
+  {
+    "id": "place:potosi",
+    "canonical_name": "Potosí",
+    "aliases": [
+      "cerro de Potosí"
+    ],
+    "modern_equivalent": "Potosí, Bolivia",
+    "status": "candidata",
+    "notas": "minas de plata descubiertas, generaron enorme riqueza"
+  },
+  {
+    "id": "place:la-paz",
+    "canonical_name": "Nuestra Señora de La Paz",
+    "aliases": [
+      "La Paz"
+    ],
+    "modern_equivalent": "La Paz, Bolivia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tiaguanaco",
+    "canonical_name": "Tiaguanaco",
+    "aliases": [
+      "Tiahuanaco"
+    ],
+    "modern_equivalent": "Tiwanaku, Bolivia",
+    "status": "candidata",
+    "notas": "antiguos edificios/ruinas monumentales descritos por Cieza"
+  },
+  {
+    "id": "place:lago-titicaca",
+    "canonical_name": "laguna de Titicaca",
+    "aliases": [
+      "Collao"
+    ],
+    "modern_equivalent": "Lago Titicaca, Perú/Bolivia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:riobamba",
+    "canonical_name": "Riobamba",
+    "aliases": [
+      "llanos de Riobamba"
+    ],
+    "modern_equivalent": "Riobamba, Ecuador",
+    "status": "candidata",
+    "notas": "aquí se concertaron Diego de Almagro y Pedro de Alvarado en 1534"
+  }
+]

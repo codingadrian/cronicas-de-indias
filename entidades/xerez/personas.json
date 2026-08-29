@@ -1,0 +1,142 @@
+[
+  {
+    "id": "person:francisco-pizarro",
+    "canonical_name": "Francisco Pizarro",
+    "aliases": [
+      "el Gobernador",
+      "Francisco Pizarro, hijo del capitán Gonzalo Pizarro",
+      "el capitán Pizarro"
+    ],
+    "role": "Gobernador y Capitán General de la Nueva Castilla (Perú); dirigió la expedición que capturó y ejecutó a Atahualpa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-xerez",
+    "canonical_name": "Francisco de Xerez",
+    "aliases": [
+      "Francisco de Jerez"
+    ],
+    "role": "secretario de Francisco Pizarro; autor y narrador de esta relación, natural de Sevilla",
+    "notes": "el poema final ('Dirige el autor sus metros al Emperador') da detalles biográficos: hijo de Pedro de Xerez, partió de Sevilla a los quince años, veinte años en las Indias, volvió con la pierna quebrada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-almagro",
+    "canonical_name": "Diego de Almagro",
+    "aliases": [],
+    "role": "capitán, socio de Francisco Pizarro en las expediciones de descubrimiento y conquista del Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-pizarro",
+    "canonical_name": "Hernando Pizarro",
+    "aliases": [
+      "el capitán Hernando Pizarro",
+      "hermano del Gobernador"
+    ],
+    "role": "capitán general, hermano de Francisco Pizarro; dirigió la expedición a Pachacámac y Jauja, y llevó a Chalcuchímac preso a Cajamarca",
+    "status": "candidata"
+  },
+  {
+    "id": "person:atahualpa",
+    "canonical_name": "Atahualpa",
+    "aliases": [
+      "Atabaliba",
+      "Atabalipa"
+    ],
+    "role": "Inca, hijo de Huayna Cápac; señor de Quito; capturado por los españoles en Cajamarca y ejecutado en 1533",
+    "status": "candidata"
+  },
+  {
+    "id": "person:huascar",
+    "canonical_name": "Huáscar",
+    "aliases": [
+      "el Cuzco (hijo)"
+    ],
+    "role": "Inca, hijo legítimo mayor de Huayna Cápac; hermano y rival de Atahualpa en la guerra civil incaica; derrotado y muerto por los generales de Atahualpa",
+    "notes": "el propio texto de Xerez usa 'el Cuzco' de forma ambigua tanto para el padre (Huayna Cápac) como para este hijo — es una confusión de la fuente original entre el título/topónimo 'Cuzco' y un nombre propio, no un error de esta transcripción",
+    "status": "candidata"
+  },
+  {
+    "id": "person:huayna-capac",
+    "canonical_name": "Huayna Cápac",
+    "aliases": [
+      "el Cuzco viejo"
+    ],
+    "role": "Inca, padre de Atahualpa y Huáscar; señoreó el imperio antes de morir y repartió el señorío entre sus dos hijos",
+    "notes": "ver nota de ambigüedad en person:huascar sobre el uso de 'el Cuzco' en el texto",
+    "status": "candidata"
+  },
+  {
+    "id": "person:chalcuchimac",
+    "canonical_name": "Chalcuchímac",
+    "aliases": [
+      "Chilicuchima",
+      "Chalcochima"
+    ],
+    "role": "general de Atahualpa; tomó la ciudad del Cuzco a Huáscar junto con Quizquiz; custodiaba oro en Jauja; luego llevado preso a Cajamarca por Hernando Pizarro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:quizquiz",
+    "canonical_name": "Quizquiz",
+    "aliases": [
+      "Quisquis"
+    ],
+    "role": "general de Atahualpa; tomó la ciudad del Cuzco junto con Chalcuchímac y quedó guarneciéndola",
+    "status": "candidata"
+  },
+  {
+    "id": "person:miguel-de-estete",
+    "canonical_name": "Miguel de Estete",
+    "aliases": [
+      "Miguel Estete"
+    ],
+    "role": "veedor; acompañó a Hernando Pizarro en su expedición a Pachacámac y Jauja; autor de la relación de ese viaje, incrustada en el texto de Xerez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vicente-de-valverde",
+    "canonical_name": "Vicente de Valverde",
+    "aliases": [
+      "fray Vicente de Valverde",
+      "el padre frey Vicente"
+    ],
+    "role": "religioso dominico; requirió a Atahualpa con la Biblia poco antes de la batalla de Cajamarca; lo bautizó antes de su ejecución",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedrarias-davila",
+    "canonical_name": "Pedrarias Dávila",
+    "aliases": [
+      "Pedrarias de Ávila",
+      "el gobernador Pedrarias"
+    ],
+    "role": "gobernador de Panamá; autorizó la primera expedición de descubrimiento de Pizarro y luego puso obstáculos a su continuación",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-de-mena",
+    "canonical_name": "Cristóbal de Mena",
+    "aliases": [],
+    "role": "capitán; trajo a Sevilla la primera nao con parte del tesoro del rescate de Atahualpa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-xerez",
+    "canonical_name": "Pedro de Xerez",
+    "aliases": [],
+    "role": "padre de Francisco de Xerez, ciudadano honrado de Sevilla",
+    "notes": "mencionado solo en el poema final, en defensa de la honra de su hijo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-pizarro-padre",
+    "canonical_name": "Gonzalo Pizarro",
+    "aliases": [
+      "el capitán Gonzalo Pizarro"
+    ],
+    "role": "capitán, caballero de la ciudad de Trujillo; padre de Francisco Pizarro",
+    "status": "candidata"
+  }
+]

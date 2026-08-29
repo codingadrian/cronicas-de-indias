@@ -1,0 +1,130 @@
+[
+  {
+    "id": "place:tenochtitlan",
+    "canonical_name": "México-Tenochtitlan",
+    "aliases": ["Mexico Tenuchtitlan", "Tenuchtitlan"],
+    "modern_equivalent": "Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:aztlan",
+    "canonical_name": "Aztlán",
+    "aliases": [],
+    "modern_equivalent": "ubicación legendaria, no identificada con certeza",
+    "status": "candidata",
+    "notas": "patria mítica de origen de los mexicas, punto de partida de la migración narrada en los primeros capítulos"
+  },
+  {
+    "id": "place:coatepec",
+    "canonical_name": "Coatepec",
+    "aliases": [],
+    "modern_equivalent": "sitio legendario asociado a Tula, Hidalgo",
+    "status": "candidata",
+    "notas": "lugar mítico donde, según la crónica, Huitzilopochtli mató a Coyolxauhqui durante la migración"
+  },
+  {
+    "id": "place:chapultepec",
+    "canonical_name": "Chapultepec",
+    "aliases": [],
+    "modern_equivalent": "Bosque de Chapultepec, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:azcapotzalco",
+    "canonical_name": "Azcapotzalco",
+    "aliases": ["Azcapucalco", "Atzcapuzalco"],
+    "modern_equivalent": "Azcapotzalco, Ciudad de México",
+    "status": "candidata",
+    "notas": "capital del señorío tepaneca, derrotada por la alianza mexica-acolhua en la Guerra Tepaneca"
+  },
+  {
+    "id": "place:tlatelolco",
+    "canonical_name": "Tlatelolco",
+    "aliases": ["Tlatelulco", "Tlatilolco"],
+    "modern_equivalent": "Tlatelolco, Ciudad de México",
+    "status": "candidata",
+    "notas": "ciudad gemela/rival de Tenochtitlan, conquistada por Axayácatl"
+  },
+  {
+    "id": "place:texcoco",
+    "canonical_name": "Texcoco",
+    "aliases": ["Aculhuacan"],
+    "modern_equivalent": "Texcoco, Estado de México",
+    "status": "candidata",
+    "notas": "capital del reino acolhua, aliado de México en la Triple Alianza"
+  },
+  {
+    "id": "place:tlacopan",
+    "canonical_name": "Tlacopan",
+    "aliases": ["Tacuba"],
+    "modern_equivalent": "Tacuba, Ciudad de México",
+    "status": "candidata",
+    "notas": "tercer reino de la Triple Alianza, de origen tepaneca"
+  },
+  {
+    "id": "place:chalco",
+    "canonical_name": "Chalco",
+    "aliases": [],
+    "modern_equivalent": "Chalco, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:xochimilco",
+    "canonical_name": "Xochimilco",
+    "aliases": ["Suchimilco"],
+    "modern_equivalent": "Xochimilco, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:culhuacan",
+    "canonical_name": "Culhuacan",
+    "aliases": ["Colhuacan"],
+    "modern_equivalent": "Culhuacán, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:huexotzinco",
+    "canonical_name": "Huexotzinco",
+    "aliases": ["Huexocingo", "Huexocinco"],
+    "modern_equivalent": "Huejotzingo, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tlaxcala",
+    "canonical_name": "Tlaxcala",
+    "aliases": ["Tlaxcalan", "Tlaxcallan"],
+    "modern_equivalent": "Tlaxcala",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cholula",
+    "canonical_name": "Cholula",
+    "aliases": [],
+    "modern_equivalent": "San Pedro Cholula, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cuetlaxtlan",
+    "canonical_name": "Cuetlaxtlan",
+    "aliases": ["Cuetlaxtan", "Chalchiuhcuecan"],
+    "modern_equivalent": "región costera cerca de Veracruz",
+    "status": "candidata",
+    "notas": "puesto costero mexica donde se confirmó por primera vez la llegada de navíos españoles"
+  },
+  {
+    "id": "place:tepeaca",
+    "canonical_name": "Tepeaca",
+    "aliases": ["Tepeacas"],
+    "modern_equivalent": "Tepeaca, Puebla",
+    "status": "candidata",
+    "notas": "lugar donde, según una referencia adelantada de la crónica, Cortés presenció un sacrificio y derribó un ídolo"
+  },
+  {
+    "id": "place:cincalco",
+    "canonical_name": "Cincalco",
+    "aliases": [],
+    "modern_equivalent": "sin equivalente moderno — lugar mítico",
+    "status": "candidata",
+    "notas": "cueva/inframundo mítico gobernado por Huemac, a donde Moctezuma II intenta huir mediante mensajeros antes de la conquista"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "id": "place:tlaxcala",
+    "canonical_name": "Tlaxcala",
+    "aliases": ["Tlaxcalla", "Texcalla", "Texcalticpac"],
+    "modern_equivalent": "Tlaxcala, México",
+    "status": "candidata",
+    "notas": "Ciudad-estado dividida en cuatro cabeceras: Tepeticpac, Ocotelolco, Tizatlan y Quiahuiztlan."
+  },
+  {
+    "id": "place:tepeticpac",
+    "canonical_name": "Tepeticpac",
+    "aliases": ["Texcalticpac"],
+    "modern_equivalent": "barrio/cabecera de Tlaxcala, México",
+    "status": "candidata",
+    "notas": "Primera de las cuatro cabeceras de Tlaxcala, fundada por Culhua Quanez."
+  },
+  {
+    "id": "place:ocotelolco",
+    "canonical_name": "Ocotelolco",
+    "aliases": ["Ocotelulco"],
+    "modern_equivalent": "barrio/cabecera de Tlaxcala, México",
+    "status": "candidata",
+    "notas": "Segunda cabecera de Tlaxcala; señorío de Maxixcatzin."
+  },
+  {
+    "id": "place:tizatlan",
+    "canonical_name": "Tizatlan",
+    "aliases": [],
+    "modern_equivalent": "barrio/cabecera de Tlaxcala, México",
+    "status": "candidata",
+    "notas": "Tercera cabecera de Tlaxcala; señorío de Xicotencatl."
+  },
+  {
+    "id": "place:quiahuiztlan",
+    "canonical_name": "Quiahuiztlan",
+    "aliases": ["Tlapitzahuacan"],
+    "modern_equivalent": "barrio/cabecera de Tlaxcala, México",
+    "status": "candidata",
+    "notas": "Cuarta y última cabecera fundada en Tlaxcala."
+  },
+  {
+    "id": "place:poyauhtlan",
+    "canonical_name": "Poyauhtlan",
+    "aliases": [],
+    "modern_equivalent": "cerca de Texcoco, Estado de México",
+    "status": "candidata",
+    "notas": "Llanos donde los chichimecas se asentaron primero tras dejar Tetzcuco; sitio de la primera gran batalla contra los tepanecas/culhuas mexicanos."
+  },
+  {
+    "id": "place:tetzcuco",
+    "canonical_name": "Tetzcuco",
+    "aliases": ["Texcoco", "Aculhuacan"],
+    "modern_equivalent": "Texcoco, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:mexico-tenochtitlan",
+    "canonical_name": "México-Tenochtitlan",
+    "aliases": ["Tenochtitlan", "México", "Culhua"],
+    "modern_equivalent": "Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cholula",
+    "canonical_name": "Cholula",
+    "aliases": ["Cholollan"],
+    "modern_equivalent": "Cholula, Puebla, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:huexotzinco",
+    "canonical_name": "Huexotzinco",
+    "aliases": [],
+    "modern_equivalent": "Huejotzingo, Puebla, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chalco",
+    "canonical_name": "Chalco",
+    "aliases": ["Amaquemecan"],
+    "modern_equivalent": "Chalco, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:michoacan",
+    "canonical_name": "Michoacán",
+    "aliases": ["provincia de los tarascos"],
+    "modern_equivalent": "Michoacán, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:culhuacan",
+    "canonical_name": "Culhuacan",
+    "aliases": [],
+    "modern_equivalent": "Culhuacán, Ciudad de México",
+    "status": "candidata",
+    "notas": "Origen legendario de varios linajes chichimecas; nombre reutilizado también como referencia a la casa de Culhua en Tlaxcala."
+  },
+  {
+    "id": "place:cempoala",
+    "canonical_name": "Cempoala",
+    "aliases": ["Cempohuallan"],
+    "modern_equivalent": "Zempoala, Veracruz, México",
+    "status": "candidata",
+    "notas": "Donde Cortés dejó su gente antes de marchar a Tlaxcala, y donde luego prendió a Pánfilo de Narváez."
+  },
+  {
+    "id": "place:otompan",
+    "canonical_name": "Otompan",
+    "aliases": ["Otumba", "llanos de Aztaquemecan"],
+    "modern_equivalent": "Otumba, Estado de México",
+    "status": "candidata",
+    "notas": "Sitio de la batalla en que Cortés, tras la Noche Triste, derrotó a los aculhuaques."
+  },
+  {
+    "id": "place:potonchan",
+    "canonical_name": "Potonchan",
+    "aliases": ["Tabasco", "Acosamilco"],
+    "modern_equivalent": "Tabasco, México",
+    "status": "candidata",
+    "notas": "Zona costera por donde, según este texto, pasó Malintzin antes de llegar a manos de Cortés."
+  },
+  {
+    "id": "place:villa-rica-de-la-vera-cruz",
+    "canonical_name": "Villa Rica de la Vera Cruz",
+    "aliases": ["la Villa Rica"],
+    "modern_equivalent": "Veracruz, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:hueyotlipan",
+    "canonical_name": "Hueyotlipan",
+    "aliases": [],
+    "modern_equivalent": "Hueyotlipan, Tlaxcala, México",
+    "status": "candidata",
+    "notas": "Pueblo sujeto de Tlaxcala, frontera con México; donde los españoles fueron acogidos tras la Noche Triste y la batalla de Otumba."
+  },
+  {
+    "id": "place:cibola",
+    "canonical_name": "Cíbola",
+    "aliases": ["las Siete Ciudades", "Tríbola"],
+    "modern_equivalent": "suroeste de Estados Unidos (Nuevo México/Arizona)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:florida",
+    "canonical_name": "la Florida",
+    "aliases": [],
+    "modern_equivalent": "Florida, Estados Unidos",
+    "status": "candidata"
+  },
+  {
+    "id": "place:hibueras-honduras",
+    "canonical_name": "las Hibueras",
+    "aliases": ["Honduras"],
+    "modern_equivalent": "Honduras",
+    "status": "candidata"
+  },
+  {
+    "id": "place:peru",
+    "canonical_name": "los reinos del Perú",
+    "aliases": ["Perú"],
+    "modern_equivalent": "Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:nueva-galicia",
+    "canonical_name": "Nueva Galicia",
+    "aliases": ["Chametla"],
+    "modern_equivalent": "Jalisco/Zacatecas, México",
+    "status": "candidata"
+  }
+]

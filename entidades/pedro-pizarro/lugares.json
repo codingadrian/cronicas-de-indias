@@ -1,0 +1,186 @@
+[
+  {
+    "id": "place:panama",
+    "canonical_name": "Panamá",
+    "aliases": ["Tierra Firme"],
+    "modern_equivalent": "Panamá",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tumbez",
+    "canonical_name": "Túmbez",
+    "aliases": [],
+    "modern_equivalent": "Tumbes, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:puerto-viejo",
+    "canonical_name": "Puerto Viejo",
+    "aliases": [],
+    "modern_equivalent": "Portoviejo, Ecuador",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-de-la-puna",
+    "canonical_name": "Isla de la Puná",
+    "aliases": ["La Puná"],
+    "modern_equivalent": "isla Puná, Ecuador",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cajamarca",
+    "canonical_name": "Cajamarca",
+    "aliases": ["Caxamarca", "Caxamalca"],
+    "modern_equivalent": "Cajamarca, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cuzco",
+    "canonical_name": "Cuzco",
+    "aliases": ["el Cuzco"],
+    "modern_equivalent": "Cusco, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:jauja",
+    "canonical_name": "Jauja",
+    "aliases": ["Xauxa", "Xauja"],
+    "modern_equivalent": "Jauja, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:lima",
+    "canonical_name": "Lima",
+    "aliases": ["la ciudad de los Reyes", "ciudad de Los Rreyes"],
+    "modern_equivalent": "Lima, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:pachacama",
+    "canonical_name": "Pachacámac",
+    "aliases": ["Pachacama"],
+    "modern_equivalent": "Pachacámac, Perú",
+    "status": "candidata",
+    "notas": "nombre usado tanto para el lugar/santuario como para el ídolo/dios venerado allí"
+  },
+  {
+    "id": "place:chincha",
+    "canonical_name": "Chincha",
+    "aliases": [],
+    "modern_equivalent": "Chincha, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:quito",
+    "canonical_name": "Quito",
+    "aliases": [],
+    "modern_equivalent": "Quito, Ecuador",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chile",
+    "canonical_name": "Chile",
+    "aliases": [],
+    "modern_equivalent": "Chile",
+    "status": "candidata"
+  },
+  {
+    "id": "place:collao",
+    "canonical_name": "Collao",
+    "aliases": ["el Collao"],
+    "modern_equivalent": "altiplano del Titicaca, Perú/Bolivia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:titicaca",
+    "canonical_name": "Titicaca",
+    "aliases": [],
+    "modern_equivalent": "lago Titicaca, Perú/Bolivia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:potosi",
+    "canonical_name": "Potosí",
+    "aliases": [],
+    "modern_equivalent": "Potosí, Bolivia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:porco",
+    "canonical_name": "Porco",
+    "aliases": [],
+    "modern_equivalent": "Porco, Bolivia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tarapaca",
+    "canonical_name": "Tarapacá",
+    "aliases": [],
+    "modern_equivalent": "región de Tarapacá, Chile",
+    "status": "candidata"
+  },
+  {
+    "id": "place:arequipa",
+    "canonical_name": "Arequipa",
+    "aliases": [],
+    "modern_equivalent": "Arequipa, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-plata",
+    "canonical_name": "villa de La Plata",
+    "aliases": ["Charcas", "los Charcas", "Chuquisaca"],
+    "modern_equivalent": "Sucre, Bolivia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:urcos",
+    "canonical_name": "Urcos",
+    "aliases": [],
+    "modern_equivalent": "Urcos, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:vilcaconga",
+    "canonical_name": "Vilcaconga",
+    "aliases": ["Vilca Conga"],
+    "modern_equivalent": "Vilcaconga, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tambo",
+    "canonical_name": "Tambo (Vitcos)",
+    "aliases": ["Tambo", "Vitacos", "Viticos"],
+    "modern_equivalent": "Vitcos, Vilcabamba, Perú",
+    "status": "candidata",
+    "notas": "Pedro Pizarro aclara que hay otro 'Tambo' distinto en Condesuyo, del que este debe distinguirse — es el reducto de Manco Inca cerca de Yucay"
+  },
+  {
+    "id": "place:chupas",
+    "canonical_name": "Chupas",
+    "aliases": [],
+    "modern_equivalent": "cerca de Ayacucho, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:guarina",
+    "canonical_name": "Guarina",
+    "aliases": [],
+    "modern_equivalent": "cerca del lago Titicaca, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:jaquijaguana",
+    "canonical_name": "Jaquijahuana",
+    "aliases": ["Jaquijaguana", "Xaquixaguana"],
+    "modern_equivalent": "valle de Anta, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:salinas",
+    "canonical_name": "las Salinas",
+    "aliases": [],
+    "modern_equivalent": "cerca del Cuzco, Perú",
+    "status": "candidata"
+  }
+]

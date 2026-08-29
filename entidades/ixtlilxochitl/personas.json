@@ -1,0 +1,216 @@
+[
+  {
+    "id": "person:xolotl",
+    "canonical_name": "Xólotl",
+    "aliases": ["el gran chichimeca Xólotl"],
+    "role": "primer poblador y fundador de la nación chichimeca en Anáhuac tras la destrucción de los tultecas; primer emperador de la dinastía",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nopaltzin",
+    "canonical_name": "Nopaltzin",
+    "aliases": [],
+    "role": "hijo de Xólotl, segundo emperador chichimeca",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tlotzin-pochotl",
+    "canonical_name": "Tlotzin Pochotl",
+    "aliases": ["Tlotzin"],
+    "role": "hijo de Nopaltzin, tercer emperador chichimeca; trasladó parte de su corte a Oztoticpac (Tetzcuco)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:quinatzin",
+    "canonical_name": "Quinatzin Tlaltecatzin",
+    "aliases": ["Quinatzin"],
+    "role": "hijo de Tlotzin, cuarto emperador chichimeca; hizo de Tetzcuco la cabeza y corte del imperio",
+    "status": "candidata"
+  },
+  {
+    "id": "person:techotlalatzin",
+    "canonical_name": "Techotlalatzin",
+    "aliases": [],
+    "role": "hijo menor de Quinatzin, quinto emperador chichimeca; impuso el náhuatl como lengua del imperio",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ixtlilxochitl-i",
+    "canonical_name": "Ixtlilxóchitl Ometochtzin",
+    "aliases": ["Ixtlilxóchitl (el viejo)"],
+    "role": "hijo de Techotlalatzin, sexto emperador chichimeca; padre de Nezahualcóyotl; asesinado en 1418 por orden de Tezozómoc/Maxtla",
+    "status": "candidata",
+    "notas": "tocayo/antepasado del autor de la crónica, Fernando de Alva Ixtlilxóchitl; distinguir de person:ixtlilxochitl-ii (su bisnieto, hijo de Nezahualpilli, activo en tiempos de la conquista)"
+  },
+  {
+    "id": "person:tezozomoc",
+    "canonical_name": "Tezozómoc",
+    "aliases": [],
+    "role": "rey tepaneca de Azcaputzalco; usurpó el imperio chichimeca tras hacer matar a Ixtlilxóchitl I (primer tirano)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:maxtla",
+    "canonical_name": "Maxtla",
+    "aliases": [],
+    "role": "hijo de Tezozómoc, señor de Coyohuacan; usurpó el imperio a la muerte de su padre (segundo tirano); persiguió a Nezahualcóyotl y mandó matar a Chimalpopoca y Tlacateotzin",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tayatzin",
+    "canonical_name": "Tayatzin",
+    "aliases": [],
+    "role": "hijo de Tezozómoc, nombrado sucesor por su padre pero depuesto y asesinado por su hermano Maxtla",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nezahualcoyotl",
+    "canonical_name": "Nezahualcóyotl",
+    "aliases": ["Acolmiztli Nezahualcoyotzin", "Nezahualcoyotzin"],
+    "role": "príncipe heredero y luego rey de Tetzcuco; hijo de Ixtlilxóchitl I; huyó y sobrevivió a la tiranía tepaneca, recobró el reino en 1427 y fue cofundador de la Triple Alianza (México-Tetzcuco-Tlacopan) en 1431; legislador y constructor de palacios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:itzcoatl",
+    "canonical_name": "Itzcoatzin",
+    "aliases": ["Itzcóatl"],
+    "role": "rey de México-Tenochtitlan, tío de Nezahualcóyotl; cofundador de la Triple Alianza",
+    "status": "candidata"
+  },
+  {
+    "id": "person:totoquihuatzin",
+    "canonical_name": "Totoquihuatzin",
+    "aliases": [],
+    "role": "señor de Tlacopan; tercer miembro fundador de la Triple Alianza (título Tepanécatl Tecuhtli)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:chimalpopoca",
+    "canonical_name": "Chimalpopoca",
+    "aliases": ["Chimalpopocatzin"],
+    "role": "rey de México-Tenochtitlan; asesinado (encarcelado y luego muerto) por orden del tirano Maxtla",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tlacateotzin",
+    "canonical_name": "Tlacateotzin",
+    "aliases": [],
+    "role": "señor de Tlatelolco; asesinado por los tepanecas junto con Chimalpopoca al huir por la laguna",
+    "status": "candidata"
+  },
+  {
+    "id": "person:acamapichtli",
+    "canonical_name": "Acamapichtli",
+    "aliases": [],
+    "role": "primer señor de los tenochcas, se alzó también con el reino de los culhuas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:huitzilihuitl-rey",
+    "canonical_name": "Huitzilihuitzin",
+    "aliases": ["Huitzilihuitl"],
+    "role": "hijo de Acamapichtli, segundo señor de los tenochcas y rey de los culhuas",
+    "status": "candidata",
+    "notas": "homónimo de person:huitzilihuitzin-ayo (el ayo/maestro de Nezahualcóyotl) — la crónica los distingue por contexto, no por apellido; posible fuente de confusión al etiquetar menciones en el texto"
+  },
+  {
+    "id": "person:huitzilihuitzin-ayo",
+    "canonical_name": "Huitzilihuitzin (ayo de Nezahualcóyotl)",
+    "aliases": [],
+    "role": "caballero y filósofo, ayo y maestro del príncipe Nezahualcóyotl",
+    "status": "candidata",
+    "notas": "homónimo de person:huitzilihuitl-rey (segundo señor tenochca) — ver nota cruzada en esa entrada"
+  },
+  {
+    "id": "person:motecuhzoma-ilhuicamina",
+    "canonical_name": "Motecuhzoma Ilhuicamina",
+    "aliases": ["Moctezuma I"],
+    "role": "rey de México-Tenochtitlan, hijo menor de Chimalpopoca",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nezahualpilli",
+    "canonical_name": "Nezahualpiltzintli",
+    "aliases": ["Nezahualpilli"],
+    "role": "hijo y sucesor de Nezahualcóyotl como rey de Tetzcuco; murió en 1515 tras un desaire de Motecuhzoma II",
+    "status": "candidata"
+  },
+  {
+    "id": "person:axayacatl",
+    "canonical_name": "Axayacatzin",
+    "aliases": ["Axayácatl"],
+    "role": "rey de México, sucesor de Motecuhzoma Ilhuicamina; guerreó contra Moquihuitzin de Tlatelolco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tizoc",
+    "canonical_name": "Tizotzicatzin",
+    "aliases": ["Tízoc"],
+    "role": "rey de México, sucesor de Axayácatl",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ahuizotl",
+    "canonical_name": "Ahuitzotzin",
+    "aliases": ["Ahuízotl"],
+    "role": "rey de México, sucesor de Tízoc; acabó el templo mayor de México",
+    "status": "candidata"
+  },
+  {
+    "id": "person:motecuhzoma-ii",
+    "canonical_name": "Motecuhzoma",
+    "aliases": ["Moctezuma II", "Motecuhzoma Xocoyotzin"],
+    "role": "rey de México, sucesor de Ahuízotl; gobernaba a la llegada de Cortés; apresado por los españoles y muerto en 1520",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cacama",
+    "canonical_name": "Cacama",
+    "aliases": [],
+    "role": "hijo de Nezahualpilli, rey de Tetzcuco a la llegada de Cortés, sobrino de Motecuhzoma II; apresado y asesinado en 1520",
+    "status": "candidata"
+  },
+  {
+    "id": "person:coanacotzin",
+    "canonical_name": "Coanacotzin",
+    "aliases": [],
+    "role": "hijo de Nezahualpilli, rival de Cacama e Ixtlilxóchitl (el joven) por la sucesión del reino de Tetzcuco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ixtlilxochitl-ii",
+    "canonical_name": "Ixtlilxóchitl (el joven)",
+    "aliases": [],
+    "role": "hijo de Nezahualpilli, disputó la sucesión de Tetzcuco con sus hermanos Cacama y Coanacotzin; se alió con Hernán Cortés",
+    "status": "candidata",
+    "notas": "antepasado directo del autor de la crónica, Fernando de Alva Ixtlilxóchitl; distinguir de person:ixtlilxochitl-i (su tatarabuelo, sexto emperador chichimeca)"
+  },
+  {
+    "id": "person:cuitlahuac",
+    "canonical_name": "Cuitlahuatzin",
+    "aliases": ["Cuitláhuac"],
+    "role": "señor de Iztapalapan, hermano de Motecuhzoma II y su capitán general; elegido rey de México tras su muerte, resistió a los españoles",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernan-cortes",
+    "canonical_name": "Hernán Cortés",
+    "aliases": ["Fernando Cortés", "el invencible Fernando Cortés, primer marqués del Valle"],
+    "role": "capitán de la conquista española de Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-alvarado",
+    "canonical_name": "Pedro de Alvarado",
+    "aliases": [],
+    "role": "capitán español, lugarteniente de Cortés; ordenó la matanza de la nobleza mexicana durante la fiesta de Tóxcatl (1520)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:coacuecuenotzin",
+    "canonical_name": "Coacuecuenotzin",
+    "aliases": [],
+    "role": "sobrino y capitán general de Ixtlilxóchitl I; enviado a pedir socorro a Otompan, fue apresado y muerto allí en 1418",
+    "status": "candidata"
+  }
+]

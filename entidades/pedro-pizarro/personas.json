@@ -1,0 +1,276 @@
+[
+  {
+    "id": "person:francisco-pizarro",
+    "canonical_name": "Francisco Pizarro",
+    "aliases": ["don Francisco Picarro", "el Marqués", "el Marqués don Francisco Picarro"],
+    "role": "capitán general y luego Marqués, gobernador del Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-almagro-el-viejo",
+    "canonical_name": "Diego de Almagro",
+    "aliases": ["don Diego de Almagro"],
+    "role": "socio de Pizarro en la conquista, después adelantado, ejecutado tras la batalla de las Salinas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-de-luque",
+    "canonical_name": "Hernando de Luque",
+    "aliases": ["el Padre Luque"],
+    "role": "clérigo, tercer socio de Pizarro y Almagro en la empresa de conquista",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-pizarro",
+    "canonical_name": "Hernando Pizarro",
+    "aliases": ["Hernando Picarro"],
+    "role": "hermano del Marqués, capitán",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-pizarro",
+    "canonical_name": "Juan Pizarro",
+    "aliases": ["Juan Picarro"],
+    "role": "hermano del Marqués, capitán, muerto en la defensa de la fortaleza del Cuzco durante el cerco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-pizarro",
+    "canonical_name": "Gonzalo Pizarro",
+    "aliases": ["Goncalo Picarro"],
+    "role": "hermano del Marqués, capitán, luego cabecilla de la rebelión contra el virrey Blasco Núñez Vela",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-martin-de-alcantara",
+    "canonical_name": "Francisco Martín de Alcántara",
+    "aliases": ["Francisco Martín"],
+    "role": "hermano (de madre) del Marqués, muerto junto con él en su asesinato",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-de-soto",
+    "canonical_name": "Hernando de Soto",
+    "aliases": [],
+    "role": "capitán, luego gobernador de la Florida",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-pizarro",
+    "canonical_name": "Pedro Pizarro",
+    "aliases": ["Pedro Picarro"],
+    "role": "autor de esta relación; paje del Marqués desde los quince años, luego vecino de Jauja, el Cuzco y Arequipa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:sebastian-de-benalcazar",
+    "canonical_name": "Sebastián de Benalcázar",
+    "aliases": ["Benalcácar"],
+    "role": "capitán, ocupó Quito en nombre de Pizarro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-alvarado",
+    "canonical_name": "Pedro de Alvarado",
+    "aliases": ["don Pedro de Aluarado"],
+    "role": "adelantado de Guatemala, desembarcó en Puerto Viejo con gente para disputar Quito, luego se retiró tras acuerdo con Almagro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:atahualpa",
+    "canonical_name": "Atahualpa",
+    "aliases": ["Ataualpa", "Atagualpa", "Atabalipa"],
+    "role": "Inca, hijo de Huayna Cápac, capturado en Cajamarca y ejecutado por los españoles",
+    "status": "candidata"
+  },
+  {
+    "id": "person:huascar",
+    "canonical_name": "Huáscar",
+    "aliases": ["Guáscar"],
+    "role": "Inca, hermano de Atahualpa, señor legítimo del Cuzco, preso y muerto por los capitanes de Atahualpa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:huayna-capac",
+    "canonical_name": "Huayna Cápac",
+    "aliases": ["Guaina Capa"],
+    "role": "Inca, padre de Huáscar y Atahualpa, murió de viruelas antes de la llegada de los españoles",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tupac-huallpa",
+    "canonical_name": "Túpac Huallpa",
+    "aliases": ["Tubaliba", "Tuvaliba"],
+    "role": "hijo de Huayna Cápac, alzado por señor por Pizarro tras la muerte de Atahualpa, envenenado por Challcuchima",
+    "status": "candidata"
+  },
+  {
+    "id": "person:manco-inca",
+    "canonical_name": "Manco Inca",
+    "aliases": ["Mango Ynga"],
+    "role": "hijo de Huayna Cápac, alzado por señor por Pizarro, luego se rebeló y puso cerco al Cuzco; asesinado años después por españoles refugiados con él",
+    "status": "candidata"
+  },
+  {
+    "id": "person:challcuchima",
+    "canonical_name": "Challcuchima",
+    "aliases": ["Challicuchima"],
+    "role": "capitán principal de Atahualpa, ejecutado por los españoles en Jaquijaguana",
+    "status": "candidata"
+  },
+  {
+    "id": "person:quisquis",
+    "canonical_name": "Quisquis",
+    "aliases": [],
+    "role": "capitán de Atahualpa, perseguido hasta Quito por Almagro y Soto tras la toma del Cuzco, muerto por indios naturales",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vicente-de-valverde",
+    "canonical_name": "Vicente de Valverde",
+    "aliases": ["Fray Vicente de Valuerde", "el Padre"],
+    "role": "fraile dominico, primer obispo del Cuzco, predicó a Atahualpa antes de su captura y lo confesó antes de morir; murió después a manos de indios de La Puná huyendo de los de Chile",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tito-cusi-gualpa",
+    "canonical_name": "Tito Cusi Gualpa",
+    "aliases": [],
+    "role": "orejón capitán que defendió solo uno de los cubos de la fortaleza del Cuzco durante el cerco, se arrojó al vacío antes de rendirse",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-almagro-el-mozo",
+    "canonical_name": "Diego de Almagro el Mozo",
+    "aliases": ["don Diego de Almagro (hijo)", "el hijo de don Diego de Almagro"],
+    "role": "hijo de Diego de Almagro el viejo, alzado por cabeza de los de Chile tras asesinar al Marqués, derrotado y ejecutado tras la batalla de Chupas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-orgonez",
+    "canonical_name": "Rodrigo Orgóñez",
+    "aliases": ["Rrodrigo Orgóñez"],
+    "role": "capitán general de Diego de Almagro el viejo, custodió preso a Hernando Pizarro, muerto en la batalla de las Salinas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-rada",
+    "canonical_name": "Juan de Rada",
+    "aliases": ["Juan de Rrada"],
+    "role": "criado de Diego de Almagro el viejo, cabecilla de los conjurados que asesinaron al Marqués Pizarro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-chaves",
+    "canonical_name": "Francisco de Chaves",
+    "aliases": [],
+    "role": "vecino de Lima, casado con María de Escobar, muerto por los conjurados de Chile al abrir la puerta del Marqués",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-vaca-de-castro",
+    "canonical_name": "Cristóbal Vaca de Castro",
+    "aliases": ["Vaca de Castro", "el Licenciado Vaca de Castro"],
+    "role": "juez de residencia y gobernador enviado por la Corona, venció a Almagro el Mozo en la batalla de Chupas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:blasco-nunez-vela",
+    "canonical_name": "Blasco Núñez Vela",
+    "aliases": ["el virrey Blasco Núñez Vela", "el uisorrey"],
+    "role": "primer virrey del Perú, sus reformas (Leyes Nuevas) provocaron el alzamiento de Gonzalo Pizarro; muerto en batalla cerca de Quito",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-carvajal",
+    "canonical_name": "Francisco de Carvajal",
+    "aliases": ["Caruajal", "el maese de campo Caruajal"],
+    "role": "maese de campo de Gonzalo Pizarro, capitán muy temido por su crueldad; ejecutado tras la batalla de Jaquijaguana",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-centeno",
+    "canonical_name": "Diego Centeno",
+    "aliases": [],
+    "role": "capitán realista, se alzó por el Rey en los Charcas contra Gonzalo Pizarro, derrotado en la batalla de Guarina",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-la-gasca",
+    "canonical_name": "Pedro de la Gasca",
+    "aliases": ["el Presidente Gasca", "el capellán"],
+    "role": "clérigo enviado por la Corona con plenos poderes para pacificar el Perú, venció a Gonzalo Pizarro en Jaquijaguana",
+    "status": "candidata"
+  },
+  {
+    "id": "person:peralvarez-holguin",
+    "canonical_name": "Peránzules Holguín",
+    "aliases": ["Peráluarez Holguín"],
+    "role": "capitán realista, alzado por cabeza en el Cuzco tras la muerte del Marqués, murió en la batalla de Chupas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:antonio-picado",
+    "canonical_name": "Antonio Picado",
+    "aliases": ["Picado", "el secretario"],
+    "role": "secretario del Marqués Pizarro, de gran influencia y muy resentido por los conquistadores; ejecutado por los de Chile tras el asesinato del Marqués",
+    "status": "candidata"
+  },
+  {
+    "id": "person:lucas-martinez-vegazo",
+    "canonical_name": "Lucas Martínez Vegazo",
+    "aliases": ["Lucas Martínez"],
+    "role": "vecino y conquistador de Arequipa, encomendero de Tarapacá, explotó minas de plata allí",
+    "status": "candidata"
+  },
+  {
+    "id": "person:garcilaso-de-la-vega-capitan",
+    "canonical_name": "Garcilaso de la Vega",
+    "aliases": [],
+    "role": "capitán elegido por los vecinos de Arequipa tras la muerte del Marqués para unirse a la resistencia realista (padre del cronista Inca Garcilaso de la Vega)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-hernandez-giron",
+    "canonical_name": "Francisco Hernández Girón",
+    "aliases": ["Francisco Hernández"],
+    "role": "capitán que se alzó en el Cuzco contra los oidores, derrotado y ejecutado tras persecución por varias regiones",
+    "status": "candidata"
+  },
+  {
+    "id": "person:asarpay",
+    "canonical_name": "Asarpay",
+    "aliases": [],
+    "role": "hermana de los Incas, guarda del ídolo Apurímac; una mujer de este nombre se despeñó, y otra hermana de Atahualpa del mismo nombre fue mandada matar por el Marqués en Lima",
+    "status": "candidata",
+    "notas": "Pedro Pizarro usa 'Asarpay' para dos mujeres distintas de la familia inca en el mismo capítulo (12/una guarda del ídolo Apurímac que se despeña, y otra hermana de Atahualpa ejecutada en Lima) — posible homonimia real o confusión del propio narrador; se dejó como una sola entrada con la ambigüedad anotada, a falta de poder distinguirlas con certeza."
+  },
+  {
+    "id": "person:felipillo",
+    "canonical_name": "Felipillo",
+    "aliases": [],
+    "role": "intérprete (lengua) que, enamorado de una mujer de Atahualpa, tergiversó sus palabras y contribuyó a la decisión de ejecutarlo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-alvarado-mariscal",
+    "canonical_name": "Alonso de Alvarado",
+    "aliases": ["el Mariscal Aluarado"],
+    "role": "capitán y luego mariscal, participó en las guerras civiles del Perú en el bando realista",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-hinojosa",
+    "canonical_name": "Pedro de Hinojosa",
+    "aliases": ["Ynojosa", "el General Hinojosa"],
+    "role": "capitán, luego general de La Gasca; asesinado años después en el alzamiento de don Sebastián de Castilla",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-mendez",
+    "canonical_name": "Diego Méndez",
+    "aliases": [],
+    "role": "español refugiado con Manco Inca tras la derrota de Chupas, lo asesinó por engaño años después",
+    "status": "candidata"
+  }
+]

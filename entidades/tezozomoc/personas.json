@@ -1,0 +1,152 @@
+[
+  {
+    "id": "person:acamapichtli",
+    "canonical_name": "Acamapichtli",
+    "aliases": [],
+    "role": "primer tlatoani (rey) de México-Tenochtitlan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:huitzilihuitl",
+    "canonical_name": "Huitzilíhuitl",
+    "aliases": ["Huitzilihuitl"],
+    "role": "segundo tlatoani de México-Tenochtitlan, hijo de Acamapichtli",
+    "status": "candidata"
+  },
+  {
+    "id": "person:chimalpopoca",
+    "canonical_name": "Chimalpopoca",
+    "aliases": ["Chimalpupuca"],
+    "role": "tercer tlatoani de México-Tenochtitlan; asesinado junto a su hijo por los tepanecas de Azcapotzalco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tecocomoctli",
+    "canonical_name": "Tecocomoctli",
+    "aliases": ["Tecgocomoctli", "Tezocomoctli"],
+    "role": "rey de los tepanecas de Azcapotzalco, suegro de Chimalpopoca",
+    "status": "candidata",
+    "notas": "posible correspondencia con el Tezozómoc histórico de Azcapotzalco, pero la crónica no permite confirmarlo con certeza; se deja el nombre tal como aparece en el texto"
+  },
+  {
+    "id": "person:itzcoatl",
+    "canonical_name": "Itzcóatl",
+    "aliases": ["Ytzcoatl", "Itzcoatl"],
+    "role": "cuarto tlatoani de México-Tenochtitlan; venció a los tepanecas de Azcapotzalco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tlacaelel",
+    "canonical_name": "Tlacaélel",
+    "aliases": ["Atenpanecatl Tlacaeleltzin", "Tlacaeleltzin", "Cihuacóatl Tlacaelel"],
+    "role": "Cihuacóatl (consejero/general en jefe), figura central bajo varios tlatoque mexicas sucesivos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:moctezuma-i",
+    "canonical_name": "Moctezuma I Ilhuicamina",
+    "aliases": ["Huehue Motecuma", "Montecuma el biexo"],
+    "role": "quinto tlatoani de México-Tenochtitlan",
+    "status": "candidata",
+    "notas": "distinto de Moctezuma II, el que se encuentra con Cortés; el texto lo llama explícitamente 'el biexo' para diferenciarlo"
+  },
+  {
+    "id": "person:axayacatl",
+    "canonical_name": "Axayácatl",
+    "aliases": ["Axayaca"],
+    "role": "sexto tlatoani de México-Tenochtitlan; conquistó Tlatelolco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tizoc",
+    "canonical_name": "Tízoc",
+    "aliases": ["Ttzoc", "Tigogic"],
+    "role": "séptimo tlatoani de México-Tenochtitlan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ahuizotl",
+    "canonical_name": "Ahuízotl",
+    "aliases": ["Ahuitzotl"],
+    "role": "octavo tlatoani de México-Tenochtitlan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:moctezuma-ii",
+    "canonical_name": "Moctezuma II Xocoyotzin",
+    "aliases": ["Montecuma", "Monteguma", "Motecuhzoma"],
+    "role": "noveno tlatoani de México-Tenochtitlan; emperador en el momento de la llegada de Hernán Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nezahualpilli",
+    "canonical_name": "Nezahualpilli",
+    "aliases": ["Necahualpilli", "Negahualpilli"],
+    "role": "rey de Aculhuacan (Texcoco), aliado de México en la Triple Alianza",
+    "status": "candidata"
+  },
+  {
+    "id": "person:totoquihuaztli",
+    "canonical_name": "Totoquihuaztli",
+    "aliases": ["Totoquihuaztle"],
+    "role": "rey de los tepanecas de Tlacopan (Tacuba) durante el reinado de Ahuízotl, aliado de México en la Triple Alianza",
+    "status": "candidata",
+    "notas": "distinto de Tlaltecatzin, quien ocupa el mismo trono de Tlacopan más adelante, ya en tiempos de Moctezuma II — no confundir ambos reyes de Tlacopan"
+  },
+  {
+    "id": "person:tlaltecatzin",
+    "canonical_name": "Tlaltecatzin",
+    "aliases": [],
+    "role": "rey de los tepanecas de Tlacopan (Tacuba), aliado de México en la Triple Alianza",
+    "status": "candidata"
+  },
+  {
+    "id": "person:quetzalacxoyatl",
+    "canonical_name": "Quetzalacxóyatl",
+    "aliases": [],
+    "role": "hijo de Nezahualpilli, elegido rey de Aculhuacan por decisión de Moctezuma II",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tlalhuicole",
+    "canonical_name": "Tlahuicole",
+    "aliases": ["Tlalhuicole", "Tlahuicolee"],
+    "role": "capitán tlaxcalteca, capturado por los mexicas; se dejó morir por honor tras ser humillado por Moctezuma II",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernan-cortes",
+    "canonical_name": "Hernando Cortés",
+    "aliases": ["Fernando Cortés", "Don Fernando Cortés"],
+    "role": "capitán general de la expedición española",
+    "status": "candidata"
+  },
+  {
+    "id": "person:marina",
+    "canonical_name": "Marina",
+    "aliases": ["la Marina", "Malinche"],
+    "role": "intérprete indígena de Hernán Cortés",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tlilancalqui",
+    "canonical_name": "Tlilancalqui",
+    "aliases": ["Tlilamcalqui"],
+    "role": "principal mexica, embajador enviado por Moctezuma II a contactar a los españoles",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cuitlalpitoc",
+    "canonical_name": "Cuitlalpitoc",
+    "aliases": ["Cuitialpitoc"],
+    "role": "principal mexica, acompañó a Tlilancalqui como mensajero ante los españoles",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pinotl",
+    "canonical_name": "Pinotl",
+    "aliases": ["Pinotetl"],
+    "role": "calpixque (mayordomo real) de Cuetlaxtlan, primero en confirmar la llegada de los navíos españoles",
+    "status": "candidata"
+  }
+]

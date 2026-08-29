@@ -1,0 +1,150 @@
+[
+  {
+    "id": "place:tenayocan",
+    "canonical_name": "Tenayocan",
+    "aliases": ["Tenayoacan", "Tenayucan"],
+    "modern_equivalent": "Tenayuca, Estado de México",
+    "status": "candidata",
+    "notas": "primera corte y morada de Xólotl al llegar a Anáhuac; sepultura de los primeros emperadores chichimecas"
+  },
+  {
+    "id": "place:tetzcuco",
+    "canonical_name": "Tetzcuco",
+    "aliases": ["Tetzcoco", "Texcoco", "Acolhuacan"],
+    "modern_equivalent": "Texcoco, Estado de México",
+    "status": "candidata",
+    "notas": "capital del reino aculhua/chichimeca desde el reinado de Quinatzin; corte de Nezahualcóyotl y Nezahualpilli"
+  },
+  {
+    "id": "place:azcaputzalco",
+    "canonical_name": "Azcaputzalco",
+    "aliases": ["Azcapotzalco"],
+    "modern_equivalent": "Azcapotzalco, Ciudad de México",
+    "status": "candidata",
+    "notas": "capital del reino tepaneca, sede de Tezozómoc y Maxtla"
+  },
+  {
+    "id": "place:tenochtitlan",
+    "canonical_name": "México-Tenochtitlan",
+    "aliases": ["México", "Tenochtitlan", "Thenotitlan"],
+    "modern_equivalent": "Ciudad de México (centro histórico)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tlatelolco",
+    "canonical_name": "Tlatelolco",
+    "aliases": ["Tlatelulco"],
+    "modern_equivalent": "Tlatelolco, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tlacopan",
+    "canonical_name": "Tlacopan",
+    "aliases": [],
+    "modern_equivalent": "Tacuba, Ciudad de México",
+    "status": "candidata",
+    "notas": "tercera cabecera de la Triple Alianza"
+  },
+  {
+    "id": "place:coatlichan",
+    "canonical_name": "Coatlichan",
+    "aliases": ["Coatlinchan"],
+    "modern_equivalent": "Coatlinchán, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:huexotla",
+    "canonical_name": "Huexotla",
+    "aliases": [],
+    "modern_equivalent": "Huexotla, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:acolman",
+    "canonical_name": "Acolman",
+    "aliases": [],
+    "modern_equivalent": "Acolman, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:otompan",
+    "canonical_name": "Otompan",
+    "aliases": ["Otumba"],
+    "modern_equivalent": "Otumba, Estado de México",
+    "status": "candidata",
+    "notas": "donde fue apresado y muerto Coacuecuenotzin en 1418"
+  },
+  {
+    "id": "place:chalco",
+    "canonical_name": "Chalco",
+    "aliases": ["Chalco Atenco"],
+    "modern_equivalent": "Chalco, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:culhuacan",
+    "canonical_name": "Culhuacan",
+    "aliases": ["Colhuacan"],
+    "modern_equivalent": "Culhuacán, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tula",
+    "canonical_name": "Tula",
+    "aliases": ["Tolan", "Tollan"],
+    "modern_equivalent": "Tula de Allende, Hidalgo",
+    "status": "candidata",
+    "notas": "cabecera del imperio tolteca hasta su destrucción c. 959"
+  },
+  {
+    "id": "place:cholula",
+    "canonical_name": "Cholula",
+    "aliases": ["Cholollan", "Chololan"],
+    "modern_equivalent": "San Pedro Cholula, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tlaxcala",
+    "canonical_name": "Tlaxcala",
+    "aliases": ["Tlaxcalan"],
+    "modern_equivalent": "Tlaxcala",
+    "status": "candidata",
+    "notas": "refugio de Nezahualcóyotl durante la tiranía tepaneca; luego aliada clave de Cortés en la conquista"
+  },
+  {
+    "id": "place:huexotzinco",
+    "canonical_name": "Huexotzinco",
+    "aliases": [],
+    "modern_equivalent": "Huejotzingo, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:potonchan",
+    "canonical_name": "Potonchan",
+    "aliases": [],
+    "modern_equivalent": "Champotón (o región de Tabasco) — ver ambigüedad ya documentada en entidades/bernal-diaz/lugares.json",
+    "status": "candidata",
+    "notas": "primer punto de la ruta de Cortés mencionado en la crónica"
+  },
+  {
+    "id": "place:veracruz",
+    "canonical_name": "Villa Rica de la Vera Cruz",
+    "aliases": ["la Veracruz"],
+    "modern_equivalent": "Veracruz, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cempoala",
+    "canonical_name": "Cempoalan",
+    "aliases": ["Cempoala"],
+    "modern_equivalent": "Zempoala, Veracruz",
+    "status": "candidata"
+  },
+  {
+    "id": "place:quiahuiztlan",
+    "canonical_name": "Quiahuiztlan",
+    "aliases": [],
+    "modern_equivalent": "Quiahuiztlán, Veracruz",
+    "status": "candidata"
+  }
+]

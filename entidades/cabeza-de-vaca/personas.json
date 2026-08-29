@@ -1,0 +1,345 @@
+[
+  {
+    "id": "person:cabeza-de-vaca",
+    "canonical_name": "Álvar Núñez Cabeza de Vaca",
+    "aliases": ["Cabeça de vaca", "el narrador"],
+    "role": "tesorero y alguacil mayor de la armada de Narváez; narrador de la obra",
+    "status": "candidata"
+  },
+  {
+    "id": "person:panfilo-de-narvaez",
+    "canonical_name": "Pánfilo de Narváez",
+    "aliases": ["el governador"],
+    "role": "gobernador y capitán general de la armada que partió de España en 1527",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-enriquez",
+    "canonical_name": "Alonso Enríquez",
+    "aliases": [],
+    "role": "contador de la armada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-solis",
+    "canonical_name": "Alonso de Solís",
+    "aliases": [],
+    "role": "factor y veedor de la armada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-suarez",
+    "canonical_name": "Fray Juan Suárez",
+    "aliases": ["el comissario"],
+    "role": "fraile franciscano, comisario de la armada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vasco-porcallo",
+    "canonical_name": "Vasco Porcallo",
+    "aliases": [],
+    "role": "vecino de la villa de la Trinidad (Cuba), ofreció bastimentos al gobernador",
+    "status": "candidata"
+  },
+  {
+    "id": "person:capitan-pantoja",
+    "canonical_name": "Pantoja",
+    "aliases": ["capitan Pantoja"],
+    "role": "capitán enviado a la Trinidad por bastimentos; luego murió a manos de Soto Mayor",
+    "status": "candidata"
+  },
+  {
+    "id": "person:miruelo",
+    "canonical_name": "Miruelo",
+    "aliases": ["Mirvelo"],
+    "role": "piloto tomado en la Trinidad, decía conocer el río de las Palmas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alvaro-de-la-cerda",
+    "canonical_name": "Álvaro de la Cerda",
+    "aliases": [],
+    "role": "capitán dejado con un navío y cuarenta hombres en la costa de la Habana",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bartolome-fernandez",
+    "canonical_name": "Bartolomé Fernández",
+    "aliases": [],
+    "role": "marinero de la armada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hieronimo-de-alaniz",
+    "canonical_name": "Hierónimo de Alaniz",
+    "aliases": ["Alaniz"],
+    "role": "escribano de la armada; quedó en la isla de Malhado, murió allí",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-del-castillo",
+    "canonical_name": "Alonso del Castillo Maldonado",
+    "aliases": ["el capitan Castillo", "Castillo"],
+    "role": "capitán de la armada; uno de los cuatro supervivientes",
+    "status": "candidata"
+  },
+  {
+    "id": "person:andres-dorantes",
+    "canonical_name": "Andrés Dorantes",
+    "aliases": ["Dorantes"],
+    "role": "capitán de la armada; uno de los cuatro supervivientes",
+    "status": "candidata"
+  },
+  {
+    "id": "person:estevanico",
+    "canonical_name": "Estevanico",
+    "aliases": ["el negro", "Estevan"],
+    "role": "esclavo negro de Andrés Dorantes; uno de los cuatro supervivientes",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tellez",
+    "canonical_name": "Téllez",
+    "aliases": [],
+    "role": "capitán, iba en la barca del veedor y Cabeza de Vaca en la partida por mar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:penalosa",
+    "canonical_name": "Peñalosa",
+    "aliases": [],
+    "role": "capitán, compañero de Téllez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:doroteo-teodoro",
+    "canonical_name": "Doroteo Teodoro",
+    "aliases": ["Teodoro", "don Teodoro", "un griego llamado don Teodoro"],
+    "role": "cristiano griego de la armada; se fue con unos indios y desapareció",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-velazquez",
+    "canonical_name": "Juan Velázquez",
+    "aliases": [],
+    "role": "hombre de a caballo, natural de Cuéllar; se ahogó en un río con su caballo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:dulchanchellin",
+    "canonical_name": "Dulchanchellín",
+    "aliases": [],
+    "role": "señor indígena que recibió a la expedición y les dio guía",
+    "status": "candidata"
+  },
+  {
+    "id": "person:don-pedro-tezcuco",
+    "canonical_name": "don Pedro",
+    "aliases": [],
+    "role": "señor de Tezcuco que acompañaba al comisario; muerto por flecha de los indios cerca de Apalache",
+    "status": "candidata"
+  },
+  {
+    "id": "person:avellaneda",
+    "canonical_name": "Avellaneda",
+    "aliases": [],
+    "role": "hidalgo de la expedición; murió de una herida de flecha en el cuello",
+    "status": "candidata"
+  },
+  {
+    "id": "person:lope-de-oviedo",
+    "canonical_name": "Lope de Oviedo",
+    "aliases": [],
+    "role": "compañero de Cabeza de Vaca; el más fuerte del grupo tras el naufragio de las barcas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:sierra",
+    "canonical_name": "Sierra",
+    "aliases": [],
+    "role": "uno de los cinco cristianos que recurrieron al canibalismo en la costa; murió",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-lopez",
+    "canonical_name": "Diego López",
+    "aliases": [],
+    "role": "uno de los cinco cristianos que recurrieron al canibalismo en la costa; murió",
+    "status": "candidata"
+  },
+  {
+    "id": "person:corral",
+    "canonical_name": "Corral",
+    "aliases": [],
+    "role": "uno de los cinco cristianos que recurrieron al canibalismo en la costa; murió",
+    "status": "candidata"
+  },
+  {
+    "id": "person:palacios",
+    "canonical_name": "Palacios",
+    "aliases": [],
+    "role": "uno de los cinco cristianos que recurrieron al canibalismo en la costa; murió",
+    "status": "candidata"
+  },
+  {
+    "id": "person:goncalo-ruiz",
+    "canonical_name": "Gonçalo Ruiz",
+    "aliases": [],
+    "role": "uno de los cinco cristianos que recurrieron al canibalismo en la costa; murió",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-dorantes",
+    "canonical_name": "Diego Dorantes",
+    "aliases": [],
+    "role": "hermano de Andrés Dorantes; muerto por los indios por pasarse de una casa a otra",
+    "status": "candidata"
+  },
+  {
+    "id": "person:valdivieso",
+    "canonical_name": "Valdivieso",
+    "aliases": [],
+    "role": "cristiano de la armada; muerto por los indios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-huelva",
+    "canonical_name": "Diego de Huelva",
+    "aliases": [],
+    "role": "cristiano de la armada; muerto por los indios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:estrada",
+    "canonical_name": "Estrada",
+    "aliases": [],
+    "role": "cristiano de la armada, del grupo que llegó a ver a Cabeza de Vaca en la isla de Malhado",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tostado",
+    "canonical_name": "Tostado",
+    "aliases": [],
+    "role": "cristiano de la armada, del mismo grupo que Estrada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:chaves",
+    "canonical_name": "Chaves",
+    "aliases": [],
+    "role": "cristiano de la armada, del mismo grupo que Estrada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gutierrez",
+    "canonical_name": "Gutiérrez",
+    "aliases": [],
+    "role": "cristiano de la armada, del mismo grupo que Estrada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:esturiano",
+    "canonical_name": "Esturiano",
+    "aliases": ["el Asturiano"],
+    "role": "clérigo de la armada; herido con flecha en un brazo al intentar huir de los indios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:benitez",
+    "canonical_name": "Benítez",
+    "aliases": [],
+    "role": "cristiano de la armada, del mismo grupo que Estrada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-leon",
+    "canonical_name": "Francisco de León",
+    "aliases": [],
+    "role": "cristiano de la armada hallado por el grupo de Castillo y Dorantes en tierra firme",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-de-esquivel",
+    "canonical_name": "Hernando de Esquivel",
+    "aliases": [],
+    "role": "natural de Badajoz; compañero del comisario; sobrevivió un tiempo entre los indios Quevenes, luego murió",
+    "status": "candidata"
+  },
+  {
+    "id": "person:soto-mayor",
+    "canonical_name": "Soto Mayor",
+    "aliases": [],
+    "role": "hermano de Vasco Porcallo; maestre de campo; mató a Pantoja de un palo, murió después",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alvaro-fernandez",
+    "canonical_name": "Álvaro Fernández",
+    "aliases": [],
+    "role": "portugués, carpintero y marinero; uno de los cuatro enviados a buscar Pánuco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:mendez",
+    "canonical_name": "Méndez",
+    "aliases": [],
+    "role": "uno de los cuatro enviados a buscar Pánuco; huyó de los indios y fue muerto",
+    "status": "candidata"
+  },
+  {
+    "id": "person:figueroa",
+    "canonical_name": "Figueroa",
+    "aliases": [],
+    "role": "natural de Toledo; uno de los cuatro enviados a buscar Pánuco; sobrevivió y relató el fin de la armada",
+    "status": "candidata"
+  },
+  {
+    "id": "person:astudillo",
+    "canonical_name": "Astudillo",
+    "aliases": [],
+    "role": "natural de Zafra; uno de los cuatro enviados a buscar Pánuco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-alcaraz",
+    "canonical_name": "Diego de Alcaraz",
+    "aliases": [],
+    "role": "capitán español que encontró a Cabeza de Vaca cerca de la Nueva Galicia",
+    "status": "candidata"
+  },
+  {
+    "id": "person:melchor-diaz",
+    "canonical_name": "Melchor Díaz",
+    "aliases": ["Melchior Diaz"],
+    "role": "alcalde mayor y capitán de la provincia de Culiacán",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nuno-de-guzman",
+    "canonical_name": "Nuño de Guzmán",
+    "aliases": [],
+    "role": "gobernador de la Nueva Galicia, residente en Compostela",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-silveira",
+    "canonical_name": "Diego de Silveira",
+    "aliases": [],
+    "role": "capitán del galeón portugués que rescató a Cabeza de Vaca y Dorantes en el Atlántico",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cebreros",
+    "canonical_name": "Cebreros",
+    "aliases": ["Zebreros"],
+    "role": "alcalde español; llevó a Cabeza de Vaca y compañía por los montes para separarlos de los indios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:carvallo",
+    "canonical_name": "Carvallo",
+    "aliases": ["Caravallo"],
+    "role": "alcalde; nombrado teniente por Narváez para quedar a cargo de los navíos, y luego teniente de la gente que quedó en la costa",
+    "status": "candidata"
+  }
+]

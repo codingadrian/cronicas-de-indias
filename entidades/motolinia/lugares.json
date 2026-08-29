@@ -1,0 +1,325 @@
+[
+  {
+    "id": "place:nueva-espana",
+    "canonical_name": "Nueva España",
+    "aliases": ["Anáhuac"],
+    "modern_equivalent": "México (región central e histórica del virreinato)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:mexico-tenochtitlan",
+    "canonical_name": "México (Temixtitan)",
+    "aliases": ["Temistitlan", "Temultichan", "Tenuxtitlán", "México Tenochtitlán"],
+    "modern_equivalent": "Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tlatelulco",
+    "canonical_name": "Tlatetulco",
+    "aliases": ["Tlatelulco", "Santiago de Tlatelulco"],
+    "modern_equivalent": "Tlatelolco, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tezcuco",
+    "canonical_name": "Tezcuco",
+    "aliases": ["Texcuco", "Tezcoco"],
+    "modern_equivalent": "Texcoco, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tlacuba",
+    "canonical_name": "Tlacuba",
+    "aliases": ["Tlacopan"],
+    "modern_equivalent": "Tacuba, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cuauhtitlan",
+    "canonical_name": "Cuauhtitlan",
+    "aliases": ["Couathiclan", "Coauhtitlan"],
+    "modern_equivalent": "Cuautitlán, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:coyoacan",
+    "canonical_name": "Coyoacán",
+    "aliases": ["Cuyuacan"],
+    "modern_equivalent": "Coyoacán, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:xuchimilco",
+    "canonical_name": "Xuchimilco",
+    "aliases": ["Xochimilco"],
+    "modern_equivalent": "Xochimilco, Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chalco",
+    "canonical_name": "Chalco",
+    "aliases": ["Tlalamanalco", "Tlamanalco"],
+    "modern_equivalent": "Chalco / Tlalmanalco, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:otumba",
+    "canonical_name": "Otumba",
+    "aliases": [],
+    "modern_equivalent": "Otumba, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tepepulco",
+    "canonical_name": "Tepepulco",
+    "aliases": [],
+    "modern_equivalent": "Tepeapulco, Hidalgo",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cholola",
+    "canonical_name": "Cholola",
+    "aliases": ["Chololan", "Cholula"],
+    "modern_equivalent": "Cholula, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:huexuzinco",
+    "canonical_name": "Huexuzinco",
+    "aliases": ["Huejuzinco", "Huejotzingo"],
+    "modern_equivalent": "Huejotzingo, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tlaxcala",
+    "canonical_name": "Tlaxcala",
+    "aliases": [],
+    "modern_equivalent": "Tlaxcala de Xicohténcatl, Tlaxcala",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tepetipac",
+    "canonical_name": "Tepetipac",
+    "aliases": [],
+    "modern_equivalent": "barrio de Tlaxcala",
+    "status": "candidata",
+    "notas": "Una de las cuatro cabeceras de Tlaxcala; señorío más antiguo."
+  },
+  {
+    "id": "place:ocotelulco",
+    "canonical_name": "Ocutubula",
+    "aliases": ["Ocotelulco"],
+    "modern_equivalent": "barrio de Tlaxcala",
+    "status": "candidata",
+    "notas": "Segunda cabecera de Tlaxcala; señorío de Maxixcatzin."
+  },
+  {
+    "id": "place:tizatlan",
+    "canonical_name": "Tizatlán",
+    "aliases": [],
+    "modern_equivalent": "barrio de Tlaxcala",
+    "status": "candidata",
+    "notas": "Tercera cabecera de Tlaxcala; señorío de Xicoténcatl el viejo."
+  },
+  {
+    "id": "place:quiahuiztlan",
+    "canonical_name": "Queauztlan",
+    "aliases": ["Quiahuiztlán"],
+    "modern_equivalent": "barrio de Tlaxcala",
+    "status": "candidata",
+    "notas": "Cuarta cabecera de Tlaxcala."
+  },
+  {
+    "id": "place:ciudad-de-los-angeles",
+    "canonical_name": "la ciudad de los Ángeles",
+    "aliases": [],
+    "modern_equivalent": "Puebla de Zaragoza, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:val-de-cristo-atlixco",
+    "canonical_name": "Val de Cristo",
+    "aliases": ["Valle de Atlixco"],
+    "modern_equivalent": "Valle de Atlixco, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cuauhquechula",
+    "canonical_name": "Cuauhquechula",
+    "aliases": ["Cuauquechula"],
+    "modern_equivalent": "San Juan Epatlán / Cuauhquechula, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:coatepec-mar-del-sur",
+    "canonical_name": "Coatepec (puerto de la Mar del Sur)",
+    "aliases": ["Tecoantepec"],
+    "modern_equivalent": "cerca de Tehuantepec, Oaxaca",
+    "status": "candidata",
+    "notas": "Distinto del Coatepec de la ribera del río Papaloapan mencionado en el Tratado tercero cap. 10."
+  },
+  {
+    "id": "place:teoacan",
+    "canonical_name": "Teoacan",
+    "aliases": ["Teoachan"],
+    "modern_equivalent": "Tehuacán, Puebla",
+    "status": "candidata",
+    "notas": "Lugar desde donde Motolinía escribe buena parte de la obra."
+  },
+  {
+    "id": "place:cuitlahuac",
+    "canonical_name": "Cuitlauac",
+    "aliases": ["Cuitláhuac", "Venezuela (nombre puesto por los españoles)"],
+    "modern_equivalent": "Tláhuac, Ciudad de México",
+    "status": "candidata",
+    "notas": "Los españoles la llamaron 'Venezuela' por estar fundada sobre el agua."
+  },
+  {
+    "id": "place:mictlan",
+    "canonical_name": "Mictlan",
+    "aliases": [],
+    "modern_equivalent": "Mitla, Oaxaca",
+    "status": "candidata"
+  },
+  {
+    "id": "place:guazacualco",
+    "canonical_name": "Guazacualco",
+    "aliases": [],
+    "modern_equivalent": "Coatzacoalcos, Veracruz",
+    "status": "candidata"
+  },
+  {
+    "id": "place:campeche-yucatan",
+    "canonical_name": "Campech",
+    "aliases": ["Yucatán (nombre puesto por los españoles)"],
+    "modern_equivalent": "Campeche / península de Yucatán",
+    "status": "candidata",
+    "notas": "Motolinía explica el origen del nombre 'Yucatán' como malentendido lingüístico de los españoles."
+  },
+  {
+    "id": "place:michuacan",
+    "canonical_name": "Michuacán",
+    "aliases": ["Tarecato", "Tepeoacán"],
+    "modern_equivalent": "Michoacán",
+    "status": "candidata"
+  },
+  {
+    "id": "place:sanlucar-de-barrameda",
+    "canonical_name": "Sanlúcar de Barrameda",
+    "aliases": [],
+    "modern_equivalent": "Sanlúcar de Barrameda, España",
+    "status": "candidata",
+    "notas": "Puerto de partida de los Doce Apóstoles hacia la Nueva España."
+  },
+  {
+    "id": "place:belvis",
+    "canonical_name": "Belvís",
+    "aliases": [],
+    "modern_equivalent": "Belvís de Monroy, España",
+    "status": "candidata",
+    "notas": "Monasterio Santa María del Berrocal fundado por fray Martín de Valencia."
+  },
+  {
+    "id": "place:talmanalco",
+    "canonical_name": "Talmanalco",
+    "aliases": [],
+    "modern_equivalent": "Tlalmanalco, Estado de México",
+    "status": "candidata",
+    "notas": "Donde murió fray Martín de Valencia camino a México, 1534."
+  },
+  {
+    "id": "place:amaquemecan",
+    "canonical_name": "Amaquemanca",
+    "aliases": ["Amaquemecan"],
+    "modern_equivalent": "Amecameca, Estado de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chiapa",
+    "canonical_name": "Chiapa",
+    "aliases": [],
+    "modern_equivalent": "Chiapas",
+    "status": "candidata",
+    "notas": "Obispado de Bartolomé de las Casas."
+  },
+  {
+    "id": "place:verapaz",
+    "canonical_name": "Verapaz",
+    "aliases": [],
+    "modern_equivalent": "Alta/Baja Verapaz, Guatemala",
+    "status": "candidata"
+  },
+  {
+    "id": "place:guatemala",
+    "canonical_name": "Guatemala",
+    "aliases": ["Cuautimala"],
+    "modern_equivalent": "Guatemala",
+    "status": "candidata"
+  },
+  {
+    "id": "place:nicaragua",
+    "canonical_name": "Nicaragua",
+    "aliases": [],
+    "modern_equivalent": "Nicaragua",
+    "status": "candidata"
+  },
+  {
+    "id": "place:peru",
+    "canonical_name": "el Perú",
+    "aliases": [],
+    "modern_equivalent": "Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:florida",
+    "canonical_name": "la Florida",
+    "aliases": [],
+    "modern_equivalent": "Florida, EE. UU.",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tepeaca",
+    "canonical_name": "Tepeaca",
+    "aliases": [],
+    "modern_equivalent": "Tepeaca, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:zacatlan",
+    "canonical_name": "Zacatlán",
+    "aliases": [],
+    "modern_equivalent": "Zacatlán, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:atleuesa",
+    "canonical_name": "Atleuesa",
+    "aliases": [],
+    "modern_equivalent": "cerca de Tlaxcala (no identificado con certeza)",
+    "status": "candidata",
+    "notas": "Lugar de muerte y sepultura del niño Cristóbal."
+  },
+  {
+    "id": "place:coatinchan",
+    "canonical_name": "Coahuvtinchan",
+    "aliases": ["Coatinchan", "Coauhtinchan"],
+    "modern_equivalent": "Cuauhtinchán, Puebla",
+    "status": "candidata"
+  },
+  {
+    "id": "place:valencia-de-don-juan",
+    "canonical_name": "villa de Valencia (de Don Juan)",
+    "aliases": [],
+    "modern_equivalent": "Valencia de Don Juan, León, España",
+    "status": "candidata",
+    "notas": "Lugar de nacimiento de fray Martín de Valencia."
+  },
+  {
+    "id": "place:mayorga",
+    "canonical_name": "Mayorga",
+    "aliases": [],
+    "modern_equivalent": "Mayorga, Valladolid, España",
+    "status": "candidata",
+    "notas": "Donde fray Martín de Valencia tomó el hábito."
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "place:san-lucar-de-barrameda",
+    "canonical_name": "San Lúcar de Barrameda",
+    "aliases": ["sant Lucar de Barrameda"],
+    "modern_equivalent": "Sanlúcar de Barrameda, Cádiz, España",
+    "status": "candidata",
+    "notas": "puerto de salida de la armada de Narváez, 17 de junio de 1527"
+  },
+  {
+    "id": "place:isla-espanola",
+    "canonical_name": "isla Española",
+    "aliases": ["Santo Domingo", "ysla de Santo Domingo"],
+    "modern_equivalent": "La Española (República Dominicana/Haití)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:santiago-de-cuba",
+    "canonical_name": "Santiago",
+    "aliases": ["Sanctiago"],
+    "modern_equivalent": "Santiago de Cuba, Cuba",
+    "status": "candidata",
+    "notas": "puerto en la isla de Cuba"
+  },
+  {
+    "id": "place:trinidad-cuba",
+    "canonical_name": "la Trinidad",
+    "aliases": ["villa de la Trinidad"],
+    "modern_equivalent": "Trinidad, Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cabo-de-santa-cruz",
+    "canonical_name": "cabo de Santa Cruz",
+    "aliases": ["cabo de sancta Cruz"],
+    "modern_equivalent": "cerca de Santa Cruz del Sur, Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:puerto-de-xagua",
+    "canonical_name": "puerto de Xagua",
+    "aliases": [],
+    "modern_equivalent": "Cienfuegos, Cuba (bahía de Jagua)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:guaniguanico",
+    "canonical_name": "Guaniguanico",
+    "aliases": [],
+    "modern_equivalent": "región de Guaniguanico, Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cabo-de-corrientes",
+    "canonical_name": "cabo de Corrientes",
+    "aliases": [],
+    "modern_equivalent": "Cabo de Corrientes, Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cabo-de-san-anton",
+    "canonical_name": "cabo de San Antón",
+    "aliases": ["cabo de sant Anton"],
+    "modern_equivalent": "Cabo de San Antonio, Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-habana",
+    "canonical_name": "la Habana",
+    "aliases": [],
+    "modern_equivalent": "La Habana, Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:florida",
+    "canonical_name": "la Florida",
+    "aliases": ["cabo de la Florida"],
+    "modern_equivalent": "península de Florida, EE. UU.",
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-de-las-palmas",
+    "canonical_name": "río de las Palmas",
+    "aliases": [],
+    "modern_equivalent": "río Soto la Marina, Tamaulipas, México (identificación tradicional)",
+    "status": "candidata",
+    "notas": "destino buscado por la armada; nunca lo alcanzaron por esta ruta"
+  },
+  {
+    "id": "place:apalache",
+    "canonical_name": "Apalache",
+    "aliases": ["Palache"],
+    "modern_equivalent": "región de Apalachee, norte de Florida, EE. UU.",
+    "status": "candidata"
+  },
+  {
+    "id": "place:aute",
+    "canonical_name": "Aute",
+    "aliases": [],
+    "modern_equivalent": "cerca de la bahía de Apalachee, Florida, EE. UU. (ubicación exacta debatida)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:bahia-de-caballos",
+    "canonical_name": "bahía de Caballos",
+    "aliases": ["baya de cavallos"],
+    "modern_equivalent": "posiblemente bahía de San Marcos o Apalachee, Florida, EE. UU.",
+    "status": "candidata",
+    "notas": "punto de partida de las cinco barcas construidas por los náufragos, 22 de septiembre de 1528"
+  },
+  {
+    "id": "place:isla-de-malhado",
+    "canonical_name": "isla de Malhado",
+    "aliases": ["ysla de Malhado"],
+    "modern_equivalent": "posiblemente Galveston Island, Texas, EE. UU.",
+    "status": "candidata",
+    "notas": "isla donde encalló la barca de Cabeza de Vaca; nombrada así por la desgracia sufrida allí"
+  },
+  {
+    "id": "place:rio-de-la-magdalena",
+    "canonical_name": "río de la Magdalena",
+    "aliases": [],
+    "modern_equivalent": "no identificado con certeza (Florida panhandle, EE. UU.)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:panuco",
+    "canonical_name": "Pánuco",
+    "aliases": [],
+    "modern_equivalent": "Pánuco, Veracruz, México",
+    "status": "candidata",
+    "notas": "puerto español que la expedición buscaba alcanzar por mar y nunca encontró por esa vía"
+  },
+  {
+    "id": "place:rio-de-petatlan",
+    "canonical_name": "río de Petatlán",
+    "aliases": ["rio de Petutan", "rio de Petaan"],
+    "modern_equivalent": "no identificado con certeza (norte de Sinaloa, México)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:san-miguel-nueva-galicia",
+    "canonical_name": "villa de San Miguel",
+    "aliases": ["sant Miguel"],
+    "modern_equivalent": "San Miguel de Culiacán, Sinaloa, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:culiacan",
+    "canonical_name": "Culiacán",
+    "aliases": ["Culiaçan"],
+    "modern_equivalent": "Culiacán, Sinaloa, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:compostela",
+    "canonical_name": "Compostela",
+    "aliases": [],
+    "modern_equivalent": "Compostela, Nayarit, México",
+    "status": "candidata",
+    "notas": "sede del gobernador Nuño de Guzmán"
+  },
+  {
+    "id": "place:mexico-ciudad",
+    "canonical_name": "México",
+    "aliases": ["ciudad de Mexico"],
+    "modern_equivalent": "Ciudad de México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:vera-cruz",
+    "canonical_name": "la Vera Cruz",
+    "aliases": [],
+    "modern_equivalent": "Veracruz, México",
+    "status": "candidata",
+    "notas": "puerto de embarque de Cabeza de Vaca y Dorantes hacia España"
+  },
+  {
+    "id": "place:isla-de-bermuda",
+    "canonical_name": "isla de la Bermuda",
+    "aliases": [],
+    "modern_equivalent": "Bermudas",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-del-cuervo",
+    "canonical_name": "isla del Cuervo",
+    "aliases": [],
+    "modern_equivalent": "Corvo, islas Azores, Portugal",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-tercera",
+    "canonical_name": "isla Tercera",
+    "aliases": [],
+    "modern_equivalent": "Terceira, islas Azores, Portugal",
+    "status": "candidata"
+  },
+  {
+    "id": "place:puerto-de-lisboa",
+    "canonical_name": "puerto de Lisboa",
+    "aliases": [],
+    "modern_equivalent": "Lisboa, Portugal",
+    "status": "candidata",
+    "notas": "llegada final del viaje de regreso, 9 de agosto de 1537"
+  },
+  {
+    "id": "place:mar-del-sur",
+    "canonical_name": "mar del Sur",
+    "aliases": [],
+    "modern_equivalent": "océano Pacífico",
+    "status": "candidata"
+  },
+  {
+    "id": "place:nueva-espana",
+    "canonical_name": "Nueva España",
+    "aliases": [],
+    "modern_equivalent": "México (virreinato colonial)",
+    "status": "candidata"
+  },
+  {
+    "id": "place:nueva-galicia",
+    "canonical_name": "Nueva Galicia",
+    "aliases": ["governacion de la nueva Galicia"],
+    "modern_equivalent": "región de Jalisco/Nayarit/Sinaloa, México",
+    "status": "candidata"
+  }
+]

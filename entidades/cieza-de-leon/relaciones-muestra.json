@@ -1,0 +1,1660 @@
+{
+  "nota": "Relaciones extraídas a mano de la Primera Parte completa de La crónica del Perú de Cieza de León (Dedicatoria + Proemio + 121 capítulos, ~124 100 palabras). Formato: from -> relation -> to, citando el pasaje de origen. Estado: candidata (pendiente de una segunda revisión). Cobertura deliberadamente selectiva, tal como permite este trabajo dado que la obra es en gran parte un recuento geográfico capítulo a capítulo (rumbos, leguas, grados de altura entre puertos y ríos, sin contenido narrativo propio): se catalogaron a fondo las fundaciones de ciudades españolas (con fundador, fecha cuando el texto la da, y el gobernador bajo cuyo mandato ocurrió), las figuras y hechos de los primeros exploradores de Urabá/Darién/Cartagena, y el relato de la guerra civil incaica entre Guáscar y Atabaliba narrado en el capítulo 44 (aunque este es el único capítulo de esta Primera Parte que trata ese tema en detalle — la obra completa de Cieza narra la conquista y las guerras civiles españolas en su Tercera y Cuarta Parte, que NO forman parte de esta edición/estos 121 capítulos, ver METADATA.md). Se catalogaron los lugares con contenido histórico real (fundaciones, batallas, sitios incas notables); se dejaron fuera del catálogo la enorme cantidad de cabos, ríos, islotes y bahías mencionados solo como puntos de una derrota de navegación (capítulos 3-5 y similares), que no tienen contenido narrativo propio más allá de su posición geográfica. También se dejó fuera, salvo un ejemplo (fray Domingo de Santo Tomás), el listado de ~20 frailes fundadores de monasterios del capítulo 121 (es un directorio, no narrativa) — están nombrados en el texto y podrían añadirse en una segunda pasada si se quiere cobertura exhaustiva de esa sección. Verificación de integridad referencial: todo from/to de relaciones (salvo el 'to' literal de las relaciones ocurrió_el, que son fechas, no ids) resuelve contra personas.json/lugares.json/eventos, y todo place_id de eventos resuelve contra lugares.json.",
+  "entidades_nuevas": [
+    {
+      "id": "person:pedro-de-cieza-de-leon",
+      "canonical_name": "Pedro de Cieza de León",
+      "aliases": [],
+      "role": "autor de la crónica, soldado y cronista (escribió 1541-1550)",
+      "status": "candidata",
+      "capitulo": 9
+    },
+    {
+      "id": "person:cristobal-colon",
+      "canonical_name": "Cristóbal Colón",
+      "aliases": [],
+      "role": "descubridor de las Indias (1492)",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:alonso-de-ojeda",
+      "canonical_name": "Alonso de Ojeda",
+      "aliases": [],
+      "role": "gobernador de Tierra Firme, fundó el primer asentamiento en Urabá",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "person:diego-de-nicuesa",
+      "canonical_name": "Diego de Nicuesa",
+      "aliases": [
+        "Nicuesa"
+      ],
+      "role": "cogobernador de Tierra Firme junto con Ojeda",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:juan-de-la-cosa",
+      "canonical_name": "Juan de la Cosa",
+      "aliases": [],
+      "role": "capitán, muerto en batalla contra los indios de Turbaco/Calamar",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "person:pedrarias-davila",
+      "canonical_name": "Pedrarias Dávila",
+      "aliases": [
+        "Pedrarias"
+      ],
+      "role": "gobernador de Tierra Firme, fundó Panamá (1520), mandó decapitar a su yerno Vasco Núñez de Balboa",
+      "status": "candidata",
+      "capitulo": 2
+    },
+    {
+      "id": "person:vasco-nunez-de-balboa",
+      "canonical_name": "Vasco Núñez de Balboa",
+      "aliases": [],
+      "role": "adelantado, yerno de Pedrarias, decapitado por este",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "person:pedro-de-heredia",
+      "canonical_name": "Pedro de Heredia",
+      "aliases": [],
+      "role": "gobernador de la provincia de Cartagena",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "person:alonso-de-heredia",
+      "canonical_name": "Alonso de Heredia",
+      "aliases": [],
+      "role": "hermano de Pedro de Heredia, fundó (segunda vez) la ciudad de San Sebastián de Buena Vista en Urabá",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "person:juan-de-vadillo",
+      "canonical_name": "Juan de Vadillo",
+      "aliases": [],
+      "role": "licenciado, juez de residencia y gobernador de Cartagena; salió con su armada en 1537, cruzó de mar a mar",
+      "status": "candidata",
+      "capitulo": 9
+    },
+    {
+      "id": "person:jorge-robledo",
+      "canonical_name": "Jorge Robledo",
+      "aliases": [],
+      "role": "capitán, fundó las ciudades de Antiocha y Ancerma",
+      "status": "candidata",
+      "capitulo": 12
+    },
+    {
+      "id": "person:cacique-macuri",
+      "canonical_name": "Macuri",
+      "aliases": [],
+      "role": "cacique de Bahaire (Cartagena), explicó a Cieza la composición del veneno de flechas",
+      "status": "candidata",
+      "capitulo": 7
+    },
+    {
+      "id": "person:cacique-nutibara",
+      "canonical_name": "Nutibara",
+      "aliases": [],
+      "role": "cacique de la comarca de Antiocha",
+      "status": "candidata",
+      "capitulo": 12
+    },
+    {
+      "id": "person:sebastian-de-belalcazar",
+      "canonical_name": "Sebastián de Belalcázar",
+      "aliases": [
+        "Benalcázar"
+      ],
+      "role": "capitán, luego adelantado y gobernador de Popayán; fundó Popayán, Quito, Cali (primera vez) y participó en la fundación de Guayaquil",
+      "status": "candidata",
+      "capitulo": 17
+    },
+    {
+      "id": "person:miguel-munoz",
+      "canonical_name": "Miguel Muñoz",
+      "aliases": [],
+      "role": "capitán, fundó/refundó las ciudades de Cali (1537) y Cartago (1542)",
+      "status": "candidata",
+      "capitulo": 17
+    },
+    {
+      "id": "person:lorenzo-de-aldana",
+      "canonical_name": "Lorenzo de Aldana",
+      "aliases": [],
+      "role": "capitán, fundó la villa de Pasto",
+      "status": "candidata",
+      "capitulo": 34
+    },
+    {
+      "id": "person:francisco-pizarro",
+      "canonical_name": "Francisco Pizarro",
+      "aliases": [
+        "el marqués don Francisco Pizarro",
+        "el adelantado don Francisco Pizarro"
+      ],
+      "role": "gobernador y capitán general del Perú; uno de los Trece del Gallo; fundó San Miguel, Trujillo, la ciudad de los Reyes (Lima) y León de Guánuco",
+      "status": "candidata",
+      "capitulo": 4
+    },
+    {
+      "id": "person:diego-de-almagro",
+      "canonical_name": "Diego de Almagro",
+      "aliases": [
+        "el mariscal don Diego de Almagro",
+        "el Adelantado"
+      ],
+      "role": "mariscal y adelantado, socio de Pizarro en la conquista; se concertó con Pedro de Alvarado en Riobamba (1534) por los derechos de conquista de Quito",
+      "status": "candidata",
+      "capitulo": 51
+    },
+    {
+      "id": "person:pedro-de-alvarado",
+      "canonical_name": "Pedro de Alvarado",
+      "aliases": [
+        "el adelantado don Pedro de Albarado"
+      ],
+      "role": "adelantado, intentó conquistar Quito de forma independiente; se concertó con Almagro en Riobamba (1534)",
+      "status": "candidata",
+      "capitulo": 51
+    },
+    {
+      "id": "person:francisco-pacheco",
+      "canonical_name": "Francisco Pacheco",
+      "aliases": [],
+      "role": "capitán, fundó la ciudad de Puerto Viejo (12 de marzo de 1535) por orden de Diego de Almagro",
+      "status": "candidata",
+      "capitulo": 51
+    },
+    {
+      "id": "person:diego-daza",
+      "canonical_name": "Diego Daza",
+      "aliases": [],
+      "role": "alcaide y capitán dejado por Belalcázar en la primera fundación de Guayaquil; sobrevivió a la matanza de los españoles por los indios",
+      "status": "candidata",
+      "capitulo": 55
+    },
+    {
+      "id": "person:alonso-de-mercadillo",
+      "canonical_name": "Alonso de Mercadillo",
+      "aliases": [],
+      "role": "capitán, fundó la ciudad de Loja (1546)",
+      "status": "candidata",
+      "capitulo": 56
+    },
+    {
+      "id": "person:alonso-de-alvarado",
+      "canonical_name": "Alonso de Alvarado",
+      "aliases": [
+        "Alonso de Albarado"
+      ],
+      "role": "capitán, fundó la ciudad de la Frontera de los Chachapoyas",
+      "status": "candidata",
+      "capitulo": 78
+    },
+    {
+      "id": "person:gomez-de-alvarado",
+      "canonical_name": "Gómez de Alvarado",
+      "aliases": [
+        "Gómez de Albarado"
+      ],
+      "role": "hermano de Pedro de Alvarado, teniente de Francisco Pizarro, fundó la ciudad de León de Guánuco",
+      "status": "candidata",
+      "capitulo": 79
+    },
+    {
+      "id": "person:pedro-barroso",
+      "canonical_name": "Pedro Barroso",
+      "aliases": [],
+      "role": "reedificó la ciudad de León de Guánuco tras un alzamiento indígena",
+      "status": "candidata",
+      "capitulo": 79
+    },
+    {
+      "id": "person:pedro-de-puelles",
+      "canonical_name": "Pedro de Puelles",
+      "aliases": [],
+      "role": "asentó definitivamente León de Guánuco tras la batalla de Chupas, con poderes del licenciado Vaca de Castro",
+      "status": "candidata",
+      "capitulo": 79
+    },
+    {
+      "id": "person:peranzurez",
+      "canonical_name": "Peranzúrez",
+      "aliases": [],
+      "role": "capitán, fundó la villa de Plata en la provincia de los Charcas",
+      "status": "candidata",
+      "capitulo": 107
+    },
+    {
+      "id": "person:fray-domingo-de-santo-tomas",
+      "canonical_name": "Domingo de Santo Tomás",
+      "aliases": [],
+      "role": "fraile, fundó el monasterio de Santo Domingo en Trujillo",
+      "status": "candidata",
+      "capitulo": 68
+    },
+    {
+      "id": "person:mangocapa",
+      "canonical_name": "Mangocapa",
+      "aliases": [
+        "Manco Cápac"
+      ],
+      "role": "primer rey inga legendario, fundador de la ciudad del Cuzco",
+      "status": "candidata",
+      "capitulo": 38
+    },
+    {
+      "id": "person:inga-yupangue",
+      "canonical_name": "Inga Yupanque",
+      "aliases": [
+        "Inca Yupanqui"
+      ],
+      "role": "rey inga, padre de Topainga; construyó los aposentos de Tumebamba",
+      "status": "candidata",
+      "capitulo": 44
+    },
+    {
+      "id": "person:topainga-yupangue",
+      "canonical_name": "Topainga Yupangue",
+      "aliases": [
+        "Túpac Yupanqui"
+      ],
+      "role": "rey inga, hijo de Inga Yupanque, padre de Guaynacapa; fundador del templo de Tumebamba, recordado como gobernante piadoso",
+      "status": "candidata",
+      "capitulo": 44
+    },
+    {
+      "id": "person:guaynacapa",
+      "canonical_name": "Guaynacapa",
+      "aliases": [
+        "Huayna Cápac"
+      ],
+      "role": "rey inga, padre de Huáscar y Atabaliba; profetizó la llegada de gente extraña (los españoles) antes de morir",
+      "status": "candidata",
+      "capitulo": 44
+    },
+    {
+      "id": "person:guascar",
+      "canonical_name": "Guáscar",
+      "aliases": [
+        "Huáscar"
+      ],
+      "role": "rey inga, hijo legítimo de Guaynacapa, hermano de Atabaliba; disputó el señorío con él",
+      "status": "candidata",
+      "capitulo": 44
+    },
+    {
+      "id": "person:atabaliba",
+      "canonical_name": "Atabaliba",
+      "aliases": [
+        "Atahualpa"
+      ],
+      "role": "rey inga, hijo de Guaynacapa; venció a Guáscar y ordenó una matanza en Ambato tras derrotar al general Atoco",
+      "status": "candidata",
+      "capitulo": 44
+    },
+    {
+      "id": "person:atoco",
+      "canonical_name": "Atoco",
+      "aliases": [],
+      "role": "capitán general de Guáscar, derrotado y muerto por Atabaliba en Ambato",
+      "status": "candidata",
+      "capitulo": 44
+    },
+    {
+      "id": "person:urrua",
+      "canonical_name": "Urrúa",
+      "aliases": [],
+      "role": "cacique principal que lideró a los pueblos de Carrapa en su traslado hacia Quimbaya",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:panama-ciudad",
+      "canonical_name": "Panamá",
+      "aliases": [],
+      "modern_equivalent": "Ciudad de Panamá, Panamá",
+      "status": "candidata",
+      "notas": "fundada por Pedrarias Dávila en 1520",
+      "capitulo": 1
+    },
+    {
+      "id": "place:nombre-de-dios",
+      "canonical_name": "Nombre de Dios",
+      "aliases": [],
+      "modern_equivalent": "Nombre de Dios, Colón, Panamá",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:islas-de-las-perlas",
+      "canonical_name": "islas de las Perlas",
+      "aliases": [],
+      "modern_equivalent": "Archipiélago de las Perlas, Panamá",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:isla-de-gorgona",
+      "canonical_name": "isla de la Gorgona",
+      "aliases": [
+        "Gorgona"
+      ],
+      "modern_equivalent": "Isla Gorgona, Colombia",
+      "status": "candidata",
+      "notas": "aquí esperó Francisco Pizarro con los Trece del Gallo",
+      "capitulo": 4
+    },
+    {
+      "id": "place:isla-del-gallo",
+      "canonical_name": "isla del Gallo",
+      "aliases": [],
+      "modern_equivalent": "Isla del Gallo, Colombia",
+      "status": "candidata",
+      "capitulo": 4
+    },
+    {
+      "id": "place:isla-de-plata",
+      "canonical_name": "isla de Plata",
+      "aliases": [],
+      "modern_equivalent": "Isla de la Plata, Ecuador",
+      "status": "candidata",
+      "notas": "nombrada así porque Pizarro y sus trece compañeros hallaron plata y oro allí",
+      "capitulo": 1
+    },
+    {
+      "id": "place:puerto-viejo",
+      "canonical_name": "Puerto Viejo",
+      "aliases": [],
+      "modern_equivalent": "Portoviejo, Ecuador",
+      "status": "candidata",
+      "notas": "fundada por Francisco Pacheco el 12 de marzo de 1535",
+      "capitulo": 51
+    },
+    {
+      "id": "place:tumbez",
+      "canonical_name": "Tumbez",
+      "aliases": [],
+      "modern_equivalent": "Tumbes, Perú",
+      "status": "candidata",
+      "notas": "fortaleza inca con templo del sol y casa de mamaconas",
+      "capitulo": 1
+    },
+    {
+      "id": "place:isla-puna",
+      "canonical_name": "isla de la Puná",
+      "aliases": [
+        "Puna"
+      ],
+      "modern_equivalent": "Isla Puná, Ecuador",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:callao",
+      "canonical_name": "El Callao",
+      "aliases": [],
+      "modern_equivalent": "Callao, Perú",
+      "status": "candidata",
+      "notas": "puerto de la ciudad de los Reyes (Lima)",
+      "capitulo": 1
+    },
+    {
+      "id": "place:cartagena",
+      "canonical_name": "Cartagena",
+      "aliases": [
+        "provincia de Cartagena"
+      ],
+      "modern_equivalent": "Cartagena de Indias, Colombia",
+      "status": "candidata",
+      "capitulo": 7
+    },
+    {
+      "id": "place:turbaco",
+      "canonical_name": "Turbaco",
+      "aliases": [
+        "Calamar"
+      ],
+      "modern_equivalent": "Turbaco, Bolívar, Colombia",
+      "status": "candidata",
+      "notas": "aquí murió Juan de la Cosa en batalla contra los indios",
+      "capitulo": 6
+    },
+    {
+      "id": "place:urabá",
+      "canonical_name": "Urabá",
+      "aliases": [
+        "Culata de Urabá"
+      ],
+      "modern_equivalent": "Golfo de Urabá, Colombia",
+      "status": "candidata",
+      "capitulo": 6
+    },
+    {
+      "id": "place:san-sebastian-de-buena-vista",
+      "canonical_name": "San Sebastián de Buena Vista",
+      "aliases": [],
+      "modern_equivalent": "región del golfo de Urabá, Colombia",
+      "status": "candidata",
+      "notas": "fundada por Alonso de Heredia en el sitio de Urabá, segunda vez tras el primer intento de Ojeda",
+      "capitulo": 6
+    },
+    {
+      "id": "place:darien",
+      "canonical_name": "Darién",
+      "aliases": [
+        "Nuestra Señora del Antigua"
+      ],
+      "modern_equivalent": "región del Darién, Colombia/Panamá",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:antiocha",
+      "canonical_name": "Antiocha",
+      "aliases": [],
+      "modern_equivalent": "Santa Fe de Antioquia, Colombia",
+      "status": "candidata",
+      "notas": "fundada por Jorge Robledo",
+      "capitulo": 12
+    },
+    {
+      "id": "place:ancerma",
+      "canonical_name": "villa de Ancerma",
+      "aliases": [
+        "Anserma"
+      ],
+      "modern_equivalent": "Anserma, Caldas, Colombia",
+      "status": "candidata",
+      "notas": "fundada por Jorge Robledo",
+      "capitulo": 16
+    },
+    {
+      "id": "place:cartago",
+      "canonical_name": "Cartago",
+      "aliases": [],
+      "modern_equivalent": "Cartago, Valle del Cauca, Colombia",
+      "status": "candidata",
+      "notas": "fundada por Miguel Muñoz bajo Belalcázar, año de 1542",
+      "capitulo": 17
+    },
+    {
+      "id": "place:cali",
+      "canonical_name": "ciudad de Cali",
+      "aliases": [],
+      "modern_equivalent": "Cali, Colombia",
+      "status": "candidata",
+      "notas": "fundada primero por Belalcázar, luego reedificada por Miguel Muñoz en 1537 bajo Francisco Pizarro",
+      "capitulo": 26
+    },
+    {
+      "id": "place:popayan",
+      "canonical_name": "Popayán",
+      "aliases": [],
+      "modern_equivalent": "Popayán, Colombia",
+      "status": "candidata",
+      "notas": "fundada por Sebastián de Belalcázar bajo Francisco Pizarro",
+      "capitulo": 30
+    },
+    {
+      "id": "place:pasto",
+      "canonical_name": "villa de Pasto",
+      "aliases": [],
+      "modern_equivalent": "Pasto, Colombia",
+      "status": "candidata",
+      "notas": "fundada por Lorenzo de Aldana bajo Francisco Pizarro",
+      "capitulo": 34
+    },
+    {
+      "id": "place:quito",
+      "canonical_name": "San Francisco del Quito",
+      "aliases": [
+        "Quito"
+      ],
+      "modern_equivalent": "Quito, Ecuador",
+      "status": "candidata",
+      "notas": "fundada por Sebastián de Belalcázar en 1534",
+      "capitulo": 40
+    },
+    {
+      "id": "place:tumebamba",
+      "canonical_name": "Tumebamba",
+      "aliases": [
+        "Tumebamba"
+      ],
+      "modern_equivalent": "Cuenca, Ecuador (ruinas incas cercanas)",
+      "status": "candidata",
+      "notas": "reales aposentos incas con templo del sol; construido por Inga Yupangue y Topainga",
+      "capitulo": 44
+    },
+    {
+      "id": "place:ambato",
+      "canonical_name": "Ambato",
+      "aliases": [],
+      "modern_equivalent": "Ambato, Ecuador",
+      "status": "candidata",
+      "notas": "aquí Atabaliba masacró a la población tras vencer al general de Guáscar, Atoco",
+      "capitulo": 44
+    },
+    {
+      "id": "place:guayaquil",
+      "canonical_name": "Santiago de Guayaquil",
+      "aliases": [
+        "Guayaquil"
+      ],
+      "modern_equivalent": "Guayaquil, Ecuador",
+      "status": "candidata",
+      "notas": "fundada por Belalcázar; los indios mataron a casi todos los españoles poco después; se repobló más tarde",
+      "capitulo": 55
+    },
+    {
+      "id": "place:loja",
+      "canonical_name": "ciudad de Loja",
+      "aliases": [],
+      "modern_equivalent": "Loja, Ecuador",
+      "status": "candidata",
+      "notas": "fundada por Alonso de Mercadillo en 1546",
+      "capitulo": 56
+    },
+    {
+      "id": "place:san-miguel",
+      "canonical_name": "San Miguel",
+      "aliases": [
+        "San Miguel de Piura"
+      ],
+      "modern_equivalent": "San Miguel de Piura, Perú",
+      "status": "candidata",
+      "notas": "primera ciudad fundada por Francisco Pizarro en el Perú, c. 1532",
+      "capitulo": 58
+    },
+    {
+      "id": "place:trujillo-peru",
+      "canonical_name": "ciudad de Trujillo",
+      "aliases": [],
+      "modern_equivalent": "Trujillo, Perú",
+      "status": "candidata",
+      "notas": "sitio escogido por Diego de Almagro, poblada después por Francisco Pizarro",
+      "capitulo": 68
+    },
+    {
+      "id": "place:ciudad-de-los-reyes",
+      "canonical_name": "ciudad de los Reyes",
+      "aliases": [
+        "Lima"
+      ],
+      "modern_equivalent": "Lima, Perú",
+      "status": "candidata",
+      "notas": "fundada por Francisco Pizarro en los llanos y arenales",
+      "capitulo": 79
+    },
+    {
+      "id": "place:arequipa",
+      "canonical_name": "Arequipa",
+      "aliases": [],
+      "modern_equivalent": "Arequipa, Perú",
+      "status": "candidata",
+      "notas": "trasladada desde su sitio original al valle de Quilca",
+      "capitulo": 76
+    },
+    {
+      "id": "place:frontera-chachapoyas",
+      "canonical_name": "ciudad de la Frontera",
+      "aliases": [
+        "Frontera de los Chachapoyas",
+        "Levanto"
+      ],
+      "modern_equivalent": "Chachapoyas, Perú (área)",
+      "status": "candidata",
+      "notas": "fundada por Alonso de Alvarado",
+      "capitulo": 78
+    },
+    {
+      "id": "place:leon-de-guanuco",
+      "canonical_name": "León de Guánuco",
+      "aliases": [],
+      "modern_equivalent": "Huánuco, Perú",
+      "status": "candidata",
+      "notas": "fundada por Gómez de Alvarado, destruida en un alzamiento, reedificada por Pedro Barroso, asentada finalmente por Pedro de Puelles tras la batalla de Chupas",
+      "capitulo": 79
+    },
+    {
+      "id": "place:cuzco",
+      "canonical_name": "ciudad del Cuzco",
+      "aliases": [
+        "Cuzco"
+      ],
+      "modern_equivalent": "Cusco, Perú",
+      "status": "candidata",
+      "notas": "fundada legendariamente por Mangocapa, primer inga; dividida en Hanancuzco y Orencuzco",
+      "capitulo": 38
+    },
+    {
+      "id": "place:villa-de-plata",
+      "canonical_name": "villa de Plata",
+      "aliases": [],
+      "modern_equivalent": "Sucre, Bolivia",
+      "status": "candidata",
+      "notas": "fundada por el capitán Peranzúrez en la provincia de los Charcas",
+      "capitulo": 107
+    },
+    {
+      "id": "place:potosi",
+      "canonical_name": "Potosí",
+      "aliases": [
+        "cerro de Potosí"
+      ],
+      "modern_equivalent": "Potosí, Bolivia",
+      "status": "candidata",
+      "notas": "minas de plata descubiertas, generaron enorme riqueza",
+      "capitulo": 109
+    },
+    {
+      "id": "place:la-paz",
+      "canonical_name": "Nuestra Señora de La Paz",
+      "aliases": [
+        "La Paz"
+      ],
+      "modern_equivalent": "La Paz, Bolivia",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:tiaguanaco",
+      "canonical_name": "Tiaguanaco",
+      "aliases": [
+        "Tiahuanaco"
+      ],
+      "modern_equivalent": "Tiwanaku, Bolivia",
+      "status": "candidata",
+      "notas": "antiguos edificios/ruinas monumentales descritos por Cieza",
+      "capitulo": 1
+    },
+    {
+      "id": "place:lago-titicaca",
+      "canonical_name": "laguna de Titicaca",
+      "aliases": [
+        "Collao"
+      ],
+      "modern_equivalent": "Lago Titicaca, Perú/Bolivia",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:riobamba",
+      "canonical_name": "Riobamba",
+      "aliases": [
+        "llanos de Riobamba"
+      ],
+      "modern_equivalent": "Riobamba, Ecuador",
+      "status": "candidata",
+      "notas": "aquí se concertaron Diego de Almagro y Pedro de Alvarado en 1534",
+      "capitulo": 51
+    }
+  ],
+  "eventos": [
+    {
+      "id": "event:fundacion-panama-1520",
+      "name": "Fundación de la ciudad de Panamá",
+      "date_text": "1520",
+      "date_normalized": "1520",
+      "place_id": "place:panama-ciudad",
+      "status": "candidata"
+    },
+    {
+      "id": "event:muerte-juan-de-la-cosa",
+      "name": "Batalla de Turbaco: muerte de Juan de la Cosa",
+      "date_text": "c. 1509-1510",
+      "place_id": "place:turbaco",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-urabá-1a-vez",
+      "name": "Primera fundación de un pueblo español en Urabá por Alonso de Ojeda",
+      "date_text": "c. 1509-1510",
+      "place_id": "place:urabá",
+      "status": "candidata",
+      "notas": "Francisco Pizarro fue puesto como teniente/capitán"
+    },
+    {
+      "id": "event:decapitacion-vasco-nunez-de-balboa",
+      "name": "Decapitación de Vasco Núñez de Balboa por orden de Pedrarias Dávila",
+      "date_text": "no especificada",
+      "place_id": "place:darien",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-san-sebastian-2a-vez",
+      "name": "Segunda fundación (repoblación) de San Sebastián de Buena Vista en Urabá",
+      "date_text": "no especificada",
+      "place_id": "place:san-sebastian-de-buena-vista",
+      "status": "candidata"
+    },
+    {
+      "id": "event:expedicion-juan-de-vadillo-1537",
+      "name": "Expedición de Juan de Vadillo, primer cruce español de mar a mar por esa ruta",
+      "date_text": "1536-1537",
+      "date_normalized": "1537",
+      "place_id": "place:san-sebastian-de-buena-vista",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-antiocha",
+      "name": "Fundación de la ciudad de Antiocha",
+      "date_text": "no especificada",
+      "place_id": "place:antiocha",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-ancerma",
+      "name": "Fundación de la villa de Ancerma",
+      "date_text": "no especificada",
+      "place_id": "place:ancerma",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-cartago",
+      "name": "Fundación de la villa de Cartago",
+      "date_text": "1542",
+      "date_normalized": "1542",
+      "place_id": "place:cartago",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-cali-belalcazar",
+      "name": "Primera fundación de la ciudad de Cali por Belalcázar",
+      "date_text": "no especificada",
+      "place_id": "place:cali",
+      "status": "candidata"
+    },
+    {
+      "id": "event:refundacion-cali-1537",
+      "name": "Reedificación de la ciudad de Cali por Miguel Muñoz",
+      "date_text": "1537",
+      "date_normalized": "1537",
+      "place_id": "place:cali",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-popayan",
+      "name": "Fundación de la ciudad de Popayán",
+      "date_text": "no especificada",
+      "place_id": "place:popayan",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-pasto",
+      "name": "Fundación de la villa de Pasto",
+      "date_text": "no especificada",
+      "place_id": "place:pasto",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-quito-1534",
+      "name": "Fundación de San Francisco del Quito",
+      "date_text": "1534",
+      "date_normalized": "1534",
+      "place_id": "place:quito",
+      "status": "candidata"
+    },
+    {
+      "id": "event:concierto-almagro-alvarado-riobamba",
+      "name": "Concierto entre Diego de Almagro y Pedro de Alvarado en Riobamba",
+      "date_text": "1534",
+      "date_normalized": "1534",
+      "place_id": "place:riobamba",
+      "status": "candidata",
+      "notas": "Alvarado había intentado conquistar Quito por su cuenta; recibió cien mil castellanos y se retiró"
+    },
+    {
+      "id": "event:fundacion-puerto-viejo-1535",
+      "name": "Fundación de la ciudad de Puerto Viejo",
+      "date_text": "12 de marzo de 1535, día de San Gregorio",
+      "date_normalized": "1535-03-12",
+      "place_id": "place:puerto-viejo",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-guayaquil-1a-vez",
+      "name": "Primera fundación de Santiago de Guayaquil por Belalcázar",
+      "date_text": "no especificada",
+      "place_id": "place:guayaquil",
+      "status": "candidata"
+    },
+    {
+      "id": "event:matanza-guayaquil",
+      "name": "Matanza de los españoles en Guayaquil por los indios tras la primera fundación",
+      "date_text": "no especificada",
+      "place_id": "place:guayaquil",
+      "status": "candidata",
+      "notas": "sobrevivieron solo cinco o seis españoles junto con el alcaide Diego Daza"
+    },
+    {
+      "id": "event:fundacion-loja-1546",
+      "name": "Fundación de la ciudad de Loja",
+      "date_text": "1546",
+      "date_normalized": "1546",
+      "place_id": "place:loja",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-san-miguel",
+      "name": "Fundación de la ciudad de San Miguel",
+      "date_text": "1531/1532 (año ilegible en el OCR de la fuente, transcrito '1331')",
+      "place_id": "place:san-miguel",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-trujillo-peru",
+      "name": "Fundación de la ciudad de Trujillo",
+      "date_text": "no especificada",
+      "place_id": "place:trujillo-peru",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-ciudad-de-los-reyes",
+      "name": "Fundación de la ciudad de los Reyes (Lima)",
+      "date_text": "no especificada",
+      "place_id": "place:ciudad-de-los-reyes",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-arequipa",
+      "name": "Fundación de la ciudad de Arequipa",
+      "date_text": "no especificada",
+      "place_id": "place:arequipa",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-frontera-chachapoyas",
+      "name": "Fundación de la ciudad de la Frontera de los Chachapoyas",
+      "date_text": "no especificada",
+      "place_id": "place:frontera-chachapoyas",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-leon-de-guanuco",
+      "name": "Fundación de la ciudad de León de Guánuco",
+      "date_text": "no especificada",
+      "place_id": "place:leon-de-guanuco",
+      "status": "candidata"
+    },
+    {
+      "id": "event:despoblacion-leon-de-guanuco",
+      "name": "Despoblamiento de León de Guánuco por un alzamiento indígena",
+      "date_text": "no especificada",
+      "place_id": "place:leon-de-guanuco",
+      "status": "candidata"
+    },
+    {
+      "id": "event:reedificacion-leon-de-guanuco",
+      "name": "Reedificación de León de Guánuco por Pedro Barroso, asiento definitivo por Pedro de Puelles tras la batalla de Chupas",
+      "date_text": "posterior a la batalla de Chupas (1542)",
+      "place_id": "place:leon-de-guanuco",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-cuzco-mangocapa",
+      "name": "Fundación legendaria de la ciudad del Cuzco por Mangocapa",
+      "date_text": "legendario, sin fecha",
+      "place_id": "place:cuzco",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-villa-de-plata",
+      "name": "Fundación de la villa de Plata",
+      "date_text": "no especificada",
+      "place_id": "place:villa-de-plata",
+      "status": "candidata"
+    },
+    {
+      "id": "event:descubrimiento-minas-potosi",
+      "name": "Descubrimiento de las minas de plata de Potosí",
+      "date_text": "no especificada, posterior a la conquista",
+      "place_id": "place:potosi",
+      "status": "candidata"
+    },
+    {
+      "id": "event:fundacion-la-paz",
+      "name": "Fundación de Nuestra Señora de La Paz",
+      "date_text": "no especificada",
+      "place_id": "place:la-paz",
+      "status": "candidata"
+    },
+    {
+      "id": "event:guerra-civil-guascar-atabaliba",
+      "name": "Guerra civil entre Guáscar y Atabaliba por el señorío inga",
+      "date_text": "antes de la llegada española",
+      "place_id": "place:tumebamba",
+      "status": "candidata",
+      "notas": "se dice que la crianza de ambos en Tumebamba tuvo parte en las diferencias entre ellos"
+    },
+    {
+      "id": "event:matanza-ambato",
+      "name": "Matanza ordenada por Atabaliba en Ambato tras vencer al general Atoco",
+      "date_text": "no especificada",
+      "place_id": "place:ambato",
+      "status": "candidata"
+    },
+    {
+      "id": "event:profecia-guaynacapa",
+      "name": "Profecía de Guaynacapa sobre la llegada de gente extraña (los españoles)",
+      "date_text": "antes de 1526 (muerte de Guaynacapa)",
+      "place_id": "place:tumebamba",
+      "status": "candidata"
+    },
+    {
+      "id": "event:trece-del-gallo-mencion",
+      "name": "Los Trece del Gallo (mención, narrado en detalle en la Tercera Parte, no incluida en esta edición)",
+      "date_text": "1527",
+      "date_normalized": "1527",
+      "place_id": "place:isla-del-gallo",
+      "status": "candidata",
+      "notas": "Cieza remite a la Tercera Parte de su obra para el relato completo; aquí solo se menciona de paso"
+    }
+  ],
+  "relaciones": [
+    {
+      "from": "person:cristobal-colon",
+      "relation": "viajó_a",
+      "to": "place:panama-ciudad",
+      "source": "source:cieza-de-leon:cap-1",
+      "status": "candidata",
+      "notas": "mención general del descubrimiento de las Indias"
+    },
+    {
+      "from": "person:pedrarias-davila",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-panama-1520",
+      "source": "source:cieza-de-leon:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-panama-1520",
+      "relation": "ocurrió_en",
+      "to": "place:panama-ciudad",
+      "source": "source:cieza-de-leon:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-panama-1520",
+      "relation": "ocurrió_el",
+      "to": "Date:1520",
+      "source": "source:cieza-de-leon:cap-2",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "viajó_a",
+      "to": "place:isla-de-gorgona",
+      "source": "source:cieza-de-leon:cap-4",
+      "status": "candidata",
+      "notas": "junto con sus trece compañeros, hallaron plata y oro"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:trece-del-gallo-mencion",
+      "source": "source:cieza-de-leon:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "event:trece-del-gallo-mencion",
+      "relation": "ocurrió_en",
+      "to": "place:isla-del-gallo",
+      "source": "source:cieza-de-leon:cap-4",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-ojeda",
+      "relation": "estuvo_presente_en",
+      "to": "event:muerte-juan-de-la-cosa",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:juan-de-la-cosa",
+      "relation": "estuvo_presente_en",
+      "to": "event:muerte-juan-de-la-cosa",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "event:muerte-juan-de-la-cosa",
+      "relation": "ocurrió_en",
+      "to": "place:turbaco",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-ojeda",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-urabá-1a-vez",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-urabá-1a-vez",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata",
+      "notas": "puesto por capitán y teniente de Ojeda"
+    },
+    {
+      "from": "event:fundacion-urabá-1a-vez",
+      "relation": "ocurrió_en",
+      "to": "place:urabá",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedrarias-davila",
+      "relation": "estuvo_presente_en",
+      "to": "event:decapitacion-vasco-nunez-de-balboa",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:vasco-nunez-de-balboa",
+      "relation": "estuvo_presente_en",
+      "to": "event:decapitacion-vasco-nunez-de-balboa",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-heredia",
+      "relation": "aliado_de",
+      "to": "person:alonso-de-heredia",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata",
+      "notas": "hermanos, gobernador y su lugarteniente en Cartagena"
+    },
+    {
+      "from": "person:alonso-de-heredia",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-san-sebastian-2a-vez",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-san-sebastian-2a-vez",
+      "relation": "ocurrió_en",
+      "to": "place:san-sebastian-de-buena-vista",
+      "source": "source:cieza-de-leon:cap-6",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cacique-macuri",
+      "relation": "viajó_a",
+      "to": "place:cartagena",
+      "source": "source:cieza-de-leon:cap-7",
+      "status": "candidata",
+      "notas": "cacique de Bahaire, en la provincia de Cartagena"
+    },
+    {
+      "from": "person:juan-de-vadillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-juan-de-vadillo-1537",
+      "source": "source:cieza-de-leon:cap-9",
+      "status": "candidata"
+    },
+    {
+      "from": "event:expedicion-juan-de-vadillo-1537",
+      "relation": "ocurrió_en",
+      "to": "place:san-sebastian-de-buena-vista",
+      "source": "source:cieza-de-leon:cap-9",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-cieza-de-leon",
+      "relation": "estuvo_presente_en",
+      "to": "event:expedicion-juan-de-vadillo-1537",
+      "source": "source:cieza-de-leon:cap-9",
+      "status": "candidata",
+      "notas": "el propio cronista participó en esta expedición"
+    },
+    {
+      "from": "person:jorge-robledo",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-antiocha",
+      "source": "source:cieza-de-leon:cap-12",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-antiocha",
+      "relation": "ocurrió_en",
+      "to": "place:antiocha",
+      "source": "source:cieza-de-leon:cap-12",
+      "status": "candidata"
+    },
+    {
+      "from": "person:cacique-nutibara",
+      "relation": "viajó_a",
+      "to": "place:antiocha",
+      "source": "source:cieza-de-leon:cap-12",
+      "status": "candidata",
+      "notas": "cacique de la comarca de Antiocha"
+    },
+    {
+      "from": "person:jorge-robledo",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-ancerma",
+      "source": "source:cieza-de-leon:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-ancerma",
+      "relation": "ocurrió_en",
+      "to": "place:ancerma",
+      "source": "source:cieza-de-leon:cap-16",
+      "status": "candidata"
+    },
+    {
+      "from": "person:miguel-munoz",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-cartago",
+      "source": "source:cieza-de-leon:cap-17",
+      "status": "candidata"
+    },
+    {
+      "from": "person:sebastian-de-belalcazar",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-cartago",
+      "source": "source:cieza-de-leon:cap-17",
+      "status": "candidata",
+      "notas": "gobernador de la provincia bajo cuyo mandato se fundó"
+    },
+    {
+      "from": "event:fundacion-cartago",
+      "relation": "ocurrió_en",
+      "to": "place:cartago",
+      "source": "source:cieza-de-leon:cap-17",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-cartago",
+      "relation": "ocurrió_el",
+      "to": "Date:1542",
+      "source": "source:cieza-de-leon:cap-17",
+      "status": "candidata"
+    },
+    {
+      "from": "person:sebastian-de-belalcazar",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-cali-belalcazar",
+      "source": "source:cieza-de-leon:cap-26",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-cali-belalcazar",
+      "relation": "ocurrió_en",
+      "to": "place:cali",
+      "source": "source:cieza-de-leon:cap-26",
+      "status": "candidata"
+    },
+    {
+      "from": "person:miguel-munoz",
+      "relation": "estuvo_presente_en",
+      "to": "event:refundacion-cali-1537",
+      "source": "source:cieza-de-leon:cap-27",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:refundacion-cali-1537",
+      "source": "source:cieza-de-leon:cap-27",
+      "status": "candidata",
+      "notas": "gobernador del Perú bajo cuyo mandato se refundó"
+    },
+    {
+      "from": "event:refundacion-cali-1537",
+      "relation": "ocurrió_en",
+      "to": "place:cali",
+      "source": "source:cieza-de-leon:cap-27",
+      "status": "candidata"
+    },
+    {
+      "from": "event:refundacion-cali-1537",
+      "relation": "ocurrió_el",
+      "to": "Date:1537",
+      "source": "source:cieza-de-leon:cap-27",
+      "status": "candidata"
+    },
+    {
+      "from": "person:sebastian-de-belalcazar",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-popayan",
+      "source": "source:cieza-de-leon:cap-30",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-popayan",
+      "source": "source:cieza-de-leon:cap-30",
+      "status": "candidata",
+      "notas": "gobernador del Perú bajo cuyo mandato se fundó"
+    },
+    {
+      "from": "event:fundacion-popayan",
+      "relation": "ocurrió_en",
+      "to": "place:popayan",
+      "source": "source:cieza-de-leon:cap-30",
+      "status": "candidata"
+    },
+    {
+      "from": "person:lorenzo-de-aldana",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-pasto",
+      "source": "source:cieza-de-leon:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-pasto",
+      "relation": "ocurrió_en",
+      "to": "place:pasto",
+      "source": "source:cieza-de-leon:cap-34",
+      "status": "candidata"
+    },
+    {
+      "from": "person:mangocapa",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-cuzco-mangocapa",
+      "source": "source:cieza-de-leon:cap-38",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-cuzco-mangocapa",
+      "relation": "ocurrió_en",
+      "to": "place:cuzco",
+      "source": "source:cieza-de-leon:cap-38",
+      "status": "candidata"
+    },
+    {
+      "from": "person:sebastian-de-belalcazar",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-quito-1534",
+      "source": "source:cieza-de-leon:cap-40",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-quito-1534",
+      "relation": "ocurrió_en",
+      "to": "place:quito",
+      "source": "source:cieza-de-leon:cap-40",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-quito-1534",
+      "relation": "ocurrió_el",
+      "to": "Date:1534",
+      "source": "source:cieza-de-leon:cap-40",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-alvarado",
+      "relation": "estuvo_presente_en",
+      "to": "event:concierto-almagro-alvarado-riobamba",
+      "source": "source:cieza-de-leon:cap-51",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-de-almagro",
+      "relation": "estuvo_presente_en",
+      "to": "event:concierto-almagro-alvarado-riobamba",
+      "source": "source:cieza-de-leon:cap-51",
+      "status": "candidata"
+    },
+    {
+      "from": "event:concierto-almagro-alvarado-riobamba",
+      "relation": "ocurrió_en",
+      "to": "place:riobamba",
+      "source": "source:cieza-de-leon:cap-51",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-de-almagro",
+      "relation": "aliado_de",
+      "to": "person:sebastian-de-belalcazar",
+      "source": "source:cieza-de-leon:cap-51",
+      "status": "candidata",
+      "notas": "Almagro dejó a Belalcázar a cargo de la conquista de Quito"
+    },
+    {
+      "from": "person:francisco-pacheco",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-puerto-viejo-1535",
+      "source": "source:cieza-de-leon:cap-51",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-de-almagro",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-puerto-viejo-1535",
+      "source": "source:cieza-de-leon:cap-51",
+      "status": "candidata",
+      "notas": "ordenó la fundación"
+    },
+    {
+      "from": "event:fundacion-puerto-viejo-1535",
+      "relation": "ocurrió_en",
+      "to": "place:puerto-viejo",
+      "source": "source:cieza-de-leon:cap-51",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-puerto-viejo-1535",
+      "relation": "ocurrió_el",
+      "to": "Date:1535-03-12",
+      "source": "source:cieza-de-leon:cap-51",
+      "status": "candidata"
+    },
+    {
+      "from": "person:sebastian-de-belalcazar",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-guayaquil-1a-vez",
+      "source": "source:cieza-de-leon:cap-55",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-guayaquil-1a-vez",
+      "relation": "ocurrió_en",
+      "to": "place:guayaquil",
+      "source": "source:cieza-de-leon:cap-55",
+      "status": "candidata"
+    },
+    {
+      "from": "person:diego-daza",
+      "relation": "estuvo_presente_en",
+      "to": "event:matanza-guayaquil",
+      "source": "source:cieza-de-leon:cap-55",
+      "status": "candidata"
+    },
+    {
+      "from": "event:matanza-guayaquil",
+      "relation": "ocurrió_en",
+      "to": "place:guayaquil",
+      "source": "source:cieza-de-leon:cap-55",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-mercadillo",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-loja-1546",
+      "source": "source:cieza-de-leon:cap-56",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-loja-1546",
+      "relation": "ocurrió_en",
+      "to": "place:loja",
+      "source": "source:cieza-de-leon:cap-56",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-loja-1546",
+      "relation": "ocurrió_el",
+      "to": "Date:1546",
+      "source": "source:cieza-de-leon:cap-56",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-san-miguel",
+      "source": "source:cieza-de-leon:cap-58",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-san-miguel",
+      "relation": "ocurrió_en",
+      "to": "place:san-miguel",
+      "source": "source:cieza-de-leon:cap-58",
+      "status": "candidata"
+    },
+    {
+      "from": "person:fray-domingo-de-santo-tomas",
+      "relation": "viajó_a",
+      "to": "place:trujillo-peru",
+      "source": "source:cieza-de-leon:cap-68",
+      "status": "candidata",
+      "notas": "fundó el monasterio de Santo Domingo"
+    },
+    {
+      "from": "person:diego-de-almagro",
+      "relation": "viajó_a",
+      "to": "place:trujillo-peru",
+      "source": "source:cieza-de-leon:cap-71",
+      "status": "candidata",
+      "notas": "escogió el sitio de la ciudad"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-trujillo-peru",
+      "source": "source:cieza-de-leon:cap-71",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-trujillo-peru",
+      "relation": "ocurrió_en",
+      "to": "place:trujillo-peru",
+      "source": "source:cieza-de-leon:cap-71",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-arequipa",
+      "source": "source:cieza-de-leon:cap-76",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-arequipa",
+      "relation": "ocurrió_en",
+      "to": "place:arequipa",
+      "source": "source:cieza-de-leon:cap-76",
+      "status": "candidata"
+    },
+    {
+      "from": "person:alonso-de-alvarado",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-frontera-chachapoyas",
+      "source": "source:cieza-de-leon:cap-78",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-frontera-chachapoyas",
+      "relation": "ocurrió_en",
+      "to": "place:frontera-chachapoyas",
+      "source": "source:cieza-de-leon:cap-78",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-ciudad-de-los-reyes",
+      "source": "source:cieza-de-leon:cap-79",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-ciudad-de-los-reyes",
+      "relation": "ocurrió_en",
+      "to": "place:ciudad-de-los-reyes",
+      "source": "source:cieza-de-leon:cap-79",
+      "status": "candidata"
+    },
+    {
+      "from": "person:gomez-de-alvarado",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-leon-de-guanuco",
+      "source": "source:cieza-de-leon:cap-79",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-pizarro",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-leon-de-guanuco",
+      "source": "source:cieza-de-leon:cap-79",
+      "status": "candidata",
+      "notas": "encomendó la fundación a su teniente Gómez de Alvarado"
+    },
+    {
+      "from": "event:fundacion-leon-de-guanuco",
+      "relation": "ocurrió_en",
+      "to": "place:leon-de-guanuco",
+      "source": "source:cieza-de-leon:cap-79",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-barroso",
+      "relation": "estuvo_presente_en",
+      "to": "event:reedificacion-leon-de-guanuco",
+      "source": "source:cieza-de-leon:cap-79",
+      "status": "candidata"
+    },
+    {
+      "from": "person:pedro-de-puelles",
+      "relation": "estuvo_presente_en",
+      "to": "event:reedificacion-leon-de-guanuco",
+      "source": "source:cieza-de-leon:cap-79",
+      "status": "candidata"
+    },
+    {
+      "from": "event:reedificacion-leon-de-guanuco",
+      "relation": "ocurrió_en",
+      "to": "place:leon-de-guanuco",
+      "source": "source:cieza-de-leon:cap-79",
+      "status": "candidata"
+    },
+    {
+      "from": "person:peranzurez",
+      "relation": "estuvo_presente_en",
+      "to": "event:fundacion-villa-de-plata",
+      "source": "source:cieza-de-leon:cap-107",
+      "status": "candidata"
+    },
+    {
+      "from": "event:fundacion-villa-de-plata",
+      "relation": "ocurrió_en",
+      "to": "place:villa-de-plata",
+      "source": "source:cieza-de-leon:cap-107",
+      "status": "candidata"
+    },
+    {
+      "from": "event:descubrimiento-minas-potosi",
+      "relation": "ocurrió_en",
+      "to": "place:potosi",
+      "source": "source:cieza-de-leon:cap-109",
+      "status": "candidata"
+    },
+    {
+      "from": "person:guascar",
+      "relation": "enfrentado_a",
+      "to": "person:atabaliba",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata",
+      "notas": "guerra civil por el señorío inga"
+    },
+    {
+      "from": "event:guerra-civil-guascar-atabaliba",
+      "relation": "ocurrió_en",
+      "to": "place:tumebamba",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata"
+    },
+    {
+      "from": "person:atabaliba",
+      "relation": "enfrentado_a",
+      "to": "person:atoco",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata"
+    },
+    {
+      "from": "person:atabaliba",
+      "relation": "estuvo_presente_en",
+      "to": "event:matanza-ambato",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata"
+    },
+    {
+      "from": "person:atoco",
+      "relation": "aliado_de",
+      "to": "person:guascar",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata",
+      "notas": "capitán general de Guáscar"
+    },
+    {
+      "from": "event:matanza-ambato",
+      "relation": "ocurrió_en",
+      "to": "place:ambato",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata"
+    },
+    {
+      "from": "person:guaynacapa",
+      "relation": "estuvo_presente_en",
+      "to": "event:profecia-guaynacapa",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata"
+    },
+    {
+      "from": "event:profecia-guaynacapa",
+      "relation": "ocurrió_en",
+      "to": "place:tumebamba",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata"
+    },
+    {
+      "from": "person:inga-yupangue",
+      "relation": "viajó_a",
+      "to": "place:tumebamba",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata",
+      "notas": "construyó los reales aposentos junto con su hijo Topainga"
+    },
+    {
+      "from": "person:topainga-yupangue",
+      "relation": "viajó_a",
+      "to": "place:tumebamba",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata"
+    },
+    {
+      "from": "person:guaynacapa",
+      "relation": "viajó_a",
+      "to": "place:tumebamba",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata",
+      "notas": "hijo de Topainga, residió con frecuencia en estos aposentos"
+    },
+    {
+      "from": "person:guascar",
+      "relation": "viajó_a",
+      "to": "place:tumebamba",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata",
+      "notas": "hijo de Guaynacapa"
+    },
+    {
+      "from": "person:atabaliba",
+      "relation": "viajó_a",
+      "to": "place:tumebamba",
+      "source": "source:cieza-de-leon:cap-44",
+      "status": "candidata",
+      "notas": "hijo de Guaynacapa"
+    }
+  ]
+}
