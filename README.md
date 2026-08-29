@@ -16,30 +16,36 @@ transcripción: abrí el archivo correspondiente en GitHub (botón de lápiz
 falta instalar nada. Las páginas de persona (`_personas/`) y de lugar
 (`_lugares/`) también son archivos de texto editables de la misma manera.
 
-## Estado
+## Estado (actualizado 2026-08-29)
 
-**Sitio Jekyll publicado**, construido sobre Fase 2 (entidades y
-relaciones) — Cortés y Colón-cartas ya tienen sus obras completas; las
-otras tres siguen en progreso capítulo por capítulo.
+**Sitio Jekyll publicado, 13 obras activas.** KPIs actuales: 13 obras,
+479 personas, 352 lugares, 210 eventos, 1045 relaciones.
 
 Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en https://codingadrian.github.io/cronicas-de-indias/
 
-- ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): 63 personas y 36 lugares registrados, relaciones de los Capítulos 1-35 (de 111).
-- ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): 45 personas y 43 lugares registrados, relaciones de los Capítulos 1-28 (de 97).
-- ✅ Cristóbal Colón — *Diario de a bordo del primer viaje*: 5 personas y 14 lugares registrados, relaciones del proemio + días 1-40 (de 191).
-- ✅ Cristóbal Colón — *Relaciones y cartas*: **completa** — 27 personas y 18 lugares registrados, relaciones de los 10 documentos/bloques (edición de 1892, con ruido de OCR sin corregir).
-- ✅ Hernán Cortés — *Cartas de relación*: **completa** — 39 personas y 29 lugares registrados, relaciones de las 5 cartas.
+- ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): relaciones de los Capítulos 1-35 (de 111).
+- ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): relaciones de los Capítulos 1-28 (de 97).
+- ✅ Cristóbal Colón — *Diario de a bordo del primer viaje*: relaciones del proemio + días 1-40 (de 191).
+- ✅ Cristóbal Colón — *Relaciones y cartas*: **completa**.
+- ✅ Hernán Cortés — *Cartas de relación*: **completa**.
+- ✅ Francisco de Xerez, Álvar Núñez Cabeza de Vaca, Diego Muñoz Camargo, Pedro Pizarro, Fernando de Alva Ixtlilxóchitl, Pedro Cieza de León (Primera Parte), Hernando Alvarado Tezozómoc, Fray Toribio de Benavente "Motolinía" — sumadas al sitio el 2026-08-29, todas **completas** salvo donde su propia fuente está incompleta (Ixtlilxóchitl se corta a mitad de la conquista; Cieza de León es solo su Primera Parte).
 - ⏸️ Hernando Colón — en pausa.
+
+**Fase 2 lista pero todavía sin sumar al sitio**: Pedro Mártir de
+Anglería y José de Acosta (falta agregarlos a `scripts/generar_sitio.py`
+y correr el script).
 
 **Catálogo completo de 20 cronistas** (`sources/CATALOGO.md`): a pedido
 del usuario se buscaron y descargaron las 20 crónicas de una lista
-priorizada. Las 5 de arriba ya están activas en el sitio; las otras 15
-obras (Gómara, Oviedo, Mártir de Anglería, Cabeza de Vaca, Motolinía,
-Sahagún, Durán, Acosta, Cieza de León, Zárate, Xerez, Pedro Pizarro,
-Inca Garcilaso, Guamán Poma, Ixtlilxóchitl, Tezozómoc, Muñoz Camargo, y
-la Brevísima relación de Las Casas) tienen el texto descargado en
-`sources/<obra>/raw/` pero todavía no pasaron por limpieza ni están en
-el sitio — ver el catálogo para el detalle de cada una y qué falta.
+priorizada. De las 17 obras nuevas, **16 ya tienen su texto limpio y
+dividido en capítulos** (Fase 1) — solo Oviedo (4 tomos, ~1.77M
+palabras, el peor caso de OCR del catálogo) sigue sin empezar. Dos de
+las 16 (Zárate y Guamán Poma) quedaron con reservas serias de fidelidad
+de OCR y no se recomienda avanzarlas a Fase 2 sin una revisión manual
+antes — ver el catálogo y `CLAUDE.md` para el detalle de cada una,
+incluidos los huecos de fuente que quedan (falta un tomo de Sahagún, la
+primera mitad de Guamán Poma, la segunda parte de los Comentarios
+reales de Inca Garcilaso, y la *Crónica mexicáyotl* de Tezozómoc).
 
 ## Estructura
 
@@ -79,10 +85,11 @@ Después abrí `http://localhost:4000/cronicas-de-indias/`.
 
 ## Lo que falta (todavía no está hecho)
 
-- Las relaciones siguen incompletas en tres de las cinco obras (ver el detalle arriba) — quedan 76 capítulos de Bernal Díaz, 69 de Las Casas, y ~151 entradas del Diario de Colón sin procesar (esto limita lo que se ve en la Cronología). Cortés y Colón-cartas ya están completas.
-- Varias entradas quedaron con `"status": "candidata"` (pendientes de una segunda revisión) o con notas de ambigüedad (ej. "D Diego" en Las Casas podría confundirse entre dos personas distintas).
-- El registro de personas/lugares se armó a partir de los candidatos más *frecuentes*; nombres mencionados pocas veces no están todavía en el registro general.
+- Las relaciones siguen incompletas en Bernal Díaz (76 de 111 capítulos), Las Casas (69 de 97), y el Diario de Colón (151 de 191 días) — trabajo de antes de esta tanda. Varias de las obras nuevas también quedaron con cobertura parcial en obras muy largas (ver `CLAUDE.md`, especialmente Pedro Mártir).
+- Pedro Mártir y Acosta tienen Fase 2 completa pero todavía no están sumados al sitio.
+- Zárate, Guamán Poma, y Oviedo necesitan trabajo antes de poder avanzar a Fase 2 (ver arriba).
+- Casi todas las entradas siguen con `"status": "candidata"` (pendientes de una segunda revisión), y hay varias notas de ambigüedad de nombre sin resolver (ver `CLAUDE.md`, sección "Pendientes").
 
 ## Próximo paso
 
-Con el sitio migrado a Jekyll, seguir extrayendo relaciones capítulo por capítulo (por tandas), priorizando los capítulos de mayor interés si hay alguno en particular.
+Ver `CLAUDE.md`, sección "Pendientes", para el orden sugerido completo.

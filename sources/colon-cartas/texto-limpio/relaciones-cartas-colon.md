@@ -230,105 +230,12 @@ muéstrala presteza del nacer del trigo, y de algunos poquitos de sarmientos que
 
 Pues la tierra es tal, que debe procurar que se siembre lo más que ser pudiere de todas cosas, y á D. Juan de Fonseca se escribe que envíe de contino todo lo que fuere menester para esto. 
 
-Item: Diréis que á cabsa de haberse derramado mucho vino en este camino del que la flota traía, y esto, según dicen los más, á culpa de la mala obra que los toneleros ficieron en Sevilla, la mayor mengua que agora tenemos aquí, ó esperarnos por esto tener, es de vinos, y como quier que tengamos para más tiempo así vizcocho como trigo, con todo es necesario que también se envie alguna cantidad razonable, porque el camino es largo y cada día no se puede proveer, é asimismo algunas canales, digo tocinos, y otra cecina que sea 
-mejor que la que habernos traído este camino. De car- 
-neros vivos y aun antes corderos y cordericas, más fem- 
-bras que machos, y algunos becerros y becerras peque- 
-ños son menester, que cada vez vengan en cualquier 
-carabela que acá se enviare, y algunas asnas y asnos, y 
-yeguas para trabajo y simiente, que acá ninguna de es- 
-tas animabas hay de que hombre se pueda ayudar ni 
-valer. Y porque recelo que sus Altezas no se fallarán en 
-Sevilla, ni los Oficiales ó Ministros suyos sin expreso 
-mandamiento non proveerían en lo porque ahora con 
-este primero camino es necesario que venga, porque en 
-la consulta y en la respuesta se pasaría la sazón del 
-partir los navios que acá por todo Mayo es necesario 
-que sean, diréis á sus Altezas, como yo vos di cargo y 
-mandé, que del oro que allá lleváis, empeñándolo, ó po- 
+Item: Diréis que á cabsa de haberse derramado mucho vino en este camino del que la flota traía, y esto, según dicen los más, á culpa de la mala obra que los toneleros ficieron en Sevilla, la mayor mengua que agora tenemos aquí, ó esperarnos por esto tener, es de vinos, y como quier que tengamos para más tiempo así vizcocho como trigo, con todo es necesario que también se envie alguna cantidad razonable, porque el camino es largo y cada día no se puede proveer, é asimismo algunas canales, digo tocinos, y otra cecina que sea mejor que la que habernos traído este camino. De carneros vivos y aun antes corderos y cordericas, más fembras que machos, y algunos becerros y becerras pequeños son menester, que cada vez vengan en cualquier carabela que acá se enviare, y algunas asnas y asnos, y yeguas para trabajo y simiente, que acá ninguna de estas animabas hay de que hombre se pueda ayudar ni valer. Y porque recelo que sus Altezas no se fallarán en Sevilla, ni los Oficiales ó Ministros suyos sin expreso mandamiento non proveerían en lo porque ahora con este primero camino es necesario que venga, porque en la consulta y en la respuesta se pasaría la sazón del partir los navios que acá por todo Mayo es necesario que sean, diréis á sus Altezas, como yo vos di cargo y mandé, que del oro que allá lleváis, empeñándolo, ó poniéndolo cu poder de algún mercader en Sevilla, el cual distraya y ponga los maravedís (pie serían menester para cargar dos carabelas de vino y de trigo, y de las otras cosas que lleváis por memorial, el cual mercader lleve ó envíe el dicho oro para sus Altezas, que le vean, resciban y hagan pagar lo que hobiere distraído ó puesto para el despacho y cargazón de Jas dichas dos carabelas, las cuales, por consolar y esforzar esta gente que acá queda, cumple que fagan más de poder de ser acá vueltas por todo el mes de Mayo, porque la gente antes 
+de entrar en el verano vea é tenga algún refrescamiento destas cosas, en especial para las dolencias; de las cuales cosas acá ya tenemos gran mengua, como son pasas, azúcar, almendras, miel é arroz, que debiera venir en gran cuantidad y vino muy poca, é aquello que vino es ya consumido é gastado, y aun la mayor parte de las medecinas que de allá trojieron, por la muchedumbre de los muchos dolientes; de las cuales cosas, como dicho es, vos lleváis memoriales asi para sanos como para dolientes, firmados de mi mano, los cuales cumplidamente si el dinero bastare, ó á lo menos lo que más necesario sea para agora despachar, es para que lo puedan luego traer los dichos dos navios, y lo que quedare procuraréis con sus Altezas que con otros navios venga lo más presto que ser pudiere. 
 
-RELACIONES Y CARTAS 
+Sus Altezas enviaron á mandar á D. Juan de Fonseca que luego haya información de los que hicieron ese engaño en los toneles, y de sus bienes haga que se cobre todo el daño que vino en el vino, con las costas; y en lo de las cañas vea como las que se enviaren sean buenas , y en las otras cosas que aquí dice que las provea luego. 
 
-21 i 
-
-niéndolo cu poder de algún mercader en Sevilla, el cual 
-distraya y ponga los maravedís (pie serían menester 
-para cargar dos carabelas de vino y de trigo, y de las 
-otras cosas que lleváis por memorial, el cual mercader 
-lleve ó envíe el dicho oro para sus Altezas, que le vean, 
-resciban y hagan pagar lo que hobiere distraído ó pues- 
-to para el despacho y cargazón de Jas dichas dos cara- 
-belas, las cuales, por consolar y esforzar esta gente que 
-acá queda, cumple que fagan más de poder de ser acá 
-vueltas por todo el mes de Mayo, porque la gente antes 
-de entrar en el verano vea é tenga algún refresca- 
-miento destas cosas, en especial para las dolencias; de 
-las cuales cosas acá ya tenemos gran mengua, como son 
-pasas, azúcar, almendras, miel é arroz, que debiera ve- 
-nir en gran cuantidad y vino muy poca, é aquello que 
-vino es ya consumido é gastado, y aun la mayor parte 
-de las medecinas que de allá trojieron, por la muche- 
-dumbre de los muchos dolientes; de las cuales cosas, 
-como dicho es, vos lleváis memoriales asi para sanos 
-como para dolientes, firmados de mi mano, los cuales 
-cumplidamente si el dinero bastare, ó á lo menos lo que 
-más necesario sea para agora despachar, es para que lo 
-puedan luego traer los dichos dos navios, y lo que que- 
-dare procuraréis con sus Altezas que con otros navios 
-venga lo más presto que ser pudiere. 
-
-Sus Altezas enviaron á mandar á D. Juan de Fonseca que 
-luego haya información de los que hicieron ese engaño en los 
-toneles , y de sus bienes haga que se cobre todo el daño que vino 
-en el vino, con las costas; y en lo de las cañas vea como las 
-que se enviaren sean buenas , y en las otras cosas que aquí dice 
-que las provea luego. 
-
-Item: Diréis á sus Altezas que á cabsa que acá no 
-hay lengua por medio de la cual A esta gente se pueda 
-dar á entender nuestra santa Fe, como sus Altezas de- 
-sean, y aun los (pie acá estamos, como quier que se tra 
-
-CHISTO BAL COLÓN 
-
-bajará cuanto pudieren, se envían de presente con estos 
-navios así de los caníbales, hombres y mujeres y niños 
-y niñas, los cuales sus Altezas pueden mandar poner en 
-poder de personas con quien puedan mejor aprender la 
-lengua, ejercitándolos en cosas de servicio, y poco á 
-poco mandando poner en ellos algún más cuidado que 
-en otros esclavos para que deprendan unos de otros, 
-que no se hablen ni se vean sino muy tarde, que más 
-presto deprenderán allá que no acá, y serán mejores in- 
-térpretes, como quier que acá non se dejará de hacer lo 
-que se pueda; es verdad que como esta gente platican 
-poco los de la una isla con los de la otra, en las lenguas 
-hay alguna diferencia entre ellos, según como están más 
-cerca ó más lejos; y porque entre las otras islas las de los 
-caníbales son mucho grandes, y mucho bien pobladas, 
-parecerá acá que tomar deilos y dellas y enviarlos allá 
-á Castilia non sería sino bien, porque quitarse iiian una 
-vez de aquella inhumana costumbre que tienen de co- 
-mer hombres, y allá en Castilla entendiendo la lengua 
-muy más presto rescibirían el Bautismo, y farían el 
-provecho de sus ánimas: aun entre estos pueblos que 
-non son de esas costumbres, se ganaría gran crédito 
-por nosotros viendo que aquellos prendiésemos y cati- 
-vásemos, de quien ellos suelen rescibir daños, y tienen 
-tamaño miedo que del hombre solo se espantan; certi- 
-ficando á sus Altezas que la venida é vista de esta flota 
-acá en esta tierra así junta y hermosa, ha dado muy 
-grande autoridad á esto, y muy grande seguridad para 
-las cosas venideras, porque toda esta gente de esta 
-grande isla y de las otras, viendo el buen tratamiento 
-que á los buenos se fará y el castigo que á los malos se 
-dará, verná á obediencia prestamente para poderlos 
-mandar como vasallos de sus Altezas. Y como quier 
-que ellos agora donde quier que hombre se baile non 
-sólo hacen de grado lo que hombre quiere que íagau, 
-
-RELACIONES y cartas 
-
+Item: Diréis á sus Altezas que á cabsa que acá no hay lengua por medio de la cual á esta gente se pueda dar á entender nuestra Santa Fe, como sus Altezas desean, y aun los (pie acá estamos, como quier que se trabajará cuanto pudieren, se envían de presente con estos navios así de los caníbales, hombres y mujeres y niños y niñas, los cuales sus Altezas pueden mandar poner en poder de personas con quien puedan mejor aprender la lengua, ejercitándolos en cosas de servicio, y poco á poco mandando poner en ellos algún más cuidado que en otros esclavos para que deprendan unos de otros, que no se hablen ni se vean sino muy tarde, que más presto deprenderán allá que no acá, y serán mejores intérpretes, como quier que acá non se dejará de hacer lo que se pueda; es verdad que como esta gente platican poco los de la una isla con los de la otra, en las lenguas hay alguna diferencia entre ellos, según como están más cerca ó más lejos; y porque entre las otras islas las de los caníbales son mucho grandes, y mucho bien pobladas, parecerá acá que tomar deilos y dellas y enviarlos allá á Castilia non sería sino bien, porque quitarse hian una vez de aquella inhumana costumbre que tienen de comer hombres, y allá en Castilla entendiendo la lengua muy más presto rescibirían el Bautismo, y farían el provecho de sus ánimas: aun entre estos pueblos que non son de esas costumbres, se ganaría gran crédito por nosotros viendo que aquellos prendiésemos y cativásemos, de quien ellos suelen rescibir daños, y tienen tamaño miedo que del hombre solo se espantan; certificando á sus Altezas que la venida é vista de esta flota acá en esta tierra así junta y hermosa, ha dado muy grande autoridad á esto, y muy grande seguridad para las cosas venideras, porque toda esta gente de esta grande isla y de las otras, viendo el buen tratamiento que á los buenos se fará y el castigo que á los malos se dará, verná á obediencia prestamente para poderlos mandar como vasallos de sus Altezas. Y como quier que ellos agora donde quier que hombre se baile non sólo hacen de grado lo que hombre quiere que fagan, 
 mas ellos de su voluntad se ponen á todo lo que entien- 
 den que nos puede placer, y también pueden ser ciertos 
 sus Altezas que non menos allá, entre los cristianos 

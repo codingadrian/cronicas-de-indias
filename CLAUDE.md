@@ -17,38 +17,70 @@ alguien sin experiencia de programación pueda proponer correcciones vía
 Pull Request. Idioma: español neutro latinoamericano en todo el contenido
 dirigido al usuario (sitio, READMEs, METADATA).
 
-## Estado actual (snapshot)
+## Estado actual (snapshot, actualizado 2026-08-29)
 
-- **Fase 0-1 completas para cinco obras**: descarga, limpieza de texto,
-  separación de aparato editorial. Bernal Díaz y Las Casas vienen de
-  Project Gutenberg; el Diario de Colón, de Wikisource (funcionó desde
-  Claude Code local, a diferencia del entorno de nube original — ver nota
-  más abajo); Cortés y las Cartas de Colón, de Archive.org.
-- **Fase 2 (entidades y relaciones): dos tandas hechas, la segunda con
-  cinco forks en paralelo (uno por obra) más una tercera pasada de
-  resumido/reparo tras un corte por límite de sesión** (primera tanda
-  2026-08-28, segunda tanda 2026-08-28/29 — ver "Pendientes" para cómo
-  seguir cada una):
-  - **Bernal Díaz**: Capítulos 1-35 de 111 (76 quedan). 63 personas, 36
-    lugares, 16 eventos, 163 relaciones.
-  - **Las Casas**: Capítulos 1-28 de 97 (69 quedan). 45 personas, 43
-    lugares, 21 eventos, 82 relaciones. Encontrada una colisión de
-    nombre real a tres bandas ("Diego Colón" nombra al hermano del
-    Almirante, a su hijo, y a un indígena de Guanahaní bautizado con ese
-    nombre) — las tres entradas quedaron cruzadas con `notas` explicando
-    la ambigüedad; el sitio no desambigua homónimos en el etiquetado de
-    texto, así que dos de las tres páginas no muestran menciones propias
-    todavía (ver "Pendientes").
-  - **Diario de Colón**: Proemio + días 1-40 de 191 (~21%). 5 personas,
-    14 lugares, 4 eventos, 16 relaciones. Colón se modeló como
-    `person:cristobal-colon` (narrador/sujeto, con nota sobre la voz de
-    Las Casas), mismo patrón que `person:bernal-diaz-del-castillo`.
-  - **Cortés**: **completa — las 5 cartas de relación**. 39 personas, 29
-    lugares, 24 eventos, 89 relaciones.
-  - **Colón — Cartas**: **completa — los 10 documentos/bloques**. 27
-    personas, 18 lugares, 11 eventos, 65 relaciones.
-
-  **Bugs de integridad encontrados y corregidos en estas tandas** (vale
+- **Fase 1 (texto limpio y dividido en capítulos) completa para 16 de
+  las 17 obras del catálogo** (`sources/CATALOGO.md`), hecha en una
+  tanda grande de forks paralelos el 2026-08-29. Solo **Oviedo** (4
+  tomos) sigue sin Fase 1 — ver más abajo, es la obra más difícil de
+  todo el catálogo. Detalle por obra (13 sin reservas relevantes, 2 con
+  reservas serias de fidelidad OCR, y las obras que quedaron
+  documentadamente parciales):
+  - **Sin reservas — completas y confiables**: Durán (~455 000
+    palabras, la más grande del proyecto — incluye un Apéndice que
+    **no es de Durán**, identificado y separado, ver "Decisiones de
+    alcance"), Pedro Mártir (~238 000, la traducción de Torres Asensio
+    de 1892), Acosta (~171 000), López de Gómara (~170 000 —
+    ~25 de 224 capítulos quedaron sin dividir por corrupción OCR
+    irrecuperable; ver nota sobre la autoría de la "Vida de Hernán
+    Cortés" incluida en la misma edición), Tezozómoc (~168 000),
+    Cieza de León (~124 000, solo la Primera Parte, que es lo que cubre
+    esta edición), Pedro Pizarro (~66 000), Ixtlilxóchitl (~101 000 —
+    termina incompleta en la propia fuente, se corta a mitad de la
+    entrada a Tenochtitlan), Muñoz Camargo (~63 000), Motolinía
+    (~107 000), Cabeza de Vaca (~37 000), Xerez (~33 000).
+  - **Parciales por huecos de fuente, documentados en cada
+    `METADATA.md`**: Inca Garcilaso (~275 000 — solo la Primera Parte,
+    falta la *Historia general del Perú*, que no está en esta edición),
+    Sahagún (~170 000 — solo Tomo B, Libros VII-XII de 12; falta el
+    Tomo A completo).
+  - **Con reservas serias de fidelidad OCR — no recomendadas para Fase 2
+    sin una revisión manual previa**: Zárate (~120 000 — escaneo de la
+    edición original de 1555, ~25 de 130 capítulos sin separar, mucho
+    texto sin reconstruir letra por letra), Guamán Poma (~154 000 — el
+    peor OCR del proyecto, y **falta toda la primera mitad de la obra**:
+    el "tomo1" adquirido resultó ser 100% aparato editorial moderno de
+    1980, cero palabras de Guamán Poma; el "tomo2" empieza en el folio
+    560 de ~1200, así que folios 1-559 —mito de creación, genealogía
+    inca, la conquista, inicio del "Buen gobierno"— nunca se consiguieron).
+  - **Sin empezar**: **Oviedo** (4 tomos, ~1.77M de palabras) — el peor
+    OCR de todo el catálogo (peor que Guamán Poma), dos intentos de
+    arrancar Fase 1 se cortaron sin escribir nada por límite de sesión.
+- **Fase 2 (entidades y relaciones) completa para 15 obras** (las 5
+  originales + Xerez, Cabeza de Vaca, Muñoz Camargo, Pedro Pizarro,
+  Ixtlilxóchitl, Cieza de León, Tezozómoc, Motolinía, Pedro Mártir,
+  Acosta) — total combinado: **566 personas, 406 lugares, 260 eventos,
+  1246 relaciones**. La cobertura por obra varía y está documentada
+  honestamente en la `nota` de cada `relaciones-muestra.json`: algunas
+  son de libro completo (Motolinía, Xerez, Cabeza de Vaca, Acosta), la
+  mayoría cubre en profundidad los capítulos históricamente centrales y
+  solo por título/resumen los tramos largos descriptivos o genealógicos
+  (documentado por obra) — **Pedro Mártir en particular quedó con
+  cobertura baja relativa a su tamaño**: de sus 80 libros en 8 décadas,
+  solo un puñado se leyeron a fondo (los viajes de Colón, el cruce de
+  Balboa, la caída de Tenochtitlan, la persecución de Cristóbal de Olid)
+  y el resto no tiene entidades extraídas todavía.
+  Quedan 4 obras del catálogo sin Fase 2 (López de Gómara, Sahagún,
+  Inca Garcilaso, Durán), más Zárate y Guamán Poma (bloqueadas por
+  fidelidad OCR) y Oviedo (bloqueada por Fase 1).
+- **Sitio activo: 13 obras** (las 5 originales + los 8 primeros de la
+  tanda de Fase 2 de arriba) — Pedro Mártir y Acosta ya tienen Fase 2
+  completa pero **todavía no están sumadas a `OBRAS` en
+  `scripts/generar_sitio.py`**, quedaron pendientes de integrar. KPIs
+  reales del sitio activo (`_data/stats.yml`, mostrados en la barra de
+  navegación): **13 obras, 479 personas, 352 lugares, 210 eventos, 1045
+  relaciones**.
+  **Bugs de integridad encontrados y corregidos en este trabajo** (vale
   la pena recordarlos si se retoma manualmente): (1) las entidades
   nuevas del Capítulo 1 de Bernal Díaz y de Las Casas se habían quedado
   solo en el log `entidades_nuevas` de `relaciones-muestra.json` sin
@@ -57,44 +89,57 @@ dirigido al usuario (sitio, READMEs, METADATA).
   en ambas obras. (2) Un fork usó una relación `citado_en` persona→fuente
   en Las Casas, que no es como está pensado el esquema (`cited_in` es
   relación→fuente, y cada relación ya cita su fuente en su propio campo
-  `source`) y apuntaba a un id sin registrar — se corrigió a
-  `estuvo_presente_en` contra el evento correspondiente. (3) En la
-  segunda tanda, tres de los cinco forks paralelos se cortaron a mitad
-  de trabajo por haber alcanzado el límite de uso de la sesión — quedaron
-  estados a medio terminar (entidades nuevas ya escritas pero
-  `relaciones`/`eventos` todavía no, o el campo `nota` de cobertura
-  actualizado de forma prematura antes de que el contenido real lo
-  reflejara). Se detectó comparando conteos y el rango real de
-  `source:<obra>:cap-N` citado en `relaciones` contra lo que decía la
-  `nota`, y se resumieron los tres forks con instrucciones puntuales de
-  qué faltaba exactamente. **Antes de dar por buena una tanda nueva,
-  correr un chequeo de integridad referencial** (todo `from`/`to` de
-  `relaciones` y todo `place_id` de `eventos` debe resolver contra
-  `personas` + `lugares` + `eventos` de esa misma obra) **y comparar el
-  rango de `source:...:cap-N` realmente citado en `relaciones` contra lo
-  que dice el campo `nota`** — quedó como buena práctica a repetir,
-  sobre todo si el trabajo se hizo en paralelo o se interrumpió.
+  `source`) — se corrigió a `estuvo_presente_en` contra el evento
+  correspondiente; el mismo error casi se repitió en la tanda de Fase 2
+  de Motolinía, pero el propio fork lo detectó y lo corrigió antes de
+  terminar. (3) En tandas paralelas, varios forks se cortaron a mitad de
+  trabajo por límite de sesión — a veces sin escribir nada, a veces con
+  los archivos ya escritos pero sin reportar (hay que revisar el estado
+  real de los archivos antes de asumir que un fork "fallido" no produjo
+  nada). **Antes de dar por buena una tanda nueva, correr un chequeo de
+  integridad referencial** (todo `from`/`to` de `relaciones` y todo
+  `place_id` de `eventos` debe resolver contra `personas` + `lugares` +
+  `eventos` de esa misma obra — la única excepción es la relación
+  `ocurrió_el`, cuyo `to` es un literal `Date:YYYY`, no un id de
+  entidad) **y comparar el rango real de `source:...:cap-N` citado en
+  `relaciones` contra lo que dice el campo `nota`**. (4) Un fork de Fase
+  2 (Cieza de León) encontró que un primer filtro mecánico de notas al
+  pie había borrado en silencio ~1500 palabras de narrativa real de
+  Cieza (sobre la fundación de Popayán) — el filtro fusionaba una nota
+  descartada con el texto real que la seguía. Otro (Pedro Pizarro) casi
+  borró un pasaje históricamente importante (Valverde ante Atahualpa)
+  porque contenía la frase común "en lugar de hermano", parecida a una
+  fórmula editorial. **Verificar en ambas direcciones**: no solo que no
+  sobrevivió contaminación editorial, sino que no se borró contenido real
+  — imprimir cada eliminación no trivial antes de aceptarla.
+  (5) **Ojo con ediciones críticas modernas (colección "Crónicas de
+  América"/Historia 16, Biblioteca Ayacucho, etc.)**: su introducción,
+  notas al pie y aparato crítico son de un editor moderno (con copyright
+  propio, distinto al de la crónica original de dominio público) y deben
+  excluirse por completo, no solo "separarse" como se hace con el
+  aparato editorial viejo (pre-1900, ya seguro de dominio público, como
+  el prólogo de 1862 de Bernal Díaz). Las notas al pie de estas
+  ediciones suelen estar intercaladas página por página con el texto
+  original sin repetir su número al continuar en la página siguiente —
+  eso es lo que causó los bugs (3) y (4) de arriba; un filtro mecánico
+  simple no alcanza, hace falta una pasada de verificación completa.
 - **Migración a sitio Jekyll completada (2026-08-28)**: el MVP de un
   solo archivo HTML (`mvp/archivo-final.html`) se reemplazó por un sitio
-  Jekyll real — 419 páginas de capítulo, 92 de persona y 83 de lugar,
-  generadas una sola vez por `scripts/generar_sitio.py` y versionadas como
-  Markdown editable. Se sacó la pestaña "Red de relaciones" (el grafo de
-  fuerza no se migró) y las pestañas restantes pasaron a ser la barra de
-  navegación real del sitio (`Documentos`/`Personas`/`Lugares`/
-  `Cronología`), no un selector de una sola página. `mvp/` se borró del
-  todo (queda en el historial de git). Ver "El sitio Jekyll" más abajo
-  para la arquitectura completa.
+  Jekyll real, generado una sola vez por `scripts/generar_sitio.py` y
+  versionado como Markdown editable. Se sacó la pestaña "Red de
+  relaciones" (el grafo de fuerza no se migró) y las pestañas restantes
+  pasaron a ser la barra de navegación real del sitio (`Documentos`/
+  `Personas`/`Lugares`/`Cronología`), no un selector de una sola página.
+  `mvp/` se borró del todo (queda en el historial de git). Ver "El sitio
+  Jekyll" más abajo para la arquitectura completa.
 - **Cortés salió de pausa** el 2026-08-28 al conseguirse una edición
   digital (no escaneada) de las *Cartas de relación* — ver "Decisiones de
   alcance" más abajo, esto reabre una decisión previa.
 - **Catálogo completo de 20 cronistas (`sources/CATALOGO.md`)**: el
   2026-08-28 el usuario dio una lista priorizada de 20 crónicas y pidió
-  conseguirlas todas. Las 20 tienen ahora al menos Fase 0 (fuente
-  descargada) — 17 obras nuevas quedaron en estado **"por procesar"**
-  (`raw/` conseguido, Fase 1 sin empezar, sin revisión manual de calidad
-  de OCR). Ninguna de las 17 está todavía en el sitio. Ver el catálogo para
-  qué se consiguió de cada una, de dónde, y qué huecos quedan (obras
-  parciales o ediciones distintas a la pedida).
+  conseguirlas todas. `sources/CATALOGO.md` tiene su tabla de estado
+  actualizada al 2026-08-29 (misma información que la sección de
+  arriba, en formato de tabla por obra).
 - **Repo en GitHub y Pages publicado**: el proyecto vive en
   https://github.com/codingadrian/cronicas-de-indias (público) y el sitio se
   sirve en https://codingadrian.github.io/cronicas-de-indias/. Ver
@@ -124,15 +169,28 @@ dirigido al usuario (sitio, READMEs, METADATA).
 │   ├── cristobal-colon/ activa  — texto-limpio/diario-primer-viaje-colon.md (191 entradas + proemio, ~54k palabras)
 │   ├── colon-cartas/    activa  — texto-limpio/relaciones-cartas-colon.md (10 documentos, ~74k palabras, OCR sin corregir)
 │   ├── cortes/          activa  — texto-limpio/cartas-de-relacion.md (5 cartas, ~172k palabras) — recién salió de pausa
+│   ├── xerez/, cabeza-de-vaca/, munoz-camargo/, pedro-pizarro/,
+│   │   ixtlilxochitl/, cieza-de-leon/, tezozomoc/, motolinia/
+│   │                    activas — Fase 1+2 completas y sumadas al sitio (2026-08-29)
+│   ├── pedro-martir/, acosta/
+│   │                    Fase 1+2 completas (2026-08-29), **pendientes de sumarse al
+│   │                    sitio** (faltan en `OBRAS` de scripts/generar_sitio.py)
+│   ├── lopez-de-gomara/, sahagun/, inca-garcilaso/, duran/
+│   │                    Fase 1 completa, Fase 2 pendiente — sahagun e inca-garcilaso
+│   │                    quedaron parciales por huecos de fuente (ver "Estado actual")
+│   ├── zarate/, guaman-poma/
+│   │                    Fase 1 hecha pero con reservas serias de fidelidad OCR —
+│   │                    no arrancar Fase 2 sin una revisión manual previa
+│   ├── oviedo/          Fase 1 sin empezar — el peor OCR del catálogo, 4 tomos
 │   ├── hernando-colon/  en pausa — solo raw/, sin texto-limpio/
-│   └── (17 carpetas más, todas "por procesar" — raw/ conseguido el 2026-08-28,
-│        Fase 1 pendiente: lopez-de-gomara, oviedo, pedro-martir, cabeza-de-vaca,
-│        motolinia, sahagun, duran, acosta, cieza-de-leon, zarate, xerez,
-│        pedro-pizarro, inca-garcilaso, guaman-poma, ixtlilxochitl, tezozomoc,
-│        munoz-camargo — ver CATALOGO.md para el detalle de cada una)
+│   └── (ver CATALOGO.md para el detalle original de cada una, con su
+│        tabla de estado actualizada al 2026-08-29)
 ├── entidades/                         dato de investigación, NO se sirve (ver _config.yml exclude)
 │   ├── bernal-diaz/personas.json, lugares.json, candidatos-frecuencia.json, relaciones-muestra.json
-│   ├── las-casas/, colon-cartas/, cortes/, cristobal-colon/   (misma estructura)
+│   ├── las-casas/, colon-cartas/, cortes/, cristobal-colon/,
+│   │   xerez/, cabeza-de-vaca/, munoz-camargo/, pedro-pizarro/,
+│   │   ixtlilxochitl/, cieza-de-leon/, tezozomoc/, motolinia/,
+│   │   pedro-martir/, acosta/                                (misma estructura, sin candidatos-frecuencia.json en las nuevas)
 ├── scripts/
 │   └── generar_sitio.py               genera todo lo de abajo a partir de sources/ + entidades/ (ver "El sitio Jekyll")
 ├── _documentos/<obra>/NNN.md          contenido del sitio — un capítulo por archivo, editable a mano
@@ -200,6 +258,58 @@ documentado.
   que el índice original del libro (10 bloques en vez de ~30 cartas/
   fragmentos) — ver `sources/colon-cartas/METADATA.md` para el detalle y
   qué falta si se quiere más granularidad.
+- **Durán — Apéndice: se mantuvo aunque no es de Durán.** El
+  `texto-limpio/` incluye un apéndice de 9 capítulos que el propio texto
+  dice que iba a escribir el editor Ramírez pero terminó encargándole a
+  otra persona sin firmar — es un ensayo interpretativo sobre un códice
+  jeroglífico distinto, no la crónica de Durán. Se conservó (es de 1880,
+  dominio público) pero separado y rotulado como ajeno a Durán, para que
+  Fase 2 no le atribuya entidades a él por error.
+- **López de Gómara — autoría de la "Vida de Hernán Cortés" en duda.**
+  La misma edición (Biblioteca Ayacucho 1979) trae, junto a la *Historia
+  general de las Indias*, la *Vida de Hernán Cortés* que tradicionalmente
+  se le atribuye a Gómara — pero una nota de archivo del propio traductor
+  (excluida del cuerpo por ser aparato editorial moderno, pero conservada
+  en `sources/lopez-de-gomara/METADATA.md`) sugiere que podría ser un
+  manuscrito anónimo o de otro autor (posiblemente Calvet de Estrella)
+  que un editor del siglo XIX encontró incompleto en el Archivo de
+  Simancas. Sin resolver — importa para cómo se atribuyan las entidades
+  de esa sección en Fase 2.
+- **Sahagún: solo Tomo B (Libros VII-XII de 12), Fase 1 hecha con el peor
+  nivel de corrupción de OCR del proyecto hasta antes de Oviedo/Zárate**
+  (sustitución aleatoria de caracteres CJK por letras latinas). Falta
+  conseguir el Tomo A para tener la obra completa — ver
+  `sources/sahagun/METADATA.md`.
+- **Inca Garcilaso: solo la Primera Parte de los *Comentarios Reales*
+  (9 libros, 246 capítulos), Fase 1 completa.** Falta la *Historia
+  general del Perú* (2ª parte), que no está en la edición conseguida —
+  ver `sources/inca-garcilaso/METADATA.md`. Ojo: los archivos raw
+  descargados como "tomo1"/"tomo2" están **al revés** respecto al tomo
+  real de la edición (el archivo "tomo1" contiene el Tomo II de la
+  edición, y viceversa) — ya documentado en el `texto-limpio/`, no
+  volver a confundirlo.
+- **Zárate: Fase 1 hecha pero NO recomendada para Fase 2 sin revisión
+  manual previa.** Es un escaneo de la edición original de Amberes,
+  1555 — el peor caso de fidelidad de OCR encontrado hasta Guamán
+  Poma/Oviedo. ~25 de 130 capítulos (según la Tabla de Capítulos impresa
+  del propio libro) no se pudieron separar de forma confiable y quedaron
+  fusionados con el capítulo anterior; mucho texto no se reconstruyó
+  letra por letra. Ver `sources/zarate/METADATA.md`.
+- **Guamán Poma: Fase 1 hecha pero con el hueco de fuente más grave del
+  catálogo, NO recomendada para Fase 2 sin resolver el hueco primero.**
+  El "tomo1" adquirido resultó ser 100% aparato editorial moderno de
+  1980 (cero palabras de Guamán Poma); el "tomo2" empieza en el folio
+  560 de ~1200 — falta toda la primera mitad de la obra (mito de
+  creación, genealogía inca, la conquista, inicio del "Buen gobierno").
+  Además, el peor OCR del proyecto entre las obras que sí se pudieron
+  procesar. Ver `sources/guaman-poma/METADATA.md` para los próximos
+  pasos sugeridos (buscar el facsímil completo en kb.dk, o una edición
+  impresa distinta que cubra la primera mitad).
+- **Oviedo: todavía sin Fase 1.** 4 tomos, ~1.77M de palabras, el peor
+  OCR de todo el catálogo (peor que Guamán Poma) — dos intentos de
+  arrancar la limpieza se cortaron por límite de sesión sin llegar a
+  escribir nada. Pendiente, ver "Pendientes" más abajo para el enfoque
+  sugerido (un fork por tomo, dado el volumen).
 
 ## Modelo de datos
 
@@ -227,11 +337,13 @@ cuenta si se arma un merge global de entidades para fases futuras.
 (conteo de nombres propios de 2+ palabras) — sirve de referencia para seguir
 canonizando entidades, no está pensado para mostrarse tal cual.
 
-`relaciones-muestra.json` sigue siendo una extracción parcial, no
-completa, de cada obra — cubre los Capítulos 1-8 de Bernal Díaz y solo
-el Capítulo 1 de Las Casas. El campo `entidades_nuevas` dentro de cada
-archivo lleva un `capitulo` por entrada para saber en qué capítulo
-apareció cada una por primera vez.
+`relaciones-muestra.json` sigue siendo una extracción parcial en varias
+obras, no completa — ver "Estado actual" para la cobertura real de cada
+una (varía mucho: de libro completo a solo los capítulos históricamente
+centrales). El campo `entidades_nuevas` dentro de cada archivo lleva un
+`capitulo` (o equivalente, según cómo esté dividida la obra: década/libro,
+sección, etc.) por entrada para saber dónde apareció cada una por primera
+vez.
 
 ## El sitio Jekyll
 
@@ -447,75 +559,83 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
 
 ## Pendientes (en orden sugerido)
 
-1. **Seguir la extracción de relaciones capítulo por capítulo** — es el
-   trabajo de fondo que quedó pausado a pedido del usuario para primero
-   validar la interfaz (primero el MVP, ahora la migración a Jekyll).
-   **Cortés y Colón — Cartas ya están completas** (las 5 cartas y los 10
-   documentos respectivamente, ver "Estado actual") — no necesitan más
-   tandas de este tipo, solo la segunda revisión del punto 5. Quedan
-   tres obras con capítulos/entradas sin procesar: Bernal Díaz (76 de
-   111), Las Casas (69 de 97), y el Diario de Colón (151 de 191 días).
-   El patrón para sumar una tanda: editar
-   `entidades/<obra>/personas.json` y `lugares.json` (agregar entidades
-   nuevas, `status: "candidata"`), sumar eventos/relaciones al final de
-   `relaciones-muestra.json` citando `source:<obra>:cap-N`, **correr un
-   chequeo de integridad referencial** (todo `from`/`to` de `relaciones`
-   tiene que resolver contra `personas`+`lugares`+`eventos` de esa obra —
-   ver los bugs que se encontraron y corrigieron en "Estado actual", **en
-   especial el (3)**: si el trabajo se hizo en paralelo o se cortó a
-   mitad de camino, no confiar en que el campo `nota` de cobertura sea
-   preciso — comparar contra el rango real de `source:...:cap-N`
-   efectivamente citado en `relaciones`). **Ahora que el sitio es Jekyll,
-   hay dos formas de aplicar
-   esos cambios a las páginas publicadas** (ya no hay un JSON embebido
-   único que combinar): (a) si esa obra todavía no tiene páginas de
-   persona/lugar editadas a mano, volver a correr
-   `python3 scripts/generar_sitio.py` regenera todo desde cero (pisa
-   `_documentos/`, `_personas/`, `_lugares/`, `cronologia/index.md` y
-   `assets/data/*` — simple pero destructivo con ediciones manuales
-   previas); (b) si ya hay contenido corregido a mano en esa obra, hay
-   que aplicar el cambio a mano en las páginas afectadas (agregar el
-   blurb/mención nueva, actualizar `assets/data/<obra>.json`) en vez de
-   correr el script entero.
-2. **Diario de Colón — decisión de narrador ya tomada**: se modeló a
-   Cristóbal Colón como `person:cristobal-colon` (mismo patrón que
-   `person:bernal-diaz-del-castillo`), con nota sobre la voz de Las Casas
-   resumiendo. Aplicar el mismo criterio en `colon-cartas` si se retoma
-   (ya se hizo ahí también, ver "Estado actual").
-3. **Colón — Relaciones y cartas: dividido más grueso que el índice
-   original** (10 bloques en vez de ~30 cartas/fragmentos), con ruido de
-   OCR sin corregir — ver `sources/colon-cartas/METADATA.md`. Si hace
-   falta más granularidad o texto más limpio, es trabajo pendiente.
-4. Retomar Hernando Colón (limpieza manual o edición alternativa) cuando
-   haya tiempo — no es bloqueante para lo demás.
-5. Segunda revisión de las entradas marcadas `"status": "candidata"` en los
-   registros de personas/lugares (ahora son la gran mayoría, en las cinco
-   obras), y de las notas de ambigüedad — en particular la colisión real
-   de nombre a tres bandas de "Diego Colón" en Las Casas
+1. **Sumar Pedro Mártir y Acosta al sitio** — ya tienen Fase 1+2
+   completas (ver "Estado actual") pero les falta el último paso:
+   agregar sus entradas a `OBRAS` en `scripts/generar_sitio.py` y correr
+   el script. **Ojo al correrlo**: regenera `_documentos/`/`_personas/`/
+   `_lugares/`/`assets/data/*` para TODAS las obras de `OBRAS`, no solo
+   las nuevas — si alguna obra ya activa tiene páginas de `_documentos/`
+   editadas a mano por fuera de su `sources/.../texto-limpio/` (pasó con
+   `_documentos/cortes/` y `_documentos/colon-cartas/000.md` el
+   2026-08-29: se les habían limpiado erratas de OCR directamente en
+   `_documentos/` sin actualizar el `texto-limpio/` de origen), correr
+   el script las revierte a la versión vieja sin querer. Antes de correr:
+   `git status` para ver si hay ediciones manuales en `_documentos/` de
+   alguna obra activa; si las hay y no coinciden con su `texto-limpio/`,
+   restaurarlas después con `git checkout -- <archivos>` (ya se hizo así
+   una vez, ver historial de commits del 2026-08-29).
+2. **Fase 2 de las 4 obras que ya tienen Fase 1 limpia y sin reservas**:
+   López de Gómara, Sahagún (parcial, Tomo B), Inca Garcilaso (parcial,
+   Primera Parte), Durán. Mismo patrón que las 10 obras ya hechas: crear
+   `entidades/<obra>/personas.json`+`lugares.json`+
+   `relaciones-muestra.json` siguiendo el esquema, citando
+   `source:<obra>:<lo que corresponda>` (capítulo, o década/libro, o
+   sección según cómo esté dividida cada obra — ver el `nota` de cada
+   `texto-limpio/*.md` para la convención usada), **correr el chequeo de
+   integridad referencial** de siempre, y evitar los dos bugs ya
+   encontrados: (a) nunca `citada_en` persona→fuente (ver "Estado
+   actual"), (b) verificar en ambas direcciones que un filtro no haya
+   borrado contenido real, no solo que no sobrevivió aparato editorial.
+   Dado el volumen de Durán (~455 000 palabras) y Pedro Mártir ya mostró
+   que la cobertura puede quedar muy desigual en obras enormes, conviene
+   pedir explícitamente cobertura completa si importa, o aceptar de
+   entrada que quedará parcial y documentarlo bien en la `nota`.
+3. **Revisión manual de Zárate y Guamán Poma antes de su Fase 2** — ambas
+   tienen reservas serias de fidelidad OCR (ver "Decisiones de alcance"
+   y "Estado actual"). Arrancar Fase 2 sobre texto con tanto ruido
+   produciría entidades erróneas o duplicadas por nombres propios mal
+   reconstruidos. Guamán Poma además tiene un hueco de fuente que
+   conviene resolver antes (falta la primera mitad de la obra — ver
+   `sources/guaman-poma/METADATA.md` para dónde buscarla).
+4. **Fase 1 de Oviedo** (4 tomos, ~1.77M de palabras) — la obra más
+   difícil del catálogo: el peor OCR encontrado (peor que Guamán Poma),
+   y el volumen es mayor que todo lo demás procesado junto. Encarar un
+   fork por tomo en paralelo, no de a uno (dos intentos anteriores se
+   cortaron por límite de sesión sin escribir nada); dar instrucciones
+   explícitas de no inventar texto donde el OCR sea irreconstruible
+   (documentar como incierto en vez de adivinar, mismo criterio que se
+   usó en Zárate).
+5. Segunda revisión de las entradas marcadas `"status": "candidata"` en
+   los registros de personas/lugares — ahora son prácticamente todas, en
+   las 15 obras con Fase 2. Casos de ambigüedad de nombre ya detectados
+   y con `notas` cruzadas a resolver: "Diego Colón" en Las Casas
    (`person:diego-colon-hermano`/`diego-colon-hijo`/
-   `diego-colon-indio-guanahani`, ya cruzados con `notas` pero el sitio
-   no desambigua homónimos al etiquetar texto, así que dos de las tres
-   páginas hoy no muestran menciones propias — ver "Estado actual"), y la
-   discrepancia de a quién nombra "Champotón" entre Bernal Díaz y la
-   Primera carta de Cortés en `entidades/cortes/lugares.json` — cotejar
-   contra historia-hispanica.rah.es o Wikipedia (ver "Fuentes de
-   referencia para comparar/inspirar biografías y lugares" en la sección
-   "El sitio Jekyll") cuando haga falta resolver una ambigüedad de fechas
-   o identidad.
-6. **Fase 1 de las 17 obras nuevas del catálogo** (`sources/CATALOGO.md`)
-   — cada una necesita el mismo tratamiento que ya se hizo para Bernal
-   Díaz/Las Casas/Colón/Cortés: revisar el `raw/`, separar aparato
-   editorial moderno, limpiar ruido de OCR donde haya, dividir en
-   capítulos, y recién ahí armar `texto-limpio/`, sumar la obra a `OBRAS`
-   en `scripts/generar_sitio.py`, y correr el script para sumarla al
-   sitio. Dado
-   el volumen (algunas enormes, como Oviedo con ~1.77M de palabras),
-   conviene priorizar en vez de encarar todas juntas.
-7. Cerrar los huecos de fuente que quedaron documentados en el catálogo:
-   falta un tomo de Sahagún, la segunda parte de los Comentarios reales
-   de Inca Garcilaso (*Historia general del Perú*), y la *Crónica
-   mexicáyotl* de Tezozómoc (distinta de la *Crónica mexicana* ya
-   conseguida).
+   `diego-colon-indio-guanahani`, el sitio no desambigua homónimos al
+   etiquetar texto), "Huitzilihuitzin" en Ixtlilxóchitl (un tlatoani y,
+   por separado, el tutor de Nezahualcóyotl), y "Manco Cápac"/"Manco Inca
+   Yupanqui" en Acosta. También la discrepancia de a quién nombra
+   "Champotón" entre Bernal Díaz y la Primera carta de Cortés en
+   `entidades/cortes/lugares.json`. Cotejar contra
+   historia-hispanica.rah.es o Wikipedia (ver "Fuentes de referencia
+   para comparar/inspirar biografías y lugares" en "El sitio Jekyll")
+   cuando haga falta resolver una ambigüedad de fechas o identidad.
+6. **Diario de Colón, Bernal Díaz, y Las Casas siguen con Fase 2
+   incompleta** desde antes de esta tanda — quedan 76 capítulos de
+   Bernal Díaz (de 111), 69 de Las Casas (de 97), y 151 días del Diario
+   de Colón (de 191) sin procesar. Mismo patrón de siempre para sumar
+   una tanda (ver el punto 2 de arriba).
+7. **Colón — Relaciones y cartas: dividido más grueso que el índice
+   original** (10 bloques en vez de ~30 cartas/fragmentos), con ruido de
+   OCR sin corregir del todo — ver `sources/colon-cartas/METADATA.md`.
+   Si hace falta más granularidad o texto más limpio, es trabajo
+   pendiente.
+8. Retomar Hernando Colón (limpieza manual o edición alternativa) cuando
+   haya tiempo — no es bloqueante para lo demás.
+9. Cerrar los huecos de fuente que quedaron documentados en el catálogo:
+   Tomo A de Sahagún, primera mitad de Guamán Poma, la segunda parte de
+   los Comentarios reales de Inca Garcilaso (*Historia general del
+   Perú*), y la *Crónica mexicáyotl* de Tezozómoc (distinta de la
+   *Crónica mexicana* ya conseguida).
 
 ## Convenciones a mantener
 
@@ -524,6 +644,18 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
   slug en minúsculas con guiones, **scoped por obra** (ver nota en "Modelo
   de datos").
 - Toda relación cita su `Source` exacta (obra + capítulo).
+- **Aparato editorial: el criterio es la fecha del editor, no si "molesta".**
+  Aparato editorial viejo (pre-1900, ya seguro de dominio público — un
+  prólogo de 1862, una introducción de 1875) se conserva, separado en su
+  propia sección, igual que el texto de la crónica misma. Aparato
+  editorial moderno (siglo XX/XXI, con copyright propio distinto al de la
+  crónica — introducciones, notas al pie y bibliografías de ediciones
+  críticas como "Crónicas de América"/Historia 16 o Biblioteca Ayacucho)
+  se **excluye por completo** de `texto-limpio/`, no se resume ni se
+  conserva de ninguna forma. Ver "Estado actual" para los bugs de
+  integridad que salieron de aplicar mal este criterio (notas al pie
+  intercaladas sin repetir número de página en página, que un filtro
+  mecánico simple no detecta).
 - No sacar Hernando Colón de pausa, ni reabrir la decisión de usar
   *Historia de las Indias* en vez de la *Brevísima relación*, sin que el
   usuario lo pida explícitamente — son decisiones de alcance ya tomadas con
