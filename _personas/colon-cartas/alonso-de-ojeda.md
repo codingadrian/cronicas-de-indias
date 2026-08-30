@@ -11,20 +11,20 @@ status: candidata
 notas: ''
 mentions_hint: Las 4 menciones de esta persona en el texto.
 blurbs:
-- heading: Carta a Luis de Santángel sobre el primer viaje (1493)
-  url: /documentos/colon-cartas/000/
+- heading: MEMORIAL
+  url: /documentos/colon-cartas/002/
   occ: 0
   html: …scribir á sus Altezas; pero porque allá va Gorbalán, que fue uno de los descubridores, él dirá lo que vio, aunque acá queda otro que llaman <mark>Hojeda</mark>, criado del Duque de Medinaceli, muy discreto mozo y de muy gran recabdo, que sin duda y aun sin comparación, descubrió mucho más, según el…
 - heading: Instrucción a Mosén Pedro Margarit (1494)
-  url: /documentos/colon-cartas/001/
+  url: /documentos/colon-cartas/003/
   occ: 0
-  html: 'Primeramente: que luego que vos fuere ciada é entre- gada la dicha gente por <mark>Hojeda</mark>, la rescibáis según ó en la manera que la él lleva, é así resccbida, ordenéis las batallas que segund la dispusición de la tierra os pa- re…'
+  html: 'Primeramente: que luego que vos fuere ciada é entregada la dicha gente por <mark>Hojeda</mark>, la rescibáis según ó en la manera que la él lleva, é así resccbida, ordenéis las batallas que segund la dispusición de la tierra os paresc…'
 - heading: Instrucción a Mosén Pedro Margarit (1494)
-  url: /documentos/colon-cartas/001/
+  url: /documentos/colon-cartas/003/
   occ: 1
   html: 'Item más: porque me par es ce bien que toda esta gen te vaya agora con <mark>Hojeda</mark> hasta Carabao, y que de allí la rescibáis vos toda, y al comienzo de vuestro camino á amahuix, y dende llevaréis el camino donde os pares-'
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/008/
+  url: /documentos/colon-cartas/010/
   occ: 0
   html: (B) Alonso de <mark>Hojeda</mark> llegó á la Española el o de Soptiembro de 1498.
 ---

@@ -13,7 +13,7 @@ notas: ''
 mentions_hint: Las 1 menciones de esta persona en el texto.
 blurbs:
 - heading: Carta al obispo de Badajoz
-  url: /documentos/colon-cartas/004/
+  url: /documentos/colon-cartas/006/
   occ: 0
   html: '…e prometían: y ago- ra, Señor, me paresce que por lo que á mí SS. AA. re- mitieron, é porque veo que es su servicio, que se debe de pagar á <mark>Alfonso Sánchez de Carvajal</mark> todo el dinero tpie se le debe de su servicio, y á Pedro Fernández Co-'
 ---

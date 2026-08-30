@@ -12,8 +12,8 @@ notas: Colón lo llamó 'Golfo de las Perlas'; el nombre moderno viene del puebl
 mentions_hint: Las 1 menciones de este lugar en el texto.
 blurbs:
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/008/
+  url: /documentos/colon-cartas/010/
   occ: 0
-  html: si siete, y fallo quel dicho <mark>Golfo de las Perlas</mark> está occi- dental al Occidente de el (1) de Tolomeo cuasi tres mil ó novecientas millas, que son cuasi setenta grados equinociales, contand…
+  html: si siete, y fallo quel dicho <mark>Golfo de las Perlas</mark> está occi- dental al Occidente de el de Tolomeo cuasi tres mil ó novecientas millas, que son cuasi setenta grados equinociales, contando po…
 ---
 Corresponde aproximadamente a Golfo de Paria, entre Venezuela y Trinidad en la geografía actual. También aparece nombrado como: Golfo de las Perlas.

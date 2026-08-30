@@ -11,7 +11,7 @@ notas: ''
 mentions_hint: Las 1 menciones de esta persona en el texto.
 blurbs:
 - heading: Testamento, codicilo y firma de Cristóbal Colón
-  url: /documentos/colon-cartas/009/
+  url: /documentos/colon-cartas/011/
   occ: 0
   html: …mbraba é nombró por sus tes- tamentarios é complidores de su ánima al Sr. D. Diego Colón, su hijo, é á I). Bartolomé Colón, su hermano, é á <mark>Juan de Porras</mark>, Tesorero ele Vizcaya, para que ellos todos tres cumplan su testamento, é todo lo en él conte- nido é en el dicho escrito, é todas las mand…
 ---

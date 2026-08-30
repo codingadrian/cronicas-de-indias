@@ -1,0 +1,17 @@
+# Registro de editores aceptados para comentarios al margen (ver
+# scripts/generar_sitio.py, sección de comentarios, y CLAUDE.md).
+#
+# Un comentario nuevo se escribe en sources/<obra>/texto-limpio/*.md como
+# palabra(N) ... (N,Autor)texto del comentario — el campo Autor tiene que
+# matchear (sin espacios, tal como se escribe en el texto) la clave de acá
+# abajo para que el comentario salga con su color asignado. Si no matchea
+# ninguna clave, el comentario igual se muestra pero en gris neutro
+# ("pendiente de revisión") — no bloquea el build.
+#
+# alias: el texto exacto que se escribe en el (N,Autor) del texto-limpio.
+# nombre: cómo se muestra en la caja de comentario.
+# color: hex, se usa para el subrayado punteado, el conector y el borde
+#        izquierdo de la caja.
+A.Robles:
+  nombre: "A. Robles"
+  color: "#3f8f4f"

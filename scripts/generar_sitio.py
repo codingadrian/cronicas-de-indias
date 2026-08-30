@@ -45,6 +45,13 @@ CAP_BLURBS = 20
 VENTANA_SNIPPET = 140
 
 
+def cargar_editores():
+    ruta = ROOT / "_data" / "editores.yml"
+    if not ruta.exists():
+        return {}
+    return yaml.safe_load(ruta.read_text(encoding="utf-8")) or {}
+
+
 def slugify(texto):
     texto = unicodedata.normalize("NFKD", texto)
     texto = "".join(c for c in texto if not unicodedata.combining(c))
@@ -85,6 +92,145 @@ def normalizar_parrafos(texto):
         if linea:
             parrafos.append(linea)
     return parrafos
+
+
+COLOR_ORIGINAL = "#c9a227"
+VENTANA_NOTA_VIEJA = 10  # párrafos hacia adelante a buscar la definición de una nota vieja
+COLOR_EDITOR_SIN_REGISTRAR = "#8a8570"
+
+MARCADOR_RE = re.compile(r"\s?\((\d+)\)")
+DEF_EDITOR_RE = re.compile(r"\((\d+),([^,()]+)(?:,([^,()]+))?\)")
+AUTOR_NOTA_VIEJA_RE = re.compile(r"[—\-]\s*([A-ZÁÉÍÓÚÑ][^.]{2,40})\.?\s*$")
+
+
+def ultimas_n_palabras(texto, n):
+    palabras = texto.strip().split()
+    return " ".join(palabras[-n:]) if palabras else ""
+
+
+def autor_de_nota_vieja(texto):
+    m = AUTOR_NOTA_VIEJA_RE.search(texto)
+    return m.group(1).strip() if m else None
+
+
+def procesar_comentarios(parrafos, editores):
+    """Parsea comentarios al margen dentro de los párrafos de un capítulo,
+    con dos sintaxis (ver CLAUDE.md, sección de comentarios):
+
+    - Nota vieja (aparato editorial ya presente en la fuente, sin coma):
+      `palabra (N)` en un párrafo, con la definición en el párrafo
+      siguiente empezando `(N) texto...` — se anota como origen
+      "original", color fijo amarillo, autor extraído de un "— Nombre."
+      al final del texto si lo hay.
+    - Comentario de editor (nuevo, con coma): `palabra(N)` seguido, más
+      adelante en el MISMO párrafo, de `(N,Autor)texto...` o
+      `(N,ancho,Autor)texto...` (ancho = cuántas palabras antes del
+      marcador subrayar, default 1) — origen "editor", color del
+      registro de editores si el alias matchea, gris si no.
+
+    Devuelve (parrafos_sin_marcadores_ni_definiciones, lista_de_comentarios).
+    Cada comentario incluye `ocurrencia`: cuántas veces ya apareció ese
+    mismo texto de ancla en el cuerpo final ANTES de este punto — hace
+    falta porque el mismo texto puede repetirse, y el navegador tiene que
+    saber a cuál instancia exacta apuntar (ver assets/js/comments.js).
+    """
+    resultado = list(parrafos)
+    consumidos = set()
+    comentarios = []
+
+    def texto_final_hasta(i, prefijo):
+        return "\n\n".join(p for idx, p in enumerate(resultado[:i]) if idx not in consumidos) + "\n\n" + prefijo
+
+    i = 0
+    while i < len(resultado):
+        if i in consumidos:
+            i += 1
+            continue
+        cambiado = True
+        while cambiado:
+            cambiado = False
+            parrafo = resultado[i]
+
+            # --- estilo editor: marcador y definición (con coma) en el mismo párrafo ---
+            encontrado = False
+            for m in DEF_EDITOR_RE.finditer(parrafo):
+                ref = m.group(1)
+                marcador_m = None
+                for mm in re.finditer(r"\(" + re.escape(ref) + r"\)", parrafo[: m.start()]):
+                    marcador_m = mm
+                if not marcador_m:
+                    continue
+                if m.group(3) is not None:
+                    ancho, autor_alias = int(m.group(2)), m.group(3).strip()
+                else:
+                    ancho, autor_alias = 1, m.group(2).strip()
+                texto_comentario = parrafo[m.end():].strip()
+                antes = parrafo[: marcador_m.start()]
+                anchor = ultimas_n_palabras(antes, ancho)
+                info = editores.get(autor_alias)
+                # -1 porque `antes` termina justo en `anchor` por construcción
+                # (ultimas_n_palabras), así que el conteo siempre incluye esa
+                # propia aparición — sin restarla, toda ocurrencia quedaría
+                # corrida en +1 (un verdadero primer uso saldría "1", no "0").
+                ocurrencia = (texto_final_hasta(i, antes).count(anchor) - 1) if anchor else 0
+                comentarios.append({
+                    "anchor": anchor,
+                    "ocurrencia": ocurrencia,
+                    "origen": "editor",
+                    "autor": info["nombre"] if info else autor_alias,
+                    "color": info["color"] if info else COLOR_EDITOR_SIN_REGISTRAR,
+                    "texto": texto_comentario,
+                })
+                resultado[i] = (parrafo[: marcador_m.start()] + parrafo[marcador_m.end(): m.start()]).rstrip()
+                cambiado = True
+                encontrado = True
+                break
+            if encontrado:
+                continue
+
+            # --- estilo viejo: marcador con definición en un párrafo
+            # cercano más adelante (no necesariamente el inmediato
+            # siguiente — a veces varios párrafos de título/fecha se
+            # interponen entre el marcador y el bloque de notas real,
+            # sobre todo en los encabezados de carta) ---
+            for mm in MARCADOR_RE.finditer(parrafo):
+                ref = mm.group(1)
+                m_def = None
+                sig = None
+                for cand in range(i + 1, min(i + 1 + VENTANA_NOTA_VIEJA, len(resultado))):
+                    if cand in consumidos:
+                        continue
+                    cand_m = re.match(r"^\(" + re.escape(ref) + r"\)\s*(.*)$", resultado[cand], re.S)
+                    if cand_m:
+                        m_def, sig = cand_m, cand
+                        break
+                if not m_def:
+                    continue
+                texto_nota = m_def.group(1).strip()
+                autor = autor_de_nota_vieja(texto_nota)
+                antes = parrafo[: mm.start()]
+                anchor = ultimas_n_palabras(antes, 1)
+                # -1 porque `antes` termina justo en `anchor` por construcción
+                # (ultimas_n_palabras), así que el conteo siempre incluye esa
+                # propia aparición — sin restarla, toda ocurrencia quedaría
+                # corrida en +1 (un verdadero primer uso saldría "1", no "0").
+                ocurrencia = (texto_final_hasta(i, antes).count(anchor) - 1) if anchor else 0
+                comentarios.append({
+                    "anchor": anchor,
+                    "ocurrencia": ocurrencia,
+                    "origen": "original",
+                    "autor": autor or "Nota del editor",
+                    "color": COLOR_ORIGINAL,
+                    "texto": texto_nota,
+                })
+                consumidos.add(sig)
+                resultado[i] = (parrafo[: mm.start()] + parrafo[mm.end():]).rstrip()
+                cambiado = True
+                break
+        i += 1
+
+    parrafos_finales = [p for idx, p in enumerate(resultado) if idx not in consumidos]
+    return parrafos_finales, comentarios
 
 
 def cargar_entidades(clave):
@@ -166,6 +312,7 @@ def muestrear_parejo(lista, tope):
 
 def main():
     indice_busqueda = []  # para assets/data/search-index.json
+    editores = cargar_editores()
 
     for obra in OBRAS:
         clave = obra["clave"]
@@ -192,6 +339,7 @@ def main():
         capitulo_urls = []
         for i, cap in enumerate(capitulos):
             parrafos = normalizar_parrafos(cap["texto"])
+            parrafos, comentarios = procesar_comentarios(parrafos, editores)
             url_cap = f"/documentos/{clave}/{i:03d}/"
             capitulo_urls.append(url_cap)
 
@@ -203,10 +351,18 @@ def main():
                     "autor": autor,
                     "heading": cap["heading"],
                     "chapter_index": i,
+                    "chapter_index_padded": f"{i:03d}",
                     "total_capitulos": total,
+                    "tiene_comentarios": bool(comentarios),
                 },
                 "\n\n".join(parrafos),
             )
+
+            if comentarios:
+                (ROOT / "assets" / "data" / "comentarios").mkdir(parents=True, exist_ok=True)
+                (ROOT / "assets" / "data" / "comentarios" / f"{clave}-{i:03d}.json").write_text(
+                    json.dumps(comentarios, ensure_ascii=False, indent=0), encoding="utf-8"
+                )
 
             if regex is not None:
                 occ_por_entidad = {}

@@ -1,23 +1,98 @@
 [
-  {
-    "anchor": "veinte",
-    "origen": "original",
-    "autor": "Navarrete",
-    "color": "#c9a227",
-    "texto": "En el original está en números romanos muy confusos y parece decir «setenta y un días». En la copia de Volafán dice «en treinta días pasé de las Islas Canarias á las Indias»."
-  },
-  {
-    "anchor": "Guanahanin",
-    "origen": "editor",
-    "autor": "A. Robles",
-    "color": "#3f8f4f",
-    "texto": "Posible error de OCR: debería decir «Guanahaní». Dejado así hasta cotejar contra el original — ver METADATA.md de esta obra."
-  },
-  {
-    "anchor": "Cibau",
-    "origen": "original",
-    "autor": "Navarrete",
-    "color": "#c9a227",
-    "texto": "En el texto de 1493 se lee claramente «Auan»; en el de Volafán, «Nahn». Muñoz y Bernáldez también leyeron «Nahn»."
-  }
+{
+"anchor": "LUIS DE SANTANGEL",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Un bibliófilo valenciano que oculta su nombro bajo el seudónimo de Genaro H. de Volafan, publicó en 1858 en Valencia esta carta tomada de una copia antigua que encontró en un tomo de varios, el cual Fué primero de D. Juan Sanfelices y pasó después al Colegio Mayor de Cuenca, en Salamanca. Este hallazgo permite corregir algunos errores que hay en el texto. Las correcciones van en las notas. -Navarrete"
+},
+{
+"anchor": "REFIRIÉNDOLE SU PRIMER VIAJE Y LAS ISLAS QUE HABÍA DESCUBIERTO",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Esta carta la dirigió Colón á Luis de Santangel, Escribano de Ración de los Reyes Catódicos. Este oficio era de la Casa Real de Aragón, y equivalía al de Contador mayor de la Corona de Castilla, que obtenía entonces Alonso de Quintanilla. Así que dos Contadores mayores, que pueden considerarse como dos Ministros de Hacienda, uno por Castilla y otro por Aragón, intervinieron en la empresa del Almirante. El mismo Santangel parece que fué Tesorero de la Casa y Corte del Rey en Cataluña, el año 1470; y Tesorero de la Hermandad de Castilla en unión con Francisco Pinelo, Jurado de Sevilla, que también tuvo parte en los primeros negocios de Indias. -Navarrete"
+},
+{
+"anchor": "veinte",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "En el original está en números romanos muy contusos, y debe decir setenta y un días, como se demuestra en una nota al fin de esta carta. En el texto publicado por Volafan dice: “En treinta días pasé de las Islas Canarias á las Indias”. -Navarrete"
+},
+{
+"anchor": "Guanahanin",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "A. Robles",
+"color": "#3f8f4f",
+"texto": "Posible error de OCR: debería decir «Guanahaní». Dejado así hasta cotejar contra el original."
+},
+{
+"anchor": "así",
+"ocurrencia": 1,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "En el texto de Volafan ahí."
+},
+{
+"anchor": "fortísimas",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "En el texto de Volafan fértilísimas. (2,Original)Tenerife"
+},
+{
+"anchor": "Cibau",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "En el texto de 1493 se lee claramente Auan; en la de Volafan Nahn. Muñoz y Bernalder también leyeron Nahn. (2,Original) Estas noticias extravagantes nacían tal vez de la ignorancia de los indios, y también de no ser bien entendidos por el Almirante y por los españoles, que no comprendían su lengua ni sus expresiones. -Navarrete"
+},
+{
+"anchor": "Colunia",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "En el texto de Volafán, Desde Calibre en Cataluña."
+},
+{
+"anchor": "espeto",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Espeto en lo antiguo era lo mismo que asador. Aquí lo usa el Almirante por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu). (2,Original)Aclara este obscuro pasaje la copia de Volafan que dice: “Salvo de una isla de Quaribes (Caribes), la segunda a la entrada de las Indias”. (3,A.Robles)Revisar todo este parrafo"
+},
+{
+"anchor": "Islas de Canaria",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Las islas que vieron el 15 de Febrero no eran las Canarías sino las Azores ó Terceras. Véase el diario. En el texto de Volafan dice: “Sobre la Isla de Santa María, 18 de Febrero ». Esta isla es de las Azores."
+},
+{
+"anchor": "(Anima",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Anima llamaban al papel escrito que se introducía en la carta después de cerrada."
+},
+{
+"anchor": "ocho",
+"ocurrencia": 5,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Así parece que dice en el original en donde está escrito en números romanos y enmendados; pero habiendo salido Colón de la barra de Saltes el 8 de Agosto y desembarcado en la isla de San Salvador el 12 de Octubre, es claro que deben contarse setenta y un dias de viaje á la ida, y cuarenta y ocho á la vuelta, contando desde el 16 de Enero, en que salió del golfo de las Flechas, hasta el 4 de Marzo que entró en el río de Lisboa. -Navarrete. (2,Original)Esta fecha, puesta en el original de Colón en números romanos está muy confusa y parece significar 14; pero bien examinada, no puede ser sino del 4 de Marzo. -Navarrete"
+}
 ]

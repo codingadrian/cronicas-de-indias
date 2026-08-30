@@ -17,19 +17,19 @@ blurbs:
   occ: 0
   html: '… dado: los indios la llaman Guanahanin. A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandina: á la cuarta <mark>la Isabela</mark> : á la quinta isla Juana, é así á cada una nombre nuevo.'
 - heading: Instrucción a Mosén Pedro Margarit (1494)
-  url: /documentos/colon-cartas/001/
+  url: /documentos/colon-cartas/003/
   occ: 0
   html: …s vos pu- siéredes, las cuales esecutad en las personas é bienes de los que lo contrario hicieren. Fecha en la cibdad Isabela, que es en la <mark>isla Isabela</mark> en las Indias, á nueve días del mes de Abril, año del nacimiento de nuestro Salvador Jesucristo de mil cuatrocientos noventa y cuatro años.…
 - heading: Institución de mayorazgo
-  url: /documentos/colon-cartas/005/
+  url: /documentos/colon-cartas/007/
   occ: 0
   html: Dice en el poblar, según Las Casas, porque le imputa- ban por malo haber &#x27;&quot;poblado el primer pueblo en <mark>la Isabela</mark>.
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/008/
+  url: /documentos/colon-cartas/010/
   occ: 0
   html: Dijeron que la tierra de <mark>la Isabela</mark>, adonde es el asien to, que era muy mala y que no daba trigo; yo lo cogí y se comió el pan dello y es la más fermosa tierra que se puede co…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/008/
+  url: /documentos/colon-cartas/010/
   occ: 1
   html: …las necesidades de Castilla y la abundancia de la Española, se halla de venir á ella muy presto de allá grande pueblo, y será el asiento en <mark>la Isabela</mark>, á donde fue el comienzo, porque es el más idoneo lugar y mejor que otro ninguno de la tierra, como se debe de creer pues que nuestro Señor…
 ---

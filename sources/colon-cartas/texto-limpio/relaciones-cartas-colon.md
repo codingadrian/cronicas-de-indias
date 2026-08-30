@@ -10,130 +10,81 @@ nota: "Esta edición de 1892 también incluye la Relación del primer viaje (el 
 
 ## Carta a Luis de Santángel sobre el primer viaje (1493)
 
-CARTA DEL ALMIRANTE D. CRISTOBAL COLON A LUIS DE SANTANGEL (1) 
+CARTA DEL ALMIRANTE D. CRISTOBAL COLON A LUIS DE SANTANGEL(1)
+(1,3,Original)Un bibliófilo valenciano que oculta su nombro bajo el seudónimo de Genaro H. de Volafan, publicó en 1858 en Valencia esta carta tomada de una copia antigua que encontró en un tomo de varios, el cual Fué primero de D. Juan Sanfelices y pasó después al Colegio Mayor de Cuenca, en Salamanca. Este hallazgo permite corregir algunos errores que hay en el texto. Las correcciones van en las notas. -Navarrete
 
-escribano de Ración de los señores Reyes Catolicos 
+Escribano de Ración de los señores Reyes Catolicos 
 
-REFIRIÉNDOLE SU PRIMER VIAJE T LAS ISLAS QUE HABÍA DESCUBIERTO (2) 
+REFIRIÉNDOLE SU PRIMER VIAJE Y LAS ISLAS QUE HABÍA DESCUBIERTO(1)
+(1,10,Original)Esta carta la dirigió Colón á Luis de Santangel, Escribano de Ración de los Reyes Catódicos. Este oficio era de la Casa Real de Aragón, y equivalía al de Contador mayor de la Corona de Castilla, que obtenía entonces Alonso de Quintanilla. Así que dos Contadores mayores, que pueden considerarse como dos Ministros de Hacienda, uno por Castilla y otro por Aragón, intervinieron en la empresa del Almirante. El mismo Santangel parece que fué Tesorero de la Casa y Corte del Rey en Cataluña, el año 1470; y Tesorero de la Hermandad de Castilla en unión con Francisco Pinelo, Jurado de Sevilla, que también tuvo parte en los primeros negocios de Indias. -Navarrete
 
 15 de Febrero de 1493. 
 
-Señor: Porque sé que habréis placer de la grande victoria que nuestro Señor me lia dado en mi viaje vos es- 
+Señor: Porque sé que habréis placer de la grande victoria que nuestro Señor me lia dado en mi viaje vos escribo esta, por la cual sabréis cómo en veinte(1) días pasé las Indias con la armada que los Ilustrísimos Rey y Reina nuestros Señores me dieron, donde yo fallé muy muchas islas pobladas con gente sinnúmero, y dellas todas he tomado posesión por sus Altezas con pregón y bandera Real extendida, y no me fue contradicho.
+(1,Original) En el original está en números romanos muy contusos, y debe decir setenta y un días, como se demuestra en una nota al fin de esta carta. En el texto publicado por Volafan dice: “En treinta días pasé de las Islas Canarias á las Indias”. -Navarrete
 
-(1) Un bibliófilo valenciano que oculta su nombro bajo el seudónimo de Genaro H. de Volafan, publicó en 1858 en Valencia esta carta tomada de una copia antigua que encontró en un tomo de varios, el cual Fué primero de D. Juan Sanfelices y pasó después al Colegio Mayor de Cuenca, en Salamanca. Este hallazgo permite corregir algunos errores que hay en el texto. Las correcciones van en las notas. 
+A la primera que yo fallé puse nombre San Salvador, á conmemoración de su Alta Majestad, el cual maravillosamente todo esto ha dado: los indios la llaman Guanahanin(1). A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandina: á la cuarta la Isabela : á la quinta isla Juana, é así á cada una nombre nuevo.
+(1,A.Robles)Posible error de OCR: debería decir «Guanahaní». Dejado así hasta cotejar contra el original.
 
-(2) Esta carta la dirigió Colón á Luis de Santangel, Escribano de Ración de los Reyes Catódicos. Este oficio era de la Casa Real de Aragón, y equivalía al de Contador mayor de la Corona de Castilla, que obtenía entonces Alonso de Quintanilla. Así que dos Contadores mayores, que pueden considerarse como dos Ministros de Hacienda, uno por Castilla y otro por Aragón, intervinieron en la empresa del Almirante. El mismo Santangel parece que fué Tesorero de la Casa y Corte del Rey en Cataluña, el año 1470; y Tesorero de la Hermandad de Castilla en unión con Francisco Pinelo, Jurado de Sevilla, que también tuvo parte en los primeros negocios de Indias. — Navarrete. 
+Cuando yo llegué á la Juana seguí la costa della á poniente, y la fallé tan grande que pensé que sería tierra firme, la provincia de Catayo; y como no fallé así(1) villas y lugares en la costa de la mar, salvo pequeñas poblaciones, con la gente de las cuales non podía haber hablas, porque luego huían todos, andaba yo adelante por el dicho camino, pensando de non errar grandes ciudades é villas; y al cabo de muchas leguas, visto que non había innovación, y que la costa me levaba al setentrión de adonde mi voluntad era contraria, porque el invierno era ya encarnado, yo tenía propósito de hacer dél al austro, y también el viento medio adelante, determinó de no aguardar otro tiempo, y volví atrás fasta un señalado puerto, de adonde envié dos hombres por la tierra para saber si había Rey ó grandes ciudades. Andovieron tres jornadas y hallaron infinitas poblaciones pequeñas y gentes sinnúmero, mas non cosa de regimiento, por lo cual se volvieron.
+(1,Original) En el texto de Volafan ahí. 
 
-cribo esta, por la cual sabréis cómo en veinte (1) días pasé las Indias con la armada que los Ilustrísimos Rey y Reina nuestros Señores me dieron, donde yo fallé muy muchas islas pobladas con gente sinnúmero, y dellas todas he tomado posesión por sus Altezas con pregón y bandera Real extendida, y no me fue contradicho. 
-
-A la primera que yo fallé puse nombre San Salvador, á conmemoración de su Alta Majestad, el cual maravillosamente todo esto ha dado: los indios la llaman Guanahanin. A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandina: á la cuarta la Isabela : á la quinta isla Juana, é así á cada una nombre nuevo. 
-
-Cuando yo llegué á la Juana seguí la costa della á poniente, y la fallé tan grande que pensé que sería tierra firme, la provincia de Catayo; y como no fallé así (2) villas y lugares en la costa de la mar, salvo pequeñas poblaciones, con la gente de las cuales non podía haber hablas, porque luego huían todos, andaba yo adelante por el dicho camino, pensando de non errar grandes ciudades é villas; y al cabo de muchas leguas, visto que non había innovación, y que la costa me levaba al setentrión de adonde mi voluntad era contraria, porque el invierno era ya encarnado, yo tenía propósito de hacer dél al austro, y también el viento medio adelante, determinó de no aguardar otro tiempo, y volví atrás fasta un señalado puerto, de adonde envié dos hombres por la tierra para saber si había Rey ó grandes ciuda-
-
-(1) En el original está en números romanos muy contusos, y debe decir setenta y un días, como se demuestra en una nota al fin de esta carta. — Navarrete. 
-
-En el texto publicado por Volafan dice: “En treinta días pasé de las Islas Canarias á las Indias”. 
-
-(2) En el texto de Volafan ahí. 
-
-des. Andovieron tres jornadas y hallaron infinitas poblaciones pequeñas y gentes sinnúmero, mas non cosa de regimiento, por lo cual se volvieron. 
-
-Yo entendía harto de otros indios, que ya tenía tomados, como continuamente esta tierra era isla, é así seguí la costa della al Oriente ciento y siete leguas, fasta donde facía fin; del cual cabo había otra isla al Oriente, distante desta diez é ocho leguas, á la cual puse luego nombre la Española: y fui allí, y seguí la parte del setentrión asi como de la Juana al Oriente ciento é setenta y ocho grandes leguas por vía reta del Oliente así como de la Juana , la cual y todas las otras son fortísimas (1) en demasiado grado, y ésta en extremo; en ella hay muchos puertos en la costa de la mar sin comparación de otros que yo sepa en cristianos, y tartos ríos y buenos y grandes ques maravilla: las tierras delias son altas y en ellas muy muchas sierras y montañas altísimas, sin comparación de la isla de Cetrefrey (2), todas fermosísimas; de 
-mil fechuras, y todas andables y llenas de árboles de mil maneras y altas, y parescen que llegan al cielo; y tengo por dicho que jamás pierden la foja según lo que puedo comprender, que los vi tan verdes y tan fermosos como son por Mayo en España. Dellos están floridos, dellos con fruto, y dellos en otro término según es su calidad; y cantaba el ruiseñor y otros pájaros de mil maneras en el mes de Noviembre por allí donde yo andaba. Hay palmas de seis ó de ocho maneras, ques admiración verlas por la diformidad fermosa dellas, mas así como los otros árboles é frutos é yerbas: en ella hay pinares á maravilla, é hay campiñas grandísimas, é hay miel, é de muchas maneras de aves y frutas muy diversas. En las tierras hay muchas minas de metales é hay gente inestimabile número. 
-
-(1) En el texto de Volafan fértilísimas. 
-
-(2) Tenerife
+Yo entendía harto de otros indios, que ya tenía tomados, como continuamente esta tierra era isla, é así seguí la costa della al Oriente ciento y siete leguas, fasta donde facía fin; del cual cabo había otra isla al Oriente, distante desta diez é ocho leguas, á la cual puse luego nombre la Española: y fui allí, y seguí la parte del setentrión asi como de la Juana al Oriente ciento é setenta y ocho grandes leguas por vía reta del Oliente así como de la Juana , la cual y todas las otras son fortísimas(1) en demasiado grado, y ésta en extremo; en ella hay muchos puertos en la costa de la mar sin comparación de otros que yo sepa en cristianos, y tartos ríos y buenos y grandes ques maravilla: las tierras delias son altas y en ellas muy muchas sierras y montañas altísimas, sin comparación de la isla de Cetrefrey(2), todas fermosísimas; de 
+mil fechuras, y todas andables y llenas de árboles de mil maneras y altas, y parescen que llegan al cielo; y tengo por dicho que jamás pierden la foja según lo que puedo comprender, que los vi tan verdes y tan fermosos como son por Mayo en España. Dellos están floridos, dellos con fruto, y dellos en otro término según es su calidad; y cantaba el ruiseñor y otros pájaros de mil maneras en el mes de Noviembre por allí donde yo andaba. Hay palmas de seis ó de ocho maneras, ques admiración verlas por la diformidad fermosa dellas, mas así como los otros árboles é frutos é yerbas: en ella hay pinares á maravilla, é hay campiñas grandísimas, é hay miel, é de muchas maneras de aves y frutas muy diversas. En las tierras hay muchas minas de metales é hay gente inestimabile número.
+(1,Original)En el texto de Volafan fértilísimas. 
+(2,Original)Tenerife
 
 La Española es maravilla: las sierras y las montañas y las vegas y las campiñas y las tierras tan fermosas y gruesas para plantar y sembrar, para criar ganado de todas suertes, para edificios de villas y lugares. Los puertos de la mar, aquí non habría creencia sin vista, y de los ríos muchos y grandes y buenas aguas: los más de los cuales traen oro. En los árboles y frutos y yerbas hay grandes diferencias de aquellas déla Juana: en esta hay muchas especies, y grandes minas de oro y de otros metales. La gente desta isla y de todas las otras que he. fallado y he habido noticia, andan todos desnudos, hombres y mujeres, así como sus madres los paren, aunque algunas mujeres se cobijan un solo lugar con una foja de yerba ó una cosa de algodón que para ello hacen ellos, non tienen fierro ni acero: armas, ni son para ello; non porque non sean gente bien dispuesta y de fermosa estatura, salvo que son muy temerosos á maravilla. Non tienen otras armas salvo las armas de las cañas cuando están con la simiente, á la cual ponen al cabo un palillo agudo, y no osan usar de aquéllas: que muchas veces me acaeció enviar á tierra dos ó tres hombres á alguna villa pava haber fabla, y salir á ellos dellos sinnúmero, y después que los veían llegar huían á non aguardar padre á hijo; y esto no porque á ninguno se haya fecho mal, antes á todo cabo adonde yo haya estado y podido haber labia, les he dado de todo lo que tenía, así paño como otras cosas muchas, sin recibir por ello cosa alguna, mas son así temerosos sin remedio. Verdad es que después que se aseguran y pierden este miedo ellos son tanto sin engaño y tan liberales de lo que tienen, que no lo creerán sino el que lo viese. Ellos de cosa que tengan pidiéndosela jamás dicen de no; antes convidan á la persona con ello y muestran tanto amor que darían los corazones, y quier sea cosa de valor, quier sea de poco precio, luego por cualquiera cosa de cualquier manera que sea que se les dé por ello son contentos. 
 
-Yo defendí que non se les diesen cosas tan ceviles como pedazos de escudillas rotas é pedazos de vidrio 
-roto y cabos de agujetas; aunque cuando ellos esto podían llegar les parecía haber la mejor joya del mundo: que se acertó haber un marinero por una agujeta de oro peso de dos castellanos y medio, y otros de otras cosas, que muy menos valían, mucho más. Ya por blancas nuevas daban por ellas todo cuanto tenían aunque fuesen dos ni tres castellanos de oro, ó una ó dos de algodón diado. Fasta los pedazos de los arcos rotos de las pipas tomaban y daban lo que tenían como bestias; así que me pareció mal é yo lo defendí. Y daba yo graciosas mil cosas buenas que yo llevaba porque tomen amor; y allende desto se farán cristianos, que se inclinan al amor y servicio de sus Altezas y de toda la nación castellana; é procuran de ayudar é nos dar de las cosas que tienen en abundancia que nos son necesarias. Y non conocían ninguna seta ni idolatría, salvo que todos creen que las fuerzas y el bien es en el cielo; y creían muy firme que yo con estos navios y gente venía del cielo y en tal acatamiento me reciben en todo cabo después de haber perdido el miedo. Y esto non procede porque sean ignorantes, salvo de muy sotil ingenio, ó hombres que navegan todas aquellas mares, que es maravilla la buena cuenta que ellos dan de todo, salvo porque nunca vieron gente vestida ni semejantes navios. 
-
+Yo defendí que non se les diesen cosas tan ceviles como pedazos de escudillas rotas é pedazos de vidrio roto y cabos de agujetas; aunque cuando ellos esto podían llegar les parecía haber la mejor joya del mundo: que se acertó haber un marinero por una agujeta de oro peso de dos castellanos y medio, y otros de otras cosas, que muy menos valían, mucho más. Ya por blancas nuevas daban por ellas todo cuanto tenían aunque fuesen dos ni tres castellanos de oro, ó una ó dos de algodón diado. Fasta los pedazos de los arcos rotos de las pipas tomaban y daban lo que tenían como bestias; así que me pareció mal é yo lo defendí. Y daba yo graciosas mil cosas buenas que yo llevaba porque tomen amor; y allende desto se farán cristianos, que se inclinan al amor y servicio de sus Altezas y de toda la nación castellana; é procuran de ayudar é nos dar de las cosas que tienen en abundancia que nos son necesarias. Y non conocían ninguna seta ni idolatría, salvo que todos creen que las fuerzas y el bien es en el cielo; y creían muy firme que yo con estos navios y gente venía del cielo y en tal acatamiento me reciben en todo cabo después de haber perdido el miedo. Y esto non procede porque sean ignorantes, salvo de muy sotil ingenio, ó hombres que navegan todas aquellas mares, que es maravilla la buena cuenta que ellos dan de todo, salvo porque nunca vieron gente vestida ni semejantes navios. 
 
 Y luego que llegué á las Indias, en la primera isla que fallé, tomé por fuerza algunos dellos para que deprendiesen y me diesen noticia de lo que había en aquellas partes; é así fué que luego entendieron y nos á ellos cuando por lenguas ó señas, y éstos han aprovechado mucho; hoy en día los traigo que siempre están de propósito que vengo del cielo por mucha conversación que hayan habido conmigo. Y estos eran los primeros á pronunciarlo adonde yo llegaba, y los otros andaban corriendo de casa en casa, y á las villas cercanas con voces altas; «Venie á ver la gente del cielo.” E así todos, hombres como mujeres, después de haber el corazón seguro de nos, venieron que non quedaba grande ni pequeño que todos traían algo de comer y de beber, que daban con un amor maravilloso. 
 
 Ellos tienen en todas las islas muy muchas canoas, de manera de fustas de remo; dellas mayores, dellas menores, y algunas y muchas son mayores que una fusta de diez y ocho bancos: non son tan anchas, porque son de un solo madero; mas una fusta no terna con ellas al remo, porque van que no es cosa de creer, y con estas navegan todas aquellas islas, que son innumerables, y traen sus mercaderías. Algunas destas canoas he visto sesenta y ochenta hombres en ella, y cada uno con su remo. 
 
-
 En todas estas islas non vide mucha diversidad de la fechura de la gente, ni en las costumbres, ni en la lengua, salvo que todos se entienden, que es cosa muy singular; para lo que espero que determinarán sus Altezas para la conversión de ellas á nuestra Santa Fe, á la cual son muy dispuestos. 
 
-Ya dije como yo había andado ciento siete leguas por la costa de la mar, por la derecha línea de Occidente á Oriente, por la isla Juana: según el cual camino puedo decir que esta isla es mayor que Inglaterra y Escocia juntas: porque allende destas ciento siete leguas me quedan de la parte de Poniente dos provincias que yo no he andado, la una de las cuales llaman Cibau (1), adon- 
+Ya dije como yo había andado ciento siete leguas por la costa de la mar, por la derecha línea de Occidente á Oriente, por la isla Juana: según el cual camino puedo decir que esta isla es mayor que Inglaterra y Escocia juntas: porque allende destas ciento siete leguas me quedan de la parte de Poniente dos provincias que yo no he andado, la una de las cuales llaman Cibau (1), adonde nace la gente con cola (2): las cuales provincias non pueden tener en longura menos de cincuenta ó sesenta leguas, según puedo entender destos indios que yo tengo, los cuales saben todas las islas.
+(1,Original) En el texto de 1493 se lee claramente Auan; en la de Volafan Nahn. Muñoz y Bernalder también leyeron Nahn. 
+(2,Original) Estas noticias extravagantes nacían tal vez de la ignorancia de los indios, y también de no ser bien entendidos por el Almirante y por los españoles, que no comprendían su lengua ni sus expresiones. -Navarrete 
 
-(1) En el texto de 1493 se lee claramente Auan; en la de Volafan Nahn. Muñoz y Bernalder también leyeron Nahn. 
-
-de nace la gente con cola (1): las cuales provincias non pueden tener en longura menos de cincuenta ó sesenta leguas, según puedo entender destos indios que yo tengo, los cuales saben todas las islas. 
-
-Esta otra Española en cerco tiene más que la España toda desde Colunia (2) por costa de mar, fasta Fuenterrabía, en Vizcaya; pues en una cuadra anduve ciento treinta y ocho grandes leguas por recta línea de Occidente á Oriente, Esta es para desear, é vista es para nunca dejar; en la cual, puesto que de todas tenga tomada posesión por sus Altezas, y todas sean más abastadas de lo que yo sé y puedo decir, y todas las tengo por de sus Altezas, cual de ellas pueden disponer como y tan cumplidamente como de los Reinos de Castilla, en esta Española en lugar más convenible y mejor comarca para las minas del oro y de todo trato así de la tierra firme de acá como de aquella de allá del Grán Can, adonde habrá gran trato é ganancia, he tomado posesión de una villa grande, á la cual puse nombre la Villa de Navidad, y en ella he lecho fuerza y fortaleza, que ya á estas horas estará del todo acabada, y he dejado en ella gente que basta para semejante fecho con armas y artillerías é vituallas para más de un año, y lusta y maestro de la mar en todas artes para facer, y grande amistad con el Rey de aquella tierra, en tanto grado que se presciaba de me llamar y tener por hermano: é aunque le mudasen la voluntad á ofender esta gente, él ni los suyos non saben qué son armas, y andan desnudos como ya he dicho, é son los más temerosos que hay en el mundo. Así que solamente la gente 
-
-(1) Estas noticias extravagantes nacían tal vez de la ignorancia de los indios, y también de no ser bien entendidos por el Almirante y por los españoles, que no comprendían su lengua ni sus expresiones. — Navarre/e. 
-
-(2) En el texto de Volaran, Desde Calibre en Cataluña. 
-
-que allá quedó es para destroir toda aquella tierra; y es isla sin peligro de sus personas, sabiéndose regir. 
-
-En todas estas islas me paresce que todos los hombres son contentos con una mujer, y á su mayoral ó 
-Rey dan fasta veinte. Las mujeres me parece que trabajan más que los hombres; ni he podido entender si 
-tienen bienes propios, que me pareció ver que aquello que uno tenía todos hacían parte, en especial de las cosas comederas. 
-
-En estas islas fasta aquí no he hallado hombres mostrados como muchos pensaban; mas antes es toda gente de muy lindo acatamiento; ni son negros como en Guinea, salvo con sus cabellos correndios, y no se crían adonde hay espeto (1) demasiado de los rayos solares: es verdad quel sol tiene allí gran fuerza, puesto ques distante de la línea equinocial veinte é seis grados: en estas islas adonde hay montañas grandes ahí tenía fuerza el frío este invierno; mas ellos lo sufren por la costumbre é con la ayuda de las viandas, como son especias muchas y muy calientes en demasía: ansí que mostraos no he hallado ni noticia, salvo de una isla ques aquí en la segunda cala, entrada de las Indias (2), ques poblada de una gente que tienen en todas las islas por muy feroces, los cuales comen carne viva. Estos tienen muchas canoas con las cuales corren todas las islas de India y roban y toman cuanto pueden. Ellos non son más disformes que los otros; salvo que tienen costumbre de traer los cabellos largos como mujeres, y usan 
-
-(1) Espeto en lo antiguo era lo mismo que asador. Aquí lo usa el Almirante por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu). 
-
-(2) Aclara este obscuro pasaje la copia de Volafan que dice: “Salvo de una isla de Quaribes (Caribes), la segunda a la entrada de las Indias”. 
-
-arcos y flechas de las mismas armas de cadas, con un palillo al cabo por defecto de fierro que non tienen. Son feroces entre estos otros pueblos que son en demasiado grado cobardes; mas yo no los tengo en nada más que á los otros. Estos son aquellos que trocaban las mujeres de matrimonio, ques la primera isla partiendo de España para las Indias (1) que se falla, en la cual non hay hombre ninguno. Ellas non usan ejercicio femenil, salvo arcos y frechas, como los sobredichos de cañas, y se arman y cobijan con láminas de alambre, de que tienen mucho. 
+Esta otra Española en cerco tiene más que la España toda desde Colunia (1) por costa de mar, fasta Fuenterrabía, en Vizcaya; pues en una cuadra anduve ciento treinta y ocho grandes leguas por recta línea de Occidente á Oriente, Esta es para desear, é vista es para nunca dejar; en la cual, puesto que de todas tenga tomada posesión por sus Altezas, y todas sean más abastadas de lo que yo sé y puedo decir, y todas las tengo por de sus Altezas, cual de ellas pueden disponer como y tan cumplidamente como de los Reinos de Castilla, en esta Española en lugar más convenible y mejor comarca para las minas del oro y de todo trato así de la tierra firme de acá como de aquella de allá del Grán Can, adonde habrá gran trato é ganancia, he tomado posesión de una villa grande, á la cual puse nombre la Villa de Navidad, y en ella he lecho fuerza y fortaleza, que ya á estas horas estará del todo acabada, y he dejado en ella gente que basta para semejante fecho con armas y artillerías é vituallas para más de un año, y lusta y maestro de la mar en todas artes para facer, y grande amistad con el Rey de aquella tierra, en tanto grado que se presciaba de me llamar y tener por hermano: é aunque le mudasen la voluntad á ofender esta gente, él ni los suyos non saben qué son armas, y andan desnudos como ya he dicho, é son los más temerosos que hay en el mundo. Así que solamente la gente que allá quedó es para destroir toda aquella tierra; y es isla sin peligro de sus personas, sabiéndose regir. 
+(1,Original)En el texto de Volafán, Desde Calibre en Cataluña. 
 
 En todas estas islas me paresce que todos los hombres son contentos con una mujer, y á su mayoral ó Rey dan fasta veinte. Las mujeres me parece que trabajan más que los hombres; ni he podido entender si tienen bienes propios, que me pareció ver que aquello que uno tenía todos hacían parte, en especial de las cosas comederas. 
 
-En estas islas fasta aquí no he hallado hombres mostrados como muchos pensaban; mas antes es toda gente de muy lindo acatamiento; ni son negros como en Guinea, salvo con sus cabellos correndios, y no se crían adonde hay espeto (1) demasiado de los rayos solares: es verdad quel sol tiene allí gran fuerza, puesto ques distante de la línea equinocial veinte é seis grados: en estas islas adonde hay montañas grandes ahí tenía fuerza el frío este invierno; mas ellos lo sufren por la costumbre é con la ayuda de las viandas, como son especias muchas y muy calientes en demasía: ansí que mostraos no he hallado ni noticia, salvo de una isla ques aquí en la segunda cala, entrada de las Indias (2), ques poblada de una gente que tienen en todas las islas por muy feroces, los cuales comen carne viva. Estos tienen muchas canoas con las cuales corren todas las islas de India y roban y toman cuanto pueden. Ellos non son más disformes que los otros; salvo que tienen costumbre de traer los cabellos largos como mujeres, y usan 
+En estas islas fasta aquí no he hallado hombres mostrados como muchos pensaban; mas antes es toda gente de muy lindo acatamiento; ni son negros como en Guinea, salvo con sus cabellos correndios, y no se crían adonde hay espeto(1) demasiado de los rayos solares: es verdad quel sol tiene allí gran fuerza, puesto ques distante de la línea equinocial veinte é seis grados: en estas islas adonde hay montañas grandes ahí tenía fuerza el frío este invierno; mas ellos lo sufren por la costumbre é con la ayuda de las viandas, como son especias muchas y muy calientes en demasía: ansí que mostraos no he hallado ni noticia, salvo de una isla ques aquí en la segunda cala, entrada de las Indias(2), ques poblada de una gente que tienen en todas las islas por muy feroces, los cuales comen carne viva. Estos tienen muchas canoas con las cuales corren todas las islas de India y roban y toman cuanto pueden. Ellos non son más disformes que los otros; salvo que tienen costumbre de traer los cabellos largos como mujeres, y usan arcos y flechas de las mismas armas de cadas, con un palillo al cabo por defecto de fierro que non tienen. Son feroces entre estos otros pueblos que son en demasiado grado cobardes; mas yo no los tengo en nada más que á los otros. Estos son aquellos que trocaban las mujeres de matrimonio, ques la primera isla partiendo de España para las Indias(3) que se falla, en la cual non hay hombre ninguno. Ellas non usan ejercicio femenil, salvo arcos y frechas, como los sobredichos de cañas, y se arman y cobijan con láminas de alambre, de que tienen mucho. 
+(1,Original)Espeto en lo antiguo era lo mismo que asador. Aquí lo usa el Almirante por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu). 
+(2,Original)Aclara este obscuro pasaje la copia de Volafan que dice: “Salvo de una isla de Quaribes (Caribes), la segunda a la entrada de las Indias”.
+(3,A.Robles)Revisar todo este parrafo
 
-(1) Espeto en lo antiguo era lo mismo que asador. Aquí lo usa el Almirante por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu). 
+Esto es cierto, y eterno Dios nuestro Señor, el cual da á todos aquellos que andan su camino victoria de cosas que parecen imposibles, y esta señaladamente fué la una, porque aunque destas tierras hayan labiado otros, todo vapor conjetura sin alegar de vista; salvo comprendiendo tanto que los oyentes los más escuchaban y juzgaban más por fabla que por otra cosa dello. Así que pues nuestro Redentor dio esta vitoria á nuestros ilustrísimos Rey é Reina é á sus reinos famosos de tan alta cosa, adonde toda la cristiandad debe tomar alegría y facer grandes fiestas, dar gracias solemnes á la Santa Trinidad, con muchas oraciones solemnes por el tanto ensalzamiento que habrán ayuntándose tantos pueblos á nuestra Santa Fe, y después por los bienes temporales que non solamente á la España mas todos los cristianos ternán aquí refrigerio é ganancia, esto segundo ha fecho ser muy breve: fecha en la carabela sobre las Islas de Canaria(1), quince de Febrero de noventa y tres. 
+(1,3,Original)Las islas que vieron el 15 de Febrero no eran las Canarías sino las Azores ó Terceras. Véase el diario. En el texto de Volafan dice: “Sobre la Isla de Santa María, 18 de Febrero ». Esta isla es de las Azores. 
 
-(2) Aclara este obscuro pasaje la copia de Volafan que dice: “Salvo de una isla de Quaribes (Caribes), la segunda a la entrada de las Indias”. 
+(Anima(2) que venía dentro en la carta.)
+(2,Original) Anima llamaban al papel escrito que se introducía en la carta después de cerrada. 
 
-arcos y flechas de las mismas armas de cadas, con un palillo al cabo por defecto de fierro que non tienen. Son feroces entre estos otros pueblos que son en demasiado grado cobardes; mas yo no los tengo en nada más que á los otros. Estos son aquellos que trocaban las mujeres de matrimonio, ques la primera isla partiendo de España para las Indias (1) que se falla, en la cual non hay hombre ninguno. Ellas non usan ejercicio femenil, salvo arcos y frechas, como los sobredichos de cañas, y se arman y cobijan con láminas de alambre, de que tienen mucho. 
-
-
-Esto es cierto, y eterno Dios nuestro Señor, el cual da á todos aquellos que andan su camino victoria de cosas que parecen imposibles, y esta señaladamente fué la una, porque aunque destas tierras hayan labiado otros, todo vapor conjetura sin alegar de vista; salvo comprendiendo tanto que los oyentes los más escuchaban y juzgaban más por fabla que por otra cosa dello. Así que pues nuestro Redentor dio esta vitoria á nuestros ilustrísimos Rey é Reina é á sus reinos famosos de tan alta cosa, adonde toda la cristiandad debe tomar alegría y facer grandes fiestas, dar gracias solemnes á la Santa Trinidad, con muchas oraciones solemnes por el tanto ensalzamiento que habrán ayuntándose tantos pueblos á nuestra Santa Fe, y después por los bienes temporales que non solamente á la España mas todos los cristianos ternán aquí refrigerio é ganancia, esto segundo ha fecho ser muy breve: fecha en la carabela sobre las Islas de Canaria (1), quince de Febrero de noventa y tres. 
-
-(Anima (2) que venía dentro en la carta.) 
-
-Después desta escrita, estando en mar de Castilla, salió tanto viento conmigo Sur y Sueste, que me ha fecho descargar los navios por correr aquí en este puerto de Lisbona hoy, que fue la mayor maravilla del mun-
-
-(1) Las islas que vieron el 15 de Febrero no eran las Canarías sino las Azores ó Terceras. Véase el diario. 
-
-En el texto de Volafan dice: “Sobre la Isla de Santa María, 18 de Febrero ». Esta isla es de las Azores. 
-
-(2) Anima llamaban al papel escrito que se introducía en la carta después de cerrada.
-
-do, adonde acordó de escribir á sus Altezas, En todas las Indias he siempre hallado los tiempos como en Mayo adonde yo fui en noventa y tres dias é volví en setenta y ocho (1), salvo que estas tormentas me lian detenido trece corriendo por esta mar. Dicen acá todo los hombres de la mar que jamás bobo tan mal invierno ni tantas pérdidas de navios. Fecha á los cuatro de Marzo (2). 
+Después desta escrita, estando en mar de Castilla, salió tanto viento conmigo Sur y Sueste, que me ha fecho descargar los navios por correr aquí en este puerto de Lisbona hoy, que fue la mayor maravilla del mundo, adonde acordó de escribir á sus Altezas, En todas las Indias he siempre hallado los tiempos como en Mayo adonde yo fui en noventa y tres dias é volví en setenta y ocho(1), salvo que estas tormentas me lian detenido trece corriendo por esta mar. Dicen acá todo los hombres de la mar que jamás bobo tan mal invierno ni tantas pérdidas de navios. Fecha á los cuatro de Marzo(2).
+(1,Original)Así parece que dice en el original en donde está escrito en números romanos y enmendados; pero habiendo salido Colón de la barra de Saltes el 8 de Agosto y desembarcado en la isla de San Salvador el 12 de Octubre, es claro que deben contarse setenta y un dias de viaje á la ida, y cuarenta y ocho á la vuelta, contando desde el 16 de Enero, en que salió del golfo de las Flechas, hasta el 4 de Marzo que entró en el río de Lisboa. -Navarrete. 
+(2,Original)Esta fecha, puesta en el original de Colón en números romanos está muy confusa y parece significar 14; pero bien examinada, no puede ser sino del 4 de Marzo. -Navarrete
 
 Esta carta envió Colón al Escribano de Ración de las islas halladas en las Indias é otra de sus Altezas. 
 
-(1) Así parece que dice en el original en donde está escrito en números romanos y enmendados; pero habiendo salido Colón de la barra de Saltes el 8 de Agosto y desembarcado en la isla de San Salvador el 12 de Octubre, es claro que deben contarse setenta y un dias de viaje á la ida, y cuarenta y ocho á la vuelta, contando desde el 16 de Enero, en que salió del golfo de las Flechas, hasta el 4 de Marzo que entró en el río de Lisboa. — Navarrete. 
+## CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
 
-(2) Esta fecha, puesta en el original de Colón en números romanos está muy confusa y parece significar 14; pero bien examinada, no puede ser sino del 4 de Marzo . —Navarrete
-
-
-CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ(1)
+(1,Original)Esta carta, sustanciaImente igual á la anterior, dirigida á Luis de Santangel, fue traducida al latín por Leandro Cosco, y publicada en Boma en 1493. El texto que publicó Navarrete y reproducimos, es una traducción de la versión latina de Cosco (porque el primitivo original se ha perdido), hecha por el Bibliotecario mayor, D. Francisco Antonio González. 
 
 Tesorero de los Serenísimos Monarcas. 
 
 4 de Marzo de 1483. 
 
-A quien es muy deudora nuestra época, acerca de las islas de la India, halladas poco há sobre el Ganges, y á cuya conquista había, sido enviado ocho meses hizo, y á expensas de los invictísimos Reyes de las Espadas Fernando é Isabel: dirigida al magnífico Sr. Rafael (2) Sánchez, Tesorero de los mismos Serenísimos Monarcas, y traducida del español al latín por el generoso y literato Leandro de Cozco á 25 de Abril de 1493 , año primero del Pontificado de Alejandro VI. 
+A quien es muy deudora nuestra época, acerca de las islas de la India, halladas poco há sobre el Ganges, y á cuya conquista había, sido enviado ocho meses hizo, y á expensas de los invictísimos Reyes de las Espadas Fernando é Isabel: dirigida al magnífico Sr. Rafael(2) Sánchez, Tesorero de los mismos Serenísimos Monarcas, y traducida del español al latín por el generoso y literato Leandro de Cozco á 25 de Abril de 1493 , año primero del Pontificado de Alejandro VI.
+(2,Original)D. Pascual Gayangos, en un articulo publicado en La America en 13 de Abril de 1867, le llama Gabriel Sánchez. 
 
-Conociendo que os será de placer que haya yo tenido feliz éxito en mi empresa, iie dispuesto escribiros esta 
+Conociendo que os será de placer que haya yo tenido feliz éxito en mi empresa, he dispuesto escribiros esta carta que os manifieste todos y cada uno de los sucesos ocurridos en mi viaje, y los descubrimientos que han sido su resultado. 
 
-(1) Esta carta, sustanciaImente igual á la anterior, dirigida á Luis de Santangel, fue traducida al latín por Leandro Cosco, y publicada en Boma en 1493. El texto que publicó Navarrete y reproducimos, es una traducción de la versión latina de Cosco (porque el primitivo original se ha perdido), hecha por el Bibliotecario mayor, D. Francisco Antonio González. 
-
-(2) D. Pascual Gayangos, en un articulo publicado en La America en 13 de Abril de 1867, le llama Gabriel Sánchez. 
-
-carta que os manifieste todos y cada uno de los sucesos ocurridos en mi viaje, y los descubrimientos que han sido su resultado. 
-
-Treinta y tres días después de mí salida de Cádiz arribé al mar de la India, donde hallé muchas islas ha- 
-bitadas por innumerables gentes, y de ellas tomé posesión á nombre de nuestro felicísimo Monarca, á público pregón y aclamaciones, tremolando bandera y sin contradicción alguna: puse á la primera el nombre de San Salvador, en cuya protección confiado llegué así á esta como á las demás; los Indios la llaman Guanahanin. Di también nuevo nombre á cada una de las otras, habiendo mandado que la una se llamase Santa María de la Concepción, otra la Fernandina, la tercera Isabela, la cuarta Juana, y así respectivamente las restantes. 
+Treinta y tres días después de mí salida de Cádiz arribé al mar de la India, donde hallé muchas islas habitadas por innumerables gentes, y de ellas tomé posesión á nombre de nuestro felicísimo Monarca, á público pregón y aclamaciones, tremolando bandera y sin contradicción alguna: puse á la primera el nombre de San Salvador, en cuya protección confiado llegué así á esta como á las demás; los Indios la llaman Guanahanin. Di también nuevo nombre á cada una de las otras, habiendo mandado que la una se llamase Santa María de la Concepción, otra la Fernandina, la tercera Isabela, la cuarta Juana, y así respectivamente las restantes. 
 
 Luego que arribamos á la que acaba de nombrarse (Juana) me adelanté un poco cerca de su costa hacia el Occidente, y la descubrí tan grande y sin límite, que no hubiera creído ser isla, sino más bien la provincia continental de Cathay; pero sin ver poblaciones ó municipios situados en sus términos marítimos, sino algunas aldeas y predios rústicos, con cuyos habitantes no podía entrar en conversación, porque huían en el momento de vernos. Pasaba adelante creyendo hallar alguna ciudad ó villa, y viendo por fin que nada se nos presentaba después de habernos internado mucho, que esta jornada nos dirigía al Norte, lo que intentaba yo evitar porque dominaba el frío y el ánimo era partir hacia Mediodía, cuando por otra parte no nos eran favorables los vientos, determinó suspender nuestra partida ulterior, y así, retrocediendo, volví á cierto puerto que había designado, desde donde envié á tierra dos de los nuestros que investigasen si había en aquella provincia Rey ó algunas ciudades. Recorrieron éstos el país por espacio de tres días, y hallaron innúmerables pueblos y habitaciones; pero pequeñas y sin gobierno alguno, por lo que tomaron á nosotros. 
 
@@ -148,7 +99,6 @@ Hay además en dicha isla Juana siete ú ocho variedades de palmas superiores á
 Los habitantes de uno y otro sexo, así en la Española como en las otras islas que vi y de que tengo noticia, andan siempre desnudos como nacieron, á excepción de algunas mujeres que cubren su desnudez con alguna hoja verde ó algodón, ó con algún velo de seda que ellas fabrican para este objeto. 
 
 No existe entre ellos, como ya expresé, hierro alguno; así es que no tienen armas, como les son desconocidas; ni son aptos para su manejo, no por la mala construcción de su cuerpo, pues son bien formados, sino porque son tímidos y llenos de cobardía; llevan, no obstante, por armas cañas secas al sol, en cuyo punto inferior ó más grueso fijan ó introducen un astil de madera seca y aguzado en punta, y ni aun de esto se atreven á usar continuamente; porque ha sucedido muchas veces que habiendo enviado dos ó tres de los míos á ciertas poblaciones para que tratasen con sus moradores, salían los indios como escuadrón desordenado, y al notar que se acercaban los nuestros, huían con tal velocidad que el padre abandonaba á los hijos y los hijos á los padres; y esto ocurría, no porque se hubiese causado á ninguno daño ó injuria, antes bien les di á cuantos me acerqué y hablé cuanto tenia, paño otras muchas cosas sin tomar nada de lo suyo, sino porque están por naturaleza poseídos de pavor y de miedo. No obstante, cuando se consideran seguros y han depuesto todo terror son muy sencillos, de buena fe y espléndidos con cuanto tienen: ninguno niega lo que posee á quien lo pide, y convidan ellos mismos aun para que se les ruegue. Ofrecen hacia todos un gran cariño; dan por cosas pequeñas aun las más grandes, contentándose con lo más mínimo ó nada; yo prohibí, por tanto, que se les diesen cosas de tan poquísima estimación y de ningún valor, cuales son fragmentos ó trozos de platos, escudillas y vidrio, clavos y correas; aunque si podían lograr alguna de estas cosas les parecía haber llegado á ser dueños de los más bellos juguetes y prendas que hay en el inundo. Ha sucedido que un marinero haya adquirido por una correa ó cuerda tanto oro cuanto es el valor de tres sueldos de oro, y otros más ó menos cantidad por otras cosas de menos precio, especialmente por blancas nuevas ó nuevamente acuñadas, ó ciertas monedas de oro por las cuales daban cuanto les pedía el vendedor: esto es, onza y media y dos de oro, ó treinta y cuarenta libras de algodón que ya ellos conocían. Asimismo compraban como idiotas, por algodón y oro, trozos ó fragmentos de arcos, de vasijas, de botellas y de tinajas: lo que prohibí por ser injusto, y les di muchos utensilios bellos y preciosos que había llevado conmigo, sin exigir recompensa para atraérmelos con más facilidad, para que reciban la fe de Jesucristo, y para que estén más dispuestos é inclinados al amor y obediencia al Rey, á la Reina, á nuestros Príncipes y á todos los españoles, y para que cuiden buscar, reunir y entregarnos lo que abunda entre ellos y nosotros necesitamos absolutamente. 
-
 
 No conocen la idolatría, antes bien creen con toda firmeza que toda fuerza, todo poder y todos los bienes existen en el cielo, y que yo he bajado de tan alta mansión con mis naves y marineros, habiéndome recibido en sus playas bajo este concepto, luego que habian desechado su temor. Ni son perezosos ni rudos, sino de un grande y perspicaz ingenio, y cuantos surcan aquel mar dan, no sin admiración, razón de lo que observaron en sus viajes; pero jamás vieron gentes vestidas ni embarcaciones semejantes á las nuestras.
 
@@ -166,11 +116,8 @@ concluida, en la que he dejado cuantos hombres me han parecido necesarios, con t
 
 A lo que pude saber, cada uno está casado con una sola mujer, á excepción de los Príncipes y Reyes, á quienes es permitido tener hasta veinte. Las mujeres parece trabajan más que los hombres, y no pude averiguar si gozaban propiedades, porque observé que uno tenía á su cargo distribuir á los demás, especialmente alimentos ó manjares y cosas semejantes. 
 
-No encontré entre ellos, como se presumía, monstruo alguno (1), sino gentes de mucho obsequio y benignidad. No son tan negros como los etiopes: sus cabellos son aplastados y caídos: no habitan donde hieren más vivamente los rayos del sol, porque allí es terrible su fuerza, y dista al parecer veinte y seis grados de la equinocial. En las cimas de los montes no falta grande frío, del cual se libertan, ya por estar acostumbrados al clima, y ya con el uso de comidas y bebidas muy cálidas que toman continua y pródigamente. Así es que no observe monstruos ni llegó á mi noticia que los hubiese, exceptuando la isla llamada Caris, que es la segunda según se va desde la Española á la India, y la 
-
-(1) Hombre cruel, sanguinario. 
-
-que habitan personas que son consideradas por sus circunvecinas como las más feroces; éstas se alimentan de carne humana. 
+No encontré entre ellos, como se presumía, monstruo alguno(1), sino gentes de mucho obsequio y benignidad. No son tan negros como los etiopes: sus cabellos son aplastados y caídos: no habitan donde hieren más vivamente los rayos del sol, porque allí es terrible su fuerza, y dista al parecer veinte y seis grados de la equinocial. En las cimas de los montes no falta grande frío, del cual se libertan, ya por estar acostumbrados al clima, y ya con el uso de comidas y bebidas muy cálidas que toman continua y pródigamente. Así es que no observe monstruos ni llegó á mi noticia que los hubiese, exceptuando la isla llamada Caris, que es la segunda según se va desde la Española á la India, y la que habitan personas que son consideradas por sus circunvecinas como las más feroces; éstas se alimentan de carne humana.
+(1,Original)Hombre cruel, sanguinario.
 
 Poseen muchas especies de canoas con las que llegan á desembarcar en todas las islas de la India, roban y arrebatan cuanto se les presenta. En nada se diferencian délos otros sino en llevar largos los cabellos como las mujeres, y en servirse de arcos y flechas de caña, fijas como ya se insinuó en astiles aguzados por la parte más gruesa; y esta es la cansa de que sean considerados como feroces, por lo que los demás indios les tienen un miedo incalculable: pero yo formo el mismo concepto de ellos que de los demás. Estos son los que se unen á ciertas mujeres que habitan solas la isla Matenin, que es la primera desde la Española á la India. Estas mujeres no se dedican á labor alguna propia de su sexo, pues usan de arcos y dardos, según se dijo de los anteriores, y se ponen por defensa láminas de cobre, de que tienen grande abundancia. 
 
@@ -182,13 +129,15 @@ Aunque todo lo referido parezca grande é inaudito, sería aun más maravilloso 
 procesiones: háganse ñestas solemnes: llénense los templos de ramas y flores: gózese Cristo en la tierra cual se regocija en los Cielos, al ver la próxima salvación de tan- 
 tos pueblos, entregados hasta ahora á la perdición. Regocijémonos, así por la exaltación de nuestra fe como por el aumento de bienes temporales, de los cuales no sólo habrá de participar la España sino toda la Cristiandad. 
 
-Tales son los sucesos que he descrito con brevedad. A Dios. En Lisboa á catorce (1) de Marzo. — Cristobal Colón, Almirante de la Armada del Océano. 
+Tales son los sucesos que he descrito con brevedad. A Dios. En Lisboa á catorce(1) de Marzo. — Cristobal Colón, Almirante de la Armada del Océano. 
+(1,Original) Debe ser 4 de Marzo.
 
-(1) Debe ser 4 de Marzo.
+## MEMORIAL
 
 MEMORIAL 
 
-Que para los Reyes Católicos dió el Almirante D. Cristóbal Colón, en la ciudad Isabela, á, 30 de Enero de 1494 á Antonio de Torres, sobre el suceso de su segundo viaje á las Indias; y al final de cada capítulo la respuesta de sus Altezas (1). 
+Que para los Reyes Católicos dió el Almirante D. Cristóbal Colón, en la ciudad Isabela, á, 30 de Enero de 1494 á Antonio de Torres, sobre el suceso de su segundo viaje á las Indias; y al final de cada capítulo la respuesta de sus Altezas(1).
+(1,Original)En el original y en el traslado del registro, de donde se sacó esta copia, están las respuestas al margen de cada capitulo. -Navarrete. 
 
 30 de Enero de 1494. 
 
@@ -196,399 +145,162 @@ Lo que vos Antonio de Torres, Capitán de la nao Marigalante, é Alcaide de la c
 
 Primeramente, dadas las cartas de creencia que lleváis de mí para sus Altezas, besaréis por mí sus reales pies é manos, é me encomendaréis en sus Altezas como á Rey é Reina mis Señores naturales, en cuyo servicio yo deseo fenecer mis días, como esto más largamente vos podréis decir á sus Altezas, según lo que en mí vistes é supistes. 
 
-Sus Altezas se lo tienen en servicio. 
+_Sus Altezas se lo tienen en servicio._
 
-Item: Como quiera que por las cartas que á sus Altezas escribo y aun el Padre Fray Buil y el Tesorero, podrán comprender todo lo que acá después de nuestra llegada se fizo, y esto harto por menudo y extensamente; con todo diréis á sus Altezas de mi parte, que á 
+Item: Como quiera que por las cartas que á sus Altezas escribo y aun el Padre Fray Buil y el Tesorero, podrán comprender todo lo que acá después de nuestra llegada se fizo, y esto harto por menudo y extensamente; con todo diréis á sus Altezas de mi parte, que á Dios ha placido darme tal gracia para en su servicio, que hasta aquí no hallo yo menos ni se ha hallado en cosa alguna de lo que yo escribí y dije, y afirmé á sus Altezas en los días pasados, antes por gracias de Dios espero que aun muy más claramente y muy presto por la obra parecerá, porque las cosas de especería en solas las orillas de la mar, sin haber entrado dentro en la tierra, se halla tal rastro é principios della, que es razón que se esperen muy mejores fines, y esto mismo en las minas del oro, porque con solos dos que fueron á descubrir cado uno por su parte, sin detenerse allá porque era poca gente, se ha descubierto tantos ríos tan poblados de oro, que cualquier de los que lo vieron é cogieron solamente con las manos por muestra, vinieron tan alegres, y dicen tantas cosas de la abundancia de11o, que yo tengo empacho de las decir y escribir á sus Altezas; pero porque allá va Gorbalán, que fue uno de los descubridores, él dirá lo que vio, aunque acá queda otro que llaman Hojeda, criado del Duque de Medinaceli, muy discreto mozo y de muy gran recabdo, que sin duda y aun sin comparación, descubrió mucho más, según el memorial de los ríos que él trajo, diciendo que en cada uno de ellos hay cosa de no creella; por lo cual sus Altezas pueden dar gracias á Dios, pues tan favorablemente se ha en todas sus cosas. 
 
-(1) En el original y en el traslado del registro, de donde se sacó esta copia, están las respuestas al margen de cada capitulo. — Navarrete. 
-
-
-Dios ha placido darme tal gracia para en su servicio, que hasta aquí no hallo yo menos ni se ha hallado en cosa alguna de lo que yo escribí y dije, y afirmé á sus Altezas en los días pasados, antes por gracias de Dios espero que aun muy más claramente y muy presto por la obra parecerá, porque las cosas de especería en solas las orillas de la mar, sin haber entrado dentro en la tierra, se halla tal rastro é principios della, que es razón que se esperen muy mejores fines, y esto mismo en las minas del oro, porque con solos dos que fueron á descubrir cado uno por su parte, sin detenerse allá porque era poca gente, se ha descubierto tantos ríos tan poblados de oro, que cualquier de los que lo vieron é cogieron solamente con las manos por muestra, vinieron tan alegres, y dicen tantas cosas de la abundancia de11o, que yo tengo empacho de las decir y escribir á sus Altezas; pero porque allá va Gorbalán, que fue uno de los descubridores, él dirá lo que vio, aunque acá queda otro que llaman Hojeda, criado del Duque de Medinaceli, muy discreto mozo y de muy gran recabdo, que sin duda y aun sin comparación, descubrió mucho más, según el memorial de los ríos que él trajo, diciendo que en cada uno de ellos hay cosa de no creella; por lo cual sus Altezas pueden dar gracias á Dios, pues tan favorablemente se ha en todas sus cosas. 
-
-Sus Altezas dan muchas tiradas á Dios por esto, y tienen en muy señalado servicio al Almirante todo lo que en esto ha fecho y hace, porque conocen que después de Dios á él son en cargo de todo lo que en esto han habido y hobierm; y porque, cerca desto le escriben más largo, á su carta se remiten. 
+_Sus Altezas dan muchas gracias á Dios por esto, y tienen en muy señalado servicio al Almirante todo lo que en esto ha fecho y hace, porque conocen que después de Dios á él son en cargo de todo lo que en esto han habido y hobierm; y porque, cerca desto le escriben más largo, á su carta se remiten._ 
 
 Item: Diréis á sus Altezas, como quier que ya se les escribe, que yo deseaba mucho en esta armada poderles enviar mayor cuantidad de oro del que acá se espera poder coger, si la gente que acá está nuestra, la mayor parle súbitamente no cayera doliente; pero porque va esta armada non se podía detener acá más, siquiera por la costa grande que hace, siquiera porque el tiempo es este propio para ir y poder volver los que han de traer acá las cosas que aquí hacen mucha mengua, porque si tardasen de irse de aquí non podrían volverse para Mayo los que han de volver, y allende desto si con los sanos (pie acá se hallan, así en mar como en tierra en la población, yo quisiera emprender de ir á las minas ó ríos agora, había muchas dificultades é aun peligros, porque de aquí á veintitrés ó veinticuatro leguas, en donde hay puertos é ríos para pasar y para tan largo camino, y para estar allá al tiempo que sería menester para coger el oro, había menester llevar muchos mantenimientos, los cuales non podían llevar á cuestas, ni hay bestias acá que á esto pudiesen suplir, ni los caminos é pasos non están tan aparejados, como quier que se han comenzado á adobar para que se podiesen pasar; y también era grande inconveniente dejar acá los dolientes en lugar abierto y chozas, y las provisiones y mantenimientos que están en tierra, que como quier que estos indios se hayan mostrado á los descubridores, y se muestran cada día muy simples y sin malicia; con todo, porque cada día vienen acá entre nosotros, non pareció que fuera buen consejo meter á riesgo y á ventura de perderse esta gente y los mantenimientos, lo que un indio con un tizón podría hacer poniendo fuego á las chozas, porque de noche y de día siempre van y vienen: á causa d ellos tenernos guardas en el campo mientras la población está abierta y sin defensión. 
 
-Que lo hizo bien. 
+_Que lo hizo bien._
 
 Otrosí: Como habernos visto en los que fueron por tierra á descobrir que los más cayeron dolientes después de vueltos, y aun algunos se hobieron de volver del camino, era también razón de temer que otro tal conteciese á los que agora irían destos sanos que se hallan y seguirse hian dos peligros de alii, el uno de adolecer allá en la misma obra do no hay casa ni reparo alguno de aquel Cacique que llaman Caonabó, que es hombre, según relación de todos, muy malo y muy más atrevido, el cual viéndonos allá así desbaratados y dolientes, podría emprender lo que non osaría si fuésemos sanos: y con esto mismo se allega otra dificultad de traer acá lo que llegásemos de oro, porque ó habíamos de traer poco y ir y venir cada día, y meterse en el riesgo de las dolencias, ó se había de enviar con alguna parte de la gente con el mismo peligro de perderlo. 
 
-Lo hizo bien. 
+_Lo hizo bien._
 
 Así que, diréis á sus Altezas, que estas son las cabsas porque de presente non se ha detenido el armada, ni se les envía oro más de las muestras; pero confiando en la misericordia de Dios, que en todo y por todo nos ha guiado basta aquí, esta gente convalescerá presto, como ya lo hace, porque solamente les aprueba la tierra de algunas ceciones, y luego se levantan; y es cierto que si tovíesen algunas carnes frescas para convalescer muy presto serían todos en pie con ayuda de Dios, é aún los más estarían ya convalescidos en este tiempo, empero que ellos convalescerán: con estos pocos sanos que acá quedan, cada día se entiende en cerrar la población y meterla en alguna defensa, y los mantenimientos en seguro, que será fecho en breves días, porque non ha de ser sino albarradas que non son gente los indios, que si dormiendo non nos fallasen para emprender cosa ninguna, aunque la tuviesen pensada, que así hicieron á los otros que acá quedaron por su mal recabdo, los cuales por pocos que fuesen, y por mayores ocasiones que dieran á los indios de haber é de hacer lo que hicieron, nunca ellos osaran emprender de dañarles si lo vieran á buen recado: y esto fecho luego se entenderá, en ir á los dichos ríos, ó desde aquí tomando el camino, y buscando los mejores expedientes que se puedan, ó por la mar rodeando la isla fasta aquella parte de donde se dice que no debe haber más de seis ó siete leguas hasta los dichos ríos; por forma que con seguridad se pueda coger el oro y ponerlo en recabdo de alguna fortaleza ó torre que allí se haga luego, para tenerlo cogido al tiempo que las dos carabelas volverán acá, ó para que luego con el primer tiempo que sea para navegar este camino se envíe á buen recabdo. 
 
-Que está bien, y así lo debe hacer. 
+_Que está bien, y así lo debe hacer._
 
 Item: Diréis á sus Altezas, como dicho es, que las causas de las dolencias tan general de todos es de mudamiento de aguas y aires, porque vemos que á todos arreo se extiende y peligran pocos; por consiguiente la conservación de la sanidad, después de Dios, está que esta gente sea proveída de los mantenimientos que en España acostumbraba, porque dellos, ni de otros que viniesen de nuevo sus Altezas se podrán servir si no están sanos; y esta provisión ha de durar hasta que acá se haya fecho cimiento de lo que acá se sembrare é plantare, digo de trigos y cebadas, é viñas, de lo cual para este año se ha fecho poco, porque no se pudo de antes tomar asiento, y luego que se tomó adolescieron aquellos poquitos labradores que acá estaban, los cuales aunque estuvieran sanos tenían tan pocas bestias y tan magras y flacas, que poco es lo que pudieran hacer: con todo, alguna cosa han sembrado, más para probar la tierra, que parece muy maravillosa, para que de allí se pueda esperar remedio alguno en nuestras necesidades.
 
 Somos bien ciertos, como la obra lo muestra, que en esta tierra, así el trigo como el vino, nacerá muy bien; pero liase de esperar el fruto, el cual si tal será como 
 muéstrala presteza del nacer del trigo, y de algunos poquitos de sarmientos que se pusieron, es cierto que non fará mengua el Andalucía ni Secilia aquí, ni en las cañas de azúcar, según unas poquitas que se pusieron han prendido; porque es cierto que la hermosura ríe la tierra de estas islas, así de montes é sierras y aguas, como de vegas donde hay ríos cabdales, es tal la vista que ninguna otra tierra que sol escaliente puede ser mejor al parecer ni tan fermosa. 
 
-Pues la tierra es tal, que debe procurar que se siembre lo más que ser pudiere de todas cosas, y á D. Juan de Fonseca se escribe que envíe de contino todo lo que fuere menester para esto. 
+_Pues la tierra es tal, que debe procurar que se siembre lo más que ser pudiere de todas cosas, y á D. Juan de Fonseca se escribe que envíe de contino todo lo que fuere menester para esto._
 
 Item: Diréis que á cabsa de haberse derramado mucho vino en este camino del que la flota traía, y esto, según dicen los más, á culpa de la mala obra que los toneleros ficieron en Sevilla, la mayor mengua que agora tenemos aquí, ó esperarnos por esto tener, es de vinos, y como quier que tengamos para más tiempo así vizcocho como trigo, con todo es necesario que también se envie alguna cantidad razonable, porque el camino es largo y cada día no se puede proveer, é asimismo algunas canales, digo tocinos, y otra cecina que sea mejor que la que habernos traído este camino. De carneros vivos y aun antes corderos y cordericas, más fembras que machos, y algunos becerros y becerras pequeños son menester, que cada vez vengan en cualquier carabela que acá se enviare, y algunas asnas y asnos, y yeguas para trabajo y simiente, que acá ninguna de estas animabas hay de que hombre se pueda ayudar ni valer. Y porque recelo que sus Altezas no se fallarán en Sevilla, ni los Oficiales ó Ministros suyos sin expreso mandamiento non proveerían en lo porque ahora con este primero camino es necesario que venga, porque en la consulta y en la respuesta se pasaría la sazón del partir los navios que acá por todo Mayo es necesario que sean, diréis á sus Altezas, como yo vos di cargo y mandé, que del oro que allá lleváis, empeñándolo, ó poniéndolo cu poder de algún mercader en Sevilla, el cual distraya y ponga los maravedís (pie serían menester para cargar dos carabelas de vino y de trigo, y de las otras cosas que lleváis por memorial, el cual mercader lleve ó envíe el dicho oro para sus Altezas, que le vean, resciban y hagan pagar lo que hobiere distraído ó puesto para el despacho y cargazón de Jas dichas dos carabelas, las cuales, por consolar y esforzar esta gente que acá queda, cumple que fagan más de poder de ser acá vueltas por todo el mes de Mayo, porque la gente antes 
 de entrar en el verano vea é tenga algún refrescamiento destas cosas, en especial para las dolencias; de las cuales cosas acá ya tenemos gran mengua, como son pasas, azúcar, almendras, miel é arroz, que debiera venir en gran cuantidad y vino muy poca, é aquello que vino es ya consumido é gastado, y aun la mayor parte de las medecinas que de allá trojieron, por la muchedumbre de los muchos dolientes; de las cuales cosas, como dicho es, vos lleváis memoriales asi para sanos como para dolientes, firmados de mi mano, los cuales cumplidamente si el dinero bastare, ó á lo menos lo que más necesario sea para agora despachar, es para que lo puedan luego traer los dichos dos navios, y lo que quedare procuraréis con sus Altezas que con otros navios venga lo más presto que ser pudiere. 
 
-Sus Altezas enviaron á mandar á D. Juan de Fonseca que luego haya información de los que hicieron ese engaño en los toneles, y de sus bienes haga que se cobre todo el daño que vino en el vino, con las costas; y en lo de las cañas vea como las que se enviaren sean buenas , y en las otras cosas que aquí dice que las provea luego. 
+_Sus Altezas enviaron á mandar á D. Juan de Fonseca que luego haya información de los que hicieron ese engaño en los toneles, y de sus bienes haga que se cobre todo el daño que vino en el vino, con las costas; y en lo de las cañas vea como las que se enviaren sean buenas , y en las otras cosas que aquí dice que las provea luego._
 
 Item: Diréis á sus Altezas que á cabsa que acá no hay lengua por medio de la cual á esta gente se pueda dar á entender nuestra Santa Fe, como sus Altezas desean, y aun los (pie acá estamos, como quier que se trabajará cuanto pudieren, se envían de presente con estos navios así de los caníbales, hombres y mujeres y niños y niñas, los cuales sus Altezas pueden mandar poner en poder de personas con quien puedan mejor aprender la lengua, ejercitándolos en cosas de servicio, y poco á poco mandando poner en ellos algún más cuidado que en otros esclavos para que deprendan unos de otros, que no se hablen ni se vean sino muy tarde, que más presto deprenderán allá que no acá, y serán mejores intérpretes, como quier que acá non se dejará de hacer lo que se pueda; es verdad que como esta gente platican poco los de la una isla con los de la otra, en las lenguas hay alguna diferencia entre ellos, según como están más cerca ó más lejos; y porque entre las otras islas las de los caníbales son mucho grandes, y mucho bien pobladas, parecerá acá que tomar deilos y dellas y enviarlos allá á Castilia non sería sino bien, porque quitarse hian una vez de aquella inhumana costumbre que tienen de comer hombres, y allá en Castilla entendiendo la lengua muy más presto rescibirían el Bautismo, y farían el provecho de sus ánimas: aun entre estos pueblos que non son de esas costumbres, se ganaría gran crédito por nosotros viendo que aquellos prendiésemos y cativásemos, de quien ellos suelen rescibir daños, y tienen tamaño miedo que del hombre solo se espantan; certificando á sus Altezas que la venida é vista de esta flota acá en esta tierra así junta y hermosa, ha dado muy grande autoridad á esto, y muy grande seguridad para las cosas venideras, porque toda esta gente de esta grande isla y de las otras, viendo el buen tratamiento que á los buenos se fará y el castigo que á los malos se dará, verná á obediencia prestamente para poderlos mandar como vasallos de sus Altezas. Y como quier que ellos agora donde quier que hombre se baile non sólo hacen de grado lo que hombre quiere que fagan, mas ellos de su voluntad se ponen á todo lo que entienden que nos puede placer, y también pueden ser ciertos sus Altezas que non menos allá, entre los cristianos Príncipes haber dado gran reputación la venida desta armada por muchos respetos, así presentes como venideros. los cuales sus Altezas podrán mejor pensar y entender que non sabría decir. 
 
-Decirle heis lo que acá ha habido en lo de los caníbales que acá vinieron. 
+_Decirle heis lo que acá ha habido en lo de los caníbales que acá vinieron._ 
 
-Que está muy bien, y así lo debe hacer; pero que procure allá, como si ser pudiere , se reduzgan á nuestra santa Fe católica, y asimismo lo procure con los de las islas donde está. 
+_Que está muy bien, y así lo debe hacer; pero que procure allá, como si ser pudiere , se reduzgan á nuestra santa Fe católica, y asimismo lo procure con los de las islas donde está._
 
 Item: Diréis á, sus Altezas, que el provecho de las almas de los dichos caníbales, y aun destos de acá, ha traído el pensamiento que cuantos más allá se llevasen sería mejor, y en ello podrían sus Altezas ser servidos desta manera; que visto cuánto son acá menester los ganados y bestias de trabajo para el sostenimiento de la gente que acá ha de estar y bien de todas estas islas, sus Altezas podrán dar licencia é permiso á un número de carabelas suficiente que vengan acá cada año, y trayan de los dichos ganados y otros mantenimientos y cosas para poblar el campo y aprovechar la tierra, y esto en precios razonables á sus costas de los que las trugieren, las cuales cosas se les podrían pagar en esclavos de estos caníbales, gente tan fiera y dispuesta, y bien proporcionada y de muy buen entendimiento, los cuales quitados de aquella inhumanidad creemos que serán mejores que otros ningunos esclavos, la cual luego perderán que sean fuera de su tierra, y de estos podrán haber muchos con las fustas de remos que acá se 
 entienden de hacer, fecho empero presupuesto que cada una de las carabelas que viniesen de sus Altezas pusiesen una persona fiable, la cual defendiese las dichas carabelas que non descendiesen á ninguna otra parte ni isla salvo aquí, donde ha de estar la carga y descarga de toda la mercaduría; y aun destos esclavos que se llevaren, sus Altezas podrían haber sus derechos allá; y desto traeréis ó enviaréis respuesta, porque acá se hagan los aparejos que son menester con más confianza, si á sus Altezas pareciere bien. 
 
-En esto se ha suspendido por agora hasta que venga otro camino de allá, y escriba el Almirante lo que en esto le paresciere. 
+_En esto se ha suspendido por agora hasta que venga otro camino de allá, y escriba el Almirante lo que en esto le paresciere._ 
 
 Item: También diréis á sus Altezas que más provechoso es, y menos costa, fletar los navios como los fletan los mercaderes para Flandes, por toneladas, que non de otra manera; por ende que yo vos di cargo de fletar á este respecto las dos carabelas que habéis luego de enviar: y así se podrá hacer de todas las otras que sus Altezas enviaren, si de aquella forma se ternán por servidos; pero non entiendo decir esto de las que han de venir con su licencia por la mercaduría de los esclavos. 
 
-Sus Altezas mandan á D. Juan de Fonseca que en el fletar de las carubelas tenga esta forma si ser pudiere. 
+_Sus Altezas mandan á D. Juan de Fonseca que en el fletar de las carubelas tenga esta forma si ser pudiere._
 
 Item: Diréis á sus Altezas que á causa de excusar alguna más costa, yo merqué estas carabelas que lleváis por memorial para retenerlas acá con estas dos naos, conviene á saber: la Gallega y esa otra Capitana, de la cual merqué por semejante del Maestre della los tres ochavos por el precio que en el dicho memorial destas copias lleváis firmado de mi mano, los cuales navios non sólo darán autoridad y gran seguridad á la gente que ha de estar dentro y conversar con los indios para coger el oro, mas aun para otra cualquier cosa de peligro que de gente extraña pudiese aeontescer, allende que las carabelas son necesarias para el descubrir de la tierra firme y otras islas que entre aquí é allá están; y suplicaréis á sus Altezas que los maravedís que estos navios cuestan, manden pagar en los tiempos que se les ha prometido, porque sin dubda ellos ganaran bien su costa, según yo creo y espero en la misericordia de Dios. 
 
-El Almirante lo hizo bien, y decirle heis cómo acá se pagó al que vendió la nao, y mandaron á D. Juan de Fonseca que pague lo de las carabelas que el Almirante compró. 
+_El Almirante lo hizo bien, y decirle heis cómo acá se pagó al que vendió la nao, y mandaron á D. Juan de Fonseca que pague lo de las carabelas que el Almirante compró._
 
 Item: Diréis á sus Altezas y suplicaréis de mi parte cuanto más humilmente pueda, que les plega mucho mirar en lo que por las cartas y otras escripiuras verán más largamente tocante á la paz ó sosiego é concordia de los que acá están, y que para las cosas del servicio de sus Altezas escojan tales personas que non se tenga recelo dellas, y que miren más á lo por que se envían, que non á sus propios intereses; y en esto, pues que todas las cosas vistes ó supistes, hablaréis é diréis á sus Altezas la verdad de todas las cosas como las comprendistes, y que la provisión de sus Altezas que sobre ello mandaren facer, venga con los primeros navios si posible fuere, á fin que acá non se hagan escándalos en cosa que tanto va en el servicio de sus Altezas. 
 
-Sus Altezas están bien informados desto, y en todo se proveerá como conviene. 
+_Sus Altezas están bien informados desto, y en todo se proveerá como conviene._
 
 Item: Diréis á sus Altezas el asiento de esta ciudad, é la fermosura de la provincia alderedor como lo vistes y compreendistes, y como yo vos hice Alcayde della por los poderes que de sus Altezas tengo para ello, á las cuales humildemente suplico que en alguna parte de satisfacción de vuestros servicios, tengan por bien la dicha provisión, como de sus Altezas yo espero.
 
-A sus Altezas plaze que vos seáis Alcayde. 
+_A sus Altezas plaze que vos seáis Alcayde._
 
 Item: Porque Mosen Pedro Margarite, criado de sus Altezas, ha bien servido, y espero que así lo hará adelante en las cosas que le fueren encomendadas, he habido placer de su quedada aquí, y también de Gaspar y de Beltrán, por ser conocidos criados de sus Altezas, para los poner en cosas de confianza: suplicaréis á sus Altezas que especial al dicho Mosen Pedro, que es casado y tiene hijos, le provean de alguna encomienda en la Orden de Santiago, de la cual él tiene el hábito, porque su mujer é hijos tengan en qué vivir. Asimismo haréis relación de Juan Aguado, criado de sus Altezas, cuán bien ó diligentemente ha servido en todo lo que le ha seido mandado; que suplico a sus Altezas, á él é á los sobredichos los hayan por encomendados é por presentes. 
 
-Sus Altezas mandan asentar á Mosen Pedro 30.000 maravedís cada año, y á Gaspar y Beltrán á cada uno 15.000 maravedís cada año desde hoy 15 de Agosto de 94 en adelante, y 
-así les haga pagar el Almirante en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pagar: y en lo de Juan Aguado sus Altezas habrán memoria de él. 
+_Sus Altezas mandan asentar á Mosen Pedro 30.000 maravedís cada año, y á Gaspar y Beltrán á cada uno 15.000 maravedís cada año desde hoy 15 de Agosto de 94 en adelante, y así les haga pagar el Almirante en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pagar: y en lo de Juan Aguado sus Altezas habrán memoria de él._
 
 Item: Diréis á sus Altezas el trabajo que el Doctor Chanca tiene con el afruenta de tantos dolientes, y aun la estrechura de los mantenimientos, é aun con todo ello se dispone con gran diligencia y caridad en todo lo que cumple á su oíicio, y porque sus Altezas remitieron á mí el salario que acá se le había de dar, porqué estando acá es cierto quél non toma ni puede haber nada de ninguno, ni ganar de su oficio como en Castilla ganaba, é podría ganar estando á su reposo é viviendo de otra manera que acá no vive; y así que como quiera que él jura que es más lo que allá ganaba allende el salario que sus Altezas le dan, y non me quise extender más de cincuenta mil maravedís por el trabajo que acá pasa cada un año mientras acá estoviere; los cuales suplico á sus Altezas le manden librar con el sueldo de acá y eso mismo, porque él dice y afirma que todos los físicos de vuestras Altezas, que andan en reales ó semejantes cosas que éstas, suelen haber de derecho un día de sueldo en todo el año de toda la gente: con todo he seido informado, y dícenme, que como quier que esto sea, la costumbre es de darles cierta suma tasada á voluntad y mandamiento de sus Altezas en compensa de aquel día de sueldo. Suplicaréis á sus Altezas que en ello manden proveer, así en lo del salario como de esta costumbre, por forma que el dicho Doctor tenga razón de ser contento. 
 
-A sus Altezas place desto del Doctor Chanca, y que se le pague esto desde quel Almirante gelo asentó, y que qelos pague con lo del sueldo. 
+_A sus Altezas place desto del Doctor Chanca, y que se le pague esto desde quel Almirante gelo asentó, y que qelos pague con lo del sueldo._
 
-En esto del día del sueldo de los físicos, non lo acostumbran haber sino donde el Rey nuestro Señor esté en persona. 
+_En esto del día del sueldo de los físicos, non lo acostumbran haber sino donde el Rey nuestro Señor esté en persona._
 
 Item: Diréis á sus Altezas de Coronel cuanto es hombre para servir á sus Altezas en muchas cosas, y cuanto ha servido basta aquí en todo lo más necesario, y la mengua que dél sentimos agora que está doliente, y que sirviendo de tal manera es razón quél sienta el fruto de su servicio, non sólo en las mercedes para después más en lo de su salario en lo presente, en manera quél é los que acá están sientan que les aprovecha el servicio, porque según el ejercicio que acá se ha de tener en coger este oro, no son de tener en poco las personas en quien tanta diligencia hay: y porque por su habilidad se proveyó acá por mí del oficio de Alguacil mayor destas Indias, y en la provisión va el salario en blanco, que suplico á sus Altezas gelo manden henchir como más sea su servicio, mirando sus servicios, confirmándole la provisión que acá se le dio, é proveyéndole de él de juro. 
 
-Sus Altezas mandan que le asienten quince mil maravedís cada ano más de su sueldo, é que se le paguen cuando le pagaren su sueldo. 
+_Sus Altezas mandan que le asienten quince mil maravedís cada ano más de su sueldo, é que se le paguen cuando le pagaren su sueldo._
 
 Asimismo diréis á sus Altezas como aquí vino el Bachiller Gil García por Alcalde mayor é non se le ha consignado ni nombrado salario, y es persona de bien y de buenas letras, é diligente, é es acá bien necesario; que suplico á sus Altezas le manden nombrar é consignar su salario, por manera que él se pueda sostener, é le sea librado con el dinero del sueldo de acá. 
 
-Sus Altezas le mandan asentar cada uño veinte mil maravedís en tanto que allá estoviere y más su sueldo, y que gelu paguen cuando pagaren el sueldo. 
+_Sus Altezas le mandan asentar cada uño veinte mil maravedís en tanto que allá estoviere y más su sueldo, y que gelu paguen cuando pagaren el sueldo._
 
 Item: Diréis á sus Altezas como quier que ya se lo escribo por las cartas, que para este año non entiendo que sea posible ir á descobrir hasta que esto destos ríos 
 que se hallaron de oro sea puesto en el asiento debido á servicio de sus Altezas, que después mucho mejor se podrá facer, porque no es cosa que nadie la podiese facer sin mi presencia á mi grado, ni á servicio de sus Altezas, por muy bien que lo ficiese, como es en dubda según lo que hombre vee por su presencia. 
 
-Trabaje como lo más preciso que ser pueda se sepa lo adito de ese oro. 
+_Trabaje como lo más preciso que ser pueda se sepa lo adito de ese oro._
 
 Item: Diréis á sus Altezas como los escuderos de caballo que vinieron de Granada, en el alarde que ficieron en Sevilla mostraron buenos caballos, é después al embarcar, yo no lo vi porque estaba un poco doliente, y metiéronlos tales quel mejor dellos non parece que vale dos mil maravedís, porque vendieron los otros y compraron estos, y esto fue de la suerte que se hizo lo de mucha gente que allá en los alardes de Sevilla yo vi muy buena; parece que Juan de Soria, después de dado el dinero de! sueldo, por algún interese suyo puso otros en lugar de aquellos que yo acá pensaba fallar, y fallo gente que yo nunca había visto: en esto ha habido gran maldad, de tal manera que yo no sé si me queje del solo: por esto, visto que á estos escuderos se ha fechado la costa basta aquí, allende de sus sueldos y también á sus caballos, y se hace de presente y son personas que cuando ellos están dolientes, ó non, se les antoja, non quieren que sus caballos sirvan sin ellos mismos; sus Altezas no quieren que se les compren estos caballos sino que sirvan á sus Altezas, y esto mismo no les paresce que deban servir ni cosa ninguna sino á caballo, lo cual agora de presente non face mucho al caso, é 
 por esto parece que sería mejor comprarles los caballos, pues que tan poco valen, y non estar cada día con ellos en estas pendencias; por ende que sus Altezas determinen esto como fuere su servicio. 
 
-Sus Altezas mandan á D. Juan de Fonseca que se informe de esto de estos caballos, y si se hallare que es verdad que hicieron ese engaño, lo envíen á sus Altezas porque lo mandarán castigar; y también se informe deso que dice de la otra gente, y envíe la pesquisa á sus Altezas; y en lo destos escuderos sus Altezas mandan que estén allá y sirvan, pues son de las guardas y criados de sus Altezas; y á los escuderos mandan sus Altezas que den los caballos cada vez que fueren menester y el Almirante lo mandare, y si algún daño recibieren los caballos oyendo otros en ellos , por medio del Almirante mandan sus Altezas que gelo paguen. 
+_Sus Altezas mandan á D. Juan de Fonseca que se informe de esto de estos caballos, y si se hallare que es verdad que hicieron ese engaño, lo envíen á sus Altezas porque lo mandarán castigar; y también se informe deso que dice de la otra gente, y envíe la pesquisa á sus Altezas; y en lo destos escuderos sus Altezas mandan que estén allá y sirvan, pues son de las guardas y criados de sus Altezas; y á los escuderos mandan sus Altezas que den los caballos cada vez que fueren menester y el Almirante lo mandare, y si algún daño recibieren los caballos oyendo otros en ellos , por medio del Almirante mandan sus Altezas que gelo paguen._
 
 Item; Diréis á sus Altezas como aquí han venido más de doscientas personas sin sueldo, y hay algunos dellos que sirven bien, y aun los otros por semejante se mandan que lo hagan así, y porque para estos primeros tres años será gran bien que aquí estén mil hombres para asentar y poner en muy gran seguridad esta isla y ríos de oro, y aunque hobiese ciento de caballo non se perdería nada, antes parece necesario, aunque en estos de caballo, fasta que oro se envíe, sus Altezas podrán sobreceer: con todo á estas doscientas personas, que vienen sin sueldo, sus Altezas deben enviar á decir si se les pagará sueldo como á los otros sirviendo bien, porque cierto son necesarios como dicho tengo para este comienzo. 
 
-De estas doscientas personas que aquí dice que fueron sin sueldo, mandan sus Altezas que entren en lugar de los que han faltado y faltaren de los que iban á sueldo, seijendo hábiles y á contentamiento del Almirante, y sus Altezas mandan al Contador que los asiente en lugar de los que faltaren como el Almirante lo dijere. 
+_De estas doscientas personas que aquí dice que fueron sin sueldo, mandan sus Altezas que entren en lugar de los que han faltado y faltaren de los que iban á sueldo, seijendo hábiles y á contentamiento del Almirante, y sus Altezas mandan al Contador que los asiente en lugar de los que faltaren como el Almirante lo dijere._
 
 Item: Porque en algo la costa de esta gente se puede aliviar con industria y formas que otros Príncipes suelen tener en otras, lo gastado mejor que acá se podría excusar, paresce que sería bien mandar traer en los navios que vinieren allende de las otras cosas que son para los mantenimientos comunes, y de la botica, zapatos y cueros para los mandar facer; camisas comunes y de otras, jubones, lienzo, sayos, calzas, paños para vestir en razonables precios; y otras cosas, como son conservas, que son fuera de ración, y para conservación de la salud, las cuales cosas todas la gente de acá recibiría de grado en descuento de su sueldo, y si allá esto se mercase por Ministros leales y que mirasen el servicio de sus Altezas, se ahorraría algo: por ende sabréis la voluntad de sus Altezas cerca desto, y si les pareciere ser su servicio, luego se debe poner en obra. 
 
-Por este camino se solia ser fasta que más escriba el Almirante, y ya enviarán á mandar á D. Juan de Fonseca con Jimeno de Bribiesca que provea en esto. 
+_Por este camino se solia ser fasta que más escriba el Almirante, y ya enviarán á mandar á D. Juan de Fonseca con Jimeno de Bribiesca que provea en esto._
 
-Item: También diréis á sus Altezas, que por cuanto 
-ayer en el alarde queso tomó se falló la gente muy des- 
-armada, lo cual pienso que en parte contesció por aquel 
-trocar que allá se fizo en Sevilla ó en el puerto cuando 
-se dejaron los que se mostraron armados, y tomaron 
-otros que daban algo á quien los trocaba, paresce que 
-sería bien que se mandasen traer doscientas corazas, y 
-cien espingardas y cien ballestas, y mucho almacén, 
-que es la cosa que más menester habernos, y de todas 
-estas armas se podrán dar á los desarmados. 
+Item: También diréis á sus Altezas, que por cuanto ayer en el alarde queso tomó se falló la gente muy desarmada, lo cual pienso que en parte contesció por aquel trocar que allá se fizo en Sevilla ó en el puerto cuando se dejaron los que se mostraron armados, y tomaron otros que daban algo á quien los trocaba, paresce que sería bien que se andasen traer doscientas corazas, y cien espingardas y cien ballestas, y mucho almacén, que es la cosa que más menester habernos, y de todas estas armas se podrán dar á los desarmados.
 
-RELACIONES V CARTAS 
+_Ya se escribe á D. Juan de Fonseca que provea en esto._
 
-Ya se escribe á D. Juan de Fonseca que provea en esto. 
+Item: Por cuanto algunos oficiales que acá vinieron como son albañies y de otros oficios, que son casados y tienen sus mujeres allá, y querrían que allá lo que se les debe de su sueldo se diese á sus mujeres ó á las personas á quien ellos enviaren sus recabdos, para que les compren las cosas que acá han menester; que á sus Altezas suplico les mande librar, porque su servicio es que éstos estén proveídos acá. 
 
-Item: Por cuanto algunos oficiales que acá vinieron 
-como son albañies y de otros oficios, que son casados y 
-tienen sus mujeres allá, y querrían que allá lo que se 
-Ies debe de su sueldo se diese á sus mujeres ó ¿las 
-personas á quien ellos enviaren sus recabdos, puraque 
-les compren las cosas que acá lian menester; que á sus 
-Altezas suplico les mande librar, porque su servicio es 
-que éstos estén proveídos acá. 
+_Ya enviaron á mandar sus Altezas á D. Juan de Fonseca que provea en esto._
 
-Ya enviaron á mandar sus Alte-as á l). Juan de Fonseca 
-que provea en esto. 
+Item: Porque allende Las otras cosas que allá se envían á pedir por los memoriales que lleváis de mi mano firmados, así para mantenimiento de los sanos como para los dolientes, sería muy bien que se hobiesen de la isla de la Madera cincuenta pipas de miel de azúcar, porque es el mejor mantenimiento del mundo y más sano, y non suele costar cada pipa sino á dos ducados sin el casco; y si sus Altezas mandan que á la vuelta pase por allí alguna carabela las podrá mercar, y también diez cajas de azúcar que es mucho menester, que esta es la mejor sazón del año, digo entre aquí é el mes de Abril para fallarlo, é haber dello buena razón, y podríase dar orden mandándolo sus Altezas, é que non supiesen allá para donde lo quieren. 
 
-Item: Porque allende Las otras cosas que allá se en- 
-vían á pedir por los memoriales que lleváis de mi mano 
-firmados, así para mantenimiento de los sanos como 
-para los dolientes, sería muy bien que se liobiesen de 
-la isla de la Madera cincuenta pipas de miel de azúcar, 
-porque es el mejor mantenimiento del mundo y más 
-sano, y non suele costar cada pipa sino á dos ducados 
-sin el casco; y si sus Altezas mandan que á la vuelta 
-pase por allí alguna carabela las podrá mercar, 3' tam- 
-bién diez cajas de azúcar que es mucho menester, que 
-esta es la mejor sazón del año, digo entre aquí é el mes 
-de Abril para fallarlo, é haber dello buena razón, y po- 
-dríase dar orden mandándolo sus Altezas, c que non 
-supiesen allá para donde lo quieren. 
+_D. Juan de Fonseca que provea en esto._
 
-i). Juan de Fonseca que provea en esto. 
+Item: Diréis á sus Altezas, por cuanto aunque los ríos tengan en la cuantidad que se dice por los que lo han visto, pero que lo cierto dello es quel oro non se engendra en los ríos más en la tierra, quel agua topando con las minas lo trae envuelto en las arenas, y porque en estos tantos ríos se han descubierto, como quiera que hay algunos grandecitos, hay otros tan pequeños que son más fuentes que no ríos, que non llevan de dos dedos de agua, y se falla luego el cabo donde nasce; para lo cual non sólo serán provechosos los lavadores para cogerlo en el arena, mas los otros para cavarlo en la tierra, que será lo más especial é de mayor cuantidad; é por esto será bien que sus Altezas envíen lavadores, é de los que andan en las minas allá en Almadén, porque en la una manera y en la otra se faga el ejercicio, como quier que acá non esperaremos á 
+ellos, que con los lavadores que aquí tenemos, esperamos con la ayuda de Dios, si una vez la gente está sana, allegar un buen golpe de oro para las primeras carabelas que fueren. 
 
-Item: Diréis á sus Altezas, por cuanto aunque los 
-ríos tengan en la cuantidad que se dice por los que lo 
-lian visto, pero que lo cierto dello es quel oro non se 
-engendra en los ríos más en la tierra, quel agua topan- 
-do con las minas lo trae envuelto en las arenas, y por- 
-que en estos tantos ríos se lian descubierto, como quie- 
-ra que hay algunos grandeeitos, hay oiros tan peque- 
-ños que son más fuentes que 110 ríos, que non llevan 
-de dos dedos de agua, y se falla luego el cabo donde 
+_A otro camino se proveerá en esto cumplidamente; en tanto mandan sus Altezas á D. Juan de Fonseca que envíe luego los más minadores que pudiere haber, y escriben al Almadén , que de allí tomen los que más pudieren y los envíen._
 
-CRISTÓBAL COLÓ A' 
+Item: Suplicaréis ásus Altezas de mi parte muy humildemente, que quieran tener por muy encomendado á Villacorta, el cual, como sus Altezas saben, ha mucho servido en esta negociación, y con muy buena voluntad, y según le conozco persona diligente y afecionada á su servicio, rescebiré merced que se le dé algún cargo de confianza, para lo cual él sea suficiente, y pueda mostrar su deseo de servir y diligencia, y esto procuraréis por forma que el Villacorta conozca por la obra que lo que ha trabajado por mí en lo que yo le hobe menester le aprovecha en esto. 
 
-nasce; para lo cual non sólo serán provechosos los la- 
-vadores para cogerlo en el arena, mas los otros para 
-cavarlo en la tierra, que será lo más especial é de ma- 
-yor cuantidad; 6 por esto será bien que sus Altezas en- 
-víen lavadores, é de los que andan en las minas allá en 
-Almadén, porque en la una manera y en la otra se faga 
-el ejercicio, como quier que acá non esperaremos á 
-ellos, que con los lavadores que aquí tenemos, espera- 
-mos con la ayuda de Dios, si una vez la gente está sana, 
-allegar un buen golpe de oro para las primeras carabe- 
-las que fueren. 
+_Así se hará._
 
-A otro camino se proveerá en esto cumplidamente; en tanto 
-mandan sus Altezas á D. Juan de Fonseca que envíe luego los 
-más minadores que pudiere haber, y escriben al Almadén , que 
-de allí tomen los que más pudieren y los envíen. 
+Item: Que los dichos Mosen Pedro y Gaspar y Beltrán, y otros que han quedado acá, trajieron capitanías de carabelas, que son agora vueltas, y non gozan del sueldo; pero porque son tales personas, que se han de poner en cosas principales y de confianza, non se les ha determinado el sueldo que sea diferenciado de los otros, suplicaréis de mi parte á sus Altezas determinen lo que se les ha de dar en cada un año, ó por meses, como más fueren servidos. Fecho en la ciudad Isabela á treinta días de Enero de mil cuatrocientos y noventa y cuatro años. 
 
-Item: Suplicaréis ásus Altezas de mi parte muy hu- 
-mildemente, que quieran tener por muy encomendado 
-á Villacorta, el cual, como sus Altezas saben, ha mu- 
-cho servido en esta negociación, y con muy- buena vo- 
-luntad, y según le conozco persona diligente y afecio- 
-nada á su servicio, rescebiré merced que se le dé algún 
-cargo de confianza, para lo cual él sea suficiente, y 
-pueda mostrar su deseo de servir y diligencia, y esto 
-procuraréis por forma que el Villacorta conozca por la 
-obra que lo que ha trabajado por mí en lo que yo le 
-liobe menester le aprovecha en esto. 
+_Ya está respondido arribo pero porque en el dicho capitulo que en esto habla dice que gozan del salario, desde agora mandan sus Altezas que se les cuenten á todos sus salarios desde que dejaron las capitanías._
 
-Así se hará. 
-
-Item: Que los dichos Mosen Pedro y Gaspar y Bel- 
-trán, y otros que han quedado acá, trajieron capitanías 
-de carabelas, que son agora vueltas, y non gozan del 
-sueldo; pero porque son tales personas, que se han de 
-poner en cosas principales y de confianza, non se les ha 
-determinado el sueldo que sea diferenciado de los otros, 
-suplicaréis de mi parte á sus Altezas determinen lo 
-que se les ha de dar en cada un año, ó por meses, como 
-
-RELACrO.VES A" CARTAS 
-
-más fueren servidos. Fecho en la ciudad Isabela á 
-treinta días de Enero de mil cuatrocientos y noventa y 
-cuatro años. 
-
-Ya está respondido arribo pero porque en el dicho capitu- 
-lo que en esto habla dice que gozan del salario, desde agora 
-mandan sus Altezas que se les cuenten á todos sus salarios 
-desde que dejaron las capitanías. 
-
-Hállase una copia coetánea desde el folio 124 hasta el 129 
-de un libro en folio rotulado: Libro de traslados de las 
-Cédulas y Provisiones de Armadas para las Indias del 
-tiempo de los lleves Católicos, que existe en el Archivo 
-general de Indias de Sevilla, entre los papeles traídos del de 
-Simancas, legajo 1 0 de los de Diferentes materias. — Y al- 
-folio 68 del mismo libro se halla la nota siguiente: El memo- 
-rial que trajo Antonio de Torres del Almirante de las 
-Indias, es su traslado el que aquí adelante está cosido, 
-y llevó el dicho Antonio de Torres el original respon- 
-dido en las márgenes según está en este dicho trasla- 
-do. — Confrontóse en 30 de Mayo de 1793. — Martin Fernán- 
-dez de i\avarrete. 
+Hállase una copia coetánea desde el folio 124 hasta el 129 de un libro en folio rotulado: Libro de traslados de las Cédulas y Provisiones de Armadas para las Indias del 
+tiempo de los lleves Católicos, que existe en el Archivo general de Indias de Sevilla, entre los papeles traídos del de Simancas, legajo 1ro de los de Diferentes materias. —Y al folio 68 del mismo libro se halla la nota siguiente: El memorial que trajo Antonio de Torres del Almirante de las Indias, es su traslado el que aquí adelante está cosido, y llevó el dicho Antonio de Torres el original respondido en las márgenes según está en este dicho traslado. — Confrontóse en 30 de Mayo de 1793. — Martin Fernández de Navarrete. 
 
 ## Instrucción a Mosén Pedro Margarit (1494)
 
-INSTRUCCIÓN 
+INSTRUCCIÓN QUE DIO D. CRISTÓBAL COLÓN A MOSEN PEDRO MARGARITE 
 
-Qt:rc di ó 
+PARA RECONOCER LAS PROVINCIAS DE LA ISLA DE CUBA 
 
-D. CRISTÓBAL COLÓN 
+9 de Abril de 1494
 
-A 
+Dice así:
 
-MOSEN PEDRO MARGARITE 
+Primeramente: que luego que vos fuere ciada é entregada la dicha gente por Hojeda, la rescibáis según ó en la manera que la él lleva, é así resccbida, ordenéis las batallas que segund la dispusición de la tierra os paresciere ser necesarias, é las deis é entreguéis á las personas con nombres de Capitanes que viéredes que las deben llevar, é que sirvan al Rey é á la Reina, nuestros Señores, ó vos obedezcan é cumplan lo que les dijéredes é mandáredes de parte de sus Altezas ó de la mía, por virtud de los poderes que para ello tengo de sus Excelencias. 
 
-PARA RECONOCER 
+Item: por alguna experiencia que se tiene del andar de esta tierra, se escriben aquí bajo algunas cosas que son necesarias de liacer: con todo, porque vos andaréis otras provincias ó lugares de las que se han experimentado, puesto que todo es una costumbre é una manera de la gente, se os deja cargo que vos como presente acrecentéis ó quitéis de esto que aquí abajo so escribiere como á vos os pareciese al tiempo é á la disposición de la tierra: porque la primera intención desto es que vais con toda esta gente que aquí se escribirá toda esta isla, y reconozcáis las provincias de ella y la gente y las tierras y lo que en ellas hay, y en especial toda la provincia de Cambao, porque de todo puedan el Rey é la Reina, nuestros Señores, ser muy bien informados, y de aquí de esta ciudad se os enviará é proveerá de todas las cosas que fueren necesarias. 
 
-LAS PROVINCIAS T)l! LA ISLA DE CURA . 
+Primeramente, de aquí se os envían diez y seis de caballo, é doscientos é cincuenta escuderos é ballesteros, é ciento é diez espingarderos, é veinte Oíiciales. 
 
-9 de Abril de 1494:. 
+De esta gente habéis de hacer tres batallas: la una para vos, y las otras dos dellas á dos personas, que serán las que á vos mejor pareseieren ser suficientes para el tal cargo, á los cuales dad la parte de gente á cada uno que os paresciere. 
 
-Dice así: 
+La principal cosa que habéis dehacer es guardar mucho á los indios, que no les sea fecho mal nin daño, ni les sea tomada cosa contra su voluntad, antes resciban honra, é sean asegurados de manera que no se alteren. 
 
-Primeramente: que luego que vos fuere ciada é entre- 
-gada la dicha gente por Hojeda, la rescibáis según ó en 
-la manera que la él lleva, é así resccbida, ordenéis las 
-batallas que segund la dispusición de la tierra os pa- 
-resciere ser necesarias, é las deis é entreguéis á las per- 
-sonas con nombres de Capitanes que viéredcs que las 
-deben llevar, é que sirvan al Rey é á la Reina, nuestros 
-Señores, ó vos obedezcan é cumplan lo que les dijére- 
-des é mandáredes de parte de sus Altezas ó de la mía, 
-por virtud de los poderes que para ello tengo de sus 
-Excelencias. 
+Y porque en este camino que yo hice á Cambao acaesció que algún indio hurtó algo, si halláredes que algunos de ellos furten, castigadlos también cortándoles las narices y las orejas, porque son miembros que no podrán esconder, porque con esto se asegurará el rescate de la gente de toda la isla, dándoles á entender que esto que se hizo á los otros indios fué por el furto que hicieron, y que á los buenos los mandarán tratar muy bien, y á los malos que los castigan. 
 
-Item: por alguna experiencia que se tiene del andar 
-de esta tierra, se escriben aquí bajo algunas cosas que 
-son necesarias de liacer: con todo, porque vos andaréis 
-otras provincias ó lugares de las que se lian experi- 
-mentado, puesto que todo es una costumbre é una ma- 
-nera de la gente, se os deja cargo que vos como pre- 
-sente acrecentéis ó quitéis de esto que aquí abajo so 
+Porque agora la gente no podrá llevar tanto mantenimiento desto nuestro como es necesario para el tiempo que han de estar fuera, allá van N... y N...(1) los cuales llevan mercadurías de cuentas é cascábales ó otras cosas, y llevan mando, como por virtud de la presente les mando, que por el pan é vituallas que se hallaren á comprar las paguen con las dichas mercadurías, teniendo cuenta de ellas, poniendo el día y el lugar donde las hallaren, y que todo lo que dieren de las dichas mercadurías sea en presencia de la persona que estuviere por el Teniente de los Contadores mayores, para que solamente tengan razón é cuenta dello. 
+(1,3,Original)Igual vacio en el original.
 
-RELACIONES Y CARTAS 
+Item más: debéis ordenar de dar veinticinco hombres á Arriaga, si aquí yo no se los doy antes que se parta, y él tenga cargo de ir juntamente con esos tres á proveer de todos los mantenimientos para toda la hueste, porque no haya cansa que ninguna persona, de cualquier grado ó condición que sea, vaya á rescatar cosa ninguna de los indios y los hacer dos mil enojos: y es cosa que es mucho contra la voluntad y deservicio del Rey ó de la Reina, nuestros Señores, porque sus Altezas desean más la salvación de esta gente porque sean cristianos, que todas las riquezas que de acá puedan salir, así que bien proveído va, y se debe de contentar cada uno que sus Altezas les mandan pagar para comer y otras cosas que necesarias vos fuesen. 
 
-22 o 
+Y si por ventura no se hallare de comer por compra, que vos Mosen Pedro lo proveáis, tomándolo lo más honestamente que podáis halagando los indios. 
 
-escribiere como á vos os pareciese al tiempo 6 á la dis- 
-posición de la tierra: porque la primera intención desto 
-es que vais con toda esta gente que aquí se escribirá 
-toda esta isla, y reconozcáis las provincias de ella y la 
-gente y las tierras y lo que en ellas hay, y en especial 
-toda la provincia de Cambao, porque de todo puedan el 
-Rey é la Reina, nuestros Señores, ser muy bien infor- 
-mados, y de aquí de esta ciudad se os enviará é pro- 
-veerá de todas las cosas que fueren necesarias. 
+Desto de Cahonaboa, mucho querría que con buena diligencia se tuviese tal manera que lo pudiésemos haber en nuestro poder, y por eso debéis tener esta manera según mi albedrío: enviar una persona con diez hombres que sean muy discretos, que vayan con un presente de ciertas cosas que allá llevan los sobredichos que llevan el rescate, halagándole y mostrándole que tengo mucha gana de su amistad y que le enviaré otras cosas, y quél nos envíe del oro, haciéndole memoria como estáis vos allí y que os vais holgando por esa tierra con mucha gente, y que tenemos infinita gente, y que cada día verná mucha más, y que siempre yo le enviaré de las cosas que trairán de Castilla, y tratallo así de palabra hasta que tengáis amistad con él, para podelle mejor haber. Y no debéis curar agora de ir á Cahonaboa con la gente, salvo enviar á Contreras, el cual vaya con las diez personas, y se vuelvan á vos con la respuesta á do quiera que se supiere que estéis; y rescibida la embajada, podréis enviar otra vez y otra, fasta que el dicho Cahonaboa esto asegurado y sin recelo que le habéis vos de hacer mal: y después tener la forma para prendedle corno mejor os paresciere, y según la forma 
+que él habrá entendido por la relación del dicho Contreras, haciendo el dicho Contreras lo que vos le dijéredes ó no excediendo dello. 
 
-Primeramente, de aquí se os envían diez y seis de ca- 
-ballo, é doscientos é cincuenta escuderos é ballesteros, 
-é ciento é diez espingarderos, é veinte Oíiciales. 
+La manera que se debe tener para prender á Cahonaboa, reservando á lo que allá se hallará después, es esta: 
 
-De esta gente habéis de hacer tres batallas: la una 
-para vos, y las otras dos dellas á dos personas, que se- 
-rán las que á vos mejor pareseieren ser suficientes para 
-•el tal cargo, á Jos cuales dad la parte de gente á cada 
-•uno que os paresciere. 
-
-La principal cosa que habéis dehacer es guardar mu- 
-cho á los indios, que no les sea fecho mal nin daño, ni 
-les sea tomada cosa contra su voluntad, antes resciban 
-honra, é sean asegurados de manera que no se alteren. 
-
-Y porque en este camino que yo hice á Cambao acaes- 
-ció que algún indio hurtó algo, si halláredes que algu- 
-nos de ellos íurten, castigadlos también cortándoles las 
-narices y las orejas, porque son miembros que no po- 
-drán esconder, porque con esto se asegurará el rescate 
-de la gente de toda la isla, dándoles á entender que esto 
-que se hizo á los otros indios f Lié por el furto que hicie- 
-ron, y que á los buenos los mandarán tratar muy bien, 
-y á los malos que los castigan. 
-
-Porque agora la gente no podrá llevar tanto mante- 
-nimiento desto nuestro como es necesario para el tiem- 
-po que han de estar fuera, allá van (1¡ N y R los 
-
-(1) Igual vacio en el original. 
-
-CRISTÓBAL COLÓN 
-
-cuales llevan mercadurías de cuentas é cascábales ó 
-otras cosas, y llevan mando, como por virtud de la pre- 
-sente les mando, que por el pan é vituallas que se ha- 
-llaren á comprar las paguen con las dichas mercadu- 
-rías, teniendo cuenta de ellas, poniendo el día y el lu- 
-gar donde las hallaren, y que todo lo que dieren de las 
-dichas mercadurías sea en presencia de la persona que 
-estuviere por el Teniente de los Contadores mayores, 
-para que solamente tengan razón é cuenta dello. 
-
-Item más: debéis ordenar de dar veinticinco hombres 
-á Arriaga, si aquí yo no se los doy antes que se parta,, 
-y él tenga cargo de ir juntamente con esos tres á pro- 
-veer de todos los mantenimientos para toda la hueste, 
-porque no haya cansa que ninguna persona, de cual- 
-quier grado ó condición que sea, vaya á rescatar cosa 
-ninguna de los indios y los hacer dos mil enojos: y es 
-cosa que es mucho contra la voluntad y deservicio del 
-Rey ó de la Reina, nuestros Señores, porque sus Alte- 
-zas desean más la salvación de esta gente porque sean 
-cristianos, que todas las riquezas que de acá puedan 
-salir, así que bien proveído va, y se debe de contentar 
-cada uno que sus Altezas les mandan pagar para co 
-mer y otras cosas que necesarias vos i'uesen. 
-
-y si por ventura no se hallare de comer por compra, 
-que vos Mosen Pedro lo proveáis, tomándolo lo más ho- 
-nestamente que podáis halagando los indios. 
-
-Desto de Calionaboa, mucho querría que con buena 
-diligencia se tuviese tal manera que lo pudiésemos ha- 
-ber en nuestro poder, y por eso debéis tener esta mane- 
-ra según mi albedrío: enviar tina persona con diez hom- 
-bres que sean muy discretos, que vayan con un presen- 
-te de ciertas cosas que allá llevan los sobredichos que 
-llevan el rescate, halagándole y mostrándole que tengo 
-mucha gana de su amistad y que le enviaré otras co- 
-sas, y quél nos envíe del oro, haciéndole memoria como 
-
-RELACIONES Y CAIITAS 
-
-estáis vos allí y oue os vais holgando por esa tierra con 
-mucha gente, y que tenemos infinita gente, y (pie cada 
-(Ha verná mucha más, y que siempre yo le enviaré de 
-las cosas que trairán de Castilla, y tratallo así de pala- 
-bra hasta que tengáis amistad con él, para podelle me- 
-jor haber. Y no debéis curar agora de ir á Cahonaboa 
-con la gente, salvo enviar á Contreras, el cual vaya con 
-las diez personas, y se vuelvan á vos con la respuesta 
-á do quiera que se supiere que estéis; y rescibida la 
-embajada, podréis enviar otra vez y otra, fasta que el 
-dicho Cahonaboa esto asegurado y sin recelo que le ha- 
-béis vos de hacer mal: y después tener la forma para 
-prendedle corno mejor os paresciere, y según la forma 
-que él habrá entendido por la relación del dicho Cou- 
-treras, haciendo el dicho Contreras lo que vos le dijére- 
-des ó no excediendo dcllo. 
-
-La manera que se debe tener para prender á Cahona- 
-boa, reservando á lo que allá se hallará después, es esta: 
-
-Quel dicho Contreras trabaje mucho con él, é tenga 
-manera que Cahonaboa vaya á hablar con vos, porque 
-más seguramente se haga su prisión; ó porque ól anda 
-desnudo ó sería malo de detenerle, é si una vez se sol- 
-tase é se luyese no se podría así haber á las manos por 
-la dispusicióií de la tierra, estando en vistas con él, ha- 
-cedle dar una camisa y vestírsela luego, y un capus. y 
-ceñillc un cinto, y ponelle una toca, por donde le podéis 
-tener é no se vos suelte. E también debéis prender á 
-los hermanos suyos que con él irán; y si por caso el di- 
-cho Cahonaboa estoviere indispuesto que no pueda irá 
-estar con vos, tened manera con ól que dé por bien 
-vuestra ida á él: é antes que vos á él lleguéis, el dicho 
-Contreras debe ir primero por le asegurar, diciendo] e 
-que vos vais á él por le ver é conoscer, ó tener con él 
-amistad, porque yendo vos con mucha gente podría ser 
-que tomase recelo é se pornía á ir por los montes, é 
-
-CRISTO li A I. COLÓN 
-
-22? 
-
-erraríndes la presa; poro todo se remite á vuestra bue- 
-na discreción para que fagáis según que mejor os pa- 
-resciere. 
+Quel dicho Contreras trabaje mucho con él, é tenga manera que Cahonaboa vaya á hablar con vos, porque más seguramente se haga su prisión; é porque él anda desnudo é sería malo de detenerle, é si una vez se soltase é se huyese no se podría así haber á las manos por la dispusición de la tierra, estando en vistas con él, hacedle dar una camisa y vestírsela luego, y un capus, y ceñille un cinto, y ponelle una toca, por donde le podéis tener é no se vos suelte. E también debéis prender á los hermanos suyos que con él irán; y si por caso el dicho Cahonaboa estoviere indispuesto que no pueda ir á estar con vos, tened manera con él que dé por bien vuestra ida á él: é antes que vos á él lleguéis, el dicho Contreras debe ir primero por le asegurar, diciendole que vos vais á él por le ver é conoscer, é tener con él amistad, porque yendo vos con mucha gente podría ser que tomase recelo é se pornía á ir por los montes, é erraríades la presa; pero todo se remite á vuestra buena discreción para que fagáis según que mejor os paresciere. 
 
 Ttem: debéis mucho mirar que la justicia sea mucho 
 temida, y que el que vuestro mandamiento pasare sea 

@@ -10,20 +10,20 @@ status: candidata
 notas: ''
 mentions_hint: Las 4 menciones de esta persona en el texto.
 blurbs:
-- heading: Carta a Luis de Santángel sobre el primer viaje (1493)
-  url: /documentos/colon-cartas/000/
+- heading: MEMORIAL
+  url: /documentos/colon-cartas/002/
   occ: 0
   html: …encomienda en la Orden de Santiago, de la cual él tiene el hábito, porque su mujer é hijos tengan en qué vivir. Asimismo haréis relación de <mark>Juan Aguado</mark>, criado de sus Altezas, cuán bien ó diligentemente ha servido en todo lo que le ha seido mandado; que suplico a sus Altezas, á él é á los s…
-- heading: Carta a Luis de Santángel sobre el primer viaje (1493)
-  url: /documentos/colon-cartas/000/
+- heading: MEMORIAL
+  url: /documentos/colon-cartas/002/
   occ: 1
-  html: '…e, y así les haga pagar el Almirante en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pagar: y en lo de <mark>Juan Aguado</mark> sus Altezas habrán memoria de él.'
+  html: '…e, y así les haga pagar el Almirante en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pagar: y en lo de <mark>Juan Aguado</mark> sus Altezas habrán memoria de él._'
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/008/
+  url: /documentos/colon-cartas/010/
   occ: 0
   html: … palabras y por cartas que él no podía usar de sus provisiones, porque las mías eran las más fuertes, y les mostré las franquezas que llevó <mark>Juan Aguado</mark>.
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/008/
+  url: /documentos/colon-cartas/010/
   occ: 1
   html: …é me guardan mis privilegios y mercedes, y si alguien molos quebranta, sos Altezas me los acrescientan con aventaja, como se vicio en lo de <mark>Juan Aguado</mark>, y me mandar hacer mucha honra, y como dije ya sus Altezas rescribieron de mí servicios y tienen mis hijos sus cria- dos, lo que en tringun…
 ---
