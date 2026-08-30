@@ -45,7 +45,15 @@
 "origen": "editor",
 "autor": "Original",
 "color": "#8a8570",
-"texto": "En el texto de Volafan fértilísimas. (2,Original)Tenerife"
+"texto": "En el texto de Volafan fértilísimas."
+},
+{
+"anchor": "Cetrefrey",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Tenerife"
 },
 {
 "anchor": "Cibau",
@@ -53,7 +61,15 @@
 "origen": "editor",
 "autor": "Original",
 "color": "#8a8570",
-"texto": "En el texto de 1493 se lee claramente Auan; en la de Volafan Nahn. Muñoz y Bernalder también leyeron Nahn. (2,Original) Estas noticias extravagantes nacían tal vez de la ignorancia de los indios, y también de no ser bien entendidos por el Almirante y por los españoles, que no comprendían su lengua ni sus expresiones. -Navarrete"
+"texto": "En el texto de 1493 se lee claramente Auan; en la de Volafan Nahn. Muñoz y Bernalder también leyeron Nahn."
+},
+{
+"anchor": "cola",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Estas noticias extravagantes nacían tal vez de la ignorancia de los indios, y también de no ser bien entendidos por el Almirante y por los españoles, que no comprendían su lengua ni sus expresiones. -Navarrete"
 },
 {
 "anchor": "Colunia",
@@ -69,7 +85,23 @@
 "origen": "editor",
 "autor": "Original",
 "color": "#8a8570",
-"texto": "Espeto en lo antiguo era lo mismo que asador. Aquí lo usa el Almirante por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu). (2,Original)Aclara este obscuro pasaje la copia de Volafan que dice: “Salvo de una isla de Quaribes (Caribes), la segunda a la entrada de las Indias”. (3,A.Robles)Revisar todo este parrafo"
+"texto": "Espeto en lo antiguo era lo mismo que asador. Aquí lo usa el Almirante por calor. — Navarrete. En el texto de Voldafan, effeto (por efecto). En el de 1493, impeto (por impetu)."
+},
+{
+"anchor": "Indias",
+"ocurrencia": 2,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Aclara este obscuro pasaje la copia de Volafan que dice: “Salvo de una isla de Quaribes (Caribes), la segunda a la entrada de las Indias”."
+},
+{
+"anchor": "Indias",
+"ocurrencia": 3,
+"origen": "editor",
+"autor": "A. Robles",
+"color": "#3f8f4f",
+"texto": "Revisar todo este parrafo"
 },
 {
 "anchor": "Islas de Canaria",
@@ -93,6 +125,14 @@
 "origen": "editor",
 "autor": "Original",
 "color": "#8a8570",
-"texto": "Así parece que dice en el original en donde está escrito en números romanos y enmendados; pero habiendo salido Colón de la barra de Saltes el 8 de Agosto y desembarcado en la isla de San Salvador el 12 de Octubre, es claro que deben contarse setenta y un dias de viaje á la ida, y cuarenta y ocho á la vuelta, contando desde el 16 de Enero, en que salió del golfo de las Flechas, hasta el 4 de Marzo que entró en el río de Lisboa. -Navarrete. (2,Original)Esta fecha, puesta en el original de Colón en números romanos está muy confusa y parece significar 14; pero bien examinada, no puede ser sino del 4 de Marzo. -Navarrete"
+"texto": "Así parece que dice en el original en donde está escrito en números romanos y enmendados; pero habiendo salido Colón de la barra de Saltes el 8 de Agosto y desembarcado en la isla de San Salvador el 12 de Octubre, es claro que deben contarse setenta y un dias de viaje á la ida, y cuarenta y ocho á la vuelta, contando desde el 16 de Enero, en que salió del golfo de las Flechas, hasta el 4 de Marzo que entró en el río de Lisboa. -Navarrete."
+},
+{
+"anchor": "Marzo",
+"ocurrencia": 0,
+"origen": "editor",
+"autor": "Original",
+"color": "#8a8570",
+"texto": "Esta fecha, puesta en el original de Colón en números romanos está muy confusa y parece significar 14; pero bien examinada, no puede ser sino del 4 de Marzo. -Navarrete"
 }
 ]

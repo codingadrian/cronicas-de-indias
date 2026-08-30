@@ -164,7 +164,15 @@ def procesar_comentarios(parrafos, editores):
                     ancho, autor_alias = int(m.group(2)), m.group(3).strip()
                 else:
                     ancho, autor_alias = 1, m.group(2).strip()
-                texto_comentario = parrafo[m.end():].strip()
+                # El texto del comentario termina al final del párrafo, O antes
+                # si hay otra definición (N,Autor) más adelante en el mismo
+                # párrafo — pasa si dos párrafos de comentario quedaron
+                # pegados por faltar una línea en blanco entre ellos en la
+                # fuente; sin este corte, el primer comentario se comería el
+                # texto real y la segunda definición entera.
+                siguiente_def = DEF_EDITOR_RE.search(parrafo, m.end())
+                fin_texto = siguiente_def.start() if siguiente_def else len(parrafo)
+                texto_comentario = parrafo[m.end(): fin_texto].strip()
                 antes = parrafo[: marcador_m.start()]
                 anchor = ultimas_n_palabras(antes, ancho)
                 info = editores.get(autor_alias)
@@ -181,7 +189,11 @@ def procesar_comentarios(parrafos, editores):
                     "color": info["color"] if info else COLOR_EDITOR_SIN_REGISTRAR,
                     "texto": texto_comentario,
                 })
-                resultado[i] = (parrafo[: marcador_m.start()] + parrafo[marcador_m.end(): m.start()]).rstrip()
+                resultado[i] = (
+                    parrafo[: marcador_m.start()]
+                    + parrafo[marcador_m.end(): m.start()]
+                    + parrafo[fin_texto:]
+                ).rstrip()
                 cambiado = True
                 encontrado = True
                 break
