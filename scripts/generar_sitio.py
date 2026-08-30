@@ -175,20 +175,35 @@ def procesar_comentarios(parrafos, editores):
                 texto_comentario = parrafo[m.end(): fin_texto].strip()
                 antes = parrafo[: marcador_m.start()]
                 anchor = ultimas_n_palabras(antes, ancho)
-                info = editores.get(autor_alias)
                 # -1 porque `antes` termina justo en `anchor` por construcción
                 # (ultimas_n_palabras), así que el conteo siempre incluye esa
                 # propia aparición — sin restarla, toda ocurrencia quedaría
                 # corrida en +1 (un verdadero primer uso saldría "1", no "0").
                 ocurrencia = (texto_final_hasta(i, antes).count(anchor) - 1) if anchor else 0
-                comentarios.append({
-                    "anchor": anchor,
-                    "ocurrencia": ocurrencia,
-                    "origen": "editor",
-                    "autor": info["nombre"] if info else autor_alias,
-                    "color": info["color"] if info else COLOR_EDITOR_SIN_REGISTRAR,
-                    "texto": texto_comentario,
-                })
+                if autor_alias.strip().lower() == "original":
+                    # Palabra reservada: no es un editor, es una nota vieja
+                    # de la propia edición que se está convirtiendo a mano en
+                    # vez de dejar que la detección automática la encuentre
+                    # (ver "estilo viejo" más abajo) — mismo criterio de
+                    # color/autor que esa detección automática.
+                    comentarios.append({
+                        "anchor": anchor,
+                        "ocurrencia": ocurrencia,
+                        "origen": "original",
+                        "autor": autor_de_nota_vieja(texto_comentario) or "Nota del editor",
+                        "color": COLOR_ORIGINAL,
+                        "texto": texto_comentario,
+                    })
+                else:
+                    info = editores.get(autor_alias)
+                    comentarios.append({
+                        "anchor": anchor,
+                        "ocurrencia": ocurrencia,
+                        "origen": "editor",
+                        "autor": info["nombre"] if info else autor_alias,
+                        "color": info["color"] if info else COLOR_EDITOR_SIN_REGISTRAR,
+                        "texto": texto_comentario,
+                    })
                 resultado[i] = (
                     parrafo[: marcador_m.start()]
                     + parrafo[marcador_m.end(): m.start()]

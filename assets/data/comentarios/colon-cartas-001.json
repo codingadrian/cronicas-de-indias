@@ -2,33 +2,33 @@
 {
 "anchor": "SÁNCHEZ",
 "ocurrencia": 0,
-"origen": "editor",
-"autor": "Original",
-"color": "#8a8570",
+"origen": "original",
+"autor": "Nota del editor",
+"color": "#c9a227",
 "texto": "Esta carta, sustanciaImente igual á la anterior, dirigida á Luis de Santangel, fue traducida al latín por Leandro Cosco, y publicada en Boma en 1493. El texto que publicó Navarrete y reproducimos, es una traducción de la versión latina de Cosco (porque el primitivo original se ha perdido), hecha por el Bibliotecario mayor, D. Francisco Antonio González."
 },
 {
 "anchor": "Rafael",
 "ocurrencia": 0,
-"origen": "editor",
-"autor": "Original",
-"color": "#8a8570",
+"origen": "original",
+"autor": "Nota del editor",
+"color": "#c9a227",
 "texto": "D. Pascual Gayangos, en un articulo publicado en La America en 13 de Abril de 1867, le llama Gabriel Sánchez."
 },
 {
 "anchor": "alguno",
 "ocurrencia": 4,
-"origen": "editor",
-"autor": "Original",
-"color": "#8a8570",
+"origen": "original",
+"autor": "Nota del editor",
+"color": "#c9a227",
 "texto": "Hombre cruel, sanguinario."
 },
 {
 "anchor": "catorce",
 "ocurrencia": 0,
-"origen": "editor",
-"autor": "Original",
-"color": "#8a8570",
+"origen": "original",
+"autor": "Nota del editor",
+"color": "#c9a227",
 "texto": "Debe ser 4 de Marzo."
 }
 ]
