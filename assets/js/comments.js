@@ -110,15 +110,19 @@
   // Reparte los comentarios alternando de lado (1º derecha, 2º izquierda,
   // 3º derecha...) para no apilar todos del mismo lado en capítulos con
   // muchos comentarios seguidos — cada lado evita superposición solo
-  // contra sí mismo, son columnas independientes.
+  // contra sí mismo, son columnas independientes. Si el riel izquierdo
+  // existe en el DOM pero está oculto por CSS (pantalla angosta, ver
+  // main.css), NO hay que seguir mandándole la mitad de los comentarios
+  // — desaparecerían en silencio. En ese caso todo va al derecho.
   function layout(railLeft, railRight, anchors, comments) {
+    const izquierdaVisible = !!railLeft && getComputedStyle(railLeft).display !== "none";
     const izquierda = [];
     const derecha = [];
     anchors.forEach((anchorEl, i) => {
       if (!anchorEl) return;
       const item = { anchorEl: anchorEl, comment: comments[i] };
-      if (i % 2 === 0) derecha.push(item);
-      else izquierda.push(item);
+      if (izquierdaVisible && i % 2 !== 0) izquierda.push(item);
+      else derecha.push(item);
     });
     if (railRight) layoutRail(railRight, derecha);
     if (railLeft) layoutRail(railLeft, izquierda);

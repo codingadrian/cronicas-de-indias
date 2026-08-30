@@ -224,39 +224,41 @@ main{ flex:1; padding:1.4rem 1.2rem 3rem; max-width:1180px; margin:0 auto; width
 .doc-reader-wrap.has-comments .doc-reader{
   margin:0; flex-shrink:0;
   border-left:1px solid var(--line-strong); border-right:1px solid var(--line-strong);
-  padding-left:1.8rem; padding-right:1.8rem;
+  padding-left:1rem; padding-right:1rem;
 }
-.comments-rail{ position:relative; width:270px; flex-shrink:0; }
-.comments-rail-right{ margin-left:1.8rem; }
-.comments-rail-left{ margin-right:1.8rem; }
+.comments-rail{ position:relative; width:190px; flex-shrink:0; }
+.comments-rail-right{ margin-left:1rem; }
+.comments-rail-left{ margin-right:1rem; }
 .comment-anchor{
   background:none; border-bottom:1.5px dotted var(--comment-color, var(--accent));
   cursor:default;
 }
 .comment-connector{
-  position:absolute; width:1.8rem; height:0;
+  position:absolute; width:1rem; height:0;
   border-top:2px dotted var(--comment-color, var(--accent)); pointer-events:none;
 }
-.comments-rail-right .comment-connector{ left:-1.8rem; }
+.comments-rail-right .comment-connector{ left:-1rem; }
 .comments-rail-left .comment-connector{ left:100%; }
 .comment-box{
   position:absolute; left:0; width:100%; box-sizing:border-box;
   background:var(--surface); border:1px solid var(--line);
   border-left:3px solid var(--comment-color, var(--accent));
-  border-radius:2px; padding:0.6rem 0.85rem;
+  border-radius:2px; padding:0.6rem 0.8rem;
 }
 .comment-box .cb-autor{
   display:block; font-family:'Space Mono',monospace; font-size:0.6rem; text-transform:uppercase;
   letter-spacing:0.05em; color:var(--comment-color, var(--accent)); margin-bottom:0.3rem;
 }
-.comment-box p{ font-size:0.83rem; line-height:1.5; color:var(--ink-soft); margin:0; }
-@media (max-width: 1400px){
-  .comments-rail{ width:230px; }
-}
-@media (max-width: 1240px){
+.comment-box p{ font-size:0.8rem; line-height:1.5; color:var(--ink-soft); margin:0; }
+/* Los dos rieles + el lector caben en ~1180px de ancho de ventana; por
+   debajo de eso se cae primero a un solo riel (derecho) y más abajo
+   todavía a ninguno. assets/js/comments.js detecta si el riel
+   izquierdo está oculto y manda todo al derecho en ese caso, para que
+   ningún comentario desaparezca en silencio. */
+@media (max-width: 1180px){
   .comments-rail-left{ display:none; }
 }
-@media (max-width: 1080px){
+@media (max-width: 860px){
   .comments-rail{ display:none; }
   .doc-reader-wrap.has-comments .doc-reader{ border-left:none; border-right:none; padding-left:0; padding-right:0; }
 }
