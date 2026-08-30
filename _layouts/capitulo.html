@@ -20,6 +20,9 @@ layout: default
 </div>
 
 <div class="doc-reader-wrap{% if page.tiene_comentarios %} has-comments{% endif %}">
+{% if page.tiene_comentarios %}
+<aside class="comments-rail comments-rail-left"></aside>
+{% endif %}
 <div class="doc-reader" data-obra="{{ page.obra }}" data-baseurl="{{ site.baseurl }}" data-entity-data="{{ '/assets/data/' | append: page.obra | append: '.json' | relative_url }}">
   <details class="doc-toc">
     <summary>Índice de capítulos ▾</summary>
@@ -50,7 +53,7 @@ layout: default
   </div>
 </div>
 {% if page.tiene_comentarios %}
-<aside class="comments-rail" data-comments-url="{{ '/assets/data/comentarios/' | append: page.obra | append: '-' | append: page.chapter_index_padded | append: '.json' | relative_url }}"></aside>
+<aside class="comments-rail comments-rail-right" data-comments-url="{{ '/assets/data/comentarios/' | append: page.obra | append: '-' | append: page.chapter_index_padded | append: '.json' | relative_url }}"></aside>
 {% endif %}
 </div>
 

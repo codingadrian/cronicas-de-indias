@@ -1,6 +1,11 @@
 // Comentarios al margen: anclados a una frase exacta del texto, con una
-// línea punteada del color del autor/origen. Corre en cualquier página que
-// declare <aside class="comments-rail" data-comments-url="...">, puesto ahí
+// línea punteada del color del autor/origen. Se reparten en dos rieles,
+// uno a cada lado del texto (1º comentario a la derecha, 2º a la
+// izquierda, 3º a la derecha...) para no apilar todos del mismo lado en
+// capítulos con muchos comentarios juntos. Corre en cualquier página que
+// declare <aside class="comments-rail comments-rail-right"
+// data-comments-url="..."> (y opcionalmente su par
+// "comments-rail-left" sin data-url, para el lado izquierdo), puesto ahí
 // por _layouts/capitulo.html cuando `page.tiene_comentarios` es true — ese
 // campo lo pone scripts/generar_sitio.py, que también genera el JSON de
 // comentarios de cada capítulo parseando la sintaxis en
@@ -58,18 +63,16 @@
     return null;
   }
 
-  // Posiciona conectores y cajas de comentario en el margen. Las cajas se
-  // empujan hacia abajo si se superponen con la anterior (los conectores
-  // se quedan apuntando a la altura real del ancla en el texto, así que si
-  // una caja se empuja, el punteado deja de ser perfectamente horizontal —
-  // simplificación aceptada, no es un leader-line completo).
-  function layout(rail, anchors, comments) {
+  // Llena UN riel con sus cajas/conectores y evita que se superpongan
+  // empujando hacia abajo (los conectores se quedan apuntando a la altura
+  // real del ancla en el texto, así que si una caja se empuja, el punteado
+  // deja de ser perfectamente horizontal — simplificación aceptada, no es
+  // un leader-line completo).
+  function layoutRail(rail, items) {
     rail.innerHTML = "";
     const railRect = rail.getBoundingClientRect();
     const boxes = [];
-    anchors.forEach((anchorEl, i) => {
-      if (!anchorEl) return;
-      const comment = comments[i];
+    items.forEach(({ anchorEl, comment }) => {
       const rect = anchorEl.getBoundingClientRect();
       const anchorTop = rect.top - railRect.top + rect.height / 2;
 
@@ -104,15 +107,33 @@
     });
   }
 
+  // Reparte los comentarios alternando de lado (1º derecha, 2º izquierda,
+  // 3º derecha...) para no apilar todos del mismo lado en capítulos con
+  // muchos comentarios seguidos — cada lado evita superposición solo
+  // contra sí mismo, son columnas independientes.
+  function layout(railLeft, railRight, anchors, comments) {
+    const izquierda = [];
+    const derecha = [];
+    anchors.forEach((anchorEl, i) => {
+      if (!anchorEl) return;
+      const item = { anchorEl: anchorEl, comment: comments[i] };
+      if (i % 2 === 0) derecha.push(item);
+      else izquierda.push(item);
+    });
+    if (railRight) layoutRail(railRight, derecha);
+    if (railLeft) layoutRail(railLeft, izquierda);
+  }
+
   function run() {
-    const rail = document.querySelector(".comments-rail[data-comments-url]");
+    const railRight = document.querySelector(".comments-rail-right[data-comments-url]");
+    const railLeft = document.querySelector(".comments-rail-left");
     const body = document.getElementById("dr-body");
-    if (!rail || !body) return;
-    fetch(rail.dataset.commentsUrl)
+    if (!railRight || !body) return;
+    fetch(railRight.dataset.commentsUrl)
       .then((r) => r.json())
       .then((comments) => {
         const anchors = comments.map((c, idx) => wrapAnchor(body, c.anchor, c.color, idx, c.ocurrencia || 0));
-        const relayout = () => layout(rail, anchors, comments);
+        const relayout = () => layout(railLeft, railRight, anchors, comments);
         relayout();
         window.addEventListener("resize", relayout);
         if (document.fonts && document.fonts.ready) document.fonts.ready.then(relayout);
