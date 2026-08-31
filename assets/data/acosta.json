@@ -1,0 +1,721 @@
+[
+{
+"id": "person:hernan-cortes",
+"canonical_name": "Hernando Cortés",
+"aliases": [
+"Fernando Cortés",
+"D. Fernando Cortés",
+"Marqués del Valle",
+"el Marqués"
+],
+"tipo": "persona",
+"url": "/personas/acosta/hernan-cortes/"
+},
+{
+"id": "person:francisco-pizarro",
+"canonical_name": "Francisco Pizarro",
+"aliases": [
+"Marqués Francisco Pizarro",
+"el Marqués"
+],
+"tipo": "persona",
+"url": "/personas/acosta/francisco-pizarro/"
+},
+{
+"id": "person:gonzalo-pizarro",
+"canonical_name": "Gonzalo Pizarro",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/gonzalo-pizarro/"
+},
+{
+"id": "person:pedro-de-la-gasca",
+"canonical_name": "Pedro de la Gasca",
+"aliases": [
+"el Presidente Gasca"
+],
+"tipo": "persona",
+"url": "/personas/acosta/pedro-de-la-gasca/"
+},
+{
+"id": "person:atahualpa",
+"canonical_name": "Atahualpa",
+"aliases": [
+"Atagualpa",
+"Inga Atahualpa"
+],
+"tipo": "persona",
+"url": "/personas/acosta/atahualpa/"
+},
+{
+"id": "person:huascar",
+"canonical_name": "Huáscar",
+"aliases": [
+"Guascar Inga",
+"Tito Cussi Gualpa"
+],
+"tipo": "persona",
+"url": "/personas/acosta/huascar/"
+},
+{
+"id": "person:huayna-capac",
+"canonical_name": "Huayna Cápac",
+"aliases": [
+"Guaynacapa"
+],
+"tipo": "persona",
+"url": "/personas/acosta/huayna-capac/"
+},
+{
+"id": "person:manco-capac-fundador",
+"canonical_name": "Manco Cápac",
+"aliases": [
+"Mangocapa"
+],
+"tipo": "persona",
+"url": "/personas/acosta/manco-capac-fundador/"
+},
+{
+"id": "person:manco-inca-yupanqui",
+"canonical_name": "Manco Inca Yupanqui",
+"aliases": [
+"Mangocapa"
+],
+"tipo": "persona",
+"url": "/personas/acosta/manco-inca-yupanqui/"
+},
+{
+"id": "person:pachacutec",
+"canonical_name": "Pachacútec",
+"aliases": [
+"Pachacuti Inga Yupangui",
+"Pachacuti"
+],
+"tipo": "persona",
+"url": "/personas/acosta/pachacutec/"
+},
+{
+"id": "person:topa-inca-yupanqui",
+"canonical_name": "Túpac Inca Yupanqui",
+"aliases": [
+"Topa Inga Yupangui"
+],
+"tipo": "persona",
+"url": "/personas/acosta/topa-inca-yupanqui/"
+},
+{
+"id": "person:mama-ocllo",
+"canonical_name": "Mama Ocllo",
+"aliases": [
+"Mamaoello"
+],
+"tipo": "persona",
+"url": "/personas/acosta/mama-ocllo/"
+},
+{
+"id": "person:viracocha-inca",
+"canonical_name": "Viracocha Inga",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/viracocha-inca/"
+},
+{
+"id": "person:inga-roca",
+"canonical_name": "Ingaroca",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/inga-roca/"
+},
+{
+"id": "person:yahuar-huacac",
+"canonical_name": "Yáhuar Huácac",
+"aliases": [
+"Yaguarguaque"
+],
+"tipo": "persona",
+"url": "/personas/acosta/yahuar-huacac/"
+},
+{
+"id": "person:tupac-amaru",
+"canonical_name": "Túpac Amaru",
+"aliases": [
+"Amaro"
+],
+"tipo": "persona",
+"url": "/personas/acosta/tupac-amaru/"
+},
+{
+"id": "person:sayri-tupac",
+"canonical_name": "Sayri Túpac",
+"aliases": [
+"Sayritopa Inga"
+],
+"tipo": "persona",
+"url": "/personas/acosta/sayri-tupac/"
+},
+{
+"id": "person:paullu-inca",
+"canonical_name": "Paullu Inca",
+"aliases": [
+"Paulo"
+],
+"tipo": "persona",
+"url": "/personas/acosta/paullu-inca/"
+},
+{
+"id": "person:d-carlos-inca",
+"canonical_name": "D. Carlos Inca",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/d-carlos-inca/"
+},
+{
+"id": "person:quizquiz",
+"canonical_name": "Quizquiz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/quizquiz/"
+},
+{
+"id": "person:chalcuchimac",
+"canonical_name": "Chalcuchímac",
+"aliases": [
+"Chilicuchima"
+],
+"tipo": "persona",
+"url": "/personas/acosta/chalcuchimac/"
+},
+{
+"id": "person:polo-de-ondegardo",
+"canonical_name": "Polo de Ondegardo",
+"aliases": [
+"el licenciado Polo",
+"Polo"
+],
+"tipo": "persona",
+"url": "/personas/acosta/polo-de-ondegardo/"
+},
+{
+"id": "person:juan-de-tovar",
+"canonical_name": "Juan de Tovar",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/juan-de-tovar/"
+},
+{
+"id": "person:martin-enriquez",
+"canonical_name": "Martín Enríquez",
+"aliases": [
+"el Virrey D. Martín"
+],
+"tipo": "persona",
+"url": "/personas/acosta/martin-enriquez/"
+},
+{
+"id": "person:marques-de-canete",
+"canonical_name": "Marqués de Cañete",
+"aliases": [
+"el Virrey Marqués de Cañete"
+],
+"tipo": "persona",
+"url": "/personas/acosta/marques-de-canete/"
+},
+{
+"id": "person:jeronimo-de-loaysa",
+"canonical_name": "Jerónimo de Loaysa",
+"aliases": [
+"D. Jerónimo de Loaiza",
+"Arzobispo de los Reyes"
+],
+"tipo": "persona",
+"url": "/personas/acosta/jeronimo-de-loaysa/"
+},
+{
+"id": "person:alvaro-de-mendana",
+"canonical_name": "Álvaro de Mendaña",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/alvaro-de-mendana/"
+},
+{
+"id": "person:vasco-de-gama",
+"canonical_name": "Vasco de Gama",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/vasco-de-gama/"
+},
+{
+"id": "person:cristobal-colon",
+"canonical_name": "Cristóbal Colón",
+"aliases": [
+"el Almirante"
+],
+"tipo": "persona",
+"url": "/personas/acosta/cristobal-colon/"
+},
+{
+"id": "person:pedro-de-orsua",
+"canonical_name": "Pedro de Orsúa",
+"aliases": [
+"Pedro de Orsua"
+],
+"tipo": "persona",
+"url": "/personas/acosta/pedro-de-orsua/"
+},
+{
+"id": "person:lope-de-aguirre",
+"canonical_name": "Lope de Aguirre",
+"aliases": [
+"Diego de Aguirre"
+],
+"tipo": "persona",
+"url": "/personas/acosta/lope-de-aguirre/"
+},
+{
+"id": "person:cabeza-de-vaca",
+"canonical_name": "Álvar Núñez Cabeza de Vaca",
+"aliases": [
+"Cabeza de Vaca"
+],
+"tipo": "persona",
+"url": "/personas/acosta/cabeza-de-vaca/"
+},
+{
+"id": "person:pedro-de-alvarado",
+"canonical_name": "Pedro de Alvarado",
+"aliases": [
+"Alvarado"
+],
+"tipo": "persona",
+"url": "/personas/acosta/pedro-de-alvarado/"
+},
+{
+"id": "person:panfilo-de-narvaez",
+"canonical_name": "Pánfilo de Narváez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/panfilo-de-narvaez/"
+},
+{
+"id": "person:marina",
+"canonical_name": "Marina",
+"aliases": [
+"la Marina"
+],
+"tipo": "persona",
+"url": "/personas/acosta/marina/"
+},
+{
+"id": "person:moctezuma-ii",
+"canonical_name": "Moctezuma II",
+"aliases": [
+"Motezuma",
+"Motezuma segundo",
+"Motezuma el mancebo"
+],
+"tipo": "persona",
+"url": "/personas/acosta/moctezuma-ii/"
+},
+{
+"id": "person:moctezuma-i",
+"canonical_name": "Moctezuma I",
+"aliases": [
+"Motezuma primero"
+],
+"tipo": "persona",
+"url": "/personas/acosta/moctezuma-i/"
+},
+{
+"id": "person:acamapichtli",
+"canonical_name": "Acamapichtli",
+"aliases": [
+"Acamapich",
+"Acamapixtli"
+],
+"tipo": "persona",
+"url": "/personas/acosta/acamapichtli/"
+},
+{
+"id": "person:huitzilihuitl",
+"canonical_name": "Huitzilíhuitl",
+"aliases": [
+"Vitzilouitli"
+],
+"tipo": "persona",
+"url": "/personas/acosta/huitzilihuitl/"
+},
+{
+"id": "person:chimalpopoca",
+"canonical_name": "Chimalpopoca",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/chimalpopoca/"
+},
+{
+"id": "person:izcoatl",
+"canonical_name": "Itzcóatl",
+"aliases": [
+"Izcoatl"
+],
+"tipo": "persona",
+"url": "/personas/acosta/izcoatl/"
+},
+{
+"id": "person:tlacaelel",
+"canonical_name": "Tlacaélel",
+"aliases": [
+"Tlacaellel"
+],
+"tipo": "persona",
+"url": "/personas/acosta/tlacaelel/"
+},
+{
+"id": "person:tizocic",
+"canonical_name": "Tízoc",
+"aliases": [
+"Tizocic"
+],
+"tipo": "persona",
+"url": "/personas/acosta/tizocic/"
+},
+{
+"id": "person:axayacatl",
+"canonical_name": "Axayácatl",
+"aliases": [
+"Axayaca"
+],
+"tipo": "persona",
+"url": "/personas/acosta/axayacatl/"
+},
+{
+"id": "person:ahuitzotl",
+"canonical_name": "Ahuízotl",
+"aliases": [
+"Autzol"
+],
+"tipo": "persona",
+"url": "/personas/acosta/ahuitzotl/"
+},
+{
+"id": "person:cuauhtemoc",
+"canonical_name": "Cuauhtémoc",
+"aliases": [
+"Quicuxtemoc"
+],
+"tipo": "persona",
+"url": "/personas/acosta/cuauhtemoc/"
+},
+{
+"id": "person:mexi",
+"canonical_name": "Mexi",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/mexi/"
+},
+{
+"id": "person:copil",
+"canonical_name": "Copil",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/acosta/copil/"
+},
+{
+"id": "person:viracocha-dios",
+"canonical_name": "Viracocha",
+"aliases": [
+"Viracocha Pachayachachic",
+"Ticciviracocha"
+],
+"tipo": "persona",
+"url": "/personas/acosta/viracocha-dios/"
+},
+{
+"id": "person:huitzilopochtli",
+"canonical_name": "Huitzilopochtli",
+"aliases": [
+"Vitzilipuztli"
+],
+"tipo": "persona",
+"url": "/personas/acosta/huitzilopochtli/"
+},
+{
+"id": "person:tezcatlipoca",
+"canonical_name": "Tezcatlipoca",
+"aliases": [
+"Texcatlipuca"
+],
+"tipo": "persona",
+"url": "/personas/acosta/tezcatlipoca/"
+},
+{
+"id": "person:quetzalcoatl",
+"canonical_name": "Quetzalcóatl",
+"aliases": [
+"Quetzaalcoatl",
+"Topilcin"
+],
+"tipo": "persona",
+"url": "/personas/acosta/quetzalcoatl/"
+},
+{
+"id": "place:cuzco",
+"canonical_name": "Cuzco",
+"aliases": [
+"Cusco"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/cuzco/"
+},
+{
+"id": "place:tenochtitlan",
+"canonical_name": "México (Tenochtitlan)",
+"aliases": [
+"Tenochtitlán",
+"México"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/tenochtitlan/"
+},
+{
+"id": "place:cajamarca",
+"canonical_name": "Cajamarca",
+"aliases": [
+"Caxamalca"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/cajamarca/"
+},
+{
+"id": "place:xaquixaguana",
+"canonical_name": "Xaquixaguana",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/xaquixaguana/"
+},
+{
+"id": "place:vilcabamba",
+"canonical_name": "Vilcabamba",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/vilcabamba/"
+},
+{
+"id": "place:valle-de-yucay",
+"canonical_name": "valle de Yucay",
+"aliases": [
+"Yucay"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/valle-de-yucay/"
+},
+{
+"id": "place:quito",
+"canonical_name": "Quito",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/quito/"
+},
+{
+"id": "place:tezcuco",
+"canonical_name": "Tezcuco",
+"aliases": [
+"Texcoco"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/tezcuco/"
+},
+{
+"id": "place:tacuba",
+"canonical_name": "Tacuba",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/tacuba/"
+},
+{
+"id": "place:azcapuzalco",
+"canonical_name": "Azcapuzalco",
+"aliases": [
+"Azcapotzalco"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/azcapuzalco/"
+},
+{
+"id": "place:tlaxcala",
+"canonical_name": "Tlaxcala",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/tlaxcala/"
+},
+{
+"id": "place:cholula",
+"canonical_name": "Cholula",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/cholula/"
+},
+{
+"id": "place:tlatelolco",
+"canonical_name": "Tlatelolco",
+"aliases": [
+"Tlatellulco"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/tlatelolco/"
+},
+{
+"id": "place:chapultepec",
+"canonical_name": "Chapultepec",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/chapultepec/"
+},
+{
+"id": "place:coyoacan",
+"canonical_name": "Coyoacán",
+"aliases": [
+"Cuyoacán"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/coyoacan/"
+},
+{
+"id": "place:michoacan",
+"canonical_name": "Michoacán",
+"aliases": [
+"Mechoacán"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/michoacan/"
+},
+{
+"id": "place:malinalco",
+"canonical_name": "Malinalco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/malinalco/"
+},
+{
+"id": "place:tula",
+"canonical_name": "Tula",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/tula/"
+},
+{
+"id": "place:culhuacan",
+"canonical_name": "Culhuacán",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/culhuacan/"
+},
+{
+"id": "place:tehuantepec",
+"canonical_name": "Tehuantepec",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/tehuantepec/"
+},
+{
+"id": "place:guatulco",
+"canonical_name": "Guatulco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/guatulco/"
+},
+{
+"id": "place:andaguaylas",
+"canonical_name": "Andahuaylas",
+"aliases": [
+"Andaguaylas"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/andaguaylas/"
+},
+{
+"id": "place:pachacamac",
+"canonical_name": "Pachacamac",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/pachacamac/"
+},
+{
+"id": "place:tiahuanaco",
+"canonical_name": "Tiahuanaco",
+"aliases": [
+"Tiaguanaco"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/tiahuanaco/"
+},
+{
+"id": "place:potosi",
+"canonical_name": "Potosí",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/potosi/"
+},
+{
+"id": "place:chuquisaca",
+"canonical_name": "Chuquisaca",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/chuquisaca/"
+},
+{
+"id": "place:ciudad-de-los-reyes",
+"canonical_name": "Ciudad de los Reyes",
+"aliases": [
+"Lima"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/ciudad-de-los-reyes/"
+},
+{
+"id": "place:islas-de-salomon",
+"canonical_name": "islas de Salomón",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/islas-de-salomon/"
+},
+{
+"id": "place:santa-cruz-de-la-sierra",
+"canonical_name": "Santa Cruz de la Sierra",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/santa-cruz-de-la-sierra/"
+},
+{
+"id": "place:rio-maranon",
+"canonical_name": "río Marañón",
+"aliases": [
+"río de las Amazonas",
+"río de Orellana"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/rio-maranon/"
+},
+{
+"id": "place:laguna-titicaca",
+"canonical_name": "laguna Titicaca",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/laguna-titicaca/"
+},
+{
+"id": "place:veracruz",
+"canonical_name": "Veracruz",
+"aliases": [
+"Vera Cruz"
+],
+"tipo": "lugar",
+"url": "/lugares/acosta/veracruz/"
+},
+{
+"id": "place:segura-de-la-frontera",
+"canonical_name": "Segura de la Frontera",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/acosta/segura-de-la-frontera/"
+}
+]

@@ -1,0 +1,458 @@
+[
+{
+"id": "person:cristobal-colon",
+"canonical_name": "Cristóbal Colón",
+"aliases": [
+"el Almirante",
+"Prefecto marítimo",
+"el Prefecto"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/cristobal-colon/"
+},
+{
+"id": "person:bartolome-colon",
+"canonical_name": "Bartolomé Colón",
+"aliases": [
+"el Adelantado"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/bartolome-colon/"
+},
+{
+"id": "person:diego-colon-indio-guanahani",
+"canonical_name": "Diego Colón (intérprete indígena)",
+"aliases": [
+"Diego"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/diego-colon-indio-guanahani/"
+},
+{
+"id": "person:guacanagari",
+"canonical_name": "Guacanagarí",
+"aliases": [
+"Guacanaril",
+"el cacique Guacanaril"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/guacanagari/"
+},
+{
+"id": "person:caonabo",
+"canonical_name": "Caonabo",
+"aliases": [
+"Caunaboa"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/caonabo/"
+},
+{
+"id": "person:alonso-de-hojeda",
+"canonical_name": "Alonso de Hojeda",
+"aliases": [
+"Hojeda"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/alonso-de-hojeda/"
+},
+{
+"id": "person:guarionex",
+"canonical_name": "Guarionex",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/guarionex/"
+},
+{
+"id": "person:mayobanex",
+"canonical_name": "Mayobanex",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/mayobanex/"
+},
+{
+"id": "person:francisco-roldan",
+"canonical_name": "Francisco Roldán",
+"aliases": [
+"Roldán"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/francisco-roldan/"
+},
+{
+"id": "person:francisco-de-bobadilla",
+"canonical_name": "Francisco de Bobadilla",
+"aliases": [
+"el nuevo Gobernador"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/francisco-de-bobadilla/"
+},
+{
+"id": "person:pedro-margarit",
+"canonical_name": "Pedro Margarit",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/pedro-margarit/"
+},
+{
+"id": "person:melchor-de-sevilla",
+"canonical_name": "Melchor (de Sevilla)",
+"aliases": [
+"cierto Melchor"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/melchor-de-sevilla/"
+},
+{
+"id": "person:vasco-nunez-de-balboa",
+"canonical_name": "Vasco Núñez de Balboa",
+"aliases": [
+"Vasco Núñez",
+"Vasco"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/vasco-nunez-de-balboa/"
+},
+{
+"id": "person:careta",
+"canonical_name": "Careta",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/careta/"
+},
+{
+"id": "person:poncha",
+"canonical_name": "Poncha",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/poncha/"
+},
+{
+"id": "person:cuarecua",
+"canonical_name": "Cuarecua",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/cuarecua/"
+},
+{
+"id": "person:chiapes",
+"canonical_name": "Chiapes",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/chiapes/"
+},
+{
+"id": "person:coquera",
+"canonical_name": "Coquera",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/coquera/"
+},
+{
+"id": "person:tumaco",
+"canonical_name": "Tumaco",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/tumaco/"
+},
+{
+"id": "person:pedrarias-davila",
+"canonical_name": "Pedro Arias de Ávila",
+"aliases": [
+"Pedrarias",
+"Pedro Arias"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/pedrarias-davila/"
+},
+{
+"id": "person:hernan-cortes",
+"canonical_name": "Hernán Cortés",
+"aliases": [
+"Cortés"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/hernan-cortes/"
+},
+{
+"id": "person:moctezuma",
+"canonical_name": "Moctezuma",
+"aliases": [
+"Moteczuma"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/moctezuma/"
+},
+{
+"id": "person:catamazin",
+"canonical_name": "Catamazín (Cuauhtémoc)",
+"aliases": [
+"Catamazín"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/catamazin/"
+},
+{
+"id": "person:cristobal-de-olid",
+"canonical_name": "Cristóbal de Olid",
+"aliases": [
+"Olid"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/cristobal-de-olid/"
+},
+{
+"id": "person:gil-gonzalez-de-avila",
+"canonical_name": "Gil González de Ávila",
+"aliases": [
+"Gil González"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/gil-gonzalez-de-avila/"
+},
+{
+"id": "person:francisco-de-las-casas",
+"canonical_name": "Francisco de las Casas",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/francisco-de-las-casas/"
+},
+{
+"id": "person:pedro-alvarado",
+"canonical_name": "Pedro Alvarado",
+"aliases": [
+"Alvarado"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/pedro-alvarado/"
+},
+{
+"id": "person:gonzalo-de-sandoval",
+"canonical_name": "Gonzalo de Sandoval",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/gonzalo-de-sandoval/"
+},
+{
+"id": "person:francisco-de-olea",
+"canonical_name": "Francisco de Olea",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/francisco-de-olea/"
+},
+{
+"id": "person:diego-velazquez",
+"canonical_name": "Diego Velázquez",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/diego-velazquez/"
+},
+{
+"id": "person:juan-de-ribera",
+"canonical_name": "Juan de Ribera",
+"aliases": [
+"Juan Rivera"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/juan-de-ribera/"
+},
+{
+"id": "person:diego-ordaz",
+"canonical_name": "Diego Ordaz",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/diego-ordaz/"
+},
+{
+"id": "person:benavides",
+"canonical_name": "Benavides",
+"aliases": [
+"Benevides"
+],
+"tipo": "persona",
+"url": "/personas/pedro-martir/benavides/"
+},
+{
+"id": "person:francisco-fernandez-castilla-del-oro",
+"canonical_name": "Francisco Fernández",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/francisco-fernandez-castilla-del-oro/"
+},
+{
+"id": "person:vasco-nunez-comogro",
+"canonical_name": "Comogro (cacique)",
+"aliases": [],
+"tipo": "persona",
+"url": "/personas/pedro-martir/vasco-nunez-comogro/"
+},
+{
+"id": "place:canarias",
+"canonical_name": "islas Canarias",
+"aliases": [
+"islas Afortunadas"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/canarias/"
+},
+{
+"id": "place:espanola",
+"canonical_name": "isla Española",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/espanola/"
+},
+{
+"id": "place:cuba",
+"canonical_name": "Cuba",
+"aliases": [
+"Juana",
+"Alfa y Omega"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/cuba/"
+},
+{
+"id": "place:jamaica",
+"canonical_name": "Jamaica",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/jamaica/"
+},
+{
+"id": "place:guadalupe",
+"canonical_name": "Guadalupe",
+"aliases": [
+"Carucueria"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/guadalupe/"
+},
+{
+"id": "place:isabela-ciudad",
+"canonical_name": "La Isabela",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/isabela-ciudad/"
+},
+{
+"id": "place:santo-domingo-fuerte",
+"canonical_name": "Santo Domingo (fuerte)",
+"aliases": [
+"fuerte de Santo Domingo"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/santo-domingo-fuerte/"
+},
+{
+"id": "place:cibao",
+"canonical_name": "provincia de Cibao",
+"aliases": [
+"Cipango"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/cibao/"
+},
+{
+"id": "place:magona",
+"canonical_name": "valle de Magona",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/magona/"
+},
+{
+"id": "place:darien",
+"canonical_name": "el Darién",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/darien/"
+},
+{
+"id": "place:golfo-san-miguel",
+"canonical_name": "golfo de San Miguel",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/golfo-san-miguel/"
+},
+{
+"id": "place:mar-del-sur",
+"canonical_name": "mar del Sur",
+"aliases": [
+"mar Austral"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/mar-del-sur/"
+},
+{
+"id": "place:cempoal",
+"canonical_name": "Cempoal",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/cempoal/"
+},
+{
+"id": "place:vera-cruz-colonia",
+"canonical_name": "Vera Cruz (colonia)",
+"aliases": [
+"Villa Rica de la Vera Cruz"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/vera-cruz-colonia/"
+},
+{
+"id": "place:tenustitan",
+"canonical_name": "Tenustitán",
+"aliases": [
+"Tenustita",
+"Méjico",
+"ciudad lacustre de Méjico"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/tenustitan/"
+},
+{
+"id": "place:tezcuco",
+"canonical_name": "Tezcuco",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/tezcuco/"
+},
+{
+"id": "place:tlascalteca",
+"canonical_name": "Tlascalteca",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/tlascalteca/"
+},
+{
+"id": "place:aztapalapa",
+"canonical_name": "Aztapalapa",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/aztapalapa/"
+},
+{
+"id": "place:golfo-figueras",
+"canonical_name": "golfo de Figueras",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/golfo-figueras/"
+},
+{
+"id": "place:nicaragua-lago",
+"canonical_name": "lago de Nicaragua",
+"aliases": [
+"mar de aguas dulces"
+],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/nicaragua-lago/"
+},
+{
+"id": "place:medellin-puerto",
+"canonical_name": "Medellín (puerto de Nueva España)",
+"aliases": [],
+"tipo": "lugar",
+"url": "/lugares/pedro-martir/medellin-puerto/"
+}
+]

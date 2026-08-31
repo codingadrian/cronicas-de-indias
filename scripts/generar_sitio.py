@@ -39,6 +39,8 @@ OBRAS = [
     {"clave": "cieza-de-leon", "archivo": "sources/cieza-de-leon/texto-limpio/cronica-del-peru.md"},
     {"clave": "tezozomoc", "archivo": "sources/tezozomoc/texto-limpio/cronica-mexicana.md"},
     {"clave": "motolinia", "archivo": "sources/motolinia/texto-limpio/historia-de-los-indios.md"},
+    {"clave": "pedro-martir", "archivo": "sources/pedro-martir/texto-limpio/decadas-del-nuevo-mundo.md"},
+    {"clave": "acosta", "archivo": "sources/acosta/texto-limpio/historia-natural-moral-indias.md"},
 ]
 
 CAP_BLURBS = 20

@@ -16,24 +16,21 @@ transcripción: abrí el archivo correspondiente en GitHub (botón de lápiz
 falta instalar nada. Las páginas de persona (`_personas/`) y de lugar
 (`_lugares/`) también son archivos de texto editables de la misma manera.
 
-## Estado (actualizado 2026-08-29)
+## Estado (actualizado 2026-08-31)
 
-**Sitio Jekyll publicado, 13 obras activas.** KPIs actuales: 13 obras,
-479 personas, 352 lugares, 210 eventos, 1045 relaciones.
+**Sitio Jekyll publicado, 15 obras activas.** KPIs actuales: 15 obras,
+566 personas, 408 lugares, 260 eventos, 1254 relaciones.
 
 Repo: https://github.com/codingadrian/cronicas-de-indias — sitio publicado en https://codingadrian.github.io/cronicas-de-indias/
 
 - ✅ Bernal Díaz del Castillo — *Historia verdadera* (tomo 1): relaciones de los Capítulos 1-35 (de 111).
 - ✅ Bartolomé de las Casas — *Historia de las Indias* (tomo II): relaciones de los Capítulos 1-28 (de 97).
 - ✅ Cristóbal Colón — *Diario de a bordo del primer viaje*: relaciones del proemio + días 1-40 (de 191).
-- ✅ Cristóbal Colón — *Relaciones y cartas*: **completa**.
+- ✅ Cristóbal Colón — *Relaciones y cartas*: relaciones de los Capítulos 0-15 (de 16, el último con relaciones pendientes de re-verificar).
 - ✅ Hernán Cortés — *Cartas de relación*: **completa**.
 - ✅ Francisco de Xerez, Álvar Núñez Cabeza de Vaca, Diego Muñoz Camargo, Pedro Pizarro, Fernando de Alva Ixtlilxóchitl, Pedro Cieza de León (Primera Parte), Hernando Alvarado Tezozómoc, Fray Toribio de Benavente "Motolinía" — sumadas al sitio el 2026-08-29, todas **completas** salvo donde su propia fuente está incompleta (Ixtlilxóchitl se corta a mitad de la conquista; Cieza de León es solo su Primera Parte).
+- ✅ Pedro Mártir de Anglería y José de Acosta — sumadas al sitio el 2026-08-31.
 - ⏸️ Hernando Colón — en pausa.
-
-**Fase 2 lista pero todavía sin sumar al sitio**: Pedro Mártir de
-Anglería y José de Acosta (falta agregarlos a `scripts/generar_sitio.py`
-y correr el script).
 
 **Catálogo completo de 20 cronistas** (`sources/CATALOGO.md`): a pedido
 del usuario se buscaron y descargaron las 20 crónicas de una lista

@@ -9,11 +9,13 @@
 # (Bernal Díaz, Las Casas, Diario de Colón, Cortés, Colón — Cartas) más
 # las 8 sumadas el 2026-08-29 tras su Fase 2 (Xerez, Cabeza de Vaca,
 # Muñoz Camargo, Pedro Pizarro, Ixtlilxóchitl, Cieza de León, Tezozómoc,
-# Motolinía). Quedan 9 obras del catálogo de 17 sin Fase 2 todavía
-# (Sahagún, Acosta, López de Gómara, Pedro Mártir, Inca Garcilaso, Durán,
+# Motolinía), más Pedro Mártir y Acosta, sumadas el 2026-08-31 (ya tenían
+# Fase 1+2 completas desde el 2026-08-29, quedaron pendientes de integrar
+# — ver CLAUDE.md "Pendientes" punto 1). Quedan 7 obras del catálogo de 17
+# sin Fase 2 todavía (Sahagún, López de Gómara, Inca Garcilaso, Durán,
 # Zárate, Guamán Poma, y Oviedo sin Fase 1 siquiera) — ver CLAUDE.md.
-obras: 13
-personas: 479
-lugares: 352
-eventos: 210
-relaciones: 1045
+obras: 15
+personas: 566
+lugares: 408
+eventos: 260
+relaciones: 1254
