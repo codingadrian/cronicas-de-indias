@@ -22,9 +22,9 @@ blurbs:
 - heading: Instrucción a Mosén Pedro Margarit (1494)
   url: /documentos/colon-cartas/003/
   occ: 2
-  html: (•¡esc para ver el término de <mark>Cambao</mark>; y porque los ca- ballos, según nos informaron el otro día Gaspar y los otros que fueron á Yamalmix, no pueden pasar de San- to Tomás adela…
+  html: …í la rescibáis vos toda, y al comienzo de vuestro camino á Yamahuix, y dende llevaréis el camino donde os paresciese para ver el término de <mark>Cambao</mark>; y porque los caballos, según nos informaron el otro día Gaspar y los otros que fueron á Yamahuix, no pueden pasar de Santo Tomás adelante …
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/010/
+  url: /documentos/colon-cartas/014/
   occ: 0
   html: …que sabían bien dello cogían en cuatro días una medida que. cabía una onza y media, y así tenía yo asentado en todos los dcsta provincia de <mark>Cibao</mark> y les placía de dar de tributo cada persona, hombre y mujer, de catorce años arriba hasta setenta, una medida destas que yo dije de tres en…
 ---

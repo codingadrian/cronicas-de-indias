@@ -36,48 +36,48 @@ blurbs:
   url: /documentos/colon-cartas/000/
   occ: 5
   html: 'Ya dije como yo había andado ciento siete leguas por la costa de la mar, por la derecha línea de Occidente á Oriente, por la isla <mark>Juana</mark>: según el cual camino puedo decir que esta isla es mayor que Inglaterra y Escocia juntas: porque allende destas ciento siete leguas me qued…'
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 0
   html: …da una de las otras, habiendo mandado que la una se llamase Santa María de la Concepción, otra la Fernandina, la tercera Isabela, la cuarta <mark>Juana</mark>, y así respectivamente las restantes.
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 1
   html: Luego que arribamos á la que acaba de nombrarse (<mark>Juana</mark>) me adelanté un poco cerca de su costa hacia el Occidente, y la descubrí tan grande y sin límite, que no hubiera creído ser isla, sino más …
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 2
   html: '…asta la distancia de trescientas veintidós millas, donde es el fin de la misma: desde allí vi por la parte de Oriente otra isla distante de <mark>la Juana</mark> cincuenta y cuatro millas, á la que puse por nombre Española: llegué á ella y dirigí la ruta hacia el Norte, del mismo modo que en la Juana…'
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 3
   html: '…la Juana cincuenta y cuatro millas, á la que puse por nombre Española: llegué á ella y dirigí la ruta hacia el Norte, del mismo modo que en <mark>la Juana</mark> al Oriente, como en distancia de quinientas sesenta y cuatro millas.'
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 4
   html: 'Esta misma y todas las situadas en el mismo punto son fértilísimas: la referida <mark>Juana</mark> está circundada de muchos puertos segurísimos, espaciosos y que exceden á cuantos he visto jamás: la bañan por todas partes muchos, copioso…'
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 5
   html: Hay además en dicha isla <mark>Juana</mark> siete ú ocho variedades de palmas superiores á las nuestras en su altura y belleza, así como todos los demás árboles, hierbas y frutos. Se …
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 6
   html: …á la salubridad, excede á cuanto pueda imaginarse, á no verlo. Sus árboles, pastos y frutos se diferencian mucho de los que produce la isla <mark>Juana</mark> ; pero abunda además de diversos géneros de aromas, de oro y de metales.
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 7
   html: He dicho que anduve en recta dirección de Poniente á Oriente trescientas veintidós millas para llegar á la isla <mark>Juana</mark>. Según este viaje y la distancia del camino, puedo asegurar que esta es mayor que la Inglaterra y Escocia juntas; porque además de las refe…
 - heading: Carta a los Reyes dando cuenta del segundo viaje (1494)
   url: /documentos/colon-cartas/004/
   occ: 0
-  html: … grandes y tan conti- nuos los trabajos y vigilias, de noche y día sin una hora de descanso, que había padecido en este descubri- miento de <mark>Cuba</mark> y Jamaica, y rodear esta Española has- ta llegar á esta isleta de la Mona, especial cuando an- daba entre las muchas isletas y bajos, cerca…
+  html: … tan grandes y tan continuos los trabajos y vigilias, de noche y día sin una hora de descanso, que había padecido en este descubrimiento de <mark>Cuba</mark> y Jamaica, y rodear esta Española hasta llegar á esta isleta de la Mona, especial cuando andaba entre las muchas isletas y bajos, cercanas …
 - heading: Carta a los Reyes dando cuenta del segundo viaje (1494)
   url: /documentos/colon-cartas/004/
   occ: 1
-  html: …aica, y rodear esta Española has- ta llegar á esta isleta de la Mona, especial cuando an- daba entre las muchas isletas y bajos, cercanas á <mark>Cuba</mark>, que nombró el jardín de la Reina, donde anduvo trein- ta y dos días sin dormir sueño, que, salido de la Mona y ya que llegaba cerca de la …
+  html: … Jamaica, y rodear esta Española hasta llegar á esta isleta de la Mona, especial cuando andaba entre las muchas isletas y bajos, cercanas á <mark>Cuba</mark>, que nombró el jardín de la Reina, donde anduvo treinta y dos días sin dormir sueño, que, salido de la Mona y ya que llegaba cerca de la is…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/010/
+  url: /documentos/colon-cartas/014/
   occ: 0
   html: …be el cura de los Palacios, es, sin embargo, muy cierto que Colón dirigió esta carta á la ama ó nodriza que habla sido del Princi- pe, doña <mark>Juana</mark> de la Torre, hermana de Pedro de Torres, Se- cretario de S. A. y de Antonio de Torres, que filé con ol Almi- rante al segundo viaje, y de q…
 ---

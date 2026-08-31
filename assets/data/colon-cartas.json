@@ -373,5 +373,23 @@
 "aliases": [],
 "tipo": "lugar",
 "url": "/lugares/colon-cartas/valladolid/"
+},
+{
+"id": "place:isla-de-la-madera",
+"canonical_name": "Isla de la Madera",
+"aliases": [
+"la Madera"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/isla-de-la-madera/"
+},
+{
+"id": "place:islas-de-cabo-verde",
+"canonical_name": "Islas de Cabo Verde",
+"aliases": [
+"Cabo Verde"
+],
+"tipo": "lugar",
+"url": "/lugares/colon-cartas/islas-de-cabo-verde/"
 }
 ]

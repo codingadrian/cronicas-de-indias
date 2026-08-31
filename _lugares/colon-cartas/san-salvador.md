@@ -20,11 +20,11 @@ blurbs:
   url: /documentos/colon-cartas/000/
   occ: 1
   html: '…ue yo fallé puse nombre San Salvador, á conmemoración de su Alta Majestad, el cual maravillosamente todo esto ha dado: los indios la llaman <mark>Guanahanin</mark>. A la segunda puse nombre la isla de Santa Marta de Concepción: á la tercera Fernandina: á la cuarta la Isabela : á la quinta isla Juana, é…'
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 0
   html: '… nuestro felicísimo Monarca, á público pregón y aclamaciones, tremolando bandera y sin contradicción alguna: puse á la primera el nombre de <mark>San Salvador</mark>, en cuya protección confiado llegué así á esta como á las demás; los Indios la llaman Guanahanin. Di también nuevo nombre á cada una de las…'
-- heading: CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+- heading: Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
   url: /documentos/colon-cartas/001/
   occ: 1
   html: '…n alguna: puse á la primera el nombre de San Salvador, en cuya protección confiado llegué así á esta como á las demás; los Indios la llaman <mark>Guanahanin</mark>. Di también nuevo nombre á cada una de las otras, habiendo mandado que la una se llamase Santa María de la Concepción, otra la Fernandina, …'

@@ -12,7 +12,7 @@ status: candidata
 notas: ''
 mentions_hint: Las 7 menciones de esta persona en el texto.
 blurbs:
-- heading: MEMORIAL
+- heading: Memorial
   url: /documentos/colon-cartas/002/
   occ: 0
   html: … y seguirse hian dos peligros de alii, el uno de adolecer allá en la misma obra do no hay casa ni reparo alguno de aquel Cacique que llaman <mark>Caonabó</mark>, que es hombre, según relación de todos, muy malo y muy más atrevido, el cual viéndonos allá así desbaratados y dolientes, podría emprender…

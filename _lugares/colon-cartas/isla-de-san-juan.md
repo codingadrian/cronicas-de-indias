@@ -14,6 +14,6 @@ blurbs:
 - heading: Carta a los Reyes dando cuenta del segundo viaje (1494)
   url: /documentos/colon-cartas/004/
   occ: 0
-  html: …, que nombró el jardín de la Reina, donde anduvo trein- ta y dos días sin dormir sueño, que, salido de la Mona y ya que llegaba cerca de la <mark>isla de Sant Juan</mark>, súpita- mente le dio una modorra pestilencial, que totalmente le quitó el uso de los sentidos y todas las fuerzas, y quedó muerto, y no pe…
+  html: …ba, que nombró el jardín de la Reina, donde anduvo treinta y dos días sin dormir sueño, que, salido de la Mona y ya que llegaba cerca de la <mark>isla de Sant Juan</mark>, súpitamente le dio una modorra pestilencial, que totalmente le quitó el uso de los sentidos y todas las fuerzas, y quedó muerto, y no pens…
 ---
 Corresponde aproximadamente a Puerto Rico en la geografía actual. También aparece nombrado como: isla de Sant Juan.

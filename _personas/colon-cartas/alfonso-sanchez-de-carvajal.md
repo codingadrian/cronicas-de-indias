@@ -13,8 +13,8 @@ notas: ''
 mentions_hint: Las 1 menciones de esta persona en el texto.
 blurbs:
 - heading: Carta al obispo de Badajoz
-  url: /documentos/colon-cartas/006/
+  url: /documentos/colon-cartas/009/
   occ: 0
-  html: '…e prometían: y ago- ra, Señor, me paresce que por lo que á mí SS. AA. re- mitieron, é porque veo que es su servicio, que se debe de pagar á <mark>Alfonso Sánchez de Carvajal</mark> todo el dinero tpie se le debe de su servicio, y á Pedro Fernández Co-'
+  html: '…o que prometían: y agora, Señor, me paresce que por lo que á mí SS. AA. remitieron, é porque veo que es su servicio, que se debe de pagar á <mark>Alfonso Sánchez de Carvajal</mark> todo el dinero que se le debe de su servicio, y á Pedro Fernández Coronel veinte mil maravedís también de lo que se le debe, el cual ha de …'
 ---
 Aparece en el texto como Regidor de Baeza; capitán de uno de los navíos del tercer viaje (1498). También aparece nombrada como: Alonso Sánchez de Carvajal, Alonso Sánchez de Carabajal.

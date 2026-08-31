@@ -8,22 +8,26 @@ role: enviado real (hacia 1495-96) a investigar quejas contra el gobierno de Col
 mention_count_aprox: null
 status: candidata
 notas: ''
-mentions_hint: Las 4 menciones de esta persona en el texto.
+mentions_hint: Las 5 menciones de esta persona en el texto.
 blurbs:
-- heading: MEMORIAL
+- heading: Memorial
   url: /documentos/colon-cartas/002/
   occ: 0
   html: …encomienda en la Orden de Santiago, de la cual él tiene el hábito, porque su mujer é hijos tengan en qué vivir. Asimismo haréis relación de <mark>Juan Aguado</mark>, criado de sus Altezas, cuán bien ó diligentemente ha servido en todo lo que le ha seido mandado; que suplico a sus Altezas, á él é á los s…
-- heading: MEMORIAL
+- heading: Memorial
   url: /documentos/colon-cartas/002/
   occ: 1
   html: '…e, y así les haga pagar el Almirante en lo que allá se hobiere de pagar, y D. Juan de Fonseca en lo que acá se hobiere de pagar: y en lo de <mark>Juan Aguado</mark> sus Altezas habrán memoria de él._'
+- heading: Cartas de Cristóbal Colón a los Reyes
+  url: /documentos/colon-cartas/011/
+  occ: 0
+  html: …que cada día se iban corrompiendo más la vida mala y nefanda de los españoles; y en verdad, como fueron grandes quejas y debiólas de llevar <mark>Juan Aguado</mark>, de que había, tratado mal los españoles, ahorcando ó azotando muchos, y también por estar levantado Francisco Roldán y los demás, estaba a…
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/010/
+  url: /documentos/colon-cartas/014/
   occ: 0
   html: … palabras y por cartas que él no podía usar de sus provisiones, porque las mías eran las más fuertes, y les mostré las franquezas que llevó <mark>Juan Aguado</mark>.
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/010/
+  url: /documentos/colon-cartas/014/
   occ: 1
   html: …é me guardan mis privilegios y mercedes, y si alguien molos quebranta, sos Altezas me los acrescientan con aventaja, como se vicio en lo de <mark>Juan Aguado</mark>, y me mandar hacer mucha honra, y como dije ya sus Altezas rescribieron de mí servicios y tienen mis hijos sus cria- dos, lo que en tringun…
 ---

@@ -11,7 +11,7 @@ notas: ''
 mentions_hint: Las 1 menciones de esta persona en el texto.
 blurbs:
 - heading: Relación del tercer viaje y documentos posteriores (1498-1504)
-  url: /documentos/colon-cartas/010/
+  url: /documentos/colon-cartas/014/
   occ: 0
   html: (1) Frey <mark>Nicolás de Ovando</mark>, primor gobernador general de la isla Española y de todas las demás islas y tierra iirme que entonces dependían de ella, fue nombrado para …
 ---

@@ -70,7 +70,7 @@ Después desta escrita, estando en mar de Castilla, salió tanto viento conmigo 
 
 Esta carta envió Colón al Escribano de Ración de las islas halladas en las Indias é otra de sus Altezas. 
 
-## CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ
+## Carta del Almirante D. Cristóbal Colón al Sr. Rafael Sánchez
 
 CARTA DEL ALMIRANTE D. CRISTOBAL COLON AL SR. RAFAEL SÁNCHEZ(1)
 (1,Original)Esta carta, sustanciaImente igual á la anterior, dirigida á Luis de Santangel, fue traducida al latín por Leandro Cosco, y publicada en Boma en 1493. El texto que publicó Navarrete y reproducimos, es una traducción de la versión latina de Cosco (porque el primitivo original se ha perdido), hecha por el Bibliotecario mayor, D. Francisco Antonio González. 
@@ -132,7 +132,7 @@ tos pueblos, entregados hasta ahora á la perdición. Regocijémonos, así por l
 Tales son los sucesos que he descrito con brevedad. A Dios. En Lisboa á catorce(1) de Marzo. — Cristobal Colón, Almirante de la Armada del Océano. 
 (1,Original) Debe ser 4 de Marzo.
 
-## MEMORIAL
+## Memorial
 
 MEMORIAL 
 
@@ -302,576 +302,158 @@ La manera que se debe tener para prender á Cahonaboa, reservando á lo que all�
 
 Quel dicho Contreras trabaje mucho con él, é tenga manera que Cahonaboa vaya á hablar con vos, porque más seguramente se haga su prisión; é porque él anda desnudo é sería malo de detenerle, é si una vez se soltase é se huyese no se podría así haber á las manos por la dispusición de la tierra, estando en vistas con él, hacedle dar una camisa y vestírsela luego, y un capus, y ceñille un cinto, y ponelle una toca, por donde le podéis tener é no se vos suelte. E también debéis prender á los hermanos suyos que con él irán; y si por caso el dicho Cahonaboa estoviere indispuesto que no pueda ir á estar con vos, tened manera con él que dé por bien vuestra ida á él: é antes que vos á él lleguéis, el dicho Contreras debe ir primero por le asegurar, diciendole que vos vais á él por le ver é conoscer, é tener con él amistad, porque yendo vos con mucha gente podría ser que tomase recelo é se pornía á ir por los montes, é erraríades la presa; pero todo se remite á vuestra buena discreción para que fagáis según que mejor os paresciere. 
 
-Ttem: debéis mucho mirar que la justicia sea mucho 
-temida, y que el que vuestro mandamiento pasare sea 
-castigado muy bien, porque si de otra manera pasase, 
-por la gente se podría recrecer que se perdiese toda la 
-hueste é se desmandaría, é no vos podríades así apro- 
-vechar de la gente, ó farían daño; c los indios, viéndo- 
-los así desmandados é desconcertados por el mal re- 
-cabdo que temían, como estos indios sean cobardes é 
-no dan la vida á’ ninguno por puro temor, fallándolos de 
-dos en dos, ó tres en tres, podría ser que tomasen 
-atrevimiento de los matar; asi que por esto é por otras 
-cosas es bien que seades muy bien obedescido, ó se 
-cumpla en todo lo que mandáredes, ó ninguno no saiga 
-de vuestro mandamiento, avisándoos que no hay tan 
-mala gente como cobardes que nunca dan la vida á nin- 
-guno: así que si los indios bailasen un hombre ó dos 
-desmandados, no sería maravilla que los matasen. 
+Item: debéis mucho mirar que la justicia sea mucho temida, y que el que vuestro mandamiento pasare sea castigado muy bien, porque si de otra manera pasase, por la gente se podría recrecer que se perdiese toda la hueste é se desmandaría, é no vos podríades así aprovechar de la gente, ó farían daño; é los indios, viéndolos así desmandados é desconcertados por el mal recabdo que temían, como estos indios sean cobardes é no dan la vida á ninguno por puro temor, fallándolos de dos en dos, ó tres en tres, podría ser que tomasen atrevimiento de los matar; asi que por esto é por otras cosas es bien que seades muy bien obedescido, ó se cumpla en todo lo que mandáredes, ó ninguno no salga de vuestro mandamiento, avisándoos que no hay tan mala gente como cobardes que nunca dan la vida á ninguno: así que si los indios hallasen un hombre ó dos desmandados, no sería maravilla que los matasen. 
 
-Item: pues con el ayuda de nuestro Señor habéis de 
-andar mucha tierra, será bien é en todo caso, por do 
-quiera que fuéredes, por todos los caminos c sendas, fa- 
-ced poner cruces altas y mojones, y asimismo cruces 
-en los árboles y cruces en los logares que son conve- 
-nientes, c do no se puedan así caer, porque allende ques 
-razón que así se faga, pues, loado Dios, la tierra es de 
-cristianos, aprovecharéis mucho por la perpetua me. 
-moria que de ellas se habrá, é aun faciendo poner en 
-algunos árboles altos é grandes los nombres de sus Al- 
-tezas. 
+Item: pues con el ayuda de nuestro Señor habéis de andar mucha tierra, será bien é en todo caso, por do quiera que fuéredes, por todos los caminos é sendas, faced poner cruces altas y mojones, y asimismo cruces en los árboles y cruces en los logares que son convenientes, é do no se puedan así caer, porque allende ques razón que así se faga, pues, loado Dios, la tierra es de cristianos, aprovecharéis mucho por la perpetua memoria que de ellas se habrá, é aun faciendo poner en algunos árboles altos é grandes los nombres de sus Altezas. 
 
-Item más: porque me par es ce bien que toda esta gen 
-te vaya agora con Hojeda hasta Carabao, y que de allí 
-la rescibáis vos toda, y al comienzo de vuestro camino 
-á amahuix, y dende llevaréis el camino donde os pares- 
+Item más: porque me paresce bien que toda esta gente vaya agora con Hojeda hasta Carabao, y que de allí la rescibáis vos toda, y al comienzo de vuestro camino á Yamahuix, y dende llevaréis el camino donde os paresciese para ver el término de Cambao; y porque los caballos, según nos informaron el otro día Gaspar y los otros que fueron á Yamahuix, no pueden pasar de Santo Tomás adelante por el mal camino, debeislos de dejar en Santo Tomás, y dar cargo de ellos á un escudero de los de las guardas que tenga el suyo allí también, ó otra persona que os paresciere que mejor lo haya de saber, que haga cuidar destos caballos juntamente con mucha diligencia tanto é más que si fuesen suyos, por que ya vedes cuánto nos va en tenerlos buenos, y si ballásedes tierras para que viósedes, pudiásedes enviar por ellos para proveeros y serviros. 
 
-KKf. ACIONES Y CAUTAS 
-
-22í> 
-
-(•¡esc para ver el término de Cambao; y porque los ca- 
-ballos, según nos informaron el otro día Gaspar y los 
-otros que fueron á Yamalmix, no pueden pasar de San- 
-to Tomás adelante por el mal camino, debeislos de de- 
-jar en Santo Tomás, y dar cargo de ellos á un escudero 
-de los de las guardas que tenga el suyo allí también, ó 
-otra persona que os paresciere que mejor lo baya de 
-saber, que liaga cuidar destos caballos juntamente con 
-mucha diligencia tanto é más que si fuesen suyos, por 
-que ya vedes cuánto nos va en tenerlos buenos, y si 
-ballásedes tierras para que viósedes, pudiásedes enviar 
-por ellos para proveeros y serviros. 
-
-Para lo cual todo que suso dicho es, c para cada una 
-cosa é parte dello, é para lo á ello anejo é dependiente 
-vos do ó concedo el mismo poder que yo lie de sus Al- 
-tezas de Yisorey é Capitán General destas Indias pol- 
-la, presente, bien así como si el dicho poder aquí fuese 
-¡nserto é encorporado; é por virtud del dicho po’der de 
-parte de sus Altezas mando á la gente que con vos fue- 
-re de aquí adelante que obedezcan vuestros manda- 
-mientos, é fagan todo lo que vos les dijeredes é mandá 
-redes de parte de sus Altezas, como íarían bien así 
-como si yo ge lo mandase, so las penas que les vos pu- 
-siéredes, las cuales esecutad en las personas é bienes 
-de los que lo contrario hicieren. Fecha en la cibdad 
-Isabela, que es en la isla Isabela en las Indias, á nueve 
-días del mes de Abril, año del nacimiento de nuestro 
-Salvador Jesucristo de mil cuatrocientos noventa y 
-cuatro años.— -El Almirante. 
+Para lo cual todo que suso dicho es, é para cada una cosa é parte dello, é para lo á ello anejo é dependiente vos do é concedo el mismo poder que yo he de sus Altezas de Visorey é Capitán General destas Indias por la, presente, bien así como si el dicho poder aquí fuese inserto é encorporado; é por virtud del dicho poder de parte de sus Altezas mando á la gente que con vos fuere de aquí adelante que obedezcan vuestros mandamientos, é fagan todo lo que vos les dijeredes é mandá redes de parte de sus Altezas, como farían bien así como si yo ge lo mandase, so las penas que les vos pusiéredes, las cuales esecutad en las personas é bienes de los que lo contrario hicieren. Fecha en la cibdad Isabela, que es en la isla Isabela en las Indias, á nueve días del mes de Abril, año del nacimiento de nuestro Salvador Jesucristo de mil cuatrocientos noventa y cuatro años. —El Almirante.
 
 ## Carta a los Reyes dando cuenta del segundo viaje (1494)
 
-CARTA 
+CARTA DE D. CRISTÓBAL COLON A LOS REYES
 
-DE 
+DANDO CUENTA DE SU SEGUNDO VIAJE
 
-D. CRISTÓBAL COLON A LOS REYES 
+Año de 1497
 
-DANDO CUENTA DE SU SEGUNDO VIAJE 
+REFERENCIA
 
-Año de 1497. 
+Fray Bartolomé de las Casas, en el cap. CXIX del libro I de su Historia de las Indias, da noticia de esta carta en los siguientes términos: «Dice el Almirante en una carta que escribió á los Reyes que traía propósito deste viaje ir á las islas de los caníbales para las destruir, pero como habían sido tan grandes y tan continuos los trabajos y vigilias, de noche y día sin una hora de descanso, que había padecido en este descubrimiento de Cuba y Jamaica, y rodear esta Española hasta llegar á esta isleta de la Mona, especial cuando andaba entre las muchas isletas y bajos, cercanas á Cuba, que nombró el jardín de la Reina, donde anduvo treinta y dos días sin dormir sueño, que, salido de la Mona y ya que llegaba cerca de la isla de Sant Juan, súpitamente le dio una modorra pestilencial(1), que totalmente le quitó el uso de los sentidos y todas las fuerzas, y quedó muerto, y no pensaron que un día durara; por esta causa los marineros, con cuanta diligencia pudieron, dejaron el camino que llevaba ó quería llevar el Almirante, y con todos tres navios lo llevaron á la Isabela, donde llegó á 29 dias de Setiembre del mismo año 1494. (1,2,A.Robles)Un término médico e histórico del siglo XVI que los españoles usaban para describir una epidemia grave caracterizada por fiebre alta y un sueño profundo o letargo mortal.
 
-REFERENCIA 
+CARTA DE D. CRISTOBAL COLON Á LOS REYES CATÓLICOS 
 
-Fray Bartolomé de las Casas, en el cap. CXIX del li- 
-bro I de su Historia de las Indias, da noticia de esta car- 
-ta en los siguientes términos: «Dice el Almirante en 
-una carta que escribió á los Reyes que traía propósito 
-deste viaje ir á las islas de los caníbales para las des- 
-truir, pero como habían sido tan grandes y tan conti- 
-nuos los trabajos y vigilias, de noche y día sin una 
-hora de descanso, que había padecido en este descubri- 
-miento de Cuba y Jamaica, y rodear esta Española has- 
-ta llegar á esta isleta de la Mona, especial cuando an- 
-daba entre las muchas isletas y bajos, cercanas á Cuba, 
-que nombró el jardín de la Reina, donde anduvo trein- 
-ta y dos días sin dormir sueño, que, salido de la Mona 
-y ya que llegaba cerca de la isla de Sant Juan, súpita- 
-mente le dio una modorra pestilencial, que totalmente 
-le quitó el uso de los sentidos y todas las fuerzas, y 
-quedó muerto, y no pensaron que un día durara; por 
-esta causa los marineros, con cuanta diligencia pudie- 
-ron, dejaron el camino que llevaba ó quería llevar el Al- 
-mirante, y con todos tres navios lo llevaron á la Isabe- 
-la, donde llegó á 29 dias de Setiembre del mismo 
-año 1494. •> 
+ACERCA DE LA POBLACION Y NEGOCIACIÓN DE LA ESPAÑOLA
 
-CARTA 
+Y DE LAS OTRAS ISLAS DESCUBIERTAS Y POR DESCUBRIR 
 
-DE 
-
-D. CRISTOBAL COLON 
-
-Á LOS BEYES CATÓLICOS 
-
-ACERCA DE LA POBLACION 
-
-Y NEGOCIACIÓN DE LA " ESPAÑOLA » Y DE LAS OTRAS 
-ISLAS DESCUBIERTAS Y POR DESCUBRIR 
-
-Sin fecha. 
+Sin fecha.
 
 Muy altos y muy poderosos Señores: 
 
-Obedesciendo lo que vuestras Altelas me mandaron, 
--diré lo que me ocurre para la población y negociación, 
-asy déla Isla Española como de las otras, asy bailadas 
-como por hallar, sometiéndome á mejor pareseer. 
+Obedesciendo lo que vuestras Altelas me mandaron, diré lo que me ocurre para la población y negociación, asy déla Isla Española como de las otras, asy halladas como por hallar, sometiéndome á mejor pareseer. Primeramente, para en lo de la Isla Española que vayan hasta en número de dos mili vecinos, los que quisieren yr, porque la tierra este más segura y se pueda mejor granjear ó tratar, y servirá para que se puedan rebolver y traten las yslas comarcanas. 
 
-Primeramente, para en lo de la Isla Española que 
-vayan hasta en número de dos mili vecinos, ios que 
-quisieren yr, porque la tierra este más segura y se 
-.pueda mejor granjear ó tratar, y servirá para que se 
-puedan rebolver y traten lasvslas comarcanas. 
+Iten, que en la dicha ysla se hagan tres ó cuatro pueblos é repartidos en los lugares más convenibles, ó los vecinos que allá fueren, sean repartidos por los dichos lugares y pueblos. 
 
-Iten, que en la dicha vsla se hagan tres ó cuatro pue- 
-blos é repartidos en los lugares más convenibles, ó los 
-vecinos que allá fueren, sean repartidos por los dichos 
-lugares y pueblos. 
+Iten, que porque mejor y más presto se pueble la dicha ysla, que ninguno tenga facultad para coger oro en ella, salvo los que tomaren vecindad é hicieren casas para su morada en la población que estuvieren, porque vivan juntamente y más seguros. 
 
-Iten, que porque mejor y más presto se pueble la di- 
-cha ysla, que ninguno tenga facultad para coger oro 
-en ella, salvo los que tomaren vecindad é hicieren casas 
-para su morada en la población que estuvieren, porque 
-vivan juntamente y más seguros. 
+Iten, que en cada lugar ó población haya un alcalde ó alcaldes con su escribano del pueblo, según uso é costumbre de Castilla. 
 
-CRISTÓBAL COLÓN 
+Iten, que haya iglesia y abades ó frailes para adminystracion de los sacramentos y cultos divinos y para conversión de los yndios. 
 
-[ten, que en cada lugar ó población liaya un alcalde 
-ó alcaldes con su escribano del pueblo, según uso é 
-costumbre de Castilla. 
+Iten, que ninguno de los vezinos pueda yr á coger oro, salvo con licencia del gobernador ó alcalde del lugar donde biviere, y que primero haga juramento de 
+volver al mysmo lugar de do saliere, ó registrar fielmente todo el oro que oviere cogydo y ávido, y de volver una vez en el mes ó en la semana, según el tiempo le fuere asygnado, á dar quenta é manifestar la cantidad de dicho oro, é que se escriva por el escrivano del pueblo por ante el alcalde, y sy paresciero, que haya asy mesmo un fraile ó abad deputado para ello. 
 
-Iten, que haya iglesia y abades ó frailes para admi- 
-nystracion de los sacramentos y cultos divinos y para 
-conversión de los yndios. 
+Iten, que todo el oro que asy se traxere, se aya luego de fundir y marcar de alguna marca que cada pueblo señalare, y que se pese y se dé y se entregue, á cada alcalde en su lugar, la parte que pertenesciese á vuestras alteras, y se escriva por el dicho abad ó fravle, de manera que no pase por una sola mano, y asy no se pueda celar la verdad. 
 
-Iten, que ninguno de los vezinos pueda yr á coger 
-oro, salvo con licencia del gobernador ó alcalde del lu- 
-gar donde biviere, y que primero haga juramento de 
-volver al mysmo lugar de do saliere, ó registrar fiel- 
-mente todo el oro que oviere cogyclo y ávido, y de 
-volver una vez en el mes ó en la semana, según el 
-tiempo le fuere asygnado, á dar quenta é manifestar la 
-cantidad de dicho oro, é que se escriva por el escriva- 
-no del pueblo por ante el alcalde, y sy paresciero, que 
-haya asy mesmo un fraile ó abad deputado para ello. 
+Iten, que todo el oro que se hallare syn la marca de los dichos pueblos en poder de los que ovieren una vez registrado por la orden susodicha, le sea tomado por perdido , é haya una parte el acusador y lo al para vuestras Álteeas. 
 
-Iten, que todo el oro que asy se traxere, se aya luego 
-de fundir y marcar de alguna marca que cada pueblo 
-señalare, y que se pese y se dé y se entregue, á cada 
-alcalde en su lugar, la parte que pertenesciese á vues- 
-tras alteras, y se escriva por el dicho abad ó fravle, de 
-manera que no pase por una sola mano, y asy no se 
-pueda celar la verdad. 
+Iten, quede todo el oro que oviere, se saque uno por ciento para la fábrica de las yglesias y ornamentos de ellas ó para sustentación de los abades ó frayies de ellas; y si pareseiere que á los alcaldes y escribanos se dé algo por su trabajo y por porque agan fielmente sus oficios, que se remita al gobernador y tesorero que allá fueren por vuestras alteras.
 
-Iten, que todo el oro que se hallare syn la marca de 
-los dichos pueblos en poder de los que ovieren una vez 
-registrado por la orden susodicha, le sea tomado por 
-perdido , é haya una parte el acusador y lo al para 
-vuestras Álteeas. 
+Iten, quanto toca á la división del oro ó de la parte que ovieren de a ver vuestras Alteras, esto, á my ver, debe ser remitido á los dichos gobernador y thesorero, porque averá ser más ó menos según la cantidad del oro que se hallare; ó sy paresciere, que por tiempo de un año hayan vuestras Altezas la mitad y los cogedores la otra mitad, ca después podrá mejor determinarse cerca del dicho repartimiento. 
 
-Jten, quede todo el oro que oviere, se saque uno por 
-ciento para la fábrica de las yglesias y ornamentos de 
-ellas ó para sustentación de los abades ó frayies de 
-ellas; y si pareseiere que á los alcaldes y escribanos se- 
-dé algo por su trabajo y por porque agan fielmente sus 
-oficios, que se remita al gobernador y tliesorero que 
-allá fueren por vuestras alteras. 
+Iten, que sy los dichos alcaldes y escrivanos hicieren ó consintieren algún fraude, se le ponga pena ó asymesmo á los vecinos que por entero non manifestaren todo el oro que ovieren. 
 
-HUI. ACIONES Y CARTAS 
+Iten, porque según la codicia del oro, cada uno querrá más ocuparse en ello que en hacer otras granjerias, paresceme que alguna temporada del año se le deva defender la licencia de yr á buscar oro, para que haya lugar que se hagan en la dicha ysla otras granjerias á ellas pertenescientes. 
 
-Iten, quanto toca á la división del oro ó de la parle 
-que ovieren de a ver vuestras Alteras, esto, á rny ver, 
-debe ser remitido ¡i los dichos gobernador y thesorero, 
-porque averá ser más ó menos según la cantidad del 
-oro que se hallare; ó sy paresciere, que por tiempo de 
-un año liavan vuestras Alteras la mitad y los cogedores 
-la otra mitad, ca después podrá mejor determinarse 
-cerca del dicho repartimiento. 
+Iten, para en lo de descobrir de nuevas tierras, parésceme se deva dar licencia á todos los que quisieren yr, y alargar la mano en lo del quinto, moderándolo en alguna buena manera, á fin de que muchos se dispongan á yr. 
 
-Iten, que sy los dichos alcaldes y escrivanos Ingieren 
-ó consintieren algún fraude, se le ponga pena ó asyrnes- 
-mo á los veginos que por entero non manifestaren todo 
-el oro que ovieren. 
+Ahora diré mi parescer para la yda de los navios á la dicha isla Española, é la orden que se deba guardar, ques la siguiente: Que no puedan yr los dichos navios á descargar, salvo en ano ó dos puertos para ello señalados, y ende registren todo lo que llevaren é descargaren; y cuando o vieren de partir, sea de los mismos puertos, é registren todo lo que cargaren, porque no se encubra cosa alguna. 
 
-Iten, porque según la codicia del oro, cada uno que- 
-rrá más ocuparse en ello que en liager otras granjerias, 
-paresceme que alguna temporada del año se le deva 
-defender la licencia de yr á buscar oro, para que haya 
-lugar que se hagan en la dicha ysla otras granjerias 
-á ellas pertenesrientes. 
+Iten, que cerca del oro que se oviere de traer de las yslas para Castilla, que todo lo que se oviere de cargar asy lo que fuere de vuestras altezas como de cualquier personas, todo ello se ponga en un arca que tenga dos cerraduras con sus llaves, y quel maestro tenga la una, y otra presona quel gobernador y tesorero escogiesen la otra; é venga por testimonio de relación de todo lo que se pusiere en la dicha arca, é señalado, para que cado uno aya lo suyo; y sy otro oro alguno se hallare fuera de la dicha arca en cualquier manera, poco ó mucho, sea perdido, á fin que se haga fielmente y sea para vuestras Altezas. 
 
-Iten, para en lo de descobrir de nuevas tierras, pa- 
-résgeme se deva dar licencia á todos los que qui- 
-sieren yr, y alargar la mano en lo del quinto, mode- 
-rándolo en alguna buena manera, á fin de que muchos 
-se dispongan á yr. 
+Iten, que todos los navios que vinieren de la dicha ysla, vengan á hacer su derecha descarga al puerto de Cádiz, y no salga persona dellos ny entren otros, hasta que vayan á los dichos navios la presona ó presonas que para ello por vuestras Altezas fueren deputados en la dicha cibdad, á quien los maestros manifiesten todo lo que traen y muestren la fe de lo que o vieren cargado, para que se pueda ver é requerir sy los dichos navios traen cosa alguna encubierta é non manifestada al tiempo del cargar. 
 
-Ahora diré mi paresger para la yda de los navios á 
-la dicha isla Española, é la orden que se deba guardar, 
-ques la siguiente: Que no puedan yr los dichos navios 
-á descargar, salvo en ano ó dos puertos para ello seña- 
-lados, y ende registren todo lo que llevaren é descar- 
-garen; y cuando o vieren de partir, sea de los mismos 
-puertos, é registren todo lo que cargaren, porque no se 
-encubra cosa alguna. 
+Iten, que en presencia de la justicia de la dicha cibdad de Cádiz é de quien fuese para ello deputado por vuestras Altezas, se aya de abrir el arca en que se traxere el oro, y dar á cada uno lo suyo. — Vuestras Altezas me hayan por encomendado, y quedo rogando á Nuestro Señor Dios por las vidas de vuestras Altezas y acrescentamiento de muy mayores estados. 
 
-Iten, que cerca del oro que se oviere de traer de las 
-yslas para Castilla, que todo lo que se oviere de cargar 
-asy lo que fuere de vuestras altecas como de cualquier 
-personas, todo ello se ponga en un arca que tenga dos 
+(Cartas de Indias, publicadas por de Ministerio de Fomento en el año 1877.) 
 
-CRISTÓBAL COLÓN 
+## Carta a su hermano D. Bartolomé Fragmento (1497)
 
-cerraduras con sus llaves, y quel maestro tenga la una, 
-y otra presona quel gobernador y tesorero escogiesen la 
-otra; é venga por testimonio de relación de todo lo 
-que se pusiere en la dicha arca, é señalado, para que 
-cado uno aya lo suyo; y sy otro oro alguno se hallare 
-fuera de la dicha arca en cualquier manera, poco ó 
-mucho, sea perdido, á fin que se haga lielmente y sea 
-para vuestras Altecas. 
-
-Iten, que todos los navios que vinieren de la dicha 
-ysla, vengan á hacer su derecha descarga al puerto de 
-Cádiz, y no salga persona dellos ny entren otros, hasta 
-que vayan á los dichos navios la presona ó presonas 
-que para ello por vuestras Altezas fueren deputadoacn 
-la dicha cibdad, á quien los maestros manifiesten todo 
-lo que traen y muestren la fe de lo que o vieren cargado, 
-para que se pueda ver é requerir sy los dichos navios 
-traen cosa alguna encubierta é non manifestada al 
-tiempo del cargar. 
-
-iten, que en presencia de la justicia de la dicha cib- 
-dad de Cádiz é de quien fuese para ello deputado por 
-vuestras Altezas, se aya de abrir el arca en que se tra- 
-xere el oro, y dar á cada vno lo suyo. — Vuestras Al- 
-teras me hayan por encomendado, y quedo rogando á 
-Nuestro Señor Dios por las vidas de vuestras Altelas 
-y acres^entamiento de muy mayores estados. 
-
-(Cartas de Indi as, publicadas por d Ministerio de Fomento 
-en el año 1877.) 
-
-## Carta a su hermano D. Bartolomé (1497)
-
-CARTA 
-
-DI' 
-
-CRISTÓBAL COLÓN 
-
-Á SU HERMANO 
-
-D. BARTOLOMÉ (1) 
+CARTA DE CRISTÓBAL COLÓN Á SU HERMANO D. BARTOLOMÉ(1) 
+(1,Original)Copia esto fragmento Fray Bartolomé de las Casas en  su Historia de las Indias, 11b. I. cap. CXXII. Dice á propósito de este párrafo. «Cosa es de maravillar, y, sí fuera otra materia que no requiriera lloro, de reír que escribía á su hermano sobrecargar los navios de esclavos, y, para con la parto que había de caber á los Reyes, decía estas palabras.» (aquí las copia.) Y añade después. «Estas son sus formales palabras en la carta que escribió al Adelantado en los dos susodichos navios y yo la vide y de su misma letra y mano firmada.» 
 
 Año de 1497. 
 
 FRAGMENTO 
 
-«En esto y en todo es de tener muy justa cuenta, siu 
-tomar á Sus Altezas nada ni á otra persona, y mirar en 
-todo el cargo de la conciencia, porque no hay otro bien 
-salvo servir á Dios, que todas las cosas deste mundo 
-son nada, y el otro es para siempre.'* 
+"En esto y en todo es de tener muy justa cuenta, sin tomar á Sus Altezas nada ni á otra persona, y mirar en todo el cargo de la conciencia, porque no hay otro bien salvo servir á Dios, que todas las cosas deste mundo son nada, y el otro es para siempre." 
 
-(t) Copia esto fragmento Fray Bartolomé de las Casas en 
-su Historia de las Indias, 11b. I. cap. CXXII. Dice á propósito de 
-este párrafo. 
-
-«Cosa es de maravillar, y, sí fuera otra materia que no requi- 
-riera lloro, de reír que escribía á su hermano sobrecargar los 
-navios de esclavos, y, para con la parto que había de caber á 
-los Reyes, decía estas palabras.» (aquí las copia.) Y añade des- 
-pués. 
-
-«Estas son sus formales palabras en la carta que escribió al 
-Adelantado en los dos susodichos navios y yo la véle y de su 
-misma letra y mano firmada. » 
-
-C -A. R T -A. 
-
-DE 
-
-CRISTÓBAL COLÓN 
-
-Á LOS REYES 
+## Carta a de Cristóbal Colón a los Reyes Fragmento (1497)
+CARTA DE  CRISTÓBAL COLÓN Á LOS REYES 
 
 ESCRITA DESDE SANTO DOMINGO 
 
 Año de 1497. 
 
-FRAGMENTO (1) 
+FRAGMENTO(1)
+(1,Original)Copia este fragmento Fray Bartolomé de las Casas en su Historia de Las Indias, lib. I, cap. 126, para explicar los temores de Colón, «porque los negocios de estas Indias, dice Casas, iban cayendo, de golpe, en fama y disfavores de muchos, en especial de los que más cercanos estaban de los Reyes, porque no iban los navios cargados de oro (como si se hobiera de coger como fruta de los árboles, según el Almirante se quejaba)». Y más adelante, hablando del Ximeno que Colón menciona en el fragmento copiado, añade: «Parece que uno debiera de, en estos reveses, y, por ventura, en palabras contra él y contra la negociación de estas Indias, más que otro señalarse, y según entendí, no debiera ser cristiano viejo y creo que se llamaba Ximeno, contra el cual debió el Almirante gravemente sentirse y enojarse, y aguardó el día que se hizo á la vela, y, ó en la nao que entró, por ventura, el dicho oficial, ó en tierra cuando quería desembarcarse, arrebatólo el Almirante, y dale muchas coces ó remesones, por manera que lo trató mal; y á mi parecer, por esta causa principalmente, sobre otras quejas que fueron de acá y cosas que murmuraron de él y contra él los que bien con él no estaban y lo acumularon, los llayes indignados proveyeron de quitarle la gobernación, enviando al Comendador Francisco de Bobadilla, que esta isla y todas estas tierras gobernase; y bien lo temió el, como parece por un capitulo de la carta primera que escribió á los Reyes desque llegó á esta isla, donde dice: (aquí copia el fragmento.)
 
-«También suplico á vuestras Altezas que manden á 
-las personas que entienden en Sevilla en esta negocia- 
-ción, que no le sean contrarios, y no la impidan; yo no 
-sé lo (pie allá pasaría Ximeno, salvo que es de genera- 
+«También suplico á vuestras Altezas que manden á las personas que entienden en Sevilla en esta negociación, que no le sean contrarios, y no la impidan; yo no sé lo (pie allá pasaría Ximeno, salvo que es de generación que se ayudan á muerte y vida, é yo ausente y invidiado extranjero; no me desechen vuestras Altezas,pues que siempre me sostuvieron.»
+ 
 
-(1) Copia este fragmento Fray Bartolomé de las Casas cu su 
-Historia de I as Indios, lib. T, cap. 120, para explicar los temores 
-de Colón, «porque los negocios de estas Indias, dice Casas, iban 
-cayendo, de golpe, en fama y disfavores de muchos, en espe- 
-cial de los que más cercanos estaban de los Reyes, porque no- 
-iban los navios cargados de oro (como si se hobiera do coger 
-como fruta de los árboles, según el Almirante se quejaba) >). Y 
-más adolante, hablando del Ximeno que Colón menciona en el 
-fragmento copiado, añade: «Parece que uno debiera de, en estos 
-reveses, y, por ventura, en palabras contra él y contra la ne- 
-gociación do estas Indias, más que otro señalarse, y según en- 
-tendí, no debiera ser cristiano viejo y creo que se llamaba Xi- 
-meno, contra el cual debió el Almirante gravemente sentirse y 
-enojarse, y aguardó el día que se hizo á la vela, y, ó en la nao 
-que entró, por ventura, el dicho oficial, ó en tierra cuando que- 
-ría desembarcarse, arrebatólo el Almirante, y dale ronchas co 
 
-RELACIONES Y CARTAS 
+## Carta de Cristóbal Colón a su hermano D. Bartolomé
 
-ción que se ayudan á muerte y vida, é yo ausente y in- 
-vidiado extranjero; no me desechen vuestras Altezas, 
-pues que siempre me sostuvieron.» 
-
-ces ó remesones, por manera que lo trató mal; y á mi parecer, 
-por esta causa principalmente, sobre otras quejas que fueron de 
-acá y cosas que murmuraron de él y contra él los que bien con 
-él no estaban y lo acumularon, los llayes indignados proveye- 
-ron de quitarle la gobernación, enviando al Comendador Fran- 
-cisco de Bobadilla, que esta isla y todas estas tierras gober- 
-nase; y bien lo temió el, como parece por un capitulo de la 
-carta primera que escribió íi los Reyes desque llegó á esta isla, 
-donde dice: (aquí copia el fragmento.) 
-
-CARTA 
-
-DB 
-
-CRISTÓBAL COLÓN 
-
-A SU HliRMAXO 
-
-□ . BARTOLOMÉ 
+CARTA DE CRISTÓBAL COLÓN A SU HERMANO D. BARTOLOMÉ 
 
 Año de 1497. 
 
-FRAGMENTO (1) 
+FRAGMENTO(1)
+(1,Original)Copia, esto fragmento Fray Bartolomé de las Casas en su Historia de las Indias, lib.I, cap. CXXIII, al hablar délas dificultades conque tropezaba el Almirante para que los Reyes dieran "los cuatro cuentos que se habían de emplear en los bastimentos de las ocho naos ó navios que había de aparejar y llevar cargados." Y más adelante, añade: "Finalmente lo más que pudo trabajó, con los dineros primeros que le libraron, de hacer aparejar las dos carabelas que llevó Pero Hernández Coronel con los 90 hombres cargadas de bastimentos, y que llegaron (á la isla de Santo Domingo) á buen tiempo, cuando bien hobo menester el favor que llevaban el Adelantado, que Francisco Boldán determinaba en la fortaleza de la Concepción cercarlo; y estas despachadas, dió priesa en lo demás que restaba para su despacho, que consistía en aparejar los seis navios que quedaban."
 
-•Sabe nuestro Señor cuántas angustias por ello lie 
-pasado por saber como estaríades así; (pie, estos incon- 
-venientes, bien que yo los diga, prolijos, con péndola, 
-muchos más fueron un ser, á tanto que me hicieron abo- 
-rrir la vida por la gran fatiga que y r o sabía en que e.s- 
+•Sabe nuestro Señor cuántas angustias por ello he pasado por saber como estaríades así; (pie, estos inconvenientes, bien que yo los diga, prolijos, con péndola, muchos más fueron un ser, á tanto que me hicieron aborrir la vida por la gran fatiga que yo sabía en que estamiles; en la cual me debeis contar con vos juntamente, porque, cierto, bien que yo estuviese acá absente, allá tenía y tengo el ánima y presente, sin pensar en otra cosa alguna, de contino, como nuestro Señor dello es testigo, ni creo que vos pongáis ni vuestra ánima duda en ello, porque, allende la sangre y grande amor, el efecto del caso y la calidad del peligro y trabajo, en tan longincuas partes, amonesta y constrinje más el espíritu y sentido á doler cualquier fatiga que allá se pueda imaginar, que no si fuese en otra parte. Aprovecharía mucho á esto si este sufrimiento se sufriese por cosa que redundase al servicio de nuestro Señor, por lo cual debiéramos trabajar con alegre ánimo; ni desayudaría á pensar que ninguna cosa grande se puede llegar á efecto salvo con pena, y así mismo consuela á creer que todo aquello que se alcanza trabajosamente se posee y cuenta con mayor dulzura. Mucho habría que decir en esta causa, mas porque de vos no es la primera que hayáis pasado ni yo visto, dejaré para hablar en ello más despacio y de palabra, etc.» 
 
-(1) Copia, esto fragmento Fray Bartolomé de las Casas en su 
-Historia de las Indias, lib.I, c.ap. CXXIII, al hablar délas dificul- 
-tades conque tropezaba el Almirante para que los Beyes dieran 
-clos cuatro cuentos que se habían de emplear en los bastimen- 
-tos de las ocho naos ó navios que había do aparejar y llevar 
-cargados.» Y más adelante, añade: ('Finalmente lo más que 
-pudo trabajó, con los dineros primeros que le libraron, de ha- 
-cer aparejar las dos carabelas que llevó Pero Hernández Coro- 
-nel con los 90 hombres cargadas de bastimentos, y que llega- 
-ron (á la isla de Santo Domingo) á buen tiempo, cuando bien 
-bobo menester el favor que llevaban el Adelantado, qno Fran- 
-cisco Boldán determinaba en la fortaleza de la Concepción cer- 
-vario; y estas despachadas, dió priesa en lo demás que restaba 
-para su despacho, que consistía en aparejar los seis navios que 
-quedaban. » 
+## Memorial
 
-RELACIONES Y CARTAS 
-
-tamiles; en la cual me debeis contar con vos juntamen- 
-te, porque, cierto, bien que yo estuviese acá absente, 
-allá tenía y tengo el ánima y presente, sin pensar en 
-otra cosa alguna, de contino, como nuestro Señor debo 
-es testigo, ni creo que vos pongáis ni vuestra ánima 
-duda en ello, porque, allende la sangre y grande amor, 
-el efecto del caso y la calidad del peligro y trabajo, en 
-tan longincuas partes, amonesta y constrinje más el es- 
-píritu y sentido á doler cualquier fatiga que allá se pue- 
-da imaginar, que no si fuese en otra parte. Aprovecha- 
-ría mucho á esto si este sufrimiento se sufriese por 
-cosa que redundase al servicio de nuestro Señor, por 
-lo cual debiéramos trabajar con alegre ánimo; ni des- 
-ayudaría á pensar que ninguna cosa grande se puede 
-llegar á efecto salvo con pena, y así mismo consuela á 
-creer que todo aquello que se alcanza trabajosamente 
-se posee y cuenta con mayor dulzura. Mucho habría que 
-decir en esta causa, mas porque de vos no es la prime- 
-ra que hayáis pasado ni yo visto, dejaré para hablar en 
-ello más despacio y de palabra, etc.» 
-
-MEMORIAL 
-
-oKR PRESENTÓ 
-
-D. CRISTÓBAL COLÓN 
-
-Á 
-
-LOS REYES CATÓLICOS 
+MEMORIAL QUE PRESENTÓ D. CRISTÓBAL COLÓN Á LOS REYES CATÓLICOS 
 
 SOBRE LAS COSAS NECESARIAS PARA ABASTECER LAS INDIAS 
 
 Sin fecha. 
 
-Vuestras Altezas mandaron que se ficiese memorial 
-de las cosas que eran menester para ser bastecidas las 
-Indias y segund my parescer, es menester lo syguyente. 
+Vuestras Altezas mandaron que se ficiese memorial de las cosas que eran menester para ser bastecidas las Indias y segund my parescer, es menester lo syguyente. 
 
-Primeramente. 
+Primeramente.
 
-Seys navios para cuatrocientos ó quinientos ombres 
-que son menester para salud jar la isla Española, segund 
-my parescer, y destos ay en la dicha ysla quatro navios, 
-los dos son de vuestras Altezas, y elluno, que se llama 
-la Nyña es la mitad de vuestra Alteza y la mytad my o, 
-el otro que se llama la Vaquenno es la mitad de vues- 
-tras Altezas y la otra mytad de una byuda vecyna de 
-Palos. 
+Seys navios para cuatrocientos ó quinientos ombres que son menester para sojudjar la isla Española, segund my parescer, y destos ay en la dicha ysla quatro navios, los dos son de vuestras Altezas, y elluno, que se llama la Nyña es la mitad de vuestra Alteza y la mytad myo, el otro que se llama la Vaquenno es la mitad de vuestras Altezas y la otra mytad de una byuda vecyna de Palos. 
 
-Y destos dos navios que faltan para ser seys es me- 
-nester sean de ciento é veynte toneles cada uno por su- 
-plir la falta de los otros que son más pequeños, y serán 
-más baratos comprar que no fletarlos, y ansy mesmo ¡os 
-marineros que sean abydos á sueldo y no por flete, por- 
-que será más barato y mejor servidos. 
+Y destos dos navios que faltan para ser seys es menester sean de ciento é veynte toneles cada uno por suplir la falta de los otros que son más pequeños, y serán más baratos comprar que no fletarlos, y ansy mesmo los marineros que sean abydos á sueldo y no por flete, porque será más barato y mejor servidos. 
 
-ItEl, ACíÜ.Y US V CAUTAS 2 J I 
+Y para los abituallar y ser la gente mantenida es menester que sea de esta manera, la tercia parte que sea de vyzcocho que sea bueno y byen sazonado y que no sea añejo porque se pierde la mayor parte de ello, y la tercia parte que sea de faryna salada, y que se sale al tiempo de moler, y la tercia parte de trigo. 
 
-1 para los abituallar y ser la gente mantenida es me- 
-nos ter que sea de esta manera, la tercia parte que sea 
-de vvzcocho que sea bueno y byen sazonado y que no 
-sea añejo porque se pierde la mayor parte de ello, y la 
-tercia parte que sea de faryna salada, y que se sale al 
-tiempo de moler, y la tercia parte de trigo. 
+Mas es menester vyno y tocino, y aceyte, y vinagre é queso, é garbanzos, é lentejas, é habas, é pescado salado. é redes para pescar, é myel, é arroz, é almendras, é pasas. 
 
-Mas es menester vyno y tocino, y aceyte, y vinagre 
-■é queso, é garbanzos, c lentejas, é liabas, é pescado sa- 
-lado. é redes para pescar, é myel, é arroz, 6 almendras, 
-é pasas. 
+Mas, para los navyos ser reparados es menester pez, é estopa, é clavos, é sebo, ó manguetas, é fyerro, é pellejos. 
 
-Mas, pava los navyos ser reparados es menester pez, 
-c estopa, é clavos, é sebo, ó manguetas, é f y erro, ó pe- 
-llejos. 
+Mas, entre la gente que fuese en los navyos son menester estos oficiales que son calafates, é carpynteros, é toneleros, é aserradores, é serrador, é syherras, é se llevar es más barato. 
 
-Mas, entre la gente que fuese cu los navyos son me- 
-nester estos oficiales que son calafates, é carpynteros, 
-é toneleros, é aserradores, é serrador, é syherras, ó se 
-llevar es más barato. 
+Y más es menester que los navios que lleven ganado ansy obejuno como vacuno é cabruno, e esto que sea nuevo, y puédenlo tomar en las yslas de Canaria, porque se abra más barato ó más cerca.
 
-Y más es menester que los navios que lleven ganado 
-ansv obejuno como vacuno é cabruno, e esto que sea 
-nuevo, y puédenlo tomar en las yslas de Canaria, por- 
-que se abra más barato ó más cerca. 
+Es menester que se lleve para su vestuario lienzo, é paño, ó calzado, filo, agujas, fustán, cañamazo, bonetes, é para los caballos sillas, frenos é espuelas. 
 
-Es menester que se lleve para su vestuario lienzo, é 
-paño, ó calzado, filo, agujas, fustán, cañamazo, bone- 
-tes, é para los caballos sillas, frenos 6 espuelas. 
+Es más menester para los navyos que fueren como para la gente que allá residiere ansy armas lombardas para los navyos, é lanzas, é espadas, é puñales, é vallestas, é madexuelas para las vallestas, é almacén para las vallestas. 
 
-Es más menester para los navyos que fueren como 
-para la gente que allá residiere ansy armas lombardas 
-para los navyos, é lanzas, ó espadas, ó puñales, 6 va- 
-llestas, é madexuelas para las valí estas, é almacén para 
-las val testas. 
+Ansy mesno de las cosas que son menester para, curar los enfermos el padre fray Juan informará á vuestras Altezas de lo que será menester. 
 
-Ansy mesrno de las cosas que son menester para, cu- 
-rar los enfermos el padre fray Juan informará á vues- 
-tras Altezas de lo que será menester. 
+Sy estas cosas susodichas se ovyeren de dar por ración es menester que sea puesta una persona de buena conciencia para que de á cada uno su derecho no quitándole nada que lo pertenece, é sy se acordase que no sea por ración es menester se le haga allá alguna pagua de su sueldo en dinero para lo que hayan de comprar. 
 
-Sy estas cosas susodichas se ovyeren de dar por ra- 
-ción es menester que sea puesta una persona de buena 
-conciencia para que de á cada uno sic derecho no qui- 
-lo 
-
-CHISTO!) Al. COI. UN 
-
-i i 2 
-
-tándole nada que lo pertenece, é sy se acordase que no 
-sea por ración es menester se le haga allá alguna pa- 
-gua de su sueldo en dinero para lo que hayan de com- 
-prar. 
-
-Ansy m esmo es menester una persona que sea de 
-buena conciencia y guarde á cada uno su justicia, y que 
-los trate ansy como es menester: porque si los que oy 
-lo tienen lo poseen de aquí adelante, no digo los cliris- 
-tianos, más los yndios dejarán la tierra, porque son tra- 
-tados ansy los unos como los otros más siguiendo la 
-crueldad que la razón y la justicia, y porque ay muchos 
-de los que allá están que querrán abecyndar, e3 menes- 
-ter quel qu tal cargo llevare, lleve poder páralos facer 
-aquel partido y dar libertad segund viere qu’ es me- 
-nester. 
+Ansy mesmo es menester una persona que sea de buena conciencia y guarde á cada uno su justicia, y que los trate ansy como es menester: porque si los que oy lo tienen lo poseen de aquí adelante, no digo los christianos, más los yndios dejarán la tierra, porque son tratados ansy los unos como los otros más siguiendo la crueldad que la razón y la justicia, y porque ay muchos de los que allá están que querrán abecyndar, es menester quel qu' tal cargo llevare, lleve poder páralos facer aquel partido y dar libertad segund viere qu’ es menester. 
 
 ## Carta al obispo de Badajoz
 
-C A. R T A 
+CARTA DEL ALMIRANTE CRISTÓBAL COLÓN AL OBISPO DE BADAJOZ 
 
-1>SL 
+SOBRE EL PAGO DE LO QUE SE DEBiA 
 
-ALMIRANTE CRISTÓBAL COLÓN 
+A ALFONSO SÁNCHEZ DE CARVAJAL Y PEDRO FERNÁNDEZ CORONEL 
 
-AL OBISPO DE BADAJOZ 
+Año de 1498
 
-SG1SKK EL PACO DE LO QUE SE milií.A 
+Muy Reverendo y muy magnifico Señor: Al tiempo que partí de la corte, estando el Rey y la Reina nuestros Señores juntos, les dije que pues no se podía remediar en la paga de algunas personas de bien que yo traía conmigo, los cuales si no fuesen socorridos no podrían volver á las Indias, la cual negociación estaba tan disfamada, que si estos no fuesen no iría nadie, y que, por remediarlos, viesen sus Altezas si les daría yo algunos dellos algund dinero de lo que yo llevaba, ó había de llevar para pagar el sueldo de seis meses á los que allá están, que esperaba en Dios que fallaría oro, ó otra cosa de valor con que yo pudiera restituir lo que así hobiese dado á estos: y  respondió el Rey nuestro Señor que lo hiciese yo así mirando á la calidad de las personas, porque compliesen lo que prometían: y agora, Señor, me paresce que por lo que á mí SS. AA. remitieron, é porque veo que es su servicio, que se debe de pagar á Alfonso Sánchez de Carvajal todo el dinero que se le debe de su servicio, y á Pedro Fernández Coronel veinte mil maravedís también de lo que se le debe, el cual ha de llevar agora cargo destos dos navios(1) que en nombre de Nuestro Señor irán, adelante. (1,Original)Ésto indica que Coronel no había salido aún para su expedición: el cual con las carabelas Santa Cruz y Niña ó Santa Clara, maestres Juan Bermndez y Pedro Francés, vecinos de Palos, pilotos Francisco Niño y Juan de Umbría, como capitán de ambas partió de Sevilla el 23 de Enero de 1498, é hizo alarde de la gente que llevaba en Sanlúcar el 6 de Febrero. Volvió en 6 de Febrero de 1500. —Extr. de Muñoz.
 
-¿ ALP0X80 SÁNCHEZ HE CARVAJAL X PEDRO FERNÁNDEZ CORONEL 
-
-Año de 1498. 
-
-Muy líe. verendo y muy magnifico Señor: Al tiempo 
-que partí de la corte, estando el líe y y la Reina nues- 
-tros Señores juntos, les dije que pues no se podía reme- 
-diar en la paga de algunas personas de Lien que yo 
-traía conmigo, los cuales si no fuesen socorridos no 
-podrían volver á las Indias, la cual negociación estaba 
-tan disfamada, que si estos no fuesen no iría nadie, y 
-que, por remediarlos, viesen sus Altezas si les daría vo 
-algunos dellos algund dinero de lo que yo llevaba, ó 
-había de llevar para pagar el sueldo de seis meses á los 
-que allá están, que esperaba en Dios que fallaría oro, ó 
-otra cosa de valor con que yo pudiera restituir lo que 
-así liobiese dado á estos: y respondió el Rey nuestro 
-Señor que lo liciese yo así mirando á la calidad de las 
-personas, porque compliesen lo que prometían: y ago- 
-ra, Señor, me paresce que por lo que á mí SS. AA. re- 
-mitieron, é porque veo que es su servicio, que se debe 
-de pagar á Alfonso Sánchez de Carvajal todo el dinero 
-tpie se le debe de su servicio, y á Pedro Fernández Co- 
-
-CHISTO BAL COLO.N 
-
-4 2H 
-
-ronel veinte mil maravedís también de lo que se le 
-debe, el cual lia de llevar agora cargo destos dos na- 
-vios (1) que en nombre de Nuestro Señor irán, adelante. 
-En lo cual todo vea vuestra merced y fágase como lo 
-mandare. Fará lo que vuestra merced mandare. — h! 
-Almirante. 
-
-(I) Ésto indica que Coronel no habla salido aún para su 
-expedición: el cual con las carabelas Santa Cruz y Niña ó Sim- 
-ia Clara, maestres Juan Bermndez y Pedro Francés, vecinos 
-de Palos, pilotos Francisco Niño y Juan de Umbría, como capi- 
-tán de ambas partió de Sevilla el '¿8 de Enero de 1498, é hizo 
-alarde de la gente que llevaba en Sanlúcar el 6 de Febrero. 
-Volvió en 6 de Febrero de 1500. — E:vtr. <1< Muñoz. 
+En lo cual todo vea vuestra merced y fágase como lo mandare. Fará lo que vuestra merced mandare. —El Almirante.  
 
 ## Institución de mayorazgo
 
@@ -879,763 +461,105 @@ INSTITUCION DEL MAYORAZGO
 
 22 de Febrero de 1498. 
 
-En el nombre de la Santísima Trinidad, el cual me 
-puso en memoria, y después llegó á períeta inteligencia 
-que podría navegar é ir á las Indias desde España, pa- 
-sando el mar Océano al Poniente, y ansí lo notifiqué al 
-Rey D. Fernando y á la Reina Doña Isabel nuestros Se- 
-ñores, y les plugo de me dar aviamiento y aparejo de 
-gente y navios, y de me hacer su Almirante en el dicho 
-mar Océano, allende de una raya imaginaria que man- 
-daron señalar sobre las islas de Cabo Verde, y aquellas 
-de los Azores, cien leguas que pasa de Polo á Polo, que 
-dende en adelante al Poniente fuese su Almirante, y 
-que en la tierra Arme é islas (pie yo fallase y descubrie- 
-se, y dende en adelante, que destas tierras fuese yo su 
-Vi sorey y Gobernador, y sucediese en los dichos oficios 
-mi hijo mayor, y así de grado en grado para siempre 
-jamás, é yo hubiese el diezmo de todo lo que en el dicho 
-Almirantazgo se fallase ó hobiese é rentase, y asimismo 
-la octava parte de las tierras, y todas las otras cosas, 
-é el salario que es razón llevar por los oficios de Almi- 
-rante, Visorey y Gobernador, y con todos los otros de- 
-rechos pertenecientes á los dichos oíicios, ansí como 
-todo más largamente se contiene en este mi privilegio 
-y capitulación que de sus Altezas tengo. 
-
-E plugo á nuestro Señor Todopoderoso que en el año 
-de noventa y dos descubriese la tierra-firme de las In- 
-
-cristo h al Colon 
-
-días y muchas islas, entre las cuales es la Española, que 
-los indios della llaman Ay te y los Monicongos de Oi- 
-pango. Después volví á Castilla á sus Altezas y me tor- 
-naron á receñir á la empresa ó á poblar é descubrir más, 
-y ansí me dio nuestro Señor Vitoria, con que conquisté 
-ó tice tributaria á la gente de la Española, la cual hoja 
-seiscientas leguas, y descubrí muchas islas á los caní- 
-bales, y setecientas al Poniente de la Española, entre 
-Las cuales es aquella de Jamaica, á que A os llamamos 
-de Santiago, é trescientas c treinta é tres leguas de tie- 
-rra-firme de la parte del Austro al Poniente, allende de 
-ciento y siete de la parte del Setentrión, que tenía des- 
-cubierto al primer viaje con muchas islas, como mas 
-largo se verá por mis escrituras y memorias y cartas 
-de navegar. E porque esperamos en aquel alto 'Dios que 
-se haya de haber antes de grande tiempo buena é gran- 
-de renta en las dichas islas y tierra-firme, de la cual 
-por la razón sobredicha me pertenece el dicho diezmo 
-y ochavo y salarios y derechos sobredichos: y porque 
-somos mortales, y es bien que cada uno ordene y deje 
-declarado á sus herederos y sucesores lo que ha de ha'- 
-ber é hobiere, c por esto me pareció bien de componer 
-desta ochava parte de tierras y oficios é renta un Ma- 
-yorazgo, así como aquí abajo diré. 
-
-Primeramente que haya de suceder á mí D. Diego, 
-mi hijo, y si dél dispusiere nuestro Señor antes que él 
-hobiese hijos, que ende suceda D. Fernando, mí hijo, y 
-si dél dispusiere nuestro Señor sin que hobiese hijo, ó 
-yo hobiese otro hijo, que suceda D. Bartolomé, mi her- 
-mano, y deudo su hijo mayor, y si dél dispusiere nues- 
-tro Señor sin heredero que suceda 1). Diego, mi her- 
-mano, siendo casado ó para poder casar, é que suceda 
-á él su hijo mayor, ó así de grado en grado perpetua- 
-mente para siempre jamás, comenzando en D. Diego, 
-mi hijo, y sucediendo sus hijos, de uno en otro perpe- 
-
-KHLACIONES > CAUTAS 
-
-iuamente. ó falleciendo el hijo suyo suceda I). Fe 2 -nan- 
-to, mi hijo, como dicho es, y así su hijo, y prosigan de 
-níjo en hijo para siempre él y los sobredichos 1). Barto- 
-lomé, si á él llegare ó á D. Diego, mis hermanos. Y si á 
-nuestro Señor pluguiese que después de haber pasado 
-algún tiempo este Mayorazgo en uno de los dichos su- 
-cesores. viniese á prescribir herederos hombres legíti- 
-mos, haya dicho Mayorazgo y le suceda y herede el pa 
-riente más llegado á la persona que heredado lo tenía, 
-en cuyo poder prescribió, siendo hombre legítimo que 
-se llame y so haya siempre llamado de su padre ó ante- 
-cesores, llamados de los de Colón. El cual Mayorazgo en 
-ninguna manera lo herede mujer uinguna, salvo si aquí 
-ni en otro cabo del mundo no se fallase hombre de mi 
-linage verdadero que se hobiese llamado y llamase él y 
-sus antecesores de Colón. Y si esto acaesciere ¡Jo que 
-Dios no quiera) que en tal caso lo haya la mujer más 
-llegada en deudo y en sangre legítima á la persona que 
-así había logrado el dicho Mayorazgo: y esto será con 
-las condiciones que aquí abajo diré, las cuales se en- 
-tienda que son ansí por D. Diego, mi hijo, como por 
-cada uno de los sobredichos, ó por quien sucediere, ca- 
-da uno deilos, las cuales cumplirán, y no cumpliéndo- 
-las, que en tal caso sea privado del dicho Mayorazgo, y 
-io haya el pariente más llegado á la tal persona, en cuyo 
-poder había prescripto por no haber cumplido lo que 
-aquí diré: el cual así también le cobrarán si él no cum- 
-pliere estas dichas condiciones que aquí abajo diré, é 
-también será privado delio, y lo haya otra persona más 
-llegada á mi linage, guardando las dichas condiciones 
-que así duraren perpetuo, y será en la forma sobre es- 
-crita en perpetuo. La cual pena no se entienda en cosas 
-de menudencias que se podrían inventar por pleitos, 
-salvo por cosa gruesa que toque á la honra de Dios y 
-de mí y de mi linage, como es cumplir libremente lo 
-
-iimsrouAi. colon 
-
-US 
-
-que jo dejo ordenado, cumplidamente como digo, lo 
-cual todo encomiendo á la justicia, j suplico al Santo 
-Padre que agora es, y que sucederá en la Santa Iglesia 
-agora, ó cuando acaesciere que este mi compromiso y 
-testamento haya de menester para se cumplir de su 
-santa ordenación é mandamientos, que eu virtud de 
-obediencia y so pena de excomunión papal lo mande; y 
-que en ninguna manera jamás se disforme; y asimismo 
-lo suplico al Rey y á la Reina nuestros Señores, y al 
-Príncipe L). Juan, su primogénito nuestro Señor, y á los 
-que le sucedieren por los servicios que yo les lie fecho: é 
-por ser justo que les plega, y no consientan ni consienta 
-que se disforme este mi compromiso de Mayorazgo 6 de 
-Testamento, salvo que quede y esté así, y por la guisa 
-y forma que yo le ordené para siempre jamás, porque 
-sea servicio de Dios Todopoderoso y raíz y pie de mi 
-linage y memoria de los servicios que á sus Altezas he 
-hecho, que siendo yo nacido en (ténova les vine á ser- 
-vir aquí en Castilla, y les descubrí al Poniente de tierra- 
-firme las Indias vías dichas islas sobredichas. Así que 
-suplico á sus Altezas que sin pleito, ni demanda, ni di- 
-lación, manden sumariamente que este mi Privilegio y 
-Testamento valga y se cumpla, así como en él fuere y 
-es contenido; y asimismo lo suplico á los D rundes Se- 
-ñores de los Reinos de su Alteza, y á los del su Consejo 
-y á todos los otros que tienen ó tuvieren cargo de jus- 
-ticia ó de regimiento, que les plega de no consentir que 
-esta mi ordenación é testamento sea sin vigor y virtud, 
-y se cumpla como está ordenado por mí, asi por ser 
-muy justo que persona de título é que ha servido á su 
-Rey é Reina é al Reino, (pie valga todo lo que ordenare 
-y dejare por Testamento ó compromiso ó Mayorazgo é 
-heredad, é no se le quebrante en cosa alguna ni en par- 
-te ni en todo. 
-
-Primeramente traerá D. Diego, mi hijo, y todos los 
-
-RELACIONES Y CAUTAS 2 i'J 
-
-que de mí sucedieren y descendieren, y así mis herma- 
-nos I). Bartolomé y 1). Diego mis armas, que yo dejaré 
-después de mis días, sin entreverar más ninguna cosa 
-que ellas, y sellará con el sello dellas.— D. Diego, mi 
-hijo, ó cualquier otro que heredare este Mayorazgo, des- 
-pués de haber heredado y estado en posesión de ello, 
-(irme de mi firma, la cual agora acostumbro, que es 
-una X con una ¡~> encima, y una M con una A romana 
-encima, y encima della una S y después una Y griega 
-con una S encima con sus rayas y vírgulas, como yo 
-agora fago, y se parecerá por mis firmas, de las cuales 
-se hallarán muchas, y por esta parecerá, 
-
-Y no escribirá sino el Almirante puesto que otros títu- 
-los el Rey le diese ó ganase: esto se entiende en la fir- 
-ma y no en su ditado que podrá escribir todos sus títu- 
-los como le plugiere; solamente en la firma escribirá el 
-Almirante, 
-
-Habrá el dicho D. Diego, ó cualquier otro que here- 
-dare este Mayorazgo, mis oficios de Almirante del mar 
-Océano, que es de la parte del Poniente de una raya 
-que mandó asentar imaginaria su Alteza á cien leguas 
-sobre las islas de los Azores, y otro tanto sobre las di' 
-Cabo Verde, la cual parte de Polo á Polo, allende de la 
-cual mandaron é me hicieron su Almirante en la mar, 
-con todas las preeminencias que tiene el Almirante don 
-Henifique en el Almirantazgo de Castilla, é me hicieron 
-su Viso rey y Gobernador perpetuo para siempre jamás, 
-y en todas las islas y tierra-firme, descubiertas y por 
-descubrir, para mí y para mis herederos, como más lar- 
-go parece por mis privilegios, los cuales tengo y por 
-mis capítulos, como arriba dije. 
-
-Item: que el dicho D. Diego, ó cualquier otro que he- 
-redare el dicho Mayorazgo, repartirá la renta que á 
-nuestro Señor plugiere de le dar en esta manera so la 
-dicha pena. 
-
-CHISTO ti A 1. COI.ÓM 
-
-Primeramente, dará todo Jo que este Mayorazgo ren- 
-tare agora y siempre, é del c por él se liobiere é recau- 
-dare la cuarta parte cada año á 1). Bartolomé Colón, 
-Adelantado de las Indias, mi hermano, y esto fasta que 
-él haya de su renta un cuento de maravedís para su 
-mantenimiento y trabajo que lia tenido y tiene de ser- 
-vir en este Mayorazgo, el cual dicho cuento llevará, 
-como dicho es, cada año, si la dicha, cuarta parte tanto 
-montare, si él no tuviere otra cosa; mas teniendo algo, 
-ó todo de renta, que dende en adelante no lleve el di- 
-cho cuento ni parte dello, salvo que desde agora habrá 
-en la dicha cuarta parte íasta la dicha cuantía de un 
-cuento, si allí llegare, y tanto que él haya de renta fue- 
-ra desta cuarta parte cualquier suma de maravedís de 
-renta conocida de bienes que pudiere arrendar ó oíicios 
-perpetuos, se le descontará la dicha cantidad que asi 
-habrá de renta, ó podría haber de los dichos sus bienes 
-ó oíicios perpetuos, é del dicho un cuento, será reserva 
-do cualquier dote ó casamiento, que con la mujer con 
-•quien él casare liobiere: ansí que todo lo que él hubiere 
-con la dicha su muger no se entenderá que por ello se 
-Je haya de descontar nada del dicho cuento, salvo de lo 
-que él gauare ó hobiere, allende del dicho casamiento 
-de su muger, y después que plega á Dios que él ó sus 
-herederos, ó quien dél descendiere, haya un cuento de 
-renta de bienes y oficios, si los quisiere arrendar, como 
-dicho es, no habrá él ni sus herederos más de la cuarta 
-parte del dicho Mayorazgo nada, y lo habrá el dicho don 
-Diego, ó quien heredare. 
-
-Item: habrá de la dicha renta del dicho Mayorazgo, ó 
-de otra cuarta parte della, D. Fernando, mi hijo, un 
-cuento cada año, si la dicha cuarta parte tanto montare, 
-íasta que él haya dos cuentos de renta por !a misma 
-guisa y manera que está dicho de D. Bartolomé, mi lier 
-mano, él y sus herederos, así como D. Bartolomé mi 
-
-RELACIONES V CAUTAS 251 
-
-liermano y los herederos del cual así habrán el dicho nn 
-cuento, 6 la parto que faltare para ello. 
-
-Item: el dicho 1). Diego y D. Bartolomé ordenarán 
-que haya de, la renta del dicho Mayorazgo 1), Diego mi 
-hermano, tanto dcllo con que se pueda mantener hones- 
-tamente, como mi liermano que es, al cual no dejo cosa, 
-limitada porque él quiere ser de la Iglesia, y le darán lo 
-que fuere razón, y esto sea de montón mayor, antes que 
-se dé nada á 1). Fernando, mi hijo, ni á D. Bartolomé, 
-mi hermano, ó á sus herederos, v también secón la can- 
-tidad que rentare el dicho Mayorazgo; y si en esto ho- 
-blese discordia, que en tal caso se remita á dos parien- 
-tes nuestros, ó á otras personas de bien, que ellos to- 
-men Ja una y él tome la otra, y si no se pudiesen con- 
-certar, que los dichos dos compromisarios escojan otra 
-persona de bien que no sea sospechosa á ninguna de las 
-partes. 
-
-Item: que toda esta renta que yo mando dar á D, Bar- 
-tolomé y á D. Fernando y á D. Diego mi hermano, la 
-hayan y les sea dada, como arriba dije, con tanto que 
-sean leales y fieles á D. Diego, mi Id jo, ó á quien here- 
-dare, ellos y sus herederos; y si se fallase que fuesen 
-contra él en cosa que toque y sea contra su honra y 
-contra acrecentamiento de mi linage é del dicho Mayo- 
-razgo, en dicho ó cu lecho, por lo cual pareciese y fuese 
-escándalo y abatimiento de mi linage y menoscabo del 
-dicho Mayorazgo ó cualquiera dellos, que éste no haya 
-dende en adelante cosa alguna: así que siempre sean 
-heles á D. Diego ó á quien heredare. 
-
-Item: porque en el principio que yo ordené este Ma- 
-yorazgo tenía pensado de distribuir, y que D. Diego, mi 
-hijo, ó cualquier otra persona que le heredase, distribu- 
-yan dél la décima parte de la renta en diezmo y come- 
-moración de! Eterno Dios Todopoderoso en personas 
-necesitadas, para esto agora digo que por ir y que vaya 
-
-232 CKISTÚB A 1. COI.ON- 
-
-adelante mi intención; y para que su Alta Majestad me 
-ayude á mí y á los que esto heredaren acá ó en el otro 
-mundo, que todavía se haya de pag'ar el dicho diezmo 
-en esta manera. 
-
-Primeramente, de la cuarta parte de la renta deste 
-Mayorazgo, de la cual yo ordeno y mando que se dé y 
-haya D. Bartolomé hasta tener un cuento de renta, que 
-se entienda que en este cuento va el dicho diezmo de 
-toda la renta del dicho Mayorazgo, y que así como cre- 
-ciere la renta del dicho L>. Bartolomé, mi hermano, por- 
-que se haya de descontar de la renta de la cuarta parte 
-del Mayorazgo algo ú todo, que se vea y cuente toda la 
-renta sobredicha para saber cuánto monta el diezmo 
-dello, y la parte que no cabiere, ó sobrare, á lo que ho- 
-biere de haber el dicho D. Bartolomé para el cuento, 
-que esta parte la hayan las personas de mi linage en 
-descuento del dicho diezmo, los que más necesitados 
-fueren y más menester lo hobieren, mirando de la dar á 
-persona que no tenga cincuenta mil maravedís de ren- 
-ta, y si el que menos tuviese llegase hasta cuantía de 
-cincuenta mil maravedís, haya la parte el que pareciere 
-á las dos personas, que sobre esto aquí eligieren, con don 
-Diego ó con quien heredare: así que se entienda, que el 
-cuento que mando dar ú D. Bartolomé son, y en ellos 
-entra la dicha parte sobredicha del diezmo del dicho 
-Mayorazgo, y que toda la renta del Mayorazgo quiero ó 
-rengo ordenado que se distribuya en los parientes míos 
-más llegados al dicho Mayorazgo, y que más necesita- 
-dos fueren, y después que el dicho ü. Bartolomé tuvie- 
-re su renta un cuento, y que no se le deba nada de la 
-dicha cuarta parte, entonces y antes se verá y vea el 
-dicho D. Diego, mi hijo, ó la persona que tuviere el di- 
-cho Mayorazgo, con las otras dos personas que aquí 
-diré la cuenta en tal manera, que todavía el diezmo de 
-toda esta renta se dé y hayan las personas de mi linage- 
-
-HKI.AtlO.MiS V CARTAS i'6'i 
-
-más necesitadas que estuvieren aquí ó en cualquier 
-otra parte del mundo, á donde las envíen á buscar 
-con diligencia, y sea déla dicha cuarta parte, de la cual 
-ol dicho I). Bartolomé ha de haber el cuento: los cuales 
-yo cuento y doy en descuento del dicho diezmo, con ro- 
-zón de cuenta, que si el diezmo sobredicho más monta- 
-re, que también esta demasía salga de la cuarta parte 
-y la hayan los más necesitados, como ya dije, y si no 
-bastare, que lo haya I). Bartolomé hasta que de suyo 
-vaya saliendo, y dejando el dicho un cuento en parte ó 
-en todo. 
-
-Item: que el dicho I). Diego, mi hijo, ó la persona que 
-heredare tomen dos personas de mi linaje, los más lle- 
-gados y personas de ánima y autoridad, los cuales ve- 
-rán la dicha renta y la cuenta della, todo con diligen- 
-cia, y farán pagar el dicho diezmo de la dicha cuarta 
-parte de que se da dicho cuento á D. Bartolomé; á los 
-más necesitados de mi línage que estuvieren aquí ó en 
-cualquier otra parte: y pesquisarán de los haber con 
-mucha diligencia, y sobre cargo de sus ánimas. Y por- 
-que podría ser que el dicho D. Diego, ó la persona que 
-heredase, no querrán por algún respeto que revelaría al 
-bien suyo é honra é sostenimiento del dicho Mayorazgo, 
-que no se supiese enteramente la renta dello: yo le man- 
-do á él que todavía le dé la dicha renta sobre cargo de 
-su ánima, y á ellos les mando sobre cargo de sus con- 
-ciencias y de sus animas, que no lo denuncien ni publi- 
-quen, salvo cuanto fuere la voluntad del dicho 1). Die- 
-go, ó déla persona que heredare, solamente procure que 
-el dicho diezmo sea pagado en la forma que arriba dije. 
-
-Item: porque no haya diferencias en el elegir destos 
-dos parientes más llegados que lian de estar con D. Die- 
-go, con la persona que heredare, digo que luego yo elijo 
-á D. Barlolomé, mi hermano, por la una, y á D. Feman- 
-do, mi hijo, por la otra, y ellos luego que comenzaren a. 
-
-CHISTO BAL, COLON 
-
-entrar en esto sean obligados de nombrar otras dos per- 
-sonas, y sean los más llegados á mi linage y de mayor 
-confianza, y ellos eligirán otros dos al tiempo que ho- 
-bieren de comenzar á entender en este ieclio. Y así irá 
-de unos en otros con mucha diligencia, así en esto como 
-en todo lo otro de gobierno, é bien é honra y servicio 
-de Dios y del dicho Mayorazgo para siempre jamás. 
-
-Item: mando al dicho I). Diego, mi Dijo, ó á la perso- 
-na que heredare el dicho Mayorazgo, que tenga y sos- 
-tenga siempre en la ciudad de Genova una persona de 
-nuestro linage que tenga allí casa é mujer, é le ordene 
-renta con que pueda vivir honestamente, como perso- 
-na tan llegada á nuestro linage, y haga pie y raiz en la 
-dicha Ciudad como natural della, porque podrá haber 
-de la dicha Ciudad ayuda é favor en las cosas del me - 
-nester suyo, pues que della salí y en ella nací. 
-
-Item: que el dicho D. Diego, ó quien heredare el dicho 
-Mayorazgo, envíe por vía de cambios, ó por cualquiera 
-manera que él pudiere, todo el dinero de la renta que 
-él ahorrare del dicho Mayorazgo, y haga comprar de 
-ellos en su nombre é de su heredero unas compras á 
-(pie dicen l.o<jo¡i, que tiene el oñcio de San Jorge, los 
-cuales agora rentan seis por ciento, y son dineros muy 
-seguros, y esto sea por lo que yo diré aquí. 
-
-ítem: porque á persona de estado y de renta conviene 
-por servir á Dios, y por bien de su honra, que se aper- 
-ciba de hacer por sí y se poder valer con su hacienda, 
-allí en San Jorge está cualquier dinero muy seguro, y 
-Genova es ciudad noble y poderosa por la mar; y por- 
-que ai tiempo que yo me moví para ir á descubrir las 
-Indias fui con intención de suplicar al Rey y á la Reina 
-nuestros Señores, que de la renta que de sus Altezas de 
-las Indias liobiese que se determinase de la gastar en la 
-conquista de Jernsalén, y así se lo supliqué; y si lo ha 
-cen sea en buen punto, y si no que todavía esté el di- 
-
-KF.i.AClO.NRS V C A riTA.S 
-
-cbo D. Diego. 6 la persona que heredare deste propósi- 
-to de ayuntar el más dinero que pudiere, para ir con ei 
-Rey nuestro Seno] 1 , si fuere á Jerusalén á le conquistar, 
-ó ir solo con el más poder que tuviere: que placerá 
-nuestro Señor que si esta intención tiene ó tuviere, que 
-le dará él tal aderezo que lo podrá hacer, y lo haga; y si 
-no tuviere para conquistar todo, le darán á lo menos 
-para parte dello: y así que ayunte y haga su caudal 
-de su tesoro en los lugares de tían Jorge en Genova, y 
-allí multiplique fasta que él tenga tanta cantidad que le 
-parezca y sepa que podrá hacer alguna buena obra en 
-esto de Jerusalén, que yo creo que después que el Rey 
-y la Reina nuestos Señores, y sus Sucesores, vieren que 
-en esto se determinan, que se moverán á lo hacer sus 
-Altezas, ó le darán el ayuda y aderezo como á criado é 
-vasallo que lo liará en su nombre. 
-
-Item: Yo mando á D. Diego mi hijo y á todos Jos que 
-de mi descendieren, en especial á la persona que here- 
-dare este mayorazgo, el cual es como dije el diezmo de 
-todo lo que en las Indias se hallare y hobiere, é Ja oc- 
-tava parte de otro cabo de las tierras y reuta, lo cual 
-lodo con mis derechos de mis oficios de Almirante y 
-Visorey y Gobernador es más de veinticinco por cien- 
-to, digo; que toda la renta desto, y las personas y cuan- 
-to poder tuvieren, obliguen y pongan en sostener y ser- 
-vir á sus Altezas ó á sus Herederos bien y fielmente, lias- 
-la perder y gastar las vidas y haciendas por sus Altezas, 
-porque sus Altezas me dieron comienzo á haber y po- 
-der conquistar y alcanzar, después de Dios nuestro Se- 
-ñor, este mayorazgo: bien que yo les vine á convidar 
-con esta empresa en sus Reinos, y estuvieron mucho 
-tiempo que no me dieron aderezo parala poner en obra; 
-bien que desto no es de maravillar, porque esta empre- 
-sa era ignota á todo el mundo, y no había quien lo cre- 
-yese, por lo cual les soy en muy mayor cargo, y porque 
-
-CHISTO II AI, COLON 
-
-'2oti 
-
-después siempre me han hecho muchas mercedes y 
-acrecentado. 
-
-Item: mando al dicho 1). Diego, ó á quien poseyere 
-el dicho mayorazgo, que si en la Iglesia de Dios, por 
-nuestros pecados, naciere alguna cisma, ó que por tira- 
-nía alguna persona, de cualquier grado ó estado que 
-sea ó fuere, le quisiere desposeer de su honra ó bienes, 
-que so la pena sobredicha se ponga á los pies del Santo 
-Padre, salvo si fuese herético (lo que Dios no quiera) la 
-persona ó personas se determinen é pongan por obra de 
-le servir con toda su fuerza 6 renta é hacienda, y en 
-querer librar el dicho cisma, é defender que no sea des- 
-pojada la Iglesia de su honra y bienes, 
-
-Item: mando al dicho D. Diego, ó á quien poseyere 
-el dicho mayorazgo, que procure y trabaje siempre pol- 
-la honra v bien v acrecentamiento de la ciudad de Gré- 
-nova, y ponga todas sus fuerzas é bienes en defender y 
-aumentar el bien ó honra de la república della, no yen- 
-do contra el servicio de la Iglesia de Dios y alto listado 
-del Bey ó de la líeina nuestros Señores, é de sus Su- 
-cesores. 
-
-Item: que el dicho 1). Diego, ó la persona que hereda- 
-re ó estuviere en posesión del dicho mayorazgo, quede 
-la cuarta parte que yo dije arriba de que se lia de dis- 
-tribuir el diezmo de toda la renta, que al tiempo que 
-D. Bartolomé y sus herederos tuvieron ahorrados los 
-dos cuentos ó parte dellos, y que se hobiere de distri- 
-buir algo del diezmo en nuestros parientes, que el vías 
-dos personas que con él fueren nuestros parientes, de- 
-ban distribuir y gaslar este diezmo en casar mozas de 
-nuestro linage que lo hobieren menester, y hacer cuan- 
-to favor pudieren. 
-
-Item: que al tiempo que se liallareen disposición, que 
-mande hacer una Iglesia, que se intitule Santa María 
-de la Concepción, en la Isla Española en el lugar más 
-
-RELACIONES Y CAUTAS 
-
-idóneo, y tenga un hospital el mejor ordenado que se 
-pueda, así corno liay otros en Castilla y en Italia, y se 
-ordene una capilla en que se digan misas por mi ánima 
-y de nuestros antecesores y sucesores con mucha de- 
-voción: que placerá á nuestro Señor de nos dar tanta 
-renta, que todo se podrá cumplir lo que arriba dije. 
-
-Item: mando al dicho I), Diego, mi hijo, ó á quien he- 
-redare el dicho mayorazgo, trabaje de mantener y sos- 
-tener en la Isla Española cuatro buenos maestros en la 
-santa Teología, con intención y estudio de trabajar y 
-ordenar que se trabaje de convertir á nuestra santa fe 
-todos estos pueblos de las Indias, y cuando plugiere á 
-nuestro Señor que la renta del dicho mayorazgo sea 
-crecida, que así crezca de maestros y personas devo- 
-tas, y trabaje para tornar estas gentes cristianas, y 
-para esto no haya dolor de gastar todo lo que fuere me- 
-nester; y en conmemoración de lo que yo digo, y de 
-todo lo sobrescrito, hará un bulto de piedra mármol en 
-la dicha Iglesia de la Concepción en el lugar más públi- 
-co, porque traiga de contino memoria esto que yo digo 
-ai dicho D. Diego, y á todas las otras personas que le 
-vieren, en el cual bulto estará un letrero (pie dirá esto. 
-
-Item: mando á D. Diego, mi hijo, y á quien heredare 
-el dicho mayorazgo, que cada vez y cuántas veces se 
-hobiere de confesar, que primero muestre este compro- 
-miso, ó el traslado dél, á su confesor, y le ruegue (pie le 
-lea todo, porque tenga razón do lo examinar sobre el 
-cumplimiento dél, y sea causado mucho bien y descan- 
-so de su ánima. Jueves en veintidós de Febrero de mil 
-cuatrocientos noventa y ocho . — El Almirante (1). 
-
-(1) Aunque no tenemos motivo fundado para desconfiar de 
-Ja legitimidad de este documento que lia sido varias voces j* 
-desde antiguo presentado en juicio auto los tribunales, y nun- 
-ca convencido de apócrifo ó gnpnosto, sin embargo, caroccmos 
-de la satisfacción de haber encontrado en los archivos qno lie- 
-
-CHISTO BAL COLON 
-
-mos reconocido y citamos siempre, un original de letra del Al- 
-mirante ó firmado por él, ó una coqúa legalizada en toda forma 
-como lo está la facultad Real que antecede para instituir el 
-Mayorazgo y el codieilo otorgado en 19.de Mayo de 1506 que se 
-insertará en su lugar. En este estado acabamos de ver en unos 
-apuntes que en el Archivo Real de Simancas existe la aproba- 
-ción del Mayorazgo de Colón, despachada en Setiembre de 
-1501, y este documento, que podrá contribuir á dar mayor va- 
-lor y autoridad á esta disposición del Almirante, nos asegurará 
-si puede tener tanda mentó la anulación que se dice liaber he- 
-cho éste de la escritura anterior, substituyendo otra escrita de' 
-su propia letra á l.° de Abril de 1502, que suponen dejó en el 
-Monasterio do las Cuevas de Sevilla en poden de Fr. Gaspar 
-Goraicio, al partir para su último viajo. — Navarrete. 
-
-CARTAS 
-
-DK 
-
-CRISTOBAL COLÓN 
-
-Á LOS REYES 
-
-Año de 1498. 
-
-FRAGMENTOS (!) 
-
-«■Acá son muy necesarios devotos religiosos para 
-reformar la fe en nos, más que por la dar á los indios, 
-que ya sus costumbres nos lian conquistado y les lia- 
-
-(1) Estos fragmentos los publica Fray Bartolomé de las 
-Casas en sn j Htxlori" ¡/uneral de la* Indias , Lib. I, cap. CLY 
-cuando habla de la rola j ación de costumbres de los españoles 
-que iban á poblar por entonces on la Española, quienes, dice 
-Las Casas, «andando do pueblo en pueblo y de lugar en lugar, 
-comían á discreción, tomaban los [indios para, su servicio que 
-querían, y las mujeres que bien les parecía y hacíanse llevar á 
-cuestas en hombros de hombres en hamacas; tenían sus caza- 
-dores que les cazaban, y pescadores que los pescaban, y cuan- 
-tos indios querían, como recuas, para les llevar las cargas, y 
-sobre todo, do puro miedo, por las crueldades que en los tristes 
-indios hacían, eran reverenciados y adorados; poro no amados, 
-antes aborrecidos como si fueran demonios infernales; y porque 
-esta vida el Almirante sabia que aquí los españoles vivían y 
-bailaban en la tierra para ello aparejo cuanto desear podían, 
-con razón juzgaba que era la mejor del mundo para hombres 
-viciosos y haraganes, s 
-
-CRISTÓBAL COLÓN 
-
-cemos ventaja; y con esto un letrado, persona experi- 
-mentada parala justicia, porque sin la justicia real 
-creo que aprovecharán los religiosos poco.» 
-
-En otra carta dice á los líeyes: 
-
-«Presto habrá vecinos acá, porque esta tierra es 
-abundosa en todas las cosas, en especial de pan y car- 
-ne; aquí liay tanto pan de lo de los indios, que es mara- 
-villa, con el cual está nuestra gente más sanos que con 
-el de trigo, y la carne es que ya hay infinitísimos 
-puercos y gallinas, y hay más alimañas que son atanto 
-como conejos, y mejor carne y dellos hay tantos en toda 
-la isla, que un mozo indio con un perro trae cada día 
-quince ó veinte á su amo; manera que no falta sino vino 
-y vestuario, en lo demás es tierra de los mayores hara- 
-ganes del mundo; é nuestra gente en ella, no hay bue- 
-no ni malo que no tenga dos y tres indios que le sir- 
-van, y perros que le cacen, y bien que no sea para decir 
-y mujeres atan fermosas, que es maravilla De la cual 
-costumbre estoy muy descontento, porque me parece 
-que no sea servicio de Dios, ni lo puedo remediar, como 
-del comer de la carne en sábado, y otras malas costum- 
-bres que no son de buenos cristianos: para los cuales, 
-acá aprovecharía mucho algunos devotos religiosos, 
-más para reformar la fe en los cristianos que para darla 
-á los indios; ni yo jamás lo podré bien castigar, salvo si 
-fie allá se me envía gente, en cada pasaje cincuenta ó 
-sesenta, y yo envíe allá otros tantos de los haraganes 
-y desobedientes, como agora fago, y este es el mayor y 
-mejor castigo, y con menos cargo del ánima que yo 
-vea, etc». 
-
-Esto todo repite en otras cartas, añade Las Casas, 
-como vía que cada día se iban corrompiendo más 
-la vida mala y nefanda de los españoles; y en verdad, 
-como fueron grandes quejas y debiólas de llevar Juan 
-
-RELACIONES Y CARTAS 
-
-Aguado, de que había, tratado mal los españoles, ahor- 
-cando ó azotando muchos, y también por estar levan- 
-tado Francisco ttoldán y los demás, estaba acobarda- 
-do y no osaba corregir las malas costumbres, ni cas- 
-tigar ó impedirlos delitos y obras pésimas de robos 
-v crueldades que también cometían en los indios los 
-españoles que le seguían, como los de Francisco Kol- 
-dán, y así lloraba mucho esto en sus cartas, y en una 
-dice: 
-
-«Yo he sido culpado en el poblar, en el tratar de la 
-gente y en otras cosas muchas, como pobre extranjero 
-envidiado», etc. 
-
-Dice en el poblar, según Las Casas, porque le imputa- 
-ban por malo haber '"poblado el primer pueblo en la 
-Isabela. 
-
-Refiriéndose en otra carta á la angustia en que que- 
-daba con el levantamiento y rebelión de Francisco Rol- 
-dán, dice: 
-
-«Siempre temí del enemigo de nuestra santa fe en 
-esto, porque se ha puesto á desbaratar este tan gran 
-negocio con toda su fuerza; él fue tan contrario en todo, 
-antes que se descubriese, que todos los que entendían 
-en ello lo tenían por burla; después la gente que vino 
-conmigo acá, que del negocio y de mí dijeron mil tes- 
-timonios, y agora se trabajó allá que hubiese tanta 
-dilación c impedimentos á mi despacho, y poner tanta 
-cizaña á que vuestras Altezas hobiesen de tenerla cos- 
-ta, la cual podía ser ya tan poca ó nada, como será, si 
-place á Aquel que lo dio y que es superior del y de todo 
-el mundo, y el cual le sacará al fin, porque hizo el co- 
-mienzo, y del cual se ve tan manifiesto que le sostiene 
-y aumenta, que es cierto, si se mirasen las cosas que 
-de acá lian pasado, se podría decir cómo y tanto como 
-del pueblo de Israel.» 
-
-Quiere decir, añade Las Casas, que así como los hi- 
-
-CRISTÓBAL COLÓN 
-
-jos y pueblos de Israel eran incrédulos contra Moisés y 
-Aarón, así todos los que dudaron y creyeron ser burla 
-y de poco fruto el descubrimiento destas Indias y desta 
-negociación, y añide más: 
-
-«Podría yo todo replicarlo, mas creo que no hace 
-mengua porque hartas veces los lie escrito bien largo, 
-como agora de la tierra que nuevamente dio Dios este 
-viaje á vuestras ¡Altezas, la cual se debe creer que es 
-infinita, de la cual y desta deben tomar grande alegría 
-y darle infinitas gracias, y aborrecer quien diz que no 
-gasten en ello, porque no son amigos de la honra de su 
-- alto Estado; porque allende de las tantas ánimas que 
-se pueden esperar que se salvarán, de que son vues- 
-tras Altezas causa, y que es el principal del caudal 
-desto (y quiero fablar á la vana gloria del mundo, la 
-cual se debe tener en nada, pues que la aborrece Dios 
-poderoso) y digo que me respondan quien leyó las his- 
-torias de griegos y romanos, si con tan poca cosa en- 
-sancharon su señorío tan grandemente, como agora 
-hizo vuestra Alteza aquel de la España con las Indias. 
-Esta sola isla que hoja más de 700 leguas; Jamaica, 
-con otras 700 islas, y tanta parte de la tierra firme, de 
-los antiguos muy cognoscida y no ignota, como quie- 
-ren decir los envidiosos ó ignorantes, y después desto 
-otras islas muchas y grandes de aquí hacia Castilla y 
-agora ésta, que es de grande excelencia, de la cual 
-creo que se haya de hablar entre todos los cristianos 
-por maravilla, con alegría. ¿Quién dirá, seyendo hom- 
-bre de seso, que fue mal gastado, y que mal se gasta lo 
-que en ello se despende? ¿Qué memoria mayor en lo 
-espiritual y temporal quedó ni pueda más quedar de 
-Príncipes? Yo soy atónito y pierdo el seso cuando oigo 
-y veo que ésto no se considera, y que nadie diga que 
-vuestras Altezas deban hacer caudal de plata ó oro, ó 
-otra cosa valiosa, salvo de proseguir tan alta y noble 
-
-HEf. ACIONES Y CAMAS 
-
-empresa, de que habrá Nuestro Señor tanto servicio y 
-los sucesores de vuestras Altezas y sus pueblos tanto 
-gozo: mírenlo bien vuestras Altezas, que á mi juicio 
-más les relieva (dice relieva por importa) que liacían las 
-cosas de Francia ni de Italia. 
+En el nombre de la Santísima Trinidad, el cual me puso en memoria, y después llegó á perfeta inteligencia que podría navegar é ir á las Indias desde España, pasando el mar Océano al Poniente, y ansí lo notifiqué al Rey D. Fernando y á la Reina Doña Isabel nuestros Señores, y les plugo de me dar aviamiento y aparejo de gente y navios, y de me hacer su Almirante en el dicho mar Océano, allende de una raya imaginaria que mandaron señalar sobre las islas de Cabo Verde, y aquellas de los Azores, cien leguas que pasa de Polo á Polo, que dende en adelante al Poniente fuese su Almirante, y que en la tierra Arme é islas que yo fallase y descubriese, y dende en adelante, que destas tierras fuese yo su Visorey y Gobernador, y sucediese en los dichos oficios mi hijo mayor, y así de grado en grado para siempre jamás, é yo hubiese el diezmo de todo lo que en el dicho Almirantazgo se fallase ó hobiese é rentase, y asimismo la octava parte de las tierras, y todas las otras cosas, é el salario que es razón llevar por los oficios de Almirante, Visorey y Gobernador, y con todos los otros derechos pertenecientes á los dichos oíicios, ansí como todo más largamente se contiene en este mi privilegio y capitulación que de sus Altezas tengo. 
+
+E plugo á nuestro Señor Todopoderoso que en el año de noventa y dos descubriese la tierra-firme de las Indias y muchas islas, entre las cuales es la Española, que los indios della llaman Ayte y los Monicongos de Cipango. Después volví á Castilla á sus Altezas y me tornaron á receñir á la empresa ó á poblar é descubrir más, y ansí me dio nuestro Señor vitoria, con que conquisté ó fice tributaria á la gente de la Española, la cual boja seiscientas leguas, y descubrí muchas islas á los caníbales, y setecientas al Poniente de la Española, entre las cuales es aquella de Jamaica, á que nos llamamos de Santiago, é trescientas é treinta é tres leguas de tierra-firme de la parte del Austro al Poniente, allende de ciento y siete de la parte del Setentrión, que tenía descubierto al primer viaje con muchas islas, como mas largo se verá por mis escrituras y memorias y cartas de navegar. E porque esperamos en aquel alto Dios que se haya de haber antes de grande tiempo buena é grande renta en las dichas islas y tierra-firme, de la cual por la razón sobredicha me pertenece el dicho diezmo y ochavo y salarios y derechos sobredichos: y porque somos mortales, y es bien que cada uno ordene y deje declarado á sus herederos y sucesores lo que ha de haber é hobiere, é por esto me pareció bien de componer desta ochava parte de tierras y oficios é renta un Mayorazgo, así como aquí abajo diré. 
+
+Primeramente que haya de suceder á mí D. Diego, mi hijo, y si dél dispusiere nuestro Señor antes que él hobiese hijos, que ende suceda D. Fernando, mí hijo, y si dél dispusiere nuestro Señor sin que hobiese hijo, ó yo hobiese otro hijo, que suceda D. Bartolomé, mi hermano, y deudo su hijo mayor, y si dél dispusiere nuestro Señor sin heredero que suceda D. Diego, mi hermano, siendo casado ó para poder casar, é que suceda á él su hijo mayor, ó así de grado en grado perpetuamente para siempre jamás, comenzando en D. Diego, mi hijo, y sucediendo sus hijos, de uno en otro perpetuamente. ó falleciendo el hijo suyo suceda D. Fernando, mi hijo, como dicho es, y así su hijo, y prosigan de hijo en hijo para siempre él y los sobredichos D. Bartolomé, si á él llegare ó á D. Diego, mis hermanos. Y si á nuestro Señor pluguiese que después de haber pasado algún tiempo este Mayorazgo en uno de los dichos sucesores, viniese á prescribir herederos hombres legítimos, haya dicho Mayorazgo y le suceda y herede el pariente más llegado á la persona que heredado lo tenía, en cuyo poder prescribió, siendo hombre legítimo que se llame y se haya siempre llamado de su padre ó antecesores, llamados de los de Colón. El cual Mayorazgo en ninguna manera lo herede mujer ninguna, salvo si aquí ni en otro cabo del mundo no se fallase hombre de mi linage verdadero que se hobiese llamado y llamase él y sus antecesores de Colón. Y si esto acaesciere (lo que Dios no quiera) que en tal caso lo haya la mujer más llegada en deudo y en sangre legítima á la persona que así había logrado el dicho Mayorazgo: y esto será con las condiciones que aquí abajo diré, las cuales se entienda que son ansí por D. Diego, mi hijo, como por cada uno de los sobredichos, ó por quien sucediere, cada uno dellos, las cuales cumplirán, y no cumpliéndolas, que en tal caso sea privado del dicho Mayorazgo, y lo haya el pariente más llegado á la tal persona, en cuyo poder había prescripto por no haber cumplido lo que aquí diré: el cual así también le cobrarán si él no cumpliere estas dichas condiciones que aquí abajo diré, é también será privado dello, y lo haya otra persona más llegada á mi linage, guardando las dichas condiciones 
+que así duraren perpetuo, y será en la forma sobre escrita en perpetuo. La cual pena no se entienda en cosas de menudencias que se podrían inventar por pleitos, salvo por cosa gruesa que toque á la honra de Dios y de mí y de mi linage, como es cumplir libremente lo que yo dejo ordenado, cumplidamente como digo, lo cual todo encomiendo á la justicia, y suplico al Santo Padre que agora es, y que sucederá en la Santa Iglesia agora, ó cuando acaesciere que este mi compromiso y testamento haya de menester para se cumplir de su santa ordenación é mandamientos, que en virtud de obediencia y so pena de excomunión papal lo mande; y que en ninguna manera jamás se disforme; y asimismo 
+lo suplico al Rey y á la Reina nuestros Señores, y al Príncipe D. Juan, su primogénito nuestro Señor, y á los que le sucedieren por los servicios que yo les he fecho: é 
+por ser justo que les plega, y no consientan ni consienta que se disforme este mi compromiso de Mayorazgo é de Testamento, salvo que quede y esté así, y por la guisa y forma que yo le ordené para siempre jamás, porque sea servicio de Dios Todopoderoso y raíz y pie de mi linage y memoria de los servicios que á sus Altezas he hecho, que siendo yo nacido en Génova les vine á servir aquí en Castilla, y les descubrí al Poniente de tierra-firme las Indias las dichas islas sobredichas. Así que suplico á sus Altezas que sin pleito, ni demanda, ni dilación, manden sumariamente que este mi Privilegio y Testamento valga y se cumpla, así como en él fuere y es contenido; y asimismo lo suplico á los Grandes Señores de los Reinos de su Alteza, y á los del su Consejo y á todos los otros que tienen ó tuvieren cargo de justicia ó de regimiento, que les plega de no consentir que esta mi ordenación é testamento sea sin vigor y virtud, y se cumpla como está ordenado por mí, asi por ser muy justo que persona de título é que ha servido á su Rey é Reina é al Reino, que valga todo lo que ordenare y dejare por Testamento ó compromiso ó Mayorazgo é heredad, é no se le quebrante en cosa alguna ni en parte ni en todo. 
+
+Primeramente traerá D. Diego, mi hijo, y todos los que de mí sucedieren y descendieren, y así mis hermanos D. Bartolomé y D. Diego mis armas, que yo dejaré después de mis días, sin entreverar más ninguna cosa que ellas, y sellará con el sello dellas. —D. Diego, mi hijo, ó cualquier otro que heredare este Mayorazgo, después de haber heredado y estado en posesión de ello, firme de mi firma, la cual agora acostumbro, que es una X con una S encima, y una M con una A romana encima, y encima della una S y después una Y griega con una S encima con sus rayas y vírgulas, como yo agora fago, y se parecerá por mis firmas, de las cuales se hallarán muchas, _y por esta parecerá_.
+
+Y no escribirá sino _el Almirante_ puesto que otros títulos el Rey le diese ó ganase: esto se entiende en la firma y no en su ditado que podrá escribir todos sus títulos como le plugiere; solamente en la firma escribirá _el Almirante_. 
+
+Habrá el dicho D. Diego, ó cualquier otro que heredare este Mayorazgo, mis oficios de Almirante del mar Océano, que es de la parte del Poniente de una raya que mandó asentar imaginaria su Alteza á cien leguas sobre las islas de los Azores, y otro tanto sobre las de Cabo Verde, la cual parte de Polo á Polo, allende de la cual mandaron é me hicieron su Almirante en la mar, con todas las preeminencias que tiene el Almirante don Henrique en el Almirantazgo de Castilla, é me hicieron su visorey y Gobernador perpetuo para siempre jamás, y en todas las islas y tierra-firme, descubiertas y por descubrir, para mí y para mis herederos, como más largo parece por mis privilegios, los cuales tengo y por mis capítulos, como arriba dije. 
+
+Item: que el dicho D. Diego, ó cualquier otro que heredare el dicho Mayorazgo, repartirá la renta que á nuestro Señor plugiere de le dar en esta manera so la dicha pena. 
+
+Primeramente, dará todo Jo que este Mayorazgo rentare agora y siempre, é del é por él se hobiere é recaudare la cuarta parte cada año á D. Bartolomé Colón, Adelantado de las Indias, mi hermano, y esto fasta que él haya de su renta un cuento de maravedís para su mantenimiento y trabajo que ha tenido y tiene de servir en este Mayorazgo, el cual dicho cuento llevará, como dicho es, cada año, si la dicha, cuarta parte tanto montare, si él no tuviere otra cosa; mas teniendo algo, ó todo de renta, que dende en adelante no lleve el dicho cuento ni parte dello, salvo que desde agora habrá en la dicha cuarta parte fasta la dicha cuantía de un cuento, si allí llegare, y tanto que él haya de renta fuera desta cuarta parte cualquier suma de maravedís de renta conocida de bienes que pudiere arrendar ó oficios perpetuos, se le descontará la dicha cantidad que asi habrá de renta, ó podría haber de los dichos sus bienes ó oficios perpetuos, é del dicho un cuento, será reserva do cualquier dote ó casamiento, que con la mujer con quien él casare hobiere: ansí que todo lo que él hubiere con la dicha su muger no se entenderá que por ello se le haya de descontar nada del dicho cuento, salvo de lo 
+que él ganare ó hobiere, allende del dicho casamiento de su muger, y después que plega á Dios que él ó sus herederos, ó quien dél descendiere, haya un cuento de renta de bienes y oficios, si los quisiere arrendar, como dicho es, no habrá él ni sus herederos más de la cuarta parte del dicho Mayorazgo nada, y lo habrá el dicho don Diego, ó quien heredare. 
+
+Item: habrá de la dicha renta del dicho Mayorazgo, ó de otra cuarta parte della, D. Fernando, mi hijo, un cuento cada año, si la dicha cuarta parte tanto montare, fasta que él haya dos cuentos de renta por la misma guisa y manera que está dicho de D. Bartolomé, mi hermano, él y sus herederos, así como D. Bartolomé mi hermano y los herederos del cual así habrán el dicho un cuento, é la parte que faltare para ello. 
+
+Item: el dicho D. Diego y D. Bartolomé ordenarán que haya de la renta del dicho Mayorazgo D. Diego mi hermano, tanto dello con que se pueda mantener honestamente, como mi hermano que es, al cual no dejo cosa, limitada porque él quiere ser de la Iglesia, y le darán lo que fuere razón, y esto sea de montón mayor, antes que se dé nada á D. Fernando, mi hijo, ni á D. Bartolomé, mi hermano, ó á sus herederos, y también según la cantidad que rentare el dicho Mayorazgo; y si en esto hobiese discordia, que en tal caso se remita á dos parientes nuestros, ó á otras personas de bien, que ellos tomen la una y él tome la otra, y si no se pudiesen concertar, que los dichos dos compromisarios escojan otra persona de bien que no sea sospechosa á ninguna de las partes. 
+
+Item: que toda esta renta que yo mando dar á D. Bartolomé y á D. Fernando y á D. Diego mi hermano, la hayan y les sea dada, como arriba dije, con tanto que sean leales y fieles á D. Diego, mi hijo, ó á quien heredare, ellos y sus herederos; y si se fallase que fuesen contra él en cosa que toque y sea contra su honra y contra acrecentamiento de mi linage é del dicho Mayorazgo, en dicho ó en fecho, por lo cual pareciese y fuese escándalo y abatimiento de mi linage y menoscabo del dicho Mayorazgo ó cualquiera dellos, que éste no haya dende en adelante cosa alguna: así que siempre sean fieles á D. Diego ó á quien heredare. 
+
+Item: porque en el principio que yo ordené este Mayorazgo tenía pensado de distribuir, y que D. Diego, mi hijo, ó cualquier otra persona que le heredase, distribuyan dél la décima parte de la renta en diezmo y comemoración del Eterno Dios Todopoderoso en personas necesitadas, para esto agora digo que por ir y que vaya adelante mi intención; y para que su Alta Majestad me ayude á mí y á los que esto heredaren acá ó en el otro mundo, que todavía se haya de pagar el dicho diezmo en esta manera. 
+
+Primeramente, de la cuarta parte de la renta deste Mayorazgo, de la cual yo ordeno y mando que se dé y haya D. Bartolomé hasta tener un cuento de renta, que se entienda que en este cuento va el dicho diezmo de toda la renta del dicho Mayorazgo, y que así como creciere la renta del dicho D. Bartolomé, mi hermano, porque se haya de descontar de la renta de la cuarta parte del Mayorazgo algo ú todo, que se vea y cuente toda la renta sobredicha para saber cuánto monta el diezmo dello, y la parte que no cabiere, ó sobrare, á lo que hobiere de haber el dicho D. Bartolomé para el cuento, que esta parte la hayan las personas de mi linage en descuento del dicho diezmo, los que más necesitados fueren y más menester lo hobieren, mirando de la dar á persona que no tenga cincuenta mil maravedís de renta, y si el que menos tuviese llegase hasta cuantía de cincuenta mil maravedís, haya la parte el que pareciere á las dos personas, que sobre esto aquí eligieren, con don Diego ó con quien heredare: así que se entienda, que el cuento que mando dar ú D. Bartolomé son, y en ellos entra la dicha parte sobredicha del diezmo del dicho Mayorazgo, y que toda la renta del Mayorazgo quiero ó tengo ordenado que se distribuya en los parientes míos más llegados al dicho Mayorazgo, y que más necesitados fueren, y después que el dicho D. Bartolomé tuviere su renta un cuento, y que no se le deba nada de la dicha cuarta parte, entonces y antes se verá y vea el dicho D. Diego, mi hijo, ó la persona que tuviere el dicho Mayorazgo, con las otras dos personas que aquí diré la cuenta en tal manera, que todavía el diezmo de toda esta renta se dé y hayan las personas de mi linage más necesitadas que estuvieren aquí ó en cualquier otra parte del mundo, á donde las envíen á buscar con diligencia, y sea déla dicha cuarta parte, de la cual el dicho D. Bartolomé ha de haber el cuento: los cuales yo cuento y doy en descuento del dicho diezmo, con razón de cuenta, que si el diezmo sobredicho más montare, que también esta demasía salga de la cuarta parte 
+y la hayan los más necesitados, como ya dije, y si no bastare, que lo haya D. Bartolomé hasta que de suyo vaya saliendo, y dejando el dicho un cuento en parte ó en todo. 
+
+Item: que el dicho D. Diego, mi hijo, ó la persona que heredare tomen dos personas de mi linaje, los más llegados y personas de ánima y autoridad, los cuales verán la dicha renta y la cuenta della, todo con diligencia, y farán pagar el dicho diezmo de la dicha cuarta parte de que se da dicho cuento á D. Bartolomé; á los más necesitados de mi línage que estuvieren aquí ó en cualquier otra parte: y pesquisarán de los haber con mucha diligencia, y sobre cargo de sus ánimas. Y porque podría ser que el dicho D. Diego, ó la persona que heredase, no querrán por algún respeto que revelaría al bien suyo é honra é sostenimiento del dicho Mayorazgo, que no se supiese enteramente la renta dello: yo le mando á él que todavía le dé la dicha renta sobre cargo de su ánima, y á ellos les mando sobre cargo de sus conciencias y de sus animas, que no lo denuncien ni publiquen, salvo cuanto fuere la voluntad del dicho D. Diego, ó déla persona que heredare, solamente procure que el dicho diezmo sea pagado en la forma que arriba dije. 
+
+Item: porque no haya diferencias en el elegir destos dos parientes más llegados que han de estar con D. Diego, con la persona que heredare, digo que luego yo elijo á D. Barlolomé, mi hermano, por la una, y á D. Femando, mi hijo, por la otra, y ellos luego que comenzaren a entrar en esto sean obligados de nombrar otras dos personas, y sean los más llegados á mi linage y de mayor confianza, y ellos eligirán otros dos al tiempo que hobieren de comenzar á entender en este fecho. Y así irá de unos en otros con mucha diligencia, así en esto como en todo lo otro de gobierno, é bien é honra y servicio de Dios y del dicho Mayorazgo para siempre jamás. 
+
+Item: mando al dicho D. Diego, mi Dijo, ó á la persona que heredare el dicho Mayorazgo, que tenga y sostenga siempre en la ciudad de Genova una persona de nuestro linage que tenga allí casa é mujer, é le ordene renta con que pueda vivir honestamente, como persona tan llegada á nuestro linage, y haga pie y raiz en la dicha Ciudad como natural della, porque podrá haber de la dicha Ciudad ayuda é favor en las cosas del menester suyo, pues que della salí y en ella nací. 
+
+Item: que el dicho D. Diego, ó quien heredare el dicho Mayorazgo, envíe por vía de cambios, ó por cualquiera manera que él pudiere, todo el dinero de la renta que él ahorrare del dicho Mayorazgo, y haga comprar de ellos en su nombre é de su heredero unas compras á que dicen Logos, que tiene el oficio de San Jorge, los cuales agora rentan seis por ciento, y son dineros muy seguros, y esto sea por lo que yo diré aquí. 
+
+Item: porque á persona de estado y de renta conviene por servir á Dios, y por bien de su honra, que se aperciba de hacer por sí y se poder valer con su hacienda, allí en San Jorge está cualquier dinero muy seguro, y Genova es ciudad noble y poderosa por la mar; y porque al tiempo que yo me moví para ir á descubrir las Indias fui con intención de suplicar al Rey y á la Reina nuestros Señores, que de la renta que de sus Altezas de las Indias hobiese que se determinase de la gastar en la conquista de Jernsalén, y así se lo supliqué; y si lo hacen sea en buen punto, y si no que todavía esté el dicho D. Diego. é la persona que heredare deste propósito de ayuntar el más dinero que pudiere, para ir con el Rey nuestro Señor, si fuere á Jerusalén á le conquistar, ó ir solo con el más poder que tuviere: que placerá nuestro Señor que si esta intención tiene ó tuviere, que le dará él tal aderezo que lo podrá hacer, y lo haga; y si no tuviere para conquistar todo, le darán á lo menos para parte dello: y así que ayunte y haga su caudal de su tesoro en los lugares de San Jorge en Genova, y allí multiplique fasta que él tenga tanta cantidad que le parezca y sepa que podrá hacer alguna buena obra en esto de Jerusalén, que yo creo que después que el Rey y la Reina nuestos Señores, y sus Sucesores, vieren que en esto se determinan, que se moverán á lo hacer sus Altezas, ó le darán el ayuda y aderezo como á criado é vasallo que lo hará en su nombre. 
+
+Item: Yo mando á D. Diego mi hijo y á todos los que de mi descendieren, en especial á la persona que heredare este mayorazgo, el cual es como dije el diezmo de todo lo que en las Indias se hallare y hobiere, é la octava parte de otro cabo de las tierras y renta, lo cual todo con mis derechos de mis oficios de Almirante y Visorey y Gobernador es más de veinticinco por ciento, digo; que toda la renta desto, y las personas y cuanto poder tuvieren, obliguen y pongan en sostener y servir á sus Altezas ó á sus Herederos bien y fielmente, hasta perder y gastar las vidas y haciendas por sus Altezas, porque sus Altezas me dieron comienzo á haber y poder conquistar y alcanzar, después de Dios nuestro Señor, este mayorazgo: bien que yo les vine á convidar con esta empresa en sus Reinos, y estuvieron mucho tiempo que no me dieron aderezo para la poner en obra; bien que desto no es de maravillar, porque esta empresa era ignota á todo el mundo, y no había quien lo creyese, por lo cual les soy en muy mayor cargo, y porque después siempre me han hecho muchas mercedes y acrecentado. 
+
+Item: mando al dicho D. Diego, ó á quien poseyere el dicho mayorazgo, que si en la Iglesia de Dios, por nuestros pecados, naciere alguna cisma, ó que por tiranía alguna persona, de cualquier grado ó estado que sea ó fuere, le quisiere desposeer de su honra ó bienes, que so la pena sobredicha se ponga á los pies del Santo Padre, salvo si fuese herético (lo que Dios no quiera) la persona ó personas se determinen é pongan por obra de le servir con toda su fuerza é renta é hacienda, y en querer librar el dicho cisma, é defender que no sea despojada la Iglesia de su honra y bienes.
+
+Item: mando al dicho D. Diego, ó á quien poseyere el dicho mayorazgo, que procure y trabaje siempre por la honra v bien v acrecentamiento de la ciudad de Génova, y ponga todas sus fuerzas é bienes en defender y aumentar el bien ó honra de la república della, no yendo contra el servicio de la Iglesia de Dios y alto listado del Rey ó de la Reina nuestros Señores, é de sus Sucesores. 
+
+Item: que el dicho D. Diego, ó la persona que heredare ó estuviere en posesión del dicho mayorazgo, quede la cuarta parte que yo dije arriba de que se ha de distribuir el diezmo de toda la renta, que al tiempo que D. Bartolomé y sus herederos tuvieron ahorrados los dos cuentos ó parte dellos, y que se hobiere de distribuir algo del diezmo en nuestros parientes, que el vías dos personas que con él fueren nuestros parientes, deban distribuir y gaslar este diezmo en casar mozas de nuestro linage que lo hobieren menester, y hacer cuanto favor pudieren. 
+
+Item: que al tiempo que se hallare en disposición, que mande hacer una Iglesia, que se intitule Santa María de la Concepción, en la Isla Española en el lugar más idóneo, y tenga un hospital el mejor ordenado que se pueda, así corno hay otros en Castilla y en Italia, y se ordene una capilla en que se digan misas por mi ánima y de nuestros antecesores y sucesores con mucha devoción: que placerá á nuestro Señor de nos dar tanta renta, que todo se podrá cumplir lo que arriba dije. 
+
+Item: mando al dicho D, Diego, mi hijo, ó á quien heredare el dicho mayorazgo, trabaje de mantener y sostener en la Isla Española cuatro buenos maestros en la santa Teología, con intención y estudio de trabajar y ordenar que se trabaje de convertir á nuestra santa fe todos estos pueblos de las Indias, y cuando plugiere á nuestro Señor que la renta del dicho mayorazgo sea crecida, que así crezca de maestros y personas devotas, y trabaje para tornar estas gentes cristianas, y para esto no haya dolor de gastar todo lo que fuere menester; y en conmemoración de lo que yo digo, y de todo lo sobrescrito, hará un bulto de piedra mármol en la dicha Iglesia de la Concepción en el lugar más público, porque traiga de contino memoria esto que yo digo al dicho D. Diego, y á todas las otras personas que le vieren, en el cual bulto estará un letrero que dirá esto. 
+
+Item: mando á D. Diego, mi hijo, y á quien heredare el dicho mayorazgo, que cada vez y cuántas veces se hobiere de confesar, que primero muestre este compromiso, ó el traslado dél, á su confesor, y le ruegue que le lea todo, porque tenga razón do lo examinar sobre el cumplimiento dél, y sea causado mucho bien y descanso de su ánima. Jueves en veintidós de Febrero de mil cuatrocientos noventa y ocho . — El Almirante(1). 
+(1,2,Original)Aunque no tenemos motivo fundado para desconfiar de la legitimidad de este documento que ha sido varias veces y desde antiguo presentado en juicio auto los tribunales, y nunca convencido de apócrifo ó supuesto, sin embargo, carecemos de la satisfacción de haber encontrado en los archivos que hemos reconocido y citamos siempre, un original de letra del Almirante ó firmado por él, ó una copia legalizada en toda forma como lo está la facultad Real que antecede para instituir el Mayorazgo y el codicilo otorgado en 19 de Mayo de 1506 que se insertará en su lugar. En este estado acabamos de ver en unos apuntes que en el Archivo Real de Simancas existe la aprobación del Mayorazgo de Colón, despachada en Setiembre de 1501, y este documento, que podrá contribuir á dar mayor valor y autoridad á esta disposición del Almirante, nos asegurará si puede tener fundamento la anulación que se dice haber hecho éste de la escritura anterior, substituyendo otra escrita de su propia letra á 1° de Abril de 1502, que suponen dejó en el Monasterio de las Cuevas de Sevilla en poder de Fr. Gaspar Goraicio, al partir para su último viajo. —Navarrete. 
+
+## Cartas de Cristóbal Colón a los Reyes
+
+CARTAS DE CRISTOBAL COLÓN Á LOS REYES 
+
+Año de 1498
+
+FRAGMENTOS(1)
+(1,Original)Estos fragmentos los publica Fray Bartolomé de las Casas en su Historia General de las Indias, Lib. I, cap. CLV cuando habla de la relación de costumbres de los españoles que iban á poblar por entonces on la Española, quienes, dice Las Casas, «andando do pueblo en pueblo y de lugar en lugar, comían á discreción, tomaban los indios para, su servicio que querían, y las mujeres que bien les parecía y hacíanse llevar á cuestas en hombros de hombres en hamacas; tenían sus cazadores que les cazaban, y pescadores que los pescaban, y cuantos indios querían, como recuas, para les llevar las cargas, y sobre todo, do puro miedo, por las crueldades que en los tristes indios hacían, eran reverenciados y adorados; pero no amados, antes aborrecidos como si fueran demonios infernales; y porque esta vida el Almirante sabia que aquí los españoles vivían y bailaban en la tierra para ello aparejo cuanto desear podían, con razón juzgaba que era la mejor del mundo para hombres viciosos y haraganes"
+
+«Acá son muy necesarios devotos religiosos para reformar la fe en nos, más que por la dar á los indios, que ya sus costumbres nos han conquistado y les hacemos ventaja; y con esto un letrado, persona experimentada para la justicia, porque sin la justicia real creo que aprovecharán los religiosos poco.»
+
+En otra carta dice á los Reyes: 
+
+«Presto habrá vecinos acá, porque esta tierra es abundosa en todas las cosas, en especial de pan y carne; aquí hay tanto pan de lo de los indios, que es maravilla, con el cual está nuestra gente más sanos que con el de trigo, y la carne es que ya hay infinitísimos puercos y gallinas, y hay más alimañas que son atanto como conejos, y mejor carne y dellos hay tantos en toda la isla, que un mozo indio con un perro trae cada día quince ó veinte á su amo; manera que no falta sino vino y vestuario, en lo demás es tierra de los mayores haraganes del mundo; é nuestra gente en ella, no hay bueno ni malo que no tenga dos y tres indios que le sirvan, y perros que le cacen, y bien que no sea para decir y mujeres atan fermosas, que es maravilla De la cual costumbre estoy muy descontento, porque me parece que no sea servicio de Dios, ni lo puedo remediar, como del comer de la carne en sábado, y otras malas costumbres que no son de buenos cristianos: para los cuales, acá aprovecharía mucho algunos devotos religiosos, más para reformar la fe en los cristianos que para darla á los indios; ni yo jamás lo podré bien castigar, salvo si de allá se me envía gente, en cada pasaje cincuenta ó sesenta, y yo envíe allá otros tantos de los haraganes y desobedientes, como agora fago, y este es el mayor y mejor castigo, y con menos cargo del ánima que yo vea, etc». 
+
+Esto todo repite en otras cartas, añade Las Casas, como vía que cada día se iban corrompiendo más la vida mala y nefanda de los españoles; y en verdad, como fueron grandes quejas y debiólas de llevar Juan Aguado, de que había, tratado mal los españoles, ahorcando ó azotando muchos, y también por estar levantado Francisco Roldán y los demás, estaba acobardado y no osaba corregir las malas costumbres, ni castigar ó impedir los delitos y obras pésimas de robos y crueldades que también cometían en los indios los 
+españoles que le seguían, como los de Francisco Roldán, y así lloraba mucho esto en sus cartas, y en una dice: 
+
+«Yo he sido culpado en el poblar, en el tratar de la gente y en otras cosas muchas, como pobre extranjero envidiado», etc. 
+
+Dice en _el poblar_, según Las Casas, porque le imputaban por malo haber poblado el primer pueblo en la Isabela. 
+
+Refiriéndose en otra carta á la angustia en que quedaba con el levantamiento y rebelión de Francisco Roldán, dice: 
+
+«Siempre temí del enemigo de nuestra santa fe en esto, porque se ha puesto á desbaratar este tan gran negocio con toda su fuerza; él fue tan contrario en todo, antes que se descubriese, que todos los que entendían en ello lo tenían por burla; después la gente que vino conmigo acá, que del negocio y de mí dijeron mil testimonios, y agora se trabajó allá que hubiese tanta dilación é impedimentos á mi despacho, y poner tanta cizaña á que vuestras Altezas hobiesen de tenerla costa, la cual podía ser ya tan poca ó nada, como será, si place á Aquel que lo dio y que es superior del y de todo el mundo, y el cual le sacará al fin, porque hizo el comienzo, y del cual se ve tan manifiesto que le sostiene y aumenta, que es cierto, si se mirasen las cosas que de acá han pasado, se podría decir cómo y tanto como del pueblo de Israel.» 
+
+Quiere decir, añade Las Casas, que así como los hijos y pueblos de Israel eran incrédulos contra Moisés y Aarón, así todos los que dudaron y creyeron ser burla y de poco fruto el descubrimiento destas Indias y desta negociación, y añide más: 
+
+«Podría yo todo replicarlo, mas creo que no hace mengua porque hartas veces los he escrito bien largo, como agora de la tierra que nuevamente dio Dios este viaje á vuestras Altezas, la cual se debe creer que es infinita, de la cual y desta deben tomar grande alegría y darle infinitas gracias, y aborrecer quien diz que no gasten en ello, porque no son amigos de la honra de su alto Estado; porque allende de las tantas ánimas que se pueden esperar que se salvarán, de que son vuestras Altezas causa, y que es el principal del caudal desto (y quiero fablar á la vana gloria del mundo, la cual se debe tener en nada, pues que la aborrece Dios poderoso) y digo que me respondan quien leyó las historias de griegos y romanos, si con tan poca cosa ensancharon su señorío tan grandemente, como agora hizo vuestra Alteza aquel de la España con las Indias. Esta sola isla que hoja más de 700 leguas; Jamaica, con otras 700 islas, y tanta parte de la tierra firme, de los antiguos muy cognoscida y no ignota, como quieren decir los envidiosos ó ignorantes, y después desto otras islas muchas y grandes de aquí hacia Castilla y agora ésta, que es de grande excelencia, de la cual creo que se haya de hablar entre todos los cristianos por maravilla, con alegría. ¿Quién dirá, seyendo hombre de seso, que fue mal gastado, y que mal se gasta lo que en ello se despende? ¿Qué memoria mayor en lo espiritual y temporal quedó ni pueda más quedar de Príncipes? Yo soy atónito y pierdo el seso cuando oigo y veo que ésto no se considera, y que nadie diga que vuestras Altezas deban hacer caudal de plata ó oro, ó otra cosa valiosa, salvo de proseguir tan alta y noble empresa, de que habrá Nuestro Señor tanto servicio y 
+los sucesores de vuestras Altezas y sus pueblos tanto gozo: mírenlo bien vuestras Altezas, que á mi juicio más les relieva (dice relieva por importa) que hacían las cosas de Francia ni de Italia. 
 
 ## Carta a Francisco Roldán persuadiéndole a la paz
 
-CARTA 
+CARTA DEL ALMIRANTE CRISTÓBAL COLÓN A FRANCISCO ROLDAN 
 
-DEL 
-
-ALMIRANTE CRISTÓBAL COLÓN 
-
-A FRANCISCO ROLDAN 
-
-persuadiéndole á la paz 
+PERSUADIENDOLE A LA PAZ
 
 Y Á QUE DESISTA DE LA REBELION DE QUE ERA CAREZA 
 
-20 de Octubre de 1498. 
+20 de Octubre de 1498
 
-Caro amigo, rescibí vuestra carta: luego que aquí 
-llegué, después de haber preguntado por el señor Ade- 
-lantado y D. Diego, preguntó por vos como por aquel 
-en quien tenía yo harta confianza, é dejé con tanta 
-certeza de haber bien de temporal* y asentar todas 
-cosas que es menester fuesen; y no me supieron dar 
-nuevas de vos, salvo que todos á una voz me dijeron, 
-que de algunas diferencias que acá habían pasado que 
-por ello deseábades mi venida como la salvación del 
-ánima, y yo ciertamente así lo creí: porque aun lo vie- 
-ra con el ojo y no creyera que vos habíades de trabajar 
-fasta perder la vida, salvo en cosa que á mí cumpliese: 
-y á esta causa fablé largo con el alcaide, con mucha 
-certeza que según las palabras que yo le había dicho 
-y os dijo, que luego verníades acá. Allende la cual ve- 
-nida creí antes desto, que aunque acá se bebiesen pa- 
-sado cosas más graves de las que éstas puedan ser, 
-que aun bien no llegaría cuando vos seríades conmigo 
-
-UKLACrOSES Y CARTAS 2f)0 
-
-á me ciar cuenta coa placer de las cosas de vuestro 
-cargo, así como lo hicieron todos los otros á quien car- 
-go dejé, y como es de costumbre y honra dcllos vera- 
-mente, si en ello había impedimentos por palabras, que 
-le farían por escripto; y que no era menester seguro ni 
-carta, y (pie fuera así: yo dije luego que aquí llegué, 
-que yo aseguraba á todos que cada uno pudiese venir 
-á mí y decir lo que les placía, y de nuevo lo torno á 
-decir y los aseguro; y cuanto al otroque decís de Ja 
-ida de Castilla, yo á vuestra causa y de las personas 
-que están con vos, creyendo que algunos se querían ir, 
-he detenido los navios diez y ocho días más de la demo- 
-ra, y detuviera más, salvo que los indios que llevan les 
-daban gran costa y seles morían: paréceinc que no os 
-debéis creer de ligero, y debéis mirar á vuestra honra 
-más de lo que me dicen que facéis, porque no hay na- 
-die á quien más toque; y no dar causa de las personas 
-que os quieren mal acá ó en vuestra tierra, hayan en 
-que decir, y evitar que el Rey ó la Reina nuestros Se- 
-ñores, no hayan enejo de cosas en que esperaban pla- 
-cer: por cierto cuando me preguntaron por las personas 
-de acá en quien pudiese tener el señor Adelantado con- 
-sejo y confianza, yo os nombré primero que á otro, y 
-les puse vuestro servicio más alto, que agora estoy con 
-pena que con estos navios hayan de oir lo contrario: 
-agora ved qué es lo que se puede ó convenga al caso, 
-y avisadme dello, pues los navios partieron. Nuestro 
-Señor os haya en su guarda.— De Santo Domingo á 
-veinte de Octubre. 
+Caro amigo, rescibí vuestra carta: luego que aquí llegué, después de haber preguntado por el señor Adelantado y D. Diego, preguntó por vos como por aquel en quien tenía yo harta confianza, é dejé con tanta certeza de haber bien de temporal y asentar todas cosas que es menester fuesen; y no me supieron dar nuevas de vos, salvo que todos á una voz me dijeron, que de algunas diferencias que acá habían pasado que por ello deseábades mi venida como la salvación del ánima, y yo ciertamente así lo creí: porque aun lo viera con el ojo y no creyera que vos habíades de trabajar fasta perder la vida, salvo en cosa que á mí cumpliese: y á esta causa fablé largo con el alcaide, con mucha certeza que según las palabras que yo le había dicho y os dijo, que luego verníades acá. Allende la cual venida creí antes desto, que aunque acá se hobiesen pasado cosas más graves de las que éstas puedan ser, que aun bien no llegaría cuando vos seríades conmigo á me dar cuenta con placer de las cosas de vuestro cargo, así como lo hicieron todos los otros á quien cargo dejé, y como es de costumbre y honra dellos veramente, si en ello había impedimentos por palabras, que le farían por escripto; y que no era menester seguro ni carta, y que fuera así: yo dije luego que aquí llegué, que yo aseguraba á todos que cada uno pudiese venir á mí y decir lo que les placía, y de nuevo lo torno á decir y los aseguro; y cuanto al otro que decís de la ida de Castilla, yo á vuestra causa y de las personas que están con vos, creyendo que algunos se querían ir, 
+he detenido los navios diez y ocho días más de la demora, y detuviera más, salvo que los indios que llevan les daban gran costa y se les morían: paréceme que no os debéis creer de ligero, y debéis mirar á vuestra honra más de lo que me dicen que facéis, porque no hay nadie á quien más toque; y no dar causa de las personas que os quieren mal acá ó en vuestra tierra, hayan en que decir, y evitar que el Rey ó la Reina nuestros Señores, no hayan enojo de cosas en que esperaban placer: por cierto cuando me preguntaron por las personas de acá en quien pudiese tener el señor Adelantado consejo y confianza, yo os nombré primero que á otro, y les puse vuestro servicio más alto, que agora estoy con pena que con estos navios hayan de oir lo contrario: agora ved qué es lo que se puede ó convenga al caso, y avisadme dello, pues los navios partieron. Nuestro Señor os haya en su guarda. —De Santo Domingo á veinte de Octubre. 
 
 ## Salvoconducto dado a Francisco Roldán
 
@@ -1645,764 +569,116 @@ DADO POR EL
 
 ALMIRANTE CRISTÓBAL COLÓN 
 
+A
+
 FRANCISCO ROLDAN 
 
 Y Á LOS QUE CON ÉL FUESEN Á PRESENTÁRSELE 
+
 EN LA CIUDAD DE SANTO DOMINGO 
 
-26 de Octubre de 1498. 
+26 de Octubre de 1498
 
-Yo L>. Cristóbal Colón, Almirante del Océano, viso- 
-rey y gobernador perpetuo de las islas y tierra-firme 
-de las Indias por el Rey ó la Reina, nuestros Señores, 
-é su capitán general de la mar y de su consejo. Por 
-cuanto entre el Adelantado, nri hermano, y el alcalde 
-Francisco Roldan y su compañía lia habido ciertas di- 
-ferencias en mi ausencia, estando yo en Castilla; é para 
-dar medio en ello de manera que SS. AA. sean ser\i- 
-dos, es necesario que el dicho alcalde venga ante mí y 
-me faga relaciónale todas las cosas segund que han pasa- 
-do, caso que yo de algo delio esté informado por el di- 
-cho Adelantado; 6 porque el dicho alcalde se rezela por 
-ser el dicho Adelantado como es mi hermano: por la 
-presente doy seguro en nombre de SS. AA. al dicho 
-alcalde, é á los que con él vinieren aquí á Santo Do- 
-mingo, donde yo esto, por venida y estada é vuelta al 
-
-RELACIONES Y CARTAS 
-
-Bonao donde él agora está, que no será enojado ni mo- 
-lestado por cosa alguna en su persona ni de los que 
-con él vinieren durante el dicho tiempo: lo cual prome- 
-to é doy mi íe y palabra como caballero, según uso de 
+Yo D. Cristóbal Colón, Almirante del Océano, visorey y gobernador perpetuo de las islas y tierra-firme de las Indias por el Rey ó la Reina, nuestros Señores, é su capitán general de la mar y de su consejo. Por cuanto entre el Adelantado, mi hermano, y el alcalde Francisco Roldan y su compañía ha habido ciertas diferencias en mi ausencia, estando yo en Castilla; é para dar medio en ello de manera que SS. AA. sean servidos, es necesario que el dicho alcalde venga ante mí y me faga relacióna de todas las cosas segund que han pasado, caso que yo de algo dello esté informado por el dicho Adelantado; é porque el dicho alcalde se rezela por ser el dicho Adelantado como es mi hermano: por la presente doy seguro en nombre de SS. AA. al dicho alcalde, é á los que con él vinieren aquí á Santo Domingo, donde yo esto, por venida y estada é vuelta al Bonao donde él agora está, que no será enojado ni molestado por cosa alguna en su persona ni de los que con él vinieren durante el dicho tiempo: lo cual prometo é doy mi fe y palabra como caballero, según uso de España, de lo cumplir é guardar este dicho seguro como dicho es: en firmeza de lo cual firmé esta escriptura de mi nombre. Fecha en Santo Domingo á veinte y seis días del mes de Octubre . —El Almirante. 
 
 ## Relación del tercer viaje y documentos posteriores (1498-1504)
-
-España, de lo cumplir é guardar este dicho seguro como 
-dicho es: en firmeza de lo cual ñrmé esta escriptura de 
-mi nombre. Fecha en Santo Domingo á veinte y seis 
-días del mes de Octubre .— El Almirante. 
 
 TERCER VIAJE 
 
 DEL 
 
-LA HISTORIA DHL VlAGE 
-QUEL ALMIRANTE D. CRISTOBAL COLON 
-IIIZO LA TERCERA VEZ QUE VINO i LAS INDIAS 
+ALMIRANTE D. CRISTOBAL COLON
+
+LA HISTORIA DEL VIAGE
+
+QUEL ALMIRANTE D. CRISTOBAL COLON
+
+HIZO LA TERCERA VEZ QUE VINO A LAS INDIAS
+
 CUANDO DESCUBRIÓ 
 
 LA TIERRA FIRME, COMO LO ENVIO A LOS RETES 
+
 DESDE LA ISLA ESPAÑOLA 
 
-Año de 1498. 
-
-Serenísimos é muy altos ó muy poderosos Principes 
-Rey é Reina nuestros Señores: La Santa Trinidad mo- 
-vió á vuestras Altezas á esta empresa de las Indias, y 
-por su infinita bondad hizo á mí mensagero dello, al 
-cual vine con el embajada á su Real conspetu, movido 
-como á los más altos Príncipes de cristianos y que tan- 
-to se ejercitaban en la fe y acrecentamiento della; las 
-personas que entendieron en ello lo tuvieron por impo- 
-sible, y el caudal hacían sobre bienes de fortuna, y allí 
-echaron el clavo- Puso en esto seis ó siete años de gra- 
-ve pena, amostrando lo mejor que yo sabia cuanto ser- 
-vicio se podía hacer á nuestro Señor en esto en divul- 
-gar su santo nombre y Fe á tantos pueblos; lo cual todo 
-era cosa de tanta excelencia y buena fama y gran me- 
-moria para grandes Príncipes: fue también necesario 
-de hablar del temporal adonde se les amostró el escre- 
-bir de tantos sabios dignos de fe, los cuales escribieron 
-
-DELACIONES V CAUTAS 
-
-historias. Los cuales cont aban que en estas partes ha- 
-bía muchas riquezas, y asimismo íuó necesario traer á 
-esto el decir ó opinión de aquellos que escribieron é si- 
-tuaron el mundo; en fin vuestras Altezas determinaron 
-questo se pusiese en obra. Aquí mostraron el grande 
-corazón que siempre ficieron en toda cosa grande, por- 
-que todos los que habían entendido en ello y oído esta 
-plática todos á una mano lo tenían á burla, salvo dos 
-frailes (1) que siempre fueron constantes. Yo, bien que 
-¡levase fatiga, estaba bien seguro que esto no vernía á 
-menos, y estoy de contino, porque es verdad que todo 
-pasará, y no la palabra de Dios, y se complirá todo lo 
-que dijo; el cual tan claro habló de estas tierras por la 
-boca de Isaías en tantos lugares de su Escriptura, afir- 
-mando que de España les seria divulgado su santo 
-nombre. E partí en nombre de la Santa Trinidad, y vol- 
-ví muy presto con la experiencia de todo cuanto yo ha- 
-bía dicho en la mano: tornáronme á enviar vuestras Al- 
-tezas, y en poco espacio digo, no de (2) le 
-
-descubrí por virtud divinal trescientas y treinta y tres 
-leguas de la tierra firme, fin de Oriente, y seicentas (o) 
-islas de nombre (4), allende de lo descubierto en el pri- 
-mero viaje, y le allané la Isla Española que boja más 
-
-(1) Fr, Juan Pérez de Marcliena, franciscano, guardián del 
-convento de la Rávida, y Fr. Diego de Deza, dominico, des - 
-pues arzobispo de Sevilla. — Navarrete. 
-
-(2) Igual vacio en el original. 
-
-(S) Por setecientos. 
-
-(4) En el segundo viaje no descubrió la tierra firmo, como 
-dice, sino que creyó lo ora la Isla do Cuba, que no pudo acabar 
-de reconocer; ni se averiguó ser isla hasta que por orden del 
-lley, ol comendador mayor Nicolás Ovando comisionó á Sebas- 
-tian do Ocampo, que la rodeó y reconoció toda en el año de 
-150S. — Yóhsq Herrera, Dcc. I, lib. YII, capí. I. Eli el número do 
-islas comprendió sin duda las muchas que vio al Sur de Cuba 
-en el paraje que llamó Jardín de. la Reina.— Navarrete. 
-
-CRISTÓBAL COLÓN 
-
-que España, en que la gente d ellas es sin cuento, y que 
-todos le pagasen tributo. Nació allí mal decir y menos- 
-precio de la empresa comenzada en ello, porque no había 
-yo enviado luego los navios cargados de oro, sin consi- 
-derar la brevedad del tiempo, y lo otro que yo dije de 
-tantos inconvenientes; y en esto por mis pecados ó por 
-mi salvación creo que será, fué puesto en aborrecimien- 
-to y dado impedimento á cnanto yo decía y demandaba; 
-por lo cual acordé de venir á vuestras Altezas, y mara- 
-villarme de todo y mostrarles la razón que en todo ha- 
-bía, y les dije de los pueblos que yo había visto, en qué 
-ó de qué se podrían salvar muchas ánimas, y les truje 
-las obligaciones de la gente de la Isla Española, de como 
-se obligaban á pagar tributo ó les tenían por sus Reyes 
-y Señores, y les truje abastante muestra de oro, y que 
-hay mineros y granos muy grandes, y asimismo de co- 
-bre; y les truje de muchas maneras de especerías, de 
-que sería largo de escrebir, y les dije de la gran canti- 
-dad de brasil, y otras infinitas cosas. Todo no aprove- 
-chó para con algunas personas que tenían gana y dado 
-comienzo á mal decir del negecio, ni entrar con labia 
-del servicio de nuestro Señor con se salvar tantas áni- 
-mas, ni á decir questo era grandeza de vuestras Alte- 
-zas. de la mejor calidad que hasta hoy haya usado Prín- 
-cipe, por quel ejercicio é gasto era para el espiritual y 
-temporal, y que no podía ser que andando el tiempo no 
-hobiesc la España de aquí grandes provechos, pues que 
-se veían las señales que escribieron de lo de estas par- 
-tidas tan manifiestas; que también se llegaría á ver todo 
-el otro complimiento, ni á decir cosas que usaron gran- 
-des Príncipes en el inundo para crecer su fama, así 
-como de Salomón que envió desde Iiierusalén en fin de 
-Oriente á ver el monte Sopora, en que se detuvieron los 
-navios tres años, el cual tienen vuestras Altezas agora 
-en la Isla Española: ni de Alejandre, que envió á ver el 
-
-fifil, ACIONES Y G 4 UTAS 
-
-27 í 
-
-regimiento de la Isla de Trapobana en India, y Ñero 
-Cesar á ver las fuentes del Nilo ¡T, y la razón porque 
-crecían en el verano, cuando las aguas son pocas, y 
-otras muchas grandezas que lucieron Príncipes, y que 
-á Príncipes son estas cosas dadas de hacer; ni valía de- 
-cir que yo nunca había leído que Príncipes de Castilla 
-jamás liobiesen ganado tierra fuera della, y que esta de 
-acá es otro mundo en que se trabajaron Romanos y 
-Alejandre y Griegos, para la haber con grandes ejerci- 
-cios, ni decir del presente de los Reyes de Portugal, que 
-tovieron corazón para sostener á Guinea, y del desco- 
-brir della, y que gastaron oro y gente á tanta, que 
-quien contase toda la del Reino se hallaría que otra 
-tanta como la mitad son muertos en Guinea, y toda- 
-vía la continuaron basta que les salió dello lo que pa- 
-rece, lo cual todo comenzaron de largo tiempo, y ha 
-muy poco que les da renta; los cuales también osaron 
-conquistar en Africa, y sostener la empresa á Cepta, 
-Tan jar y Arcilla, é Alcázar, y de contino dar guerra á 
-los moros, y todo esto con grande gasto, sólo por ha- 
-cer cosa de Príncipe, servir á Dios y acrecentar su Se- 
-ñorío. 
-
-Cuanto yo más decía tanto más se doblaba á poner 
-esto á vituperio, amostrando en ello el aborrecimiento, 
-sin considerar cuánto bien pareció en todo el mundo, v 
-cuánto bien se dijo en todos los cristianos de vuestras 
-Altezas por haber tomado esta empresa, que no bobo 
-grande ni pequeño que no quisiese deílo carta. Respon- 
-diéronme vuestras Altezas riéndose y diciendo que yo 
-no curase de nada porque no daban autoridad ni creen- 
-cia á quien les mal decía de esta empresa. 
-
-(1) Estos ejemplos que pone el Almirante déla historia an- 
-ligua, los amplifica y comenta su historiador Casas con gran 
-erudición y prolijidad en los capítulos 128 y 129 de su historia 
-— Navarrete. 
-
-CRISTOBAL COLOX 
-
-Partí en nombre de la santísima Trinidad, miércoles 
-30 de Mayo (1) de la villa de San Fúcar, bien fatigado de 
-mi viaje, que adonde esperaba descanso, cuando yo 
-partí de estas Indias, se me dobló la pena (2), y nave- 
-gué á la Isla de la Madera por camino no acostumbrado, 
-por evitar escándalo que pudiera tener con un armada 
-de Francia <3), que me aguardaba al Cabo de San Vi- 
-cente, y de allí á las Islas de Canaria (4), de adonde me 
-partí con una nao y dos carabelas, y envié los otros na- 
-vios á derecho camino á las Indias á la Isla Españo- 
-la (5), y yo navegué al Austro con propósito de llegar tí 
-la línea equino ci al, y de allí seguir al Poniente hasta 
-que la Isla Española me quedase al Septentrión, y lle- 
-gado á las Islas de Cabo Verde (G), falso nombre, por- 
-que son atan secas que no vi cosa verde en ellas, y toda 
-la gente enferma, que no osé detenerme; en ellas, y na- 
-vegué al Sudoeste cuatrocientas y ochenta millas, que 
-son ciento y veinte leguas, adonde en anocheciendo te- 
-nía la estrella del Norte en cinco grados; allí me desam- 
-en Del año 1498. 
-
-(2) Alude á los trabajos y dificultades que oponían para su 
-habilitación los que procuraban desacreditarlo ó indisponerlo 
-con los Hoyes. — Navarrete. 
-
-(3) Herrera dice (Dee. 1. a , lib. III, cap. IX.) que ora armada 
-portuguesa; poro Casas (cap. OXXX) asegura era francesa. 
-
-(4) Herrera y D. Hernando Colón dicen que llegó ¡í la Isla 
-de Puerto Santo el 7 de Junio; que luogn partió para la Made- 
-ra. y de allí para la Gomera, adonde llegó el 19 y el 21 salió 
-á la mar. 
-
-(5) Mandaban los tres navios que el Almirante destacó para 
-la Española, Pedro de Arana, natural de Córdoba, hermano de 
-la madre do D. Hernando Colón; Alonso Sánchez de Caraba- 
-jal, Regidor de linaza, y Juan Antonio Colombo, deudo del Al- 
-mirante, á quienes conoció y trató Fr. Bartolomé de las Casas, 
-según dice en el cap. CXXX da su historia. — Navarrete. 
-
-(6) El 27 de Junio, y surgió on la Isla do la Sal, y el 30 sa- 
-lió para la Isla de Santiago, desde donde se puso en derrota el 
-4 de Julio. — Navarrete. 
-
-RELACIONES Y CAUTAS 
-
-y aró el viento y entré en tanto ardor y tan grande que 
-creí que se me quemasen los navios y gente, que todo 
-de un golpe vino á tan desordenado, que no había per- 
-sona que osase descender debajo de cubierta á reme- 
-diar Ja vasija y mantenimientos; duró este ardor ocho 
-días; al primer día íné claro, y los siete días siguien- 
-tes llovió é liizo ñumblado, y con todo no fallamos re- 
-medio, que cierto si así fuera de sol como el primero, 
-yo creo que no pudiera escapar en ninguna manera. 
-
-Acordóme que navegando á las Indias siempre que 
-yo paso al Poniente de las Islas de los Azores cíen le- 
-guas, allí fallo mudar la tetnperanza, y esto es todo de 
-Septentrión en Austro, y determiné que, si á nuestro 
-Señor le pluguiese de me dar viento y buen tiempo 
-que pudiese salir de adonde estaba, de dejar de ir mas 
-al Austro, ni voler tampoco atrás, salvo de navegar al 
-Poniente, á tanto que ya llegase á estar con esta raya 
-con esperanza que yo fallaría allí así temperamiento, 
-como había fallado cuando yo navegaba en el paralelo 
-de Canaria. E que si así fuese que entonces yo podría 
-ir más al Austro, y plugo á nuestro Señor que al cabo 
-de estos ocho días de me dar buen viento Levante, y yo 
-seguí al Poniente, mas no osé declinar abajo al Austro 
-porque fallé grandísimo mudamiento en el cielo y en 
-las estrellas, mas non fallé mudamiento en la tempe- 
-rancia; así acordé de proseguir delante siempre justo 
-al Poniente, en aquel derecho de la Sierra Lioa, con 
-propósito de non mudar derrota fusta adonde vo había 
-pensado que fallaría tierra, y allí adobar los navios, v 
-remediar si pudiese los mantenimientos y tomar agua 
-que no tenía; y al cabo de diecisiete días, los cuales 
-nuestro Señor me dio de próspero viento, martes 31 de 
-•'alio á mediodía nos amostró tierra (1), é yo la espera* 
-
-(1) Viola el primero un marinero de Kuelva, criado del AL- 
-jmuurto, uug so llamaba Alonso Pérez. — -V¿rt 'apretó, 
-
-CltíSTÓllAL COLÓN 
-
-ba el lunes antes, y tuve aquel camino fasta entonces,, 
-que en saliendo el sol, por defecto del agua que no te- 
-nía, determiné de andar á las indias de los Caníbales, 
-y tomó esa vuelta; y como su alta Majestad haya siem- 
-pre usado de misericordia conmigo; por acertamiento 
-subió un marinero á la gavia, y vido al Poniente tres 
-montañas imitas: dijimos la Salve íknjina y otras prosas, 
-y dimos todos muchas gracias á nuestro Señor, y des- 
-pués dejé el camino de Septentrión, y volví hacíala tie- 
-rra, adonde yo llegué á hora de completas á un Cabo á 
-que dije de la Galea (1) después de haber nombrado ala 
-Isla de la Trinidad , y allí liobiera muy buen puerto si 
-fuera fondo, y había casas y gente, y muy lindas tie- 
-rras, atan fermosas y verdes como las huertas de Va- 
-lencia en Marzo. Pesóme cuando no pude entrar en el 
-puerto, y corrí la costa de esta tierra del luengo fasta 
-el poniente, y andadas cinco leguas fallé muy buen fon- 
-do y surgí (2), y en el otro día di la vela á este camino 
-buscando puerto para adobar los navios y tomar agua, 
-y remediar el trigo y los bastimentos que llevaba sola- 
-mente. All¡,tomé una pipa de agua, y con ella anduve 
-ansí basta llegar al cabo, y allí fallé abrigo de Levante 
-y buen fondo, y así mandé surgir y adobar la vasija y 
-tomar agua y leña, y descendir la gente á descansar de. 
-tanto tiempo que andaban penando. 
-
-A esta punta llamé del Arenal (3), y allí se falló toda 
-
-(1) Ahora se llama Calió Galeota y es el más oriental y 
-meridional de la Isla de Trinidad de Barlovento, y se halla en 
-latitud A. 10° 9' 00", y longitud occidental del meridiano del 
-Observatorio de Cádiz 54° 42' 00." — Nwarrete. 
-
-(2) En l.° de Agosto por las inmediaciones de la punta de 
-Ab:cdraz, en la costa Sur de dicha Isla: su latitud 10° G J 00", y 
-longitud 54° 55' 00." — Navarrete. 
-
-(3) Llámase ahora punta de ¡canon la más SO. de la Isla Tri- 
-nidad; su latitud 10° 03' 3ü"; y su longitud 55° 41/ (X)" — Nava- 
-rretc. 
-
-RELACIONES V CARTAS 
-
-27o 
-
-la tierra follada de unas animabas que tenían la pata 
-como de cabra (1), y bien que según parece ser allí baja 
-muchas, no se vido sino una muerta. F.L día siguien- 
-te ( 2 ) vino de hada Oriente una grande canoa con vein- 
-ticuatro hombres, todos mancebos ó muy ataviados de 
-armas, arcos y Hechas y tablachinas, y ellos, como dije, 
-todos mancebos, de buena disposición y no negros, sal- 
-vo más blancos que otros que haya visto en las Indias, 
-y de muy lindo gesto, y fermosos cuerpos, y los cabe- 
-llos largos y llanos, cortados á la guisa de Castilla, y 
-traían la cabeza atada con un pañuelo de algodón teji- 
-do á labores y colores, el cual creía yo que era almai- 
-zar. Otro de estos pañuelos traían ceñido é se cobijaban 
-con él en lugar de pañetes. Cuando llegó esta canoa ha- 
-bló de muy lejos, yo ni otro ninguno no los entendía- 
-mos, salvo que yo les mandaba hacer señas (¡ue se alle- 
-gasen, y en esto se pasó más de dos horas, y si se lle- 
-gaban un poco luego se desviaban. Yo les hacia mos- 
-trar bacines y otras cosas que lucían por enamorarlos 
-porque viniesen, y á cabo de buen rato se allegaron más 
-que basta entonces no habían, y yo deseaba mucho ha- 
-ber lengua, y no tenía ya cosa que me pareciese que era 
-de mostrarles para que viniesen; salvo que hice solar 
-un tamborín en el castillo de popa que tañesen, é unos 
-mancebos que danzasen, creyendo que se allegarían á 
-ver la fiesta; y luego que vieron tañer y danzar todos 
-dejaron los remos y echaron mano á los arcos y los en- 
-cordaron, y embrazó cada uno su tablachina, y comen- 
-zaron á tirarnos Hechas: cesó luego el tañer y danzar, 
-y mandé luego sacar unas ballestas, y ellos dejáronme 
-y fueron á más andar á otra carabela, y de golpe se fue - 
-ron debajo la popa, della, y el piloto entró con ellos, y 
-
-(1) Estas patas eran de venado, ene liay machos por allá 
-— Casas. 
-
-(2) Jueves 2 de Agosto. 
-
-CRISTÓBAL COLÓN 
-
-dio un sayo é un bonete á un hombre principal que le 
-pareció deilos, y quedó concertado que le iría hablar 
-allí en la playa, adonde ellos luego fueron con la canoa 
-esperándole, y el como no quiso ir sin ini licencia, 
-como ellos le vieron venir á la nao coa la barca, torna- 
-ron á entrar en la canoa c se fueron, ó nunca más los 
-■ vicie ni á otros en esta isla. 
-
-Cuando yo llegue á esta punta del Arenal (1), allí se 
-hace una boca grande de dos leguas de Poniente á Le- 
-vante, la Isla de la Trinidad con la tierra de Gracia, y 
-que para haber de entrar dentro para pasar al Septen- 
-trión había unos hileros de corrientes que atravesaban 
-aquella boca y traían un rugir muy grande, y creí yo 
-que sería un arrecife de bajos é peñas, por el cual no se 
-podría entrar dentro en ella, y detrás de este hilero ha- 
-bía o'ro y otro que todos traían un. rugir grande como 
-ola de la mar que va á romper y dar en peñas (2). Surgí 
-allí á la dicha punta del Arenal , fuera de la dicha bo- 
-ca (3), y falló que venía el agua del Oriente fasta el Po- 
-niente con tanta furia como hace Guadalquivir en tiem- 
-po de avenida, y esto de contino noche y día, que ere: 
-que no podría volver atrás por la corriente, ni ir ade- 
-lante por los bajos; y en la noche ya muy tarde, estan- 
-do al bordo de la nao, oí un rugir muy terrible que ve- 
-nía de la parte del Austro hacia la nao, y me paré á 
-mirar, y vi levantando la mar de Poniente á Levante, 
-en manera de una loma tan alta como la nao, y toda- 
-vía venía hacia mí poco á poeo, y encima della venía 
-
-(1) «Esta punta debió ser la de la Trinidad,» Casas.— -Es la 
-punta de Icoc'iS , la cual forma con ia costa de tierra firme u:i 
-canal de tres leguas con dirección do OXO. — ESE. — Xavarrete. 
-
-v'-l En este paraje es muy notable el escarceo de las co- 
-rrientes que tiran para el Oeste con una velocidad de dos y 
-media millas por hora. 
-
-(Ü) En el fondeadero de punta Icacan. 
-
-RELACIOMÍS Y CARTAS 
-
-T, 7 
-
-un filero de corriente que venía rugiendo con muy 
-grande estrépito con aquella furia de aquel rugir que 
-de los otros hileros que- yo dije que rae parecían ondas 
-de mar que daban en peñas, que hoy en día tengo el 
-miedo en el cuerpo que no me trabucasen la nao cuando 
-legasen debajo della, y pasó y llegó fasta la boca adon- 
-de allí se detuvo grande espacio. Y el otro día siguien- 
-te envié las barcas á sondar y fallé en el más bajo déla 
-boca, que había seis ó siete brazas de fondo, y de con- 
-tino andaban aquellos hileros unos por entrar y otros 
-por salir, y plugo á Muestro Señor de rae dar buen vien- 
-to, y atravesé por esa boca adentro, y luego hallé tran- 
-quilidad, y por acertamiento se sacó del agua déla mar 
-y la hallé dulce. Navegué al Septentrión fasta una sie- 
-rra muy alta, adonde serían veinte y seis leguas (1) de 
-esta punta del Arenal, y allí había dos cabos de tierra 
-muy alta, el uno de la parte del Oriente, y era de la 
-misma isla de la Trinidad (2), y el otro del Occidente de 
-la tierra que dije de Gracia (¡3), y allí hacia una boca 
-muy angosta (4) más que aquella de la punta del Are- 
-nal, y allí había los mismos hileros y aquel rugir fuerte 
-del agua como era en la punta del Arenal, y asimismo 
-allí la mar era agua dulce: y fasta entonces yo no había 
-habido lengua con ninguna gente de estas tierras, y lo 
-deseaba en gran manera, y por esto navegué al luengo 
-de la costa de esta tierra hacia el Poniente, y cuanto 
-más andaba hallaba el agua de la mar más dulce y más 
-sabrosa, y andando una gran parte llegué á un lugar 
-donde me parecían las tierras labradas (5) y surgí y en 
-
-(1) Son solo trece leguas y dos tercios. 
-
-(2; Punta do P/iia Blanru. — Nnvarrete. 
-
-(3) Punta do la Peña. — Nuvarrttc. 
-
-(i) Jlbca fírtnnh , una de las de Dragos. — Kavarrele. 
-
-(5) Las inmediaciones da Macuco en la costa septentrional 
-occidental ded golfo de Paria ó de Trinidad. — Navarre/e. 
-
-ClilS'fÓl! Al. COLÓN 
-
-vié las barcas á tierra, y fallaron que de fresco se había 
-ido de allí gente, y fallaron todo el monte cubierto de 
-gatos paules: volviéronse, y como ésta fuese sierra me 
-pareció que más allá al Poniente las tierras eran más 
-llanas, y que allí sería poblado, y por esto sería pobla- 
-do, y mandé levantarlas anclas y corrí esta costa fasta 
-el cabo de esta sierra, y allí á un río surgí (1), y luego 
-vino mucha gente, y me dijeron cómo llamaron á esta 
-tierra Paria , y que de allí más al Poniente era más po- 
-blado; tomé dellos cuatro, y después navegué al Po- 
-niente, y andadas ocho leguas más al Poniente allende 
-ana punta á que yo llamé del Aguja (2): halló unas tie- 
-rras las más hermosas del mundo y muy pobladas: lle- 
-gué allí una mañana á hora de tercia, y por ver esta 
-verdura y esta hermosura acordé surgir y ver esta gen- 
-te, de los cuales luego vinieron en canoas á la nao á ro- 
-garme, de partes de su Rey, que descendiese en tierra: 
-é cuando vieron que no curé dellos vinieron á la nao in- 
-finitísimos en canoas, y muchos traían piezas de oro al 
-pescuezo, y algunos atados á los brazos algunas perlas: 
-holgué mucho cuando las vi ó procuré mucho de saber 
-dónde las bailaban, y me dijeron que allí, y de la parte 
-del Norte de aquella tierra. 
-
-Quisiera detenerme, mas estos bastimentos que yo 
-traía, trigo y vino é carne para esta gente que acá está 
-se me acababan de perder, los cuales hobe allá con tan- 
-ta fatiga, y por esto yo no buscaba sino á más andar á 
-venir á poner en ellos cobro, y no me detener para cosa 
-alguna: procuré de haber de aquellas perlas, y envié las 
-barcas á tierra: esta gente es muy mucha, y toda de 
-muy buen parecer, de la misma color que los otros de 
-
-' (P Un río inmediato al O. de la Punta Cumanii en dicha cos- 
-ta; su latitud 10 o , SO 1 , y su longitud 55°, 56* ' OOh — Nmxm-i lc. 
-
-(2) Ahora se llama de Alratrnzes. su latitud 10», 27', y su 
-longitud 56°, 13 1 , — Navamte. 
-
-lí EL ACIONES V LAUTAS 
-
-untes, y muy tratables; la gente nuestra que fué á tie- 
-rra los hallaron tan convenibles, y los recibieron muy 
-honradamente: dicen que luego que llegaron las barcas 
-á tierra que vinieron dos personas principales con todo 
-el pueblo, creen que e-1 uno el padre y el otro era su 
-hijo, y los llevaron á una casa muy' grande hecha á dos 
-aguas, y no redonda, como tienda de campo, como son 
-estas otras, y allí tenían muchas sillas á donde los 
-ñcieron asentar, y otras donde ellos se asentaron; y 
-hicieron traer pan, y de muchas maneras frutas é vino 
-de muchas maneras blanco é tinto, más no de uvas 
-debe el de ser de diversas maneras mío de una fruta y 
-otro de otra; y asimismo debe de ser dello de maíz, que 
-es una simiente que hace una espiga como una mazor- 
-ca de que llevé yo allá, y hay' ya mucho en Castilla, y 
-parece que aquel que lo tenía mejor lo traía por mayor 
-excelencia, y lo daba en gran precio: los hombres todos 
-estaban juntos á un cabo de la casa, y las mujeres en 
-otro. 
-
-Recibieron ambas las partes gran pena porque no 
-se entendían, ellos para preguntar á los otros de nues- 
-1ra patria, y los nuestros por saber de Ja suya. E des- 
-pués que hobieron rescebido colación allí en casa del 
-más viejo, los llevó el mozo á la suya, é fizo otro tan- 
-to, é después se pusieron en las barcas é se vinieron á 
-la nao, é yo luego levanté las anclas porque andaba mu- 
-cho de priesa por remediar los mantenimientos que se 
-me perdían que yo había habido eon lauta fatiga, y 
-también por remediarme á mí que había adolescido por 
-el desvelar de los ojos, que bien quel viaje que y'o fui á 
-descubrir la tierra fírme (1) estuviese treinta y tres días 
-sin concebir sueño, y estoviese tanto tiempo sin vista, 
-
-( L) No era la tierra ilrme la que dice sino la i.sla do Cubo, 
-que no pudo rodear ni reconocer del todo, y la tuvo siempre 
-por parte del Continente ó tierra firme. — Nnconxtr, 
-
-CRISTOBAL COLON 
-
-non se me dañaron los ojos, ni se me rompieron de san- 
-gre y con tantos dolores corno agora. 
-
-Esta gente, como ya dije, son todos de muy linda es- 
-tatura, altos de cuerpos, é de muy lindos gestos, los ca- 
-bellos muy largos é llanos, y traen las cabezas atadas 
-con unos pañuelos labrados, como ya dije, hermosos, 
-que parecen de lejos de seda y almaizares: otro traen 
-ceñido más largo que se cobijan con él en lugar de pa- 
-ñetes, ansí hombres como mujeres. La color de esta 
-gente es más blanca que otra que haya visto en las In- 
-dias; todos traían al pescuezo y á los brazos algo á la 
-guisa de estas tierras, y muchos traían piezas de oro 
-bajo colgado al pescuezo. Las canoas de ellos son muy' 
-grandes y de mejor hechura que no son estas otras, y 
-más livianas, y en el medio de cada una tienen un apar- 
-tamiento como cámara en que vi que andaban los prin- 
-cipales con sus mujeres. Llamé allí á este lugar Jardines, 
-porque así conforman por el nombre. Procuré mucho de 
-saber dónde cogían aquel oro, y todos me aseñalaban 
-una tierra frontera dedos al Poniente, que era muy alta, 
-mas no lejos; mas todos me decían que no fuese allá 
-porque allí comían los hombres, y entendí entonces que 
-decían que eran hombres caníbales, e que serían como 
-los otros, y después he pensado que podría ser que Jo 
-decían porque allí habría animabas. También les pre- 
-gunté adonde cogían las perlas, y me señalaron tam- 
-bién que al Poniente, y al Norte detrás de esta tierra 
-donde estaban. Dejólo de probar por esto de los mante- 
-nimientos, y del mal de mis ojos, y por una nao grande 
-que traigo que no es para semejante hecho. 
-
-Y como el tiempo fue breve se pasó todo en pregun • 
-tas, y se volvieron á los navios, que seria hora de vís- 
-peras, como ya dije, y luego levanté las anclas y nave- 
-gué al Poniente; y asimesmo el día siguiente fasta que 
-me fallé que no había si non tres brazas de fondo, con 
-
-UlíLACIONES Y CAUTAS 
-
-creencia que todavía ésta sería isla, y que yo podría sa- 
-lir al Norte; y así visto envió una carabela sotil adelan- 
-te á ver si había salida ó si estaba cerrado, y ansí an- 
-duvo mucho camino fasta un golfo muy grande en el 
-cual parecía que había otros cuatro medianos, y del uno 
-salía un río grandísimo (1): fallaron siempre cinco bra- 
-zas de fondo y el agua muy dulce, en tanta cantidad 
-que yo jamás bebda pareja deba, l’uí } 7 o muy descon- 
-tento delía cuando vi que no podía salir al Norte ni po- 
-día andar ya al Austro nial Poniente porque yo estaba 
-cercado por todas partes de la tierra, y así levanté las 
-anclas, y torné atrás para salir al Norte por la boca que 
-yo arriba dije, y no pude volver por la población adon- 
-de yo había estado, por causa de las corrientes que me 
-habían desviado della, y siempre en todo cabo hallaba 
-el agua dulce y clara, y que me llevaba al Oriente muy 
-recio lacia las dos bocas que arriba dije, y entonces 
-conjeturé que los hilos de la corriente, y aquellas lomas 
-que salían y entraban en estas bocas con aquel rugir 
-tan fuerte que era pelea del agua dulce con la salada. 
-La dulce empujaba á la otra porque no entrase, y la sa- 
-lada porque la otra no saliese; y conjeturé que allí don- 
-de son estas dos bocas que algún tiempo sería tierra 
-continua á la isla déla Trinidad con la tierra de Gracia, 
-como podrán ver vuestras Altezas por la pintura de lo 
-que con ésta Ies envió. Salí yo por esta boca del Nor- 
-te (2) y bailé quel agua dulce siempre vencía, y cuando 
-pasé, que fue con fuerza de viento, estando en una de 
-aquellas lomas, hallé en aquellos hilos de la parte de 
-dentro el agua dulce, y de fuera salada. 
-
-(1) Debe ser el río de Paria ó el Gtínrvptvh: el primero en 
-latitud 10°, 2ó', y longitud ót>°, 48'; y el segando en latitud 
-10.", 9', y longitud ñ6°, 23*. Esto es el paraje que ol Almiran- 
-te llamó Golfo ñ /■ las Perla *. — carrete . 
-
-(2) Por Boca Grande el día 13 de Agosto. — Nava mié. 
-
-CHISTÓ BAL COLON 
-
-Cuando yo navegué de España á las Indias falló lue- 
-go en pasando cien leguas á Poniente de los Azores 
-grandísimo mudamiento en el cielo ó en las estrellas, y 
-en la temperancia del aire, y en las aguas de la mar, y 
-en esto he tenido mucha diligencia en la experiencia. 
-
-Fallo que de Septentrión en Austro, pasando las di- 
-chas cien leguas de las dichas islas, (pie luego en las 
-agujas de marear, que fasta entonces nordesteaban, no- 
-rnestean una cuarta de viento todo entero, y esto es en 
-allegando allí á aquella línea, como quien traspone una 
-cuesta, y asímesmo fallo la mar toda llena de yerba de 
-mía calidad que parece ramitos de pino y muy cargada 
-de fruta como de lantisco, y es tan espesa que al pri- 
-mer viaje pensé que era bajo, y que daría en seco con 
-los navios, y hasta llegar con esta raya no se falla un 
-solo ramito: fallo también en llegando allí la mar muy 
-suave y llana, y bien que vente recio nunca se levanta. 
-Asimismo hallo dentro de la dicha raya hacia Poniente 
-Ja temperancia del cielo muy suave, y no discrepado 
-la cantidad quier sea invierno, quier sea eu verano. 
-Cuando allí estoy hallo que la estrella del Mor te escribe 
-un círculo el cual tiene en el diámetro cinco grados, y 
-estando las guardas en el brazo derecho entonces está 
-la estrella en el más bajo, y se va alzando fasta que lle- 
-ga al brazo izquierdo, y entonces está cinco grados, y 
-de allí se va abajando fasta llegar á volver otra vez al 
-brazo derecho. 
-
-Yo allegué agora de España á la Isla de la Madera, y 
-de allí á Canaria, y dende á las Islas de Cabo Verde, de 
-adonde cometí el viaje para navegar al Austro fasta 
-debajo la línea equinocial, como ya dije: allegado á es- 
-tar en derecho con el paralelo que pasa por la Sierra 
-Leoa (1) en Guinea, fallo tan grande ardor, y los rayos 
-
-(1) Sierra Leona. 
-
-REI. ACIONES V CARTAS 
-
-del sol tan calientes que pensaba de quemar, y bien que 
-lloviese y el cielo fuese muy turbado siempre yo estaba 
-en esta fatiga, fasta que nuestro Señor proveyó de buen 
-viento y á mí puso en voluntad que yo navegase al Oc- 
-cidente con este esfuerzo, que en llegando á la raya de 
-que yo dije que allí fallaría mudamiento en la tempe- 
-rancia. Después que yo emparejé á estar en derecho de 
-esta raya luego falló la temperancia del cielo muy sua- 
-ve, y cuanto más anclaba adelante más multiplicaba: 
-mas no bailé conforme á esto las estrellas. 
-
-Fallé allí que en anocheciendo tenía yo la estrella del 
-Norte alta cinco grados, y entonces las guardas estaban 
-encima de la cabeza, y después á la media noche falla- 
-ba la estrella alta diez grados, y en amaneciendo que 
-las guardas estaban en los pies quince. 
-
-La suavelidad de la mar fallé conforme, mas no en la 
-yerba: en esto de la estrella del Norte tomé grande ad- 
-miración, y por esto muchas noches con mucha dili- 
-gencia tornaba yo á repriear la vista delia con el cua- 
-drante, y siempre fallé que caía el plomo y hilo á un 
-punto. 
-
-Por cosa nueA r a tengo yo esto, y podrá ser que será 
-tenida que eu poco espacio haga tanta diferencia el 
-cielo. 
-
-Yo siempre leí que el mundo, tierra o agua era esfé- 
-rico é las autoridades y experiencias que Tolomeoy to 
-dos los otros escribieron de este sitio, daban c amos- 
-traban para ello así por eclipses de la luna y otras de- 
-mostraciones que hacendé Oriente fasta Occidente, co- 
-mo de la elevación del polo de Septentrión en Austro. 
-Agora vi tanta disformidad, como ya dije, y por esto 
-me puse á tener esto del mundo, y fallé que no era re- 
-dondo en la forma que escriben; salvo que os de la for- 
-ma de una pera que sea toda muy redonda, salvo allí 
-donde tiene el pezón que allí tiene más alto, ó como 
-
-C1UST01IAL COLON 
-
-quien tiene una pelota muy redonda, y en un lugar de- 
-11a fuese como una teta de mujer allí puesta, y que esta 
-parte deste' pezón sea Ja más alta é más propinca al 
-ciclo, y sea debajo la linea equinocíal, y en esta mar 
-Océana en ñn del Oriente: llamo yo íin de Oriente, adon 
-de acaba toda la tierra é islas, é para esto allego todas 
-las razones sobreescriptas de la raya que pasa al Occi- 
-dente de las Islas de los Azores cien leguas de Septen- 
-trión en Austro, que en pasando de allí al Poniente ya 
-van los navios alzándose hacia el cielo suavemente, y 
-entonces se goza de más suave temperancia y se muda 
-el aguja de marear por causa déla suavidad desa cuar- 
-ta de viento, y cuanto más va adelante é alzándose más 
-noruestea, y esta altura causa el desvariar del círculo 
-que escribe la estrella del Norte con las guardas, y 
-cuanto más pasare junto con la línea equinocial, más 
-se subirán enalto, y más diferencia habrá en las dichas 
-estrellas, y en los círculos deilas. Y Tolomeo y los 
-otros sabios quj escribieron de este mundo, creyeron 
-que era esférico, creyendo queste hemisferio que fuese 
-redondo como aquel de allá donde ellos estaban, el cual 
-tiene el centro en la Isla de Arín, qucs debajo la linca 
-equinocial entre el sino Arábico y aquel de Persia, y el 
-círculo pasa sobre el Cabo de San Vicente en Portugal 
-por el Poniente, y pasa en Oriente por Cangara y pol- 
-las Seras, en el cual hemisferio no hago yo que hay nin- 
-guna dificultad, salvo que sea esférico redondo como 
-ellos dicen: mas este otro digo que es como sería la mi- 
-tad de la pera bien redonda, la cual toviose el pezón alto 
-como yo dije, ó como una teta de mujer en una pelota 
-redonda, así que desta media parte non bobo noticia 
-Tolomeo ni los otros que escribieron del mundo, por ser 
-muy ignoto; solamente lucieron raíz sobre el hemisferio 
-adonde ellos estaban, qucs redondo esférico, como arri- 
-ba dije. Y agora que vuestras Altezas lo lian mandado 
-
-RELACIONES V CAUTAS 
-
-navegar y buscar y dcscobrir, se amuestra evidentísi- 
-mo, porque estando yo en este viaje al Septentrión 
-veinte grados de la línea equinocia.1, allí era en derecho 
-de Hanjin, é de aquellas tierras: é allí es la gente negra 
-c la tierra muy quemada, y después que fui á las islas 
-de Cabo Verde, allí en aquellas tierras es la gente mu- 
-cho más negra, cuanto más bajo se van al Austro 
-tanto más llegan al extremo, en manera que allí en de- 
-recho donde yo estaba, qucs la Sierra í.eoa (1;, adonde 
-se me alzaba la estrella del Norte en anocheciendo cin- 
-co grados, allí es la gente negra en extrema cantidad, y 
-después que de allí navegué al Occidente tan extremos 
-calores; y pasada la raya de que yo dije, fallé multipli- 
-car la temperancia, andando en tanta cantidad, que 
-cuando yo llegué á la isla de la. Trinidad , adonde la estre- 
-lla del Norte en anocheciendo también se me alzaba cin- 
-co grados, allí y en la tierra de Gracia hallé temperancia 
-suavísima, y las tierras y árboles muy verdes, y tan 
-hermosos como en Abril en las huertas de Valencia; y 
-la gente de allí de muv linda estatura, v blancos más 
-que otros que haya visto en las Indias, é los cabellos 
-muy largos é llanos, é gente más astuta é de mayor in- 
-genio, é no cobardes. 
+Año de 1498
+
+Serenísimos é muy altos é muy poderosos Principes Rey é Reina nuestros Señores: La Santa Trinidad movió á vuestras Altezas á esta empresa de las Indias, y por su infinita bondad hizo á mí mensagero dello, al cual vine con el embajada á su Real conspetu, movido como á los más altos Príncipes de cristianos y que tanto se ejercitaban en la fe y acrecentamiento della; las personas que entendieron en ello lo tuvieron por imposible, y el caudal hacían sobre bienes de fortuna, y allí echaron el clavo. Puso en esto seis ó siete años de grave pena, amostrando lo mejor que yo sabia cuanto servicio se podía hacer á nuestro Señor en esto en divulgar su santo nombre y Fe á tantos pueblos; lo cual todo era cosa de tanta excelencia y buena fama y gran memoria para grandes Príncipes: fue también necesario de hablar del temporal adonde se les amostró el escrebir de tantos sabios dignos de fe, los cuales escribieron historias. Los cuales contaban que en estas partes había muchas riquezas, y asimismo fué necesario traer á esto el decir ó opinión de aquellos que escribieron é situaron el mundo; en fin vuestras Altezas determinaron questo se pusiese en obra. Aquí mostraron el grande corazón que siempre ficieron en toda cosa grande, porque todos los que habían entendido en ello y oído esta plática todos á una mano lo tenían á burla, salvo dos frailes(1) que siempre fueron constantes. Yo, bien que levase fatiga, estaba bien seguro que esto no vernía á menos, y estoy de contino, porque es verdad que todo pasará, y no la palabra de Dios, y se complirá todo lo que dijo; el cual tan claro habló de estas tierras por la boca de Isaías en tantos lugares de su Escriptura, afirmando que de España les seria divulgado su santo nombre. E partí en nombre de la Santa Trinidad, y volví muy presto con la experiencia de todo cuanto yo había dicho en la mano: tornáronme á enviar vuestras Altezas, y en poco espacio digo, no de  (2) le descubrí por virtud divinal trescientas y treinta y tres leguas de la tierra firme, fin de Oriente, y setcentas(3) 
+islas de nombre(4), allende de lo descubierto en el primero viaje, y le allané la Isla Española que boja más que España, en que la gente d ellas es sin cuento, y que todos le pagasen tributo.
+(1,Original)Fr. Juan Pérez de Marchena, franciscano, guardián del convento de la Rávida, y Fr. Diego de Deza, dominico, despues arzobispo de Sevilla. —Navarrete. 
+(2,Original)Igual vacio en el original. 
+(3,Original)Por setecientos. 
+(4,Original)En el segundo viaje no descubrió la tierra firme, como dice, sino que creyó lo era la Isla de Cuba, que no pudo acabar de reconocer; ni se averiguó ser isla hasta que por orden del Rey, el comendador mayor Nicolás Ovando comisionó á Sebastian de Ocampo, que la rodeó y reconoció toda en el año de 1509. —Véase Herrera, Dec. I, lib. VII, cap. I. En el número de islas comprendió sin duda las muchas que vio al Sur de Cuba en el paraje que llamó Jardín de la Reina. —Navarrete. 
+
+Nació allí mal decir y menosprecio de la empresa comenzada en ello, porque no había yo enviado luego los navios cargados de oro, sin considerar la brevedad del tiempo, y lo otro que yo dije de tantos inconvenientes; y en esto por mis pecados ó por mi salvación creo que será, fué puesto en aborrecimiento y dado impedimento á cuanto yo decía y demandaba; por lo cual acordé de venir á vuestras Altezas, y maravillarme de todo y mostrarles la razón que en todo había, y les dije de los pueblos que yo había visto, en qué ó de qué se podrían salvar muchas ánimas, y les truje las obligaciones de la gente de la Isla Española, de como se obligaban á pagar tributo ó les tenían por sus Reyes y Señores, y les truje abastante muestra de oro, y que hay mineros y granos muy grandes, y asimismo de cobre; y les truje de muchas maneras de especerías, de que sería largo de escrebir, y les dije de la gran cantidad de brasil, y otras infinitas cosas. Todo no aprovechó para con algunas personas que tenían gana y dado comienzo á mal decir del negecio, ni entrar con labia del servicio de nuestro Señor con se salvar tantas ánimas, ni á decir questo era grandeza de vuestras Altezas. de la mejor calidad que hasta hoy haya usado Príncipe, por quel ejercicio é gasto era para el espiritual y temporal, y que no podía ser que andando el tiempo no hobiese la España de aquí grandes provechos, pues que se veían las señales que escribieron de lo de estas partidas tan manifiestas; que también se llegaría á ver todo el otro complimiento, ni á decir cosas que usaron grandes Príncipes en el inundo para crecer su fama, así como de Salomón que envió desde Hierusalén en fin de Oriente á ver el monte Sopora, en que se detovieron los navios tres años, el cual tienen vuestras Altezas agora en la Isla Española: ni de Alejandre, que envió á ver el regimiento de la Isla de Trapobana en India, y Nero Cesar á ver las fuentes del Nilo(1), y la razón porque crecían en el verano, cuando las aguas son pocas, y otras muchas grandezas que lucieron Príncipes, y que á Príncipes son estas cosas dadas de hacer; ni valía decir que yo nunca había leído que Príncipes de Castilla jamás hobiesen ganado tierra fuera della, y que esta de 
+acá es otro mundo en que se trabajaron Romanos y Alejandre y Griegos, para la haber con grandes ejercicios, ni decir del presente de los Reyes de Portugal, que tovieron corazón para sostener á Guinea, y del descobrir della, y que gastaron oro y gente á tanta, que quien contase toda la del Reino se hallaría que otra tanta como la mitad son muertos en Guinea, y todavía la continuaron basta que les salió dello lo que parece, lo cual todo comenzaron de largo tiempo, y ha muy poco que les da renta; los cuales también osaron conquistar en Africa, y sostener la empresa á Cepta, Tanjar y Arcilla, é Alcázar, y de contino dar guerra á los moros, y todo esto con grande gasto, sólo por hacer cosa de Príncipe, servir á Dios y acrecentar su Señorío. 
+(1) Estos ejemplos que pone el Almirante de la historia antigua, los amplifica y comenta su historiador Casas con gran erudición y prolijidad en los capítulos 128 y 129 de su historia. -Navarrete. 
+
+Cuanto yo más decía tanto más se doblaba á poner esto á vituperio, amostrando en ello el aborrecimiento, sin considerar cuánto bien pareció en todo el mundo, y cuánto bien se dijo en todos los cristianos de vuestras Altezas por haber tomado esta empresa, que no hubo grande ni pequeño que no quisiese dello carta. Respondiéronme vuestras Altezas riéndose y diciendo que yo no curase de nada porque no daban autoridad ni creencia á quien les mal decía de esta empresa. 
+
+Partí en nombre de la santísima Trinidad, miércoles 30 de Mayo(1) de la villa de San Lúcar, bien fatigado de mi viaje, que adonde esperaba descanso, cuando yo partí de estas Indias, se me dobló la pena(2), y navegué á la Isla de la Madera por camino no acostumbrado, por evitar escándalo que pudiera tener con un armada de Francia(3), que me aguardaba al Cabo de San Vicente, y de allí á las Islas de Canaria(4), de adonde me partí con una nao y dos carabelas, y envié los otros navios á derecho camino á las Indias á la Isla Española(5), y yo navegué al Austro con propósito de llegar a la línea equinocial, y de allí seguir al Poniente hasta que la Isla Española me quedase al Septentrión, y llegado á las Islas de Cabo Verde(6), falso nombre, porque son atan secas que no vi cosa verde en ellas, y toda la gente enferma, que no osé detenerme; en ellas, y navegué al Sudoeste cuatrocientas y ochenta millas, que son ciento y veinte leguas, adonde en anocheciendo tenía la estrella del Norte en cinco grados; allí me desamparó el viento y entré en tanto ardor y tan grande que creí que se me quemasen los navios y gente, que todo de un golpe vino á tan desordenado, que no había persona que osase descender debajo de cubierta á remediar la vasija y mantenimientos; duró este ardor ocho días; al primer día fué claro, y los siete días siguientes llovió é hizo ñumblado, y con todo no fallamos remedio, que cierto si así fuera de sol como el primero, yo creo que no pudiera escapar en ninguna manera.
+(1,3,Original)Del año 1498. 
+(2,Original)Alude á los trabajos y dificultades que oponían para su habilitación los que procuraban desacreditarlo ó indisponerlo con los Reyes. -Navarrete. 
+(3,Original)Herrera dice (Dec. 1. , lib. III, cap. IX.) que era armada portuguesa; pero Casas (cap. CXXX) asegura era francesa. 
+(4,3,Original)Herrera y D. Hernando Colón dicen que llegó á la Isla de Puerto Santo el 7 de Junio; que luego partió para la Madera. y de allí para la Gomera, adonde llegó el 19 y el 21 salió á la mar. 
+(5,3,Original)Mandaban los tres navios que el Almirante destacó para la Española, Pedro de Arana, natural de Córdoba, hermano de la madre de D. Hernando Colón; Alonso Sánchez de Carabajal, Regidor de Baeza, y Juan Antonio Colombo, deudo del Almirante, á quienes conoció y trató Fr. Bartolomé de las Casas, según dice en el cap. CXXX da su historia. -Navarrete. 
+(6,4,Original)El 27 de Junio, y surgió en la Isla de la Sal, y el 30 salió para la Isla de Santiago, desde donde se puso en derrota el 4 de Julio.-Navarrete.
+
+Acordóme que navegando á las Indias siempre que yo paso al Poniente de las Islas de los Azores cien leguas, allí fallo mudar la temperanza, y esto es todo de Septentrión en Austro, y determiné que, si á nuestro Señor le pluguiese de me dar viento y buen tiempo que pudiese salir de adonde estaba, de dejar de ir mas al Austro, ni voler tampoco atrás, salvo de navegar al Poniente, á tanto que ya llegase á estar con esta raya con esperanza que yo fallaría allí así temperamiento, como había fallado cuando yo navegaba en el paralelo de Canaria. E que si así fuese que entonces yo podría ir más al Austro, y plugo á nuestro Señor que al cabo de estos ocho días de me dar buen viento Levante, y yo seguí al Poniente, mas no osé declinar abajo al Austro 
+porque fallé grandísimo mudamiento en el cielo y en las estrellas, mas non fallé mudamiento en la temperancia; así acordé de proseguir delante siempre justo al Poniente, en aquel derecho de la Sierra Lioa, con propósito de non mudar derrota fasta adonde yo había pensado que fallaría tierra, y allí adobar los navios, y remediar si pudiese los mantenimientos y tomar agua que no tenía; y al cabo de diecisiete días, los cuales nuestro Señor me dio de próspero viento, martes 31 de Julio á mediodía nos amostró tierra(1), é yo la esperaba el lunes antes, y tuve aquel camino fasta entonces, que en saliendo el sol, por defecto del agua que no tenía, determiné de andar á las indias de los Caníbales, y tomó esa vuelta; y como su alta Majestad haya siempre usado de misericordia conmigo; por acertamiento subió un marinero á la gavia, y vido al Poniente tres montañas juntas: dijimos la Salve Regina y otras prosas, y dimos todos muchas gracias á nuestro Señor, y después dejé el camino de Septentrión, y volví hacía la tierra, adonde yo llegué á hora de completas á un Cabo á que dije de la Galea(2) después de haber nombrado a la Isla de la Trinidad , y allí hobiera muy buen puerto si fuera fondo, y había casas y gente, y muy lindas tierras, atan fermosas y verdes como las huertas de Valencia en Marzo. Pesóme cuando no pude entrar en el puerto, y corrí la costa de esta tierra del luengo fasta el poniente, y andadas cinco leguas fallé muy buen fondo y surgí(3), y en el otro día di la vela á este camino buscando puerto para adobar los navios y tomar agua, y remediar el trigo y los bastimentos que llevaba solamente. Allí, tomé una pipa de agua, y con ella anduve ansí basta llegar al cabo, y allí fallé abrigo de Levante y buen fondo, y así mandé surgir y adobar la vasija y tomar agua y leña, y descendir la gente á descansar de tanto tiempo que andaban penando.
+(1,Original)Vióla el primero un marinero de Huelva, criado del Almirante, que se llamaba Alonso Pérez. -Navarrete 
+(2,Original) Ahora se llama Cabo Galeota y es el más oriental y meridional de la Isla de Trinidad de Barlovento, y se halla en latitud N. 10°9'00", y longitud occidental del meridiano del Observatorio de Cádiz 54°42'00". -Navarrete. 
+(3) En 1° de Agosto por las inmediaciones de la punta de Alcatraz, en la costa Sur de dicha Isla: su latitud 10°6'00", y longitud 54°55'00". -Navarrete.
+
+A esta punta llamé del Arenal (1), y allí se falló toda la tierra follada de unas animabas que tenían la pata como de cabra(2), y bien que según parece ser allí baja muchas, no se vido sino una muerta. El día siguiente(3) vino de hacia Oriente una grande canoa con veinticuatro hombres, todos mancebos ó muy ataviados de armas, arcos y flechas y tablachinas, y ellos, como dije, todos mancebos, de buena disposición y no negros, salvo más blancos que otros que haya visto en las Indias, y de muy lindo gesto, y fermosos cuerpos, y los cabellos largos y llanos, cortados á la guisa de Castilla, y traían la cabeza atada con un pañuelo de algodón tejido á labores y colores, el cual creía yo que era almaizar. Otro de estos pañuelos traían ceñido é se cobijaban 
+con él en lugar de pañetes. Cuando llegó esta canoa habló de muy lejos, yo ni otro ninguno no los entendíamos, salvo que yo les mandaba hacer señas que se allegasen, y en esto se pasó más de dos horas, y si se llegaban un poco luego se desviaban. Yo les hacia mostrar bacines y otras cosas que lucían por enamorarlos porque viniesen, y á cabo de buen rato se allegaron más que hasta entonces no habían, y yo deseaba mucho haber lengua, y no tenía ya cosa que me pareciese que era de mostrarles para que viniesen; salvo que hice sobir un tamborín en el castillo de popa que tañesen, é unos mancebos que danzasen, creyendo que se allegarían á ver la fiesta; y luego que vieron tañer y danzar todos dejaron los remos y echaron mano á los arcos y los encordaron, y embrazó cada uno su tablachina, y comenzaron á tirarnos flechas: cesó luego el tañer y danzar, y mandé luego sacar unas ballestas, y ellos dejáronme y fueron á más andar á otra carabela, y de golpe se fueron debajo la popa, della, y el piloto entró con ellos, y dio un sayo é un bonete á un hombre principal que le pareció deilos, y quedó concertado que le iría hablar allí en la playa, adonde ellos luego fueron con la canoa esperándole, y el como no quiso ir sin mi licencia, como ellos le vieron venir á la nao coa la barca, tornaron á entrar en la canoa é se fueron, ó nunca más los  vicie ni á otros en esta isla.
+(1,Original)Llámase ahora punta de Icacos la más SO. de la Isla Trinidad; su latitud 10°03'30"; y su longitud 55°41'00". -Navarrete. 
+(2,Original)Estas patas eran de venado, que hay muchos por allí. -Casas. 
+(3,Original)Jueves 2 de Agosto.
+
+Cuando yo llegue á esta punta del Arenal (1), allí se hace una boca grande de dos leguas de Poniente á Levante, la Isla de la Trinidad con la tierra de Gracia, y que para haber de entrar dentro para pasar al Septentrión había unos hileros de corrientes que atravesaban aquella boca y traían un rugir muy grande, y creí yo que sería un arrecife de bajos é peñas, por el cual no se podría entrar dentro en ella, y detrás de este hilero había otro y otro que todos traían un. rugir grande como ola de la mar que va á romper y dar en peñas(2). Surgí allí á la dicha punta del Arenal, fuera de la dicha boca(3), y falló que venía el agua del Oriente fasta el Poniente con tanta furia como hace Guadalquivir en tiempo de avenida, y esto de contino noche y día, que creí que no podría volver atrás por la corriente, ni ir adelante por los bajos; y en la noche ya muy tarde, estando al bordo de la nao, oí un rugir muy terrible que venía de la parte del Austro hacia la nao, y me paré á mirar, y vi levantando la mar de Poniente á Levante, en manera de una loma tan alta como la nao, y todavía venía hacia mí poco á poco, y encima della venía un filero de corriente que venía rugiendo con muy grande estrépito con aquella furia de aquel rugir que de los otros hileros que yo dije que me parecían ondas de mar que daban en peñas, que hoy en día tengo el miedo en el cuerpo que no me trabucasen la nao cuando legasen debajo della, y pasó y llegó fasta la boca adonde allí se detuvo grande espacio. Y el otro día siguiente envié las barcas á sondar y fallé en el más bajo déla boca, que había seis ó siete brazas de fondo, y de contino andaban aquellos hileros unos por entrar y otros por salir, y plugo á Muestro Señor de me dar buen viento, y atravesé por esa boca adentro, y luego hallé tranquilidad, y por acertamiento se sacó del agua déla mar y la hallé dulce. Navegué al Septentrión fasta una sierra muy alta, adonde serían veinte y seis leguas(4) de esta punta del Arenal, y allí había dos cabos de tierra muy alta, el uno de la parte del Oriente, y era de la misma isla de la Trinidad(5), y el otro del Occidente de la tierra que dije de Gracia(6), y allí hacia una boca muy angosta(7) más que aquella de la punta del Arenal, y allí había los mismos hileros y aquel rugir fuerte del agua como era en la punta del Arenal, y asimismo allí la mar era agua dulce: y fasta entonces yo no había habido lengua con ninguna gente de estas tierras, y lo deseaba en gran manera, y por esto navegué al luengo de la costa de esta tierra hacia el Poniente, y cuanto más andaba hallaba el agua de la mar más dulce y más sabrosa, y andando una gran parte llegué á un lugar donde me parecían las tierras labradas(8) y surgí y envié las barcas á tierra, y fallaron que de fresco se había ido de allí gente, y fallaron todo el monte cubierto de gatos paules: volviéronse, y como ésta fuese sierra me pareció que más allá al Poniente las tierras eran más llanas, y que allí sería poblado, y por esto sería poblado, y mandé levantarlas anclas y corrí esta costa fasta el cabo de esta sierra, y allí á un río surgí(9), y luego vino mucha gente, y me dijeron cómo llamaron á esta tierra Paria , y que de allí más al Poniente era más poblado; tomé dellos cuatro, y después navegué al Poniente, y andadas ocho leguas más al Poniente allende ana punta á que yo llamé del Aguja(10): halló unas tierras las más hermosas del mundo y muy pobladas: llegué allí una mañana á hora de tercia, y por ver esta verdura y esta hermosura acordé surgir y ver esta gente, de los cuales luego vinieron en canoas á la nao á rogarme, de partes de su Rey, que descendiese en tierra: é cuando vieron que no curé dellos vinieron á la nao infinitísimos en canoas, y muchos traían piezas de oro al pescuezo, y algunos atados á los brazos algunas perlas: holgué mucho cuando las vi ó procuré mucho de saber dónde las bailaban, y me dijeron que allí, y de la parte del Norte de aquella tierra.
+(1,3,Original)«Esta punta debió ser la de la Trinidad,» Casas. Es la punta de Icacos , la cual forma con la costa de tierra firme un canal de tres leguas con dirección de ONO. — ESE. —Navarrete. 
+(2,Original)En este paraje es muy notable el escarceo de las corrientes que tiran para el Oeste con una velocidad de dos y media millas por hora. 
+(3,Original)En el fondeadero de punta Icacos.
+(4,Original)Son solo trece leguas y dos tercios. 
+(5,Original)Punta de Peña Blanca. —Navarrete. 
+(6,Original)Punta de la Peña. —Navarrete. 
+(7,Original)Boca Grande, una de las de Dragos. —Navarrete. 
+(8,2,Original)Las inmediaciones da Macuro en la costa septentrional occidental del golfo de Paria ó de Trinidad. —Navarrete. 
+(9,2,Original)Un río inmediato al O. de la Punta Cumaná en dicha costa; su latitud 55°56'00". -Navarrete.
+(10,Original)Ahora se llama de Alcatrazes, su latitud 10°27', y su longitud 56°,13'. —Navarrete.
+
+Quisiera detenerme, mas estos bastimentos que yo traía, trigo y vino é carne para esta gente que acá está se me acababan de perder, los cuales hobe allá con tanta fatiga, y por esto yo no buscaba sino á más andar á venir á poner en ellos cobro, y no me detener para cosa alguna: procuré de haber de aquellas perlas, y envié las barcas á tierra: esta gente es muy mucha, y toda de muy buen parecer, de la misma color que los otros de antes, y muy tratables; la gente nuestra que fué á tierra los hallaron tan convenibles, y los recibieron muy honradamente: dicen que luego que llegaron las barcas 
+á tierra que vinieron dos personas principales con todo el pueblo, creen que el uno el padre y el otro era su hijo, y los llevaron á una casa muy grande hecha á dos aguas, y no redonda, como tienda de campo, como son estas otras, y allí tenían muchas sillas á donde los ñcieron asentar, y otras donde ellos se asentaron; y hicieron traer pan, y de muchas maneras frutas é vino de muchas maneras blanco é tinto, más no de uvas debe el de ser de diversas maneras uno de una fruta y otro de otra; y asimismo debe de ser dello de maíz, que es una simiente que hace una espiga como una mazorca de que llevé yo allá, y hay ya mucho en Castilla, y parece que aquel que lo tenía mejor lo traía por mayor excelencia, y lo daba en gran precio: los hombres todos estaban juntos á un cabo de la casa, y las mujeres en otro. 
+
+Recibieron ambas las partes gran pena porque no se entendían, ellos para preguntar á los otros de nues1ra patria, y los nuestros por saber de la suya. E después que hobieron rescebido colación allí en casa del más viejo, los llevó el mozo á la suya, é fizo otro tanto, é después se pusieron en las barcas é se vinieron á la nao, é yo luego levanté las anclas porque andaba mucho de priesa por remediar los mantenimientos que se me perdían que yo había habido con tanta fatiga, y también por remediarme á mí que había adolescido por el desvelar de los ojos, que bien quel viaje que yo fui á descubrir la tierra fírme(1) estuviese treinta y tres días sin concebir sueño, y estoviese tanto tiempo sin vista, non se me dañaron los ojos, ni se me rompieron de sangre y con tantos dolores como agora.
+(1,Original)No era la tierra firme la que dice sino la isla de Cuba, que no pudo rodear ni reconocer del todo, y la tuvo siempre por parte del Continente ó tierra firme. —Navarrete 
+
+Esta gente, como ya dije, son todos de muy linda estatura, altos de cuerpos, é de muy lindos gestos, los cabellos muy largos é llanos, y traen las cabezas atadas con unos pañuelos labrados, como ya dije, hermosos, que parecen de lejos de seda y almaizares: otro traen ceñido más largo que se cobijan con él en lugar de pañetes, ansí hombres como mujeres. La color de esta gente es más blanca que otra que haya visto en las Indias; todos traían al pescuezo y á los brazos algo á la guisa de estas tierras, y muchos traían piezas de oro bajo colgado al pescuezo. Las canoas de ellos son muy grandes y de mejor hechura que no son estas otras, y más livianas, y en el medio de cada una tienen un apartamiento como cámara en que vi que andaban los principales con sus mujeres. Llamé allí á este lugar Jardines, porque así conforman por el nombre. Procuré mucho de saber dónde cogían aquel oro, y todos me aseñalaban una tierra frontera dedos al Poniente, que era muy alta, mas no lejos; mas todos me decían que no fuese allá porque allí comían los hombres, y entendí entonces que decían que eran hombres caníbales, e que serían como los otros, y después he pensado que podría ser que lo decían porque allí habría animabas. También les pregunté adonde cogían las perlas, y me señalaron también que al Poniente, y al Norte detrás de esta tierra donde estaban. Dejólo de probar por esto de los mantenimientos, y del mal de mis ojos, y por una nao grande que traigo que no es para semejante hecho. 
+
+Y como el tiempo fue breve se pasó todo en preguntas, y se volvieron á los navios, que seria hora de vísperas, como ya dije, y luego levanté las anclas y navegué al Poniente; y asimesmo el día siguiente fasta que me fallé que no había si non tres brazas de fondo, con creencia que todavía ésta sería isla, y que yo podría salir al Norte; y así visto envió una carabela sotil adelante á ver si había salida ó si estaba cerrado, y ansí anduvo mucho camino fasta un golfo muy grande en el cual parecía que había otros cuatro medianos, y del uno salía un río grandísimo(1): fallaron siempre cinco brazas de fondo y el agua muy dulce, en tanta cantidad que yo jamás bebíla pareja della, Fuí yo muy descontento della cuando vi que no podía salir al Norte ni podía andar ya al Austro ni al Poniente porque yo estaba cercado por todas partes de la tierra, y así levanté las anclas, y torné atrás para salir al Norte por la boca que yo arriba dije, y no pude volver por la población adonde yo había estado, por causa de las corrientes que me habían desviado della, y siempre en todo cabo hallaba el agua dulce y clara, y que me llevaba al Oriente muy recio hacia las dos bocas que arriba dije, y entonces conjeturé que los hilos de la corriente, y aquellas lomas que salían y entraban en estas bocas con aquel rugir tan fuerte que era pelea del agua dulce con la salada. La dulce empujaba á la otra porque no entrase, y la salada porque la otra no saliese; y conjeturé que allí donde son estas dos bocas que algún tiempo sería tierra continua á la isla déla Trinidad con la tierra de Gracia, como podrán ver vuestras Altezas por la pintura de lo que con ésta les envio. Salí yo por esta boca del Norte(2) y hallé quel agua dulce siempre vencía, y cuando pasé, que fue con fuerza de viento, estando en una de aquellas lomas, hallé en aquellos hilos de la parte de dentro el agua dulce, y de fuera salada. 
+(1) Debe ser el río de Paria ó el Guarapich: el primero en latitud 10°,25', y longitud 56°,43'; y el segundo en latitud 10",9', y longitud 56°, 29'. Este es el paraje que el Almirante llamó Golfo de las Perlas. —Navarrete. 
+(2) Por Boca Grande el día 13 de Agosto. —Navarrete. 
+
+Cuando yo navegué de España á las Indias falló luego en pasando cien leguas á Poniente de los Azores grandísimo mudamiento en el cielo ó en las estrellas, y en la temperancia del aire, y en las aguas de la mar, y en esto he tenido mucha diligencia en la experiencia. 
+
+Fallo que de Septentrión en Austro, pasando las dichas cien leguas de las dichas islas, que luego en las agujas de marear, que fasta entonces nordesteaban, noruestean una cuarta de viento todo entero, y esto es en allegando allí á aquella línea, como quien traspone una cuesta, y asímesmo fallo la mar toda llena de yerba(1) de una calidad que parece ramitos de pino y muy cargada de fruta como de lantisco(2), y es tan espesa que al primer viaje pensé que era bajo, y que daría en seco con los navios, y hasta llegar con esta raya no se falla un solo ramito: fallo también en llegando allí la mar muy suave y llana, y bien que vente recio nunca se levanta. Asimismo hallo dentro de la dicha raya hacia Poniente la temperancia del cielo muy suave, y no discrepado la cantidad quier sea invierno, quier sea en verano. Cuando allí estoy hallo que la estrella del Norte escribe un círculo el cual tiene en el diámetro cinco grados, y estando las guardas en el brazo derecho entonces está la estrella en el más bajo, y se va alzando fasta que llega al brazo izquierdo, y entonces está cinco grados, y de allí se va abajando fasta llegar á volver otra vez al brazo derecho. 
+(1,A.Robles)Sargassum
+(2)Mastic tree (Pistacia lentiscus)
+
+Yo allegué agora de España á la Isla de la Madera, y de allí á Canaria, y dende á las Islas de Cabo Verde, de adonde cometí el viaje para navegar al Austro fasta debajo la línea equinocial, como ya dije: allegado á estar en derecho con el paralelo que pasa por la Sierra Leoa(1)en Guinea, fallo tan grande ardor, y los rayos del sol tan calientes que pensaba de quemar, y bien que lloviese y el cielo fuese muy turbado siempre yo estaba en esta fatiga, fasta que nuestro Señor proveyó de buen viento y á mí puso en voluntad que yo navegase al Occidente con este esfuerzo, que en llegando á la raya de que yo dije que allí fallaría mudamiento en la temperancia. Después que yo emparejé á estar en derecho de esta raya luego falló la temperancia del cielo muy suave, y cuanto más anclaba adelante más multiplicaba: mas no hallé conforme á esto las estrellas.
+(1,Original)Sierra Leona. 
+
+Fallé allí que en anocheciendo tenía yo la estrella del Norte alta cinco grados, y entonces las guardas estaban encima de la cabeza, y después á la media noche fallaba la estrella alta diez grados, y en amaneciendo que las guardas estaban en los pies quince. 
+
+La suavelidad de la mar fallé conforme, mas no en la yerba: en esto de la estrella del Norte tomé grande admiración, y por esto muchas noches con mucha diligencia tornaba yo á repricar la vista della con el cuadrante, y siempre fallé que caía el plomo y hilo á un punto. 
+
+Por cosa nueva tengo yo esto, y podrá ser que será tenida que en poco espacio haga tanta diferencia el cielo. 
+
+Yo siempre leí que el mundo, tierra o agua era esférico é las autoridades y experiencias que Tolomeo y todos los otros escribieron de este sitio, daban é amostraban para ello así por eclipses de la luna y otras demostraciones que hacen de Oriente fasta Occidente, como de la elevación del polo de Septentrión en Austro. Agora vi tanta disformidad, como ya dije, y por esto me puse á tener esto del mundo, y fallé que no era redondo en la forma que escriben; salvo que os de la forma de una pera que sea toda muy redonda, salvo allí donde tiene el pezón que allí tiene más alto, ó como quien tiene una pelota muy redonda, y en un lugar de11a fuese como una teta de mujer allí puesta, y que esta parte deste pezón sea la más alta é más propinca al cielo, y sea debajo la linea equinocíal, y en esta mar Océana en fin del Oriente: llamo yo fin de Oriente, adonde acaba toda la tierra é islas, é para esto allego todas las razones sobreescriptas de la raya que pasa al Occidente de las Islas de los Azores cien leguas de Septentrión en Austro, que en pasando de allí al Poniente ya van los navios alzándose hacia el cielo suavemente, y entonces se goza de más suave temperancia y se muda el aguja de marear por causa de la suavidad desa cuarta de viento, y cuanto más va adelante é alzándose más noruestea, y esta altura causa el desvariar del círculo que escribe la estrella del Norte con las guardas, y cuanto más pasare junto con la línea equinocial, más se subirán en alto, y más diferencia habrá en las dichas estrellas, y en los círculos dellas. Y Tolomeo y los otros sabios que escribieron de este mundo, creyeron que era esférico, creyendo queste hemisferio que fuese redondo como aquel de allá donde ellos estaban, el cual tiene el centro en la Isla de Arín, qués debajo la linea equinocial entre el sino Arábico y aquel de Persia, y el círculo pasa sobre el Cabo de San Vicente en Portugal por el Poniente, y pasa en Oriente por Cangara y por las Seras, en el cual hemisferio no hago yo que hay ninguna dificultad, salvo que sea esférico redondo como ellos dicen: mas este otro digo que es como sería la mitad de la pera bien redonda, la cual toviose el pezón alto como yo dije, ó como una teta de mujer en una pelota redonda, así que desta media parte non hobo noticia Tolomeo ni los otros que escribieron del mundo, por ser muy ignoto; solamente lucieron raíz sobre el hemisferio adonde ellos estaban, qués redondo esférico, como arriba dije. Y agora que vuestras Altezas lo han mandado navegar y buscar y descobrir, se amuestra evidentísimo, porque estando yo en este viaje al Septentrión veinte grados de la línea equinocial, allí era en derecho de Harguín(1), é de aquellas tierras: é allí es la gente negra 
+é la tierra muy quemada, y después que fui á las islas de Cabo Verde, allí en aquellas tierras es la gente mucho más negra, cuanto más bajo se van al Austro tanto más llegan al extremo, en manera que allí en derecho donde yo estaba, qués la Sierra Leoa(2), adonde se me alzaba la estrella del Norte en anocheciendo cinco grados, allí es la gente negra en extrema cantidad, y después que de allí navegué al Occidente tan extremos calores; y pasada la raya de que yo dije, fallé multiplicar la temperancia, andando en tanta cantidad, que cuando yo llegué á la isla de la Trinidad , adonde la estrella del Norte en anocheciendo también se me alzaba cinco grados, allí y en la tierra de Gracia hallé temperancia suavísima, y las tierras y árboles muy verdes, y tan 
+hermosos como en Abril en las huertas de Valencia; y la gente de allí de muy linda estatura, y blancos más que otros que haya visto en las Indias, é los cabellos muy largos é llanos, é gente más astuta é de mayor ingenio, é no cobardes. 
+(1,A.Robles)(Argín)[https://es.wikipedia.org/wiki/Arguin]
 
 Entonces era el sol en Virgen encima de nuestras ca- 
 bezas é suyas, ansí que todo esto procede por la suaví- 
