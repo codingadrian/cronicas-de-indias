@@ -17,7 +17,7 @@ alguien sin experiencia de programación pueda proponer correcciones vía
 Pull Request. Idioma: español neutro latinoamericano en todo el contenido
 dirigido al usuario (sitio, READMEs, METADATA).
 
-## Estado actual (snapshot, actualizado 2026-08-29)
+## Estado actual (snapshot, actualizado 2026-08-31)
 
 - **Fase 1 (texto limpio y dividido en capítulos) completa para 16 de
   las 17 obras del catálogo** (`sources/CATALOGO.md`), hecha en una
@@ -59,8 +59,10 @@ dirigido al usuario (sitio, READMEs, METADATA).
 - **Fase 2 (entidades y relaciones) completa para 15 obras** (las 5
   originales + Xerez, Cabeza de Vaca, Muñoz Camargo, Pedro Pizarro,
   Ixtlilxóchitl, Cieza de León, Tezozómoc, Motolinía, Pedro Mártir,
-  Acosta) — total combinado: **566 personas, 406 lugares, 260 eventos,
-  1246 relaciones**. La cobertura por obra varía y está documentada
+  Acosta) — total combinado: **566 personas, 408 lugares, 260 eventos,
+  1254 relaciones** (Colón — Cartas subió de 65 a 73 relaciones y sumó
+  2 lugares el 2026-08-31, ver más abajo). La cobertura por obra varía
+  y está documentada
   honestamente en la `nota` de cada `relaciones-muestra.json`: algunas
   son de libro completo (Motolinía, Xerez, Cabeza de Vaca, Acosta), la
   mayoría cubre en profundidad los capítulos históricamente centrales y
@@ -73,13 +75,11 @@ dirigido al usuario (sitio, READMEs, METADATA).
   Quedan 4 obras del catálogo sin Fase 2 (López de Gómara, Sahagún,
   Inca Garcilaso, Durán), más Zárate y Guamán Poma (bloqueadas por
   fidelidad OCR) y Oviedo (bloqueada por Fase 1).
-- **Sitio activo: 13 obras** (las 5 originales + los 8 primeros de la
-  tanda de Fase 2 de arriba) — Pedro Mártir y Acosta ya tienen Fase 2
-  completa pero **todavía no están sumadas a `OBRAS` en
-  `scripts/generar_sitio.py`**, quedaron pendientes de integrar. KPIs
-  reales del sitio activo (`_data/stats.yml`, mostrados en la barra de
-  navegación): **13 obras, 479 personas, 352 lugares, 210 eventos, 1045
-  relaciones**.
+- **Sitio activo: 15 obras** (las 5 originales + los 8 sumados el
+  2026-08-29 + Pedro Mártir y Acosta, sumados el 2026-08-31 — ver más
+  abajo). KPIs reales del sitio activo (`_data/stats.yml`, mostrados en
+  la barra de navegación): **15 obras, 566 personas, 408 lugares, 260
+  eventos, 1254 relaciones**.
   **Bugs de integridad encontrados y corregidos en este trabajo** (vale
   la pena recordarlos si se retoma manualmente): (1) las entidades
   nuevas del Capítulo 1 de Bernal Díaz y de Las Casas se habían quedado
@@ -175,6 +175,61 @@ dirigido al usuario (sitio, READMEs, METADATA).
   **La causa raíz era editar el archivo generado en vez del de origen —
   ahora hay una regla explícita contra esto, ver "Convenciones a
   mantener".**
+- **Colón — Cartas: segunda tanda de limpieza de OCR (2026-08-31,
+  líneas 1-681 de `sources/colon-cartas/texto-limpio/
+  relaciones-cartas-colon.md`) y remapeo completo de Fase 2.** El
+  usuario limpió a mano varios títulos de sub-documento que en el OCR
+  quedaban repartidos en líneas verticales sueltas (ej. "CARTA / DE /
+  D. CRISTÓBAL COLON / A LOS REYES..."), lo que reveló que estaban
+  fusionados con el cuerpo del capítulo anterior en vez de ser su
+  propio encabezado — esto subió el conteo real de capítulos de 12 a
+  **16** (`_documentos/colon-cartas/000.md`-`015.md`). Se regeneró
+  acotado a esta obra (mismo patrón que el bug anterior) y se reescribió
+  `entidades/colon-cartas/relaciones-muestra.json` entero: las 65
+  relaciones viejas citaban `cap-0` a `cap-9` bajo la numeración de 10
+  documentos que ya no existía (bug de arrastre desde la restructuración
+  a 12 capítulos del 2026-08-29, nunca corregido — ver el commit
+  `70dcdc4`, que ya dejó anotado este pendiente). Se remapearon a la
+  numeración de 16 y se **re-verificaron contra el texto real** los
+  capítulos 0-13 y el tramo ya limpio de cap-14 (hasta la línea 681):
+  esto recuperó hechos que estaban escondidos en comentarios al margen
+  (nota vieja de Navarrete/Las Casas) y no en el cuerpo visible, como
+  que Roldán cercaba al Adelantado en la fortaleza de la Concepción
+  (cap-7) o que los Reyes mandaron a Bobadilla por las quejas contra
+  Colón (cap-6) — ninguno de los dos hechos estaba en las relaciones
+  viejas. Se sumaron 2 lugares nuevos (`place:isla-de-la-madera`,
+  `place:islas-de-cabo-verde`, escalas del tercer viaje). El tramo de
+  cap-14 posterior a la línea 681 (prisión por Bobadilla, naufragio en
+  Jamaica) y todo cap-15 (Testamento) se remapearon de número pero
+  **no se re-verificaron contra texto** porque esa parte de la fuente
+  todavía no se limpió a mano — queda marcado explícitamente en la
+  `nota` del archivo y en cada relación afectada (`notas: "sin
+  re-verificar..."`), pendiente para cuando se limpie el resto (ver
+  "Pendientes"). Total de la obra: 65 → 73 relaciones.
+- **Pedro Mártir y Acosta sumados al sitio (2026-08-31)** — resolvía el
+  punto 1 de "Pendientes": se agregaron a `OBRAS` en
+  `scripts/generar_sitio.py` y se corrió el generador completo. Al
+  correrlo sobre las 15 obras (no solo las 2 nuevas) salieron dos
+  efectos secundarios, ambos ya resueltos: (1) las 12 obras activas
+  anteriores a la feature de comentarios al margen (commit `70dcdc4`)
+  nunca se habían regenerado con ella, así que les faltaban los campos
+  `chapter_index_padded`/`tiene_comentarios` en el front matter —
+  el generador los agregó (cambio puramente aditivo, sin tocar el
+  cuerpo de ningún capítulo, verificado línea por línea antes de
+  commitear). (2) **`_documentos/cortes/*.md` volvió a caer en la
+  misma trampa que Colón — Cartas** (ver el bug de más arriba): tiene
+  limpieza de OCR aplicada directamente en los archivos generados que
+  nunca se trasladó a `sources/cortes/texto-limpio/cartas-de-relacion.md`
+  — correr el generador completo lo revirtió a la versión sucia sin
+  querer. Se restauró con `git checkout -- _documentos/cortes` y se
+  reconstruyeron a mano las 5 entradas de Cortés en
+  `assets/data/search-index.json` a partir de la versión previa del
+  archivo (`git show HEAD:...`), en vez de dejar que el generador las
+  pisara. **Sigue pendiente pasar esa limpieza de `_documentos/cortes/`
+  al `texto-limpio/` de origen** — hasta que no se haga, cualquier
+  regeneración completa del sitio va a tener que repetir este mismo
+  restore. `_data/stats.yml` y `README.md` actualizados a los totales
+  nuevos (15 obras, 566/408/260/1254).
 
 ## Estructura de carpetas
 
@@ -198,14 +253,17 @@ dirigido al usuario (sitio, READMEs, METADATA).
 │   ├── las-casas/       activa  — texto-limpio/historia-de-las-indias-tomo2.md (97 cap., ~178k palabras);
 │   │                    también tiene la Brevísima relación por procesar (raw/ nada más)
 │   ├── cristobal-colon/ activa  — texto-limpio/diario-primer-viaje-colon.md (191 entradas + proemio, ~54k palabras)
-│   ├── colon-cartas/    activa  — texto-limpio/relaciones-cartas-colon.md (10 documentos, ~74k palabras, OCR sin corregir)
-│   ├── cortes/          activa  — texto-limpio/cartas-de-relacion.md (5 cartas, ~172k palabras) — recién salió de pausa
+│   ├── colon-cartas/    activa  — texto-limpio/relaciones-cartas-colon.md (16 documentos, ~74k
+│   │                    palabras, OCR limpiado a mano hasta la línea 681 el 2026-08-31; el resto
+│   │                    sigue sin corregir palabra por palabra — ver "Estado actual")
+│   ├── cortes/          activa  — texto-limpio/cartas-de-relacion.md (5 cartas, ~172k palabras) —
+│   │                    OJO: `_documentos/cortes/` tiene limpieza de OCR que nunca se trasladó
+│   │                    acá (ver "Estado actual", 2026-08-31)
 │   ├── xerez/, cabeza-de-vaca/, munoz-camargo/, pedro-pizarro/,
-│   │   ixtlilxochitl/, cieza-de-leon/, tezozomoc/, motolinia/
-│   │                    activas — Fase 1+2 completas y sumadas al sitio (2026-08-29)
-│   ├── pedro-martir/, acosta/
-│   │                    Fase 1+2 completas (2026-08-29), **pendientes de sumarse al
-│   │                    sitio** (faltan en `OBRAS` de scripts/generar_sitio.py)
+│   │   ixtlilxochitl/, cieza-de-leon/, tezozomoc/, motolinia/,
+│   │   pedro-martir/, acosta/
+│   │                    activas — Fase 1+2 completas y sumadas al sitio (los 8 primeros el
+│   │                    2026-08-29, pedro-martir y acosta el 2026-08-31)
 │   ├── lopez-de-gomara/, sahagun/, inca-garcilaso/, duran/
 │   │                    Fase 1 completa, Fase 2 pendiente — sahagun e inca-garcilaso
 │   │                    quedaron parciales por huecos de fuente (ver "Estado actual")
@@ -286,10 +344,13 @@ documentado.
   Relación del primer viaje (el mismo Diario)** — se excluyó esa parte de
   `texto-limpio/` para no duplicar contenido ya cubierto por
   `cristobal-colon/`. Texto con ruido de OCR sin corregir palabra por
-  palabra (a diferencia de las otras cuatro obras) y dividido más grueso
-  que el índice original del libro (10 bloques en vez de ~30 cartas/
-  fragmentos) — ver `sources/colon-cartas/METADATA.md` para el detalle y
-  qué falta si se quiere más granularidad.
+  palabra en su mayor parte (a diferencia de las otras cuatro obras),
+  salvo las líneas 1-681 ya limpiadas a mano el 2026-08-31 — ver
+  "Estado actual". Dividido más grueso que el índice original del libro
+  (16 bloques, tras dos rondas de restructuración el 2026-08-29 y
+  2026-08-31, en vez de ~30 cartas/fragmentos) — ver
+  `sources/colon-cartas/METADATA.md` para el detalle y qué falta si se
+  quiere más granularidad.
 - **Durán — Apéndice: se mantuvo aunque no es de Durán.** El
   `texto-limpio/` incluye un apéndice de 9 capítulos que el propio texto
   dice que iba a escribir el editor Ramírez pero terminó encargándole a
@@ -606,22 +667,31 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
 
 ## Pendientes (en orden sugerido)
 
-1. **Sumar Pedro Mártir y Acosta al sitio** — ya tienen Fase 1+2
-   completas (ver "Estado actual") pero les falta el último paso:
-   agregar sus entradas a `OBRAS` en `scripts/generar_sitio.py` y correr
-   el script. **Ojo al correrlo**: regenera `_documentos/`/`_personas/`/
-   `_lugares/`/`assets/data/*` para TODAS las obras de `OBRAS`, no solo
-   las nuevas — si alguna obra ya activa tiene páginas de `_documentos/`
-   editadas a mano por fuera de su `sources/.../texto-limpio/` (pasó con
-   `_documentos/cortes/` y `_documentos/colon-cartas/000.md` el
-   2026-08-29: se les habían limpiado erratas de OCR directamente en
-   `_documentos/` sin actualizar el `texto-limpio/` de origen), correr
-   el script las revierte a la versión vieja sin querer. Antes de correr:
-   `git status` para ver si hay ediciones manuales en `_documentos/` de
-   alguna obra activa; si las hay y no coinciden con su `texto-limpio/`,
-   restaurarlas después con `git checkout -- <archivos>` (ya se hizo así
-   una vez, ver historial de commits del 2026-08-29).
-2. **Fase 2 de las 4 obras que ya tienen Fase 1 limpia y sin reservas**:
+1. **Trasladar a `sources/cortes/texto-limpio/cartas-de-relacion.md` la
+   limpieza de OCR que hoy solo vive en `_documentos/cortes/*.md`** —
+   ver "Estado actual" (2026-08-31). Mientras no se haga, cualquier
+   regeneración completa del sitio (`python3 scripts/generar_sitio.py`
+   sin acotar a una obra) va a revertir esas páginas a la versión sucia
+   y hay que acordarse de restaurarlas con `git checkout --
+   _documentos/cortes` y reconstruir a mano sus 5 entradas en
+   `assets/data/search-index.json` después de correrlo. **Antes de
+   correr el generador completo en general**: `git status` para ver si
+   alguna obra activa tiene `_documentos/` editado a mano por fuera de
+   su `texto-limpio/` (mismo patrón que ya pasó con Colón — Cartas el
+   2026-08-29, y con Cortés dos veces — el 2026-08-29 y de nuevo el
+   2026-08-31, porque la primera vez nunca se trasladó la limpieza al
+   `texto-limpio/`); si las hay y no coinciden, restaurarlas después con
+   `git checkout -- <archivos>`.
+2. **Re-verificar el resto de Colón — Cartas contra texto limpio**:
+   el tramo de cap-14 posterior a la línea 681 (prisión de Colón por
+   Bobadilla, naufragio en Jamaica) y todo cap-15 (Testamento) todavía
+   citan hechos extraídos antes de esta última limpieza, sin
+   confirmarlos contra el texto ya corregido — están marcados
+   explícitamente en `entidades/colon-cartas/relaciones-muestra.json`
+   (campo `notas: "sin re-verificar..."` en cada relación afectada, y
+   en la `nota` general del archivo). Hacerlo en cuanto se limpie más
+   OCR de esa obra (ver punto 8 de abajo).
+3. **Fase 2 de las 4 obras que ya tienen Fase 1 limpia y sin reservas**:
    López de Gómara, Sahagún (parcial, Tomo B), Inca Garcilaso (parcial,
    Primera Parte), Durán. Mismo patrón que las 10 obras ya hechas: crear
    `entidades/<obra>/personas.json`+`lugares.json`+
@@ -637,14 +707,14 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    que la cobertura puede quedar muy desigual en obras enormes, conviene
    pedir explícitamente cobertura completa si importa, o aceptar de
    entrada que quedará parcial y documentarlo bien en la `nota`.
-3. **Revisión manual de Zárate y Guamán Poma antes de su Fase 2** — ambas
+4. **Revisión manual de Zárate y Guamán Poma antes de su Fase 2** — ambas
    tienen reservas serias de fidelidad OCR (ver "Decisiones de alcance"
    y "Estado actual"). Arrancar Fase 2 sobre texto con tanto ruido
    produciría entidades erróneas o duplicadas por nombres propios mal
    reconstruidos. Guamán Poma además tiene un hueco de fuente que
    conviene resolver antes (falta la primera mitad de la obra — ver
    `sources/guaman-poma/METADATA.md` para dónde buscarla).
-4. **Fase 1 de Oviedo** (4 tomos, ~1.77M de palabras) — la obra más
+5. **Fase 1 de Oviedo** (4 tomos, ~1.77M de palabras) — la obra más
    difícil del catálogo: el peor OCR encontrado (peor que Guamán Poma),
    y el volumen es mayor que todo lo demás procesado junto. Encarar un
    fork por tomo en paralelo, no de a uno (dos intentos anteriores se
@@ -652,7 +722,7 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    explícitas de no inventar texto donde el OCR sea irreconstruible
    (documentar como incierto en vez de adivinar, mismo criterio que se
    usó en Zárate).
-5. Segunda revisión de las entradas marcadas `"status": "candidata"` en
+6. Segunda revisión de las entradas marcadas `"status": "candidata"` en
    los registros de personas/lugares — ahora son prácticamente todas, en
    las 15 obras con Fase 2. Casos de ambigüedad de nombre ya detectados
    y con `notas` cruzadas a resolver: "Diego Colón" en Las Casas
@@ -666,19 +736,23 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    historia-hispanica.rah.es o Wikipedia (ver "Fuentes de referencia
    para comparar/inspirar biografías y lugares" en "El sitio Jekyll")
    cuando haga falta resolver una ambigüedad de fechas o identidad.
-6. **Diario de Colón, Bernal Díaz, y Las Casas siguen con Fase 2
+7. **Diario de Colón, Bernal Díaz, y Las Casas siguen con Fase 2
    incompleta** desde antes de esta tanda — quedan 76 capítulos de
    Bernal Díaz (de 111), 69 de Las Casas (de 97), y 151 días del Diario
    de Colón (de 191) sin procesar. Mismo patrón de siempre para sumar
-   una tanda (ver el punto 2 de arriba).
-7. **Colón — Relaciones y cartas: dividido más grueso que el índice
-   original** (10 bloques en vez de ~30 cartas/fragmentos), con ruido de
-   OCR sin corregir del todo — ver `sources/colon-cartas/METADATA.md`.
-   Si hace falta más granularidad o texto más limpio, es trabajo
-   pendiente.
-8. Retomar Hernando Colón (limpieza manual o edición alternativa) cuando
+   una tanda (ver el punto 3 de arriba).
+8. **Colón — Relaciones y cartas: seguir limpiando el OCR más allá de la
+   línea 681** de `sources/colon-cartas/texto-limpio/
+   relaciones-cartas-colon.md` (el resto de cap-14 — prisión por
+   Bobadilla, naufragio en Jamaica — y todo cap-15, Testamento) y, una
+   vez limpio, re-verificar sus relaciones (ver el punto 2 de arriba).
+   También dividido más grueso que el índice original del libro (16
+   bloques en vez de ~30 cartas/fragmentos) — ver
+   `sources/colon-cartas/METADATA.md`. Si hace falta más granularidad,
+   es trabajo pendiente aparte.
+9. Retomar Hernando Colón (limpieza manual o edición alternativa) cuando
    haya tiempo — no es bloqueante para lo demás.
-9. Cerrar los huecos de fuente que quedaron documentados en el catálogo:
+10. Cerrar los huecos de fuente que quedaron documentados en el catálogo:
    Tomo A de Sahagún, primera mitad de Guamán Poma, la segunda parte de
    los Comentarios reales de Inca Garcilaso (*Historia general del
    Perú*), y la *Crónica mexicáyotl* de Tezozómoc (distinta de la
