@@ -21,6 +21,13 @@ ortografía del siglo XVI (governador, yva, quantos, etc.) sin modernizar.
 
 ## Pendiente
 
+- **Marcado el 2026-09-05: este documento requiere edición manual de
+  revisión de texto** — pendiente identificar y corregir los pasajes
+  puntuales antes de tratarse como citation-exact. Nota: a diferencia de
+  las otras tres obras marcadas el mismo día, esta fuente es una
+  transcripción de Wikisource, no un escaneo con OCR (ver arriba) — la
+  marca se deja como revisión general de texto, no específicamente de
+  OCR.
 - Fase 2: no empezó (entidades y relaciones).
 - No se sumó todavía a `scripts/generar_sitio.py` ni al sitio publicado
   — eso es un paso aparte, pendiente.

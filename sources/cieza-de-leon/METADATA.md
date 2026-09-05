@@ -42,6 +42,10 @@ del texto.
 
 ## Pendiente
 
+- **Marcado el 2026-09-05: este documento requiere edición manual para
+  corregir ruido de OCR** — pendiente identificar y corregir los pasajes
+  puntuales antes de tratarse como citation-exact (más allá de los
+  artefactos ya corregidos en la limpieza inicial, ver arriba).
 - Esta edición solo cubre la **Primera Parte** de la obra de Cieza (las
   partes segunda, tercera y cuarta, mencionadas por el propio autor en
   su proemio, no están en esta fuente — quedarían como una adquisición

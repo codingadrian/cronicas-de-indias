@@ -17,7 +17,7 @@ alguien sin experiencia de programación pueda proponer correcciones vía
 Pull Request. Idioma: español neutro latinoamericano en todo el contenido
 dirigido al usuario (sitio, READMEs, METADATA).
 
-## Estado actual (snapshot, actualizado 2026-08-31)
+## Estado actual (snapshot, actualizado 2026-09-05)
 
 - **Fase 1 (texto limpio y dividido en capítulos) completa para 16 de
   las 17 obras del catálogo** (`sources/CATALOGO.md`), hecha en una
@@ -105,9 +105,77 @@ dirigido al usuario (sitio, READMEs, METADATA).
   está wireada al sitio** (no se tocó `scripts/generar_sitio.py` ni se
   corrió el generador) — sigue pendiente como paso aparte, mismo patrón
   que se usó con Pedro Mártir/Acosta.
-  Quedan 3 obras del catálogo sin Fase 2 (Sahagún, Inca Garcilaso,
-  Durán), más Zárate y Guamán Poma (bloqueadas por fidelidad OCR) y
-  Oviedo (bloqueada por Fase 1).
+  **Sahagún reclasificada como bloqueada para Fase 2 (2026-09-05),
+  no solo "pendiente"**: al ir a empezarla se releyó
+  `sources/sahagun/METADATA.md`, que ya traía una advertencia explícita
+  ignorada en el resumen de más arriba — "el peor caso de OCR de todo
+  el proyecto, peor incluso que Zárate" (sustitución sistemática de
+  dígito por letra, ~900 ideogramas CJK sueltos residuales, concentrado
+  en vocabulario y nombres propios náhuatl) y una instrucción directa
+  de "no usar para Fase 2 sin" una relectura manual completa contra el
+  escaneo original. Se decidió con el usuario no arrancar Fase 2 hasta
+  que se haga esa relectura — mismo criterio que ya se aplicaba a
+  Zárate/Guamán Poma, solo que no estaba reflejado en este resumen.
+  Quedan 2 obras del catálogo sin Fase 2 y sin reservas (Inca
+  Garcilaso, Durán), más Zárate, Guamán Poma y ahora Sahagún
+  (bloqueadas por fidelidad OCR, pendiente relectura manual) y Oviedo
+  (bloqueada por Fase 1).
+- **Cuatro documentos marcados el 2026-09-05 como pendientes de edición
+  manual de texto, a pedido del usuario** (no se tocó el cuerpo del
+  texto en sí, solo se dejó constancia en cada `METADATA.md`): la
+  sección "Real cédula, aprobación y tasa (1589-1590)" (Capítulo 1) de
+  **Acosta** específicamente — no la obra entera, que ya tiene Fase 2
+  completa —, con ejemplos concretos de OCR ya encontrados ahí mismo
+  ("Gonzano Davia" por "Gonzalo Dávila", "15809" por 1589, "bizo" por
+  "hizo", mayúsculas/minúsculas mezcladas); **Cieza de León** (*La
+  crónica del Perú*, Primera Parte) completa; **Colón — Cartas**
+  completa (refuerza lo ya sabido, ver más arriba); y **Cabeza de
+  Vaca** (*Naufragios*), marcada como revisión general de texto y no
+  específicamente de OCR, porque su `METADATA.md` documenta que la
+  fuente es una transcripción de Wikisource, no un escaneo — no hay
+  OCR de por medio en sentido estricto (se verificó esto con el
+  usuario antes de escribir la nota). Ninguna de las cuatro perdió su
+  clasificación de obra "activa"/Fase 2 completa por esto — es una
+  marca puntual para una revisión futura, no una reclasificación como
+  la de Sahagún de arriba.
+- **Dos comentarios al margen nuevos en el Diario de Colón
+  (2026-09-05)**, firmados "A.Robles" (mismo mecanismo de comentarios
+  ya documentado más abajo, sección "El sitio Jekyll"): en el Proemio,
+  sobre "Gran Can" (origen túrquico-mongol del título y su asociación
+  europea con la dinastía Yuan de China vía Kublai Kan); y en la
+  entrada de "Viernes, 3 de agosto", sobre "Canarias" (contexto del
+  archipiélago, con referencia cruzada a la página de Gran Canaria del
+  propio sitio). Contenido tomado de es.wikipedia.org/wiki/Gran_Kan y
+  es.wikipedia.org/wiki/Canarias, verificado corriendo
+  `procesar_comentarios()` a mano contra el texto editado antes de
+  darlo por bueno (parseo limpio: ancla, autor y color correctos).
+- **5 fuentes candidatas nuevas registradas, sin decidir (2026-09-05)**:
+  el usuario pidió guardar 5 enlaces de la biblioteca digital de la
+  Fundación Enrique Bolaños (Nicaragua) — ver
+  `sources/CATALOGO.md`, sección "Fuentes candidatas registradas, sin
+  decidir", para el detalle y los enlaces completos. Sin evaluar
+  contenido, OCR ni licencia todavía. Al menos 3 de las 5 podrían ser
+  recortes de la propia obra de Oviedo enfocados en
+  Nicaragua/Centroamérica — de confirmarse y si tienen mejor fidelidad
+  de OCR que la fuente actual, podrían ayudar a destrabar `oviedo/`
+  (ver más abajo) al menos parcialmente.
+- **PDF nuevo encontrado en `sources/` (2026-09-05), sin decidir qué
+  hacer con él**: el usuario agregó
+  `sources/COLÓN-Hernando-Historia-del-Almirante.pdf` (sin trackear en
+  git, suelto en la raíz de `sources/`, no dentro de una carpeta de
+  obra) — es *Historia del Almirante* de Hernando Colón, la obra que
+  está **en pausa** (ver "Decisiones de alcance" más abajo). El PDF es
+  nativo de Word (no un escaneo, sin ruido de OCR), 224 páginas, con
+  el índice completo de los 108 capítulos y el mismo texto de
+  introducción que ya trae el `.txt` de Arranz existente en
+  `sources/hernando-colon/raw/` — pero al revisar el cuerpo del
+  Capítulo I al II no se ve el problema de notas editoriales
+  intercaladas que causó la pausa original. Podría ser la "edición
+  distinta" que el propio `METADATA.md` de esa obra sugería buscar
+  para retomarla, pero **no se movió el archivo ni se tocó la pausa**
+  — la decisión de evaluarlo o de sacar la obra de pausa queda para el
+  usuario (ver "Convenciones a mantener": no reabrir esa pausa sin que
+  el usuario lo pida explícitamente).
 - **Sitio activo: 15 obras** (las 5 originales + los 8 sumados el
   2026-08-29 + Pedro Mártir y Acosta, sumados el 2026-08-31 — ver más
   abajo). KPIs reales del sitio activo (`_data/stats.yml`, mostrados en
@@ -297,12 +365,14 @@ dirigido al usuario (sitio, READMEs, METADATA).
 │   │   pedro-martir/, acosta/
 │   │                    activas — Fase 1+2 completas y sumadas al sitio (los 8 primeros el
 │   │                    2026-08-29, pedro-martir y acosta el 2026-08-31)
-│   ├── lopez-de-gomara/, sahagun/, inca-garcilaso/, duran/
-│   │                    Fase 1 completa, Fase 2 pendiente — sahagun e inca-garcilaso
-│   │                    quedaron parciales por huecos de fuente (ver "Estado actual")
-│   ├── zarate/, guaman-poma/
+│   ├── lopez-de-gomara/  activa — Fase 1+2 completas (2026-09-05), sin wirear al sitio
+│   ├── inca-garcilaso/, duran/
+│   │                    Fase 1 completa, Fase 2 pendiente — inca-garcilaso
+│   │                    quedó parcial por huecos de fuente (ver "Estado actual")
+│   ├── zarate/, guaman-poma/, sahagun/
 │   │                    Fase 1 hecha pero con reservas serias de fidelidad OCR —
-│   │                    no arrancar Fase 2 sin una revisión manual previa
+│   │                    no arrancar Fase 2 sin una revisión manual previa (sahagun
+│   │                    reclasificada acá el 2026-09-05, ver "Estado actual")
 │   ├── oviedo/          Fase 1 sin empezar — el peor OCR del catálogo, 4 tomos
 │   ├── hernando-colon/  en pausa — solo raw/, sin texto-limpio/
 │   └── (ver CATALOGO.md para el detalle original de cada una, con su
@@ -402,9 +472,15 @@ documentado.
   Simancas. Sin resolver — importa para cómo se atribuyan las entidades
   de esa sección en Fase 2.
 - **Sahagún: solo Tomo B (Libros VII-XII de 12), Fase 1 hecha con el peor
-  nivel de corrupción de OCR del proyecto hasta antes de Oviedo/Zárate**
-  (sustitución aleatoria de caracteres CJK por letras latinas). Falta
-  conseguir el Tomo A para tener la obra completa — ver
+  nivel de corrupción de OCR de todo el proyecto — peor incluso que
+  Zárate según su propio METADATA.md** (sustitución sistemática de
+  dígito por letra, ~900 ideogramas CJK sueltos residuales,
+  concentrado en vocabulario y nombres propios náhuatl). **NO
+  recomendada para Fase 2 sin revisión manual previa** (reclasificada
+  el 2026-09-05, ver "Estado actual" — antes de esto no estaba
+  agrupada con Zárate/Guamán Poma en el resumen, aunque su propio
+  METADATA.md ya traía la misma advertencia). Falta además conseguir
+  el Tomo A para tener la obra completa — ver
   `sources/sahagun/METADATA.md`.
 - **Inca Garcilaso: solo la Primera Parte de los *Comentarios Reales*
   (9 libros, 246 capítulos), Fase 1 completa.** Falta la *Historia
@@ -724,10 +800,10 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    (campo `notas: "sin re-verificar..."` en cada relación afectada, y
    en la `nota` general del archivo). Hacerlo en cuanto se limpie más
    OCR de esa obra (ver punto 8 de abajo).
-3. **Fase 2 de las 3 obras que ya tienen Fase 1 limpia y sin reservas**
+3. **Fase 2 de las 2 obras que ya tienen Fase 1 limpia y sin reservas**
    (López de Gómara ya se hizo el 2026-09-05, ver "Estado actual"):
-   Sahagún (parcial, Tomo B), Inca Garcilaso (parcial,
-   Primera Parte), Durán. Mismo patrón que las 11 obras ya hechas: crear
+   Inca Garcilaso (parcial, Primera Parte), Durán. Mismo patrón que las
+   11 obras ya hechas: crear
    `entidades/<obra>/personas.json`+`lugares.json`+
    `relaciones-muestra.json` siguiendo el esquema, citando
    `source:<obra>:<lo que corresponda>` (capítulo, o década/libro, o
@@ -741,13 +817,17 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    que la cobertura puede quedar muy desigual en obras enormes, conviene
    pedir explícitamente cobertura completa si importa, o aceptar de
    entrada que quedará parcial y documentarlo bien en la `nota`.
-4. **Revisión manual de Zárate y Guamán Poma antes de su Fase 2** — ambas
-   tienen reservas serias de fidelidad OCR (ver "Decisiones de alcance"
-   y "Estado actual"). Arrancar Fase 2 sobre texto con tanto ruido
-   produciría entidades erróneas o duplicadas por nombres propios mal
-   reconstruidos. Guamán Poma además tiene un hueco de fuente que
-   conviene resolver antes (falta la primera mitad de la obra — ver
-   `sources/guaman-poma/METADATA.md` para dónde buscarla).
+4. **Revisión manual de Zárate, Guamán Poma y Sahagún antes de su Fase 2**
+   — las tres tienen reservas serias de fidelidad OCR (ver "Decisiones
+   de alcance" y "Estado actual"; Sahagún se sumó a este grupo el
+   2026-09-05, al descartarse explícitamente arrancar su Fase 2 por la
+   advertencia de su propio METADATA.md). Arrancar Fase 2 sobre texto
+   con tanto ruido produciría entidades erróneas o duplicadas por
+   nombres propios mal reconstruidos — en Sahagún, sobre todo
+   vocabulario y nombres propios náhuatl. Guamán Poma además tiene un
+   hueco de fuente que conviene resolver antes (falta la primera mitad
+   de la obra — ver `sources/guaman-poma/METADATA.md` para dónde
+   buscarla).
 5. **Fase 1 de Oviedo** (4 tomos, ~1.77M de palabras) — la obra más
    difícil del catálogo: el peor OCR encontrado (peor que Guamán Poma),
    y el volumen es mayor que todo lo demás procesado junto. Encarar un
@@ -785,12 +865,30 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    `sources/colon-cartas/METADATA.md`. Si hace falta más granularidad,
    es trabajo pendiente aparte.
 9. Retomar Hernando Colón (limpieza manual o edición alternativa) cuando
-   haya tiempo — no es bloqueante para lo demás.
+   haya tiempo — no es bloqueante para lo demás. **Actualizado
+   2026-09-05**: hay un candidato concreto sin evaluar del todo,
+   `sources/COLÓN-Hernando-Historia-del-Almirante.pdf` (ver "Estado
+   actual") — falta decidir si se usa, y si es así, moverlo a
+   `sources/hernando-colon/raw/` y confirmar que de verdad resuelve el
+   problema de notas editoriales intercaladas que causó la pausa antes
+   de sacar la obra de pausa.
 10. Cerrar los huecos de fuente que quedaron documentados en el catálogo:
    Tomo A de Sahagún, primera mitad de Guamán Poma, la segunda parte de
    los Comentarios reales de Inca Garcilaso (*Historia general del
    Perú*), y la *Crónica mexicáyotl* de Tezozómoc (distinta de la
    *Crónica mexicana* ya conseguida).
+11. **Revisión manual de texto pendiente en 4 documentos, marcados el
+    2026-09-05** (ver "Estado actual" para el detalle completo): la
+    sección "Real cédula, aprobación y tasa" de Acosta, Cieza de León
+    completa, Colón — Cartas completa, y Naufragios de Cabeza de Vaca
+    (esta última como revisión general de texto, no de OCR — es una
+    transcripción, no un escaneo).
+12. **Evaluar las 5 fuentes candidatas de la Fundación Enrique Bolaños**
+    registradas el 2026-09-05 en `sources/CATALOGO.md` — decidir si se
+    incorporan al catálogo y, si al menos alguna resulta ser un recorte
+    de Oviedo sobre Nicaragua/Centroamérica con mejor OCR que la fuente
+    actual, si sirve para destrabar parcialmente el punto 5 de arriba
+    (Fase 1 de Oviedo).
 
 ## Convenciones a mantener
 

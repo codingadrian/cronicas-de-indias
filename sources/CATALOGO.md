@@ -119,3 +119,40 @@ Ver CLAUDE.md, sección "Pendientes", para el orden sugerido actual
 (Fase 2 de las 4 obras que ya tienen Fase 1 limpia, revisión manual de
 Zárate/Guamán Poma antes de su Fase 2, Fase 1 de Oviedo, y cierre de los
 huecos de fuente de arriba).
+
+## Fuentes candidatas registradas, sin decidir (2026-09-05)
+
+El usuario pidió guardar estos 5 enlaces de la biblioteca digital de la
+Fundación Enrique Bolaños (Nicaragua) para decidir más adelante si se
+incorporan al catálogo. Todavía **no se evaluó su contenido, fidelidad
+de OCR, ni licencia** — quedan solo registrados como pista.
+
+- Jorge Eduardo Arellano, *Nicaragua en los cronistas de Indias, Siglo
+  XVI* —
+  https://www.enriquebolanos.org/libro/Nicaragua-en-los-cronistas-de-Indias-Siglo-XVI.-Jorge-Eduardo-Arellano.
+- Gonzalo Fernández de Oviedo y Valdés, *Nicaragua y los cronistas de
+  Indias: Oviedo* —
+  https://www.enriquebolanos.org/libro/Nicaragua-y-los-cronistas-de-Indias-Oviedo.-Gonzalo-Fern%C3%A1ndez-de-Oviedo-y-Valdez
+- Gonzalo Fernández de Oviedo y Valdés, *Centro América en los
+  cronistas de Indias — Oviedo I* —
+  https://www.enriquebolanos.org/libro/Centro-Am%C3%A9rica-en-los-cronistas-de-Indias-Oviedo-I-Gonzalo-Fern%C3%A1ndez-Oviedo-y-Valdez.
+- Gonzalo Fernández de Oviedo y Valdés, *Centro América en los
+  cronistas de Indias — Oviedo II* —
+  https://www.enriquebolanos.org/libro/Centro-Am%C3%A9rica-en-los-cronistas-de-Indias-Oviedo-II-Gonzalo-Fern%C3%A1ndez-Oviedo-y-Valdez.
+- Jaime Incer Barquero, *Descubrimiento, conquista y exploración de
+  Nicaragua* —
+  https://www.enriquebolanos.org/libro/Descubrimiento-conquista-y-exploraci%C3%B3n-de-Nicaragua-Jaime-Incer-Barquero
+
+Por los títulos, al menos 3 de los 5 (las dos entradas "Oviedo" y la de
+Nicaragua/Oviedo) parecen ser antologías o recortes de la propia
+*Historia general y natural de las Indias* de Oviedo enfocados en
+Nicaragua/Centroamérica — si resultan ser eso y con mejor fidelidad de
+OCR que el escaneo actual, podrían ser relevantes para destrabar
+`oviedo/` (ver "Estado actual" en CLAUDE.md: 4 tomos, ~1.77M de
+palabras, el peor OCR del catálogo, Fase 1 sin empezar) al menos para
+los tramos centroamericanos, aunque no reemplazarían la obra completa.
+Los otros dos (Arellano, Incer Barquero) parecen estudios modernos de
+historiadores, no crónicas de dominio público del siglo XVI — si se
+incorporan, probablemente no calcen en el mismo modelo de "fuente
+primaria con Fase 1/2" que usa el resto del catálogo. Nada de esto está
+confirmado; falta abrir cada enlace y leer la obra/edición real.

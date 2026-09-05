@@ -66,6 +66,11 @@ https://archive.org/stream/BRes140146/BRes140146_djvu.txt
 
 ## Pendiente
 
+- **Marcado el 2026-09-05: este documento requiere edición manual para
+  corregir ruido de OCR** — confirma y refuerza lo ya documentado arriba
+  ("Texto listo (Fase 1) — calidad y alcance"): el grueso del texto más
+  allá de las líneas ya limpiadas a mano todavía no tuvo una revisión
+  palabra por palabra.
 - Fase 2 (personas, lugares, relaciones) — todavía no empezó.
 - Si hace falta, subdividir más fino el bloque grande del tercer/cuarto
   viaje usando el índice completo (está en las primeras ~180 líneas de

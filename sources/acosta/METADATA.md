@@ -51,6 +51,20 @@ Bibliografía...") que había quedado pegado al final del Capítulo 194 —
 boilerplate de la edición, no texto de Acosta. Confirma la recomendación
 de arriba de hacer una relectura manual completa antes de Fase 2.
 
+**Marcado el 2026-09-05: la sección "Real cédula, aprobación y tasa
+(1589-1590)" (Capítulo 1) requiere edición manual para corregir ruido de
+OCR — no se ha hecho la relectura palabra por palabra que sí se aplicó al
+resto del cuerpo.** Ejemplos concretos ya detectados en esa sola sección:
+"Gonzano Davia" (debería ser "Gonzalo Dávila" — corregido más abajo en el
+mismo bloque como "GONZALO DÁVILA", inconsistencia entre las dos
+grafías), "15809" (fecha, sobra un dígito — debería ser 1589), "ÍIsABEL"
+y "CHrIsTÓBAL" (mezcla de mayúsculas/minúsculas típica del motor de OCR),
+y "bizo" por "hizo" (confusión b/h, el mismo patrón sistemático ya
+documentado en otras obras del proyecto). El resto del cuerpo de Acosta
+(Proemio y los 7 libros) ya tuvo Fase 2 completa el 2026-08-31 sin que
+se marcara como problemático — esta sección de front matter es la
+excepción, no una reclasificación de la obra entera.
+
 ## Fuente original
 
 `raw/historia-natural-moral-indias-archive-org.txt`
