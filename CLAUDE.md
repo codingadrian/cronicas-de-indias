@@ -56,13 +56,17 @@ dirigido al usuario (sitio, READMEs, METADATA).
   - **Sin empezar**: **Oviedo** (4 tomos, ~1.77M de palabras) — el peor
     OCR de todo el catálogo (peor que Guamán Poma), dos intentos de
     arrancar Fase 1 se cortaron sin escribir nada por límite de sesión.
-- **Fase 2 (entidades y relaciones) completa para 15 obras** (las 5
+- **Fase 2 (entidades y relaciones) completa para 16 obras** (las 5
   originales + Xerez, Cabeza de Vaca, Muñoz Camargo, Pedro Pizarro,
   Ixtlilxóchitl, Cieza de León, Tezozómoc, Motolinía, Pedro Mártir,
-  Acosta) — total combinado: **566 personas, 408 lugares, 260 eventos,
-  1254 relaciones** (Colón — Cartas subió de 65 a 73 relaciones y sumó
-  2 lugares el 2026-08-31, ver más abajo). La cobertura por obra varía
-  y está documentada
+  Acosta, y **López de Gómara, sumada el 2026-09-05**) — total
+  combinado (todas las obras con Fase 2 en `entidades/`, wireadas al
+  sitio o no): **794 personas, 521 lugares, 370 eventos, 1964
+  relaciones**. **Ojo: esto es distinto de los KPIs del sitio activo**
+  (`_data/stats.yml`, mostrados en la barra de navegación), que siguen
+  en 566/408/260/1254 porque López de Gómara todavía no está wireada al
+  sitio (ver "Sitio activo" más abajo) — no confundir un número con el
+  otro. La cobertura por obra varía y está documentada
   honestamente en la `nota` de cada `relaciones-muestra.json`: algunas
   son de libro completo (Motolinía, Xerez, Cabeza de Vaca, Acosta), la
   mayoría cubre en profundidad los capítulos históricamente centrales y
@@ -72,9 +76,38 @@ dirigido al usuario (sitio, READMEs, METADATA).
   solo un puñado se leyeron a fondo (los viajes de Colón, el cruce de
   Balboa, la caída de Tenochtitlan, la persecución de Cristóbal de Olid)
   y el resto no tiene entidades extraídas todavía.
-  Quedan 4 obras del catálogo sin Fase 2 (López de Gómara, Sahagún,
-  Inca Garcilaso, Durán), más Zárate y Guamán Poma (bloqueadas por
-  fidelidad OCR) y Oviedo (bloqueada por Fase 1).
+  **Fase 2 de López de Gómara (2026-09-05)**: hecha con 3 forks
+  paralelos por rango de capítulos (1-70, 71-140, 141-199 + las 6
+  secciones sin numerar de la Vida de Hernán Cortés, citadas
+  `source:lopez-de-gomara:vida-1` a `vida-6`, esquema de citación nuevo)
+  y fusionados a mano después: se unificaron ids duplicados entre
+  rangos (misma persona/lugar citada en más de un rango — 33 personas y
+  21 lugares repetidos, sin conflictos reales de identidad, solo
+  variantes de título como "Cristóbal Vaca de Castro"/"Vaca de Castro")
+  y se corrigió que dos de los tres forks habían usado por error los
+  nombres de relación en inglés del esquema (`present_at`/`allied_with`/
+  etc., 239 de 710 relaciones) en vez de los nombres en español que usa
+  el resto del proyecto — normalizado antes de publicar. Chequeo de
+  integridad referencial en 0 errores. **Nota de alcance importante,
+  no es un hueco de cobertura sino de la fuente**: esta edición de la
+  *Historia general de las Indias* no incluye la conquista de
+  México/Tenochtitlan bajo Cortés (esa es tradicionalmente una obra
+  aparte de Gómara, la "Segunda parte"/*Crónica de la Nueva España*, no
+  conseguida) — Cortés aparece solo dos veces de forma tangencial en la
+  Historia general, y la Vida de Hernán Cortés adjunta termina cuando la
+  armada zarpa hacia la Nueva España en 1519, antes de la conquista
+  misma (ver `sources/lopez-de-gomara/METADATA.md`). Cobertura real:
+  Capítulos 1-9 (cosmografía pura) catalogados solo puntualmente, mismo
+  criterio que los libros de filosofía natural de Acosta; del Capítulo
+  10 en adelante, cobertura completa y en profundidad (los cuatro
+  viajes de Colón, Tierra Firme/Balboa, exploración de Sudamérica, la
+  conquista y guerras civiles del Perú, Centroamérica). **Todavía no
+  está wireada al sitio** (no se tocó `scripts/generar_sitio.py` ni se
+  corrió el generador) — sigue pendiente como paso aparte, mismo patrón
+  que se usó con Pedro Mártir/Acosta.
+  Quedan 3 obras del catálogo sin Fase 2 (Sahagún, Inca Garcilaso,
+  Durán), más Zárate y Guamán Poma (bloqueadas por fidelidad OCR) y
+  Oviedo (bloqueada por Fase 1).
 - **Sitio activo: 15 obras** (las 5 originales + los 8 sumados el
   2026-08-29 + Pedro Mártir y Acosta, sumados el 2026-08-31 — ver más
   abajo). KPIs reales del sitio activo (`_data/stats.yml`, mostrados en
@@ -691,9 +724,10 @@ Repo: https://github.com/codingadrian/cronicas-de-indias (público, rama
    (campo `notas: "sin re-verificar..."` en cada relación afectada, y
    en la `nota` general del archivo). Hacerlo en cuanto se limpie más
    OCR de esa obra (ver punto 8 de abajo).
-3. **Fase 2 de las 4 obras que ya tienen Fase 1 limpia y sin reservas**:
-   López de Gómara, Sahagún (parcial, Tomo B), Inca Garcilaso (parcial,
-   Primera Parte), Durán. Mismo patrón que las 10 obras ya hechas: crear
+3. **Fase 2 de las 3 obras que ya tienen Fase 1 limpia y sin reservas**
+   (López de Gómara ya se hizo el 2026-09-05, ver "Estado actual"):
+   Sahagún (parcial, Tomo B), Inca Garcilaso (parcial,
+   Primera Parte), Durán. Mismo patrón que las 11 obras ya hechas: crear
    `entidades/<obra>/personas.json`+`lugares.json`+
    `relaciones-muestra.json` siguiendo el esquema, citando
    `source:<obra>:<lo que corresponda>` (capítulo, o década/libro, o

@@ -1,0 +1,1854 @@
+[
+  {
+    "id": "person:hernan-cortes",
+    "canonical_name": "Hernando Cortés",
+    "aliases": [
+      "Fernando Cortés",
+      "Cortés",
+      "capitán Fernando Cortés",
+      "Hernán Cortés",
+      "Malinche"
+    ],
+    "role": "capitán general y luego justicia mayor de la Villa Rica de la Vera Cruz · capitán general de la conquista de la Nueva España; en este tramo aparece enviando una expedición a las Malucas y socorro de armas a Francisco Pizarro durante el cerco del Cuzco · capitán general de la conquista de la Nueva España; protagonista de la 'Vida de Hernán Cortés' incluida al final de esta edición",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json. En este rango (Cap. 1-70) solo se lo anuncia como protagonista futuro (Cap. 46, 50); su conquista de México todavía no empieza en el texto. | Id y canonical_name reusados de entidades/cortes/personas.json por instrucción del encargo."
+  },
+  {
+    "id": "person:diego-velazquez-de-cuellar",
+    "canonical_name": "Diego Velázquez",
+    "aliases": [
+      "teniente de almirante de la isla Fernandina",
+      "adelantado de Cuba",
+      "Diego Velázquez de Cuéllar"
+    ],
+    "role": "gobernador/teniente de almirante de Cuba; conquistó y repartió la isla; envió a Hernández de Córdoba, Grijalva y luego a Cortés · conquistador y primer gobernador de Cuba; llevó a Cortés como su hombre de confianza, lo enfrentó por celos y envidias de terceros, y finalmente lo nombró y luego intentó impedirle el mando de la armada a la Nueva España",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:francisco-hernandez-de-cordoba",
+    "canonical_name": "Francisco Fernández de Córdoba",
+    "aliases": [
+      "Francisco Hernández de Córdoba"
+    ],
+    "role": "capitán de la primera expedición de descubrimiento de Yucatán (1517), murió de las heridas de Champotón · capitán de la primera expedición española a Yucatán (1517), herido de muerte en la batalla de Champotón",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:anton-de-alaminos",
+    "canonical_name": "Antón de Alaminos",
+    "aliases": [
+      "Alaminos"
+    ],
+    "role": "piloto, vecino de Palos; guió las tres expediciones (Hernández de Córdoba, Grijalva y Cortés) · piloto que guió las tres expediciones a Yucatán: la de Hernández de Córdoba, la de Grijalva y la de Cortés",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:jeronimo-de-aguilar",
+    "canonical_name": "Jerónimo de Aguilar",
+    "aliases": [
+      "Hierónimo de Aguilar"
+    ],
+    "role": "español náufrago, cautivo en Yucatán; pidió al emperador el adelantamiento para Montejo",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:francisco-de-montejo",
+    "canonical_name": "Francisco de Montejo",
+    "aliases": [],
+    "role": "natural de Salamanca; adelantado y conquistador de Yucatán; luego gobernador de Honduras · veterano de la expedición de Grijalva; se unió a Cortés en La Habana para la armada a la Nueva España",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:pedrarias-davila",
+    "canonical_name": "Pedrarias Dávila",
+    "aliases": [
+      "Pedro Arias de Ávila",
+      "el justador"
+    ],
+    "role": "gobernador de Castilla de Oro (Darién); mandó degollar a Vasco Núñez de Balboa · gobernador de Castilla del Oro, residente en Panamá; entró brevemente en la compañía de Pizarro, Almagro y Luque antes de retirarse · gobernador de Castilla de Oro y luego de Nicaragua; envió a Gil González Dávila a explorar Nicaragua y degolló a Francisco Hernández acusándolo de tratar con Cortés",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json. | Id reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:cristobal-de-olid",
+    "canonical_name": "Cristóbal de Olid",
+    "aliases": [
+      "Cristóbal de Olit"
+    ],
+    "role": "capitán enviado por Cortés a las Hibueras (Honduras); se rebeló y fue muerto por Francisco de las Casas y Gil González · capitán enviado por Diego Velázquez en busca de Grijalva y luego a prender a Gil González Dávila en Honduras; después se unió a la armada de Cortés",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:gil-gonzalez-davila",
+    "canonical_name": "Gil González Dávila",
+    "aliases": [
+      "Gil González",
+      "Gil González de Ávila"
+    ],
+    "role": "capitán rival en Honduras; junto con Francisco de las Casas mató a Cristóbal de Olid · capitán enviado por Pedrarias Dávila a explorar y convertir Nicaragua; sostuvo un extenso diálogo filosófico-religioso con el cacique Nicaragua y fue después preso por Cristóbal de Olid",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:fray-luis-de-sevilla",
+    "canonical_name": "fray Luis de Sevilla",
+    "aliases": [
+      "fray Luis de Figueroa",
+      "prior de la Mejorada"
+    ],
+    "role": "fraile jerónimo, prior del monasterio de la Mejorada; uno de los tres gobernadores interinos de las Indias enviados por el cardenal Cisneros",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json (allí solo con el nombre 'fray Luis de Sevilla'); Gómara lo llama 'fray Luis de Figueroa' — se agregó como alias, discrepancia de nombre entre fuentes ya vista en otros casos del proyecto."
+  },
+  {
+    "id": "person:fray-alonso-de-santo-domingo",
+    "canonical_name": "fray Alonso de Santo Domingo",
+    "aliases": [
+      "prior de San Juan de Ortega"
+    ],
+    "role": "fraile jerónimo, prior de San Juan de Ortega; segundo de los tres gobernadores interinos de las Indias",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:alonso-de-zuazo",
+    "canonical_name": "Alonso de Zuazo",
+    "aliases": [
+      "licenciado Alonzo Zuazo"
+    ],
+    "role": "licenciado; asesor de los tres frailes jerónimos gobernadores de la Española (c. 1516); luego, según Cortés, encargado de la justicia de Temixtitan",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:lucas-vazquez-de-ayllon",
+    "canonical_name": "Lucas Vázquez de Ayllón",
+    "aliases": [
+      "Lucas Vázquez de Aillón"
+    ],
+    "role": "licenciado, oidor de la Española; armó expediciones a los Lucayos y a Chicora; murió en el desastre de la Florida (1526)",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:francisco-jimenez-de-cisneros",
+    "canonical_name": "Francisco Jiménez de Cisneros",
+    "aliases": [
+      "don fray Francisco Jiménez",
+      "cardenal y arzobispo de Toledo",
+      "cardenal fray Francisco Jiménez de Cisneros"
+    ],
+    "role": "Arzobispo de Toledo y Cardenal; gobernó España tras la muerte de Fernando el Católico; envió a los frailes jerónimos a gobernar la Española · Arzobispo de Toledo y Cardenal, gobernador de Castilla; recibió a Magallanes y Falero cuando propusieron la ruta a las Malucas",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json. | Id reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:fernando-el-catolico",
+    "canonical_name": "Fernando el Católico",
+    "aliases": [
+      "rey don Fernando",
+      "Reyes Católicos",
+      "católico rey don Fernando",
+      "reyes Católicos"
+    ],
+    "role": "rey de España; financió y autorizó los viajes de Colón y las primeras conquistas de Tierra Firme · rey de España; venció al rey don Alonso V de Portugal en Toro, origen del reparto posterior de conquistas africanas y de Indias · rey de España; junto con la reina doña Isabel organizó el primer manejo de los negocios de Indias antes de existir un Consejo formal",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json. | Id reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:isabel-la-catolica",
+    "canonical_name": "Isabel la Católica",
+    "aliases": [
+      "la reina",
+      "reina doña Isabel"
+    ],
+    "role": "reina de Castilla; junto con Fernando el Católico autorizó y financió el descubrimiento y primeras conquistas de Indias",
+    "status": "candidata"
+  },
+  {
+    "id": "person:carlos-v",
+    "canonical_name": "Carlos V",
+    "aliases": [
+      "rey don Carlos",
+      "Emperador Carlos V",
+      "el emperador"
+    ],
+    "role": "rey de España, después emperador; a él está dedicada la obra de López de Gómara · rey de España y emperador; decide la política de las Malucas y las Nuevas Leyes de Indias · rey de España y emperador; creó el Consejo Real de Indias en 1524 y envió al licenciado Pedro de la Gasca a pacificar el Perú",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json. | Id reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:juan-de-grijalva",
+    "canonical_name": "Juan de Grijalva",
+    "aliases": [
+      "Juan de Grijalba"
+    ],
+    "role": "capitán de la expedición de 1518 a Yucatán y la costa mexicana, sobrino de Diego Velázquez · sobrino de Diego Velázquez; capitán de la segunda expedición de descubrimiento a Yucatán y Tabasco (1518)",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:pedro-de-alvarado",
+    "canonical_name": "Pedro de Alvarado",
+    "aliases": [
+      "Alvarado",
+      "el Comendador"
+    ],
+    "role": "capitán; en esta obra, enviado por Grijalva de vuelta a Cuba con los heridos y el rescate (Cap. 45) · adelantado de Guatemala; llevó una armada al Perú por su cuenta buscando riquezas en Quito y estuvo a punto de enfrentarse a Diego de Almagro antes de venderle su flota · capitán de Cortés, enviado por este a conquistar Tututepec y Cuauhtemallán (Guatemala); después gobernador y adelantado de Guatemala, murió en 1541 aplastado por un caballo en Ezatlán, Jalisco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:panfilo-de-narvaez",
+    "canonical_name": "Pánfilo de Narváez",
+    "aliases": [],
+    "role": "capitán; intentó poblar el río de Palmas (1527, desastre, sobrevivieron Cabeza de Vaca y tres más); años después, vencido y tuerto por Cortés en Zempoala",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:cristobal-colon",
+    "canonical_name": "Cristóbal Colón",
+    "aliases": [
+      "el Almirante"
+    ],
+    "role": "descubridor de las Indias; hizo cuatro viajes; murió en Valladolid en 1506 · descubridor de las Indias; en este tramo protagoniza su tercer viaje, el descubrimiento de Paria y la teoría de que el mundo tiene forma de pera",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bartolome-colon",
+    "canonical_name": "Bartolomé Colón",
+    "aliases": [],
+    "role": "hermano de Cristóbal Colón; adelantado de las Indias; fundó Santo Domingo; gobernó en su ausencia · hermano de Cristóbal Colón; recibió dos naves adelantadas antes del tercer viaje de su hermano",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-colon-hermano",
+    "canonical_name": "Diego Colón (hermano)",
+    "aliases": [],
+    "role": "hermano de Cristóbal y Bartolomé Colón; administró la Española en su ausencia; preso junto con ellos por Bobadilla en 1500",
+    "status": "candidata",
+    "notas": "Ambigüedad de nombre en el propio Gómara: hay otro 'Diego Colón', hijo de Cristóbal, ver person:diego-colon-hijo. Mismo patrón de ambigüedad ya documentado para 'Diego Colón' en Las Casas."
+  },
+  {
+    "id": "person:diego-colon-hijo",
+    "canonical_name": "Diego Colón (hijo)",
+    "aliases": [
+      "almirante don Diego Colón"
+    ],
+    "role": "hijo de Cristóbal Colón; casó con doña María de Toledo; segundo almirante y gobernador de la Española, Cuba y Jamaica",
+    "status": "candidata",
+    "notas": "Ver nota de ambigüedad en person:diego-colon-hermano."
+  },
+  {
+    "id": "person:fernando-colon",
+    "canonical_name": "Fernando Colón",
+    "aliases": [
+      "don Fernando Colón"
+    ],
+    "role": "hijo de Cristóbal Colón; vivió soltero; dejó su librería de doce o trece mil libros a los dominicos de Sevilla",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-bobadilla",
+    "canonical_name": "Francisco de Bobadilla",
+    "aliases": [],
+    "role": "caballero de Calatrava; gobernador enviado a prender a Cristóbal Colón y sus hermanos (1500)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:roldan-jimenez",
+    "canonical_name": "Roldán Jiménez",
+    "aliases": [
+      "Roldán"
+    ],
+    "role": "alcalde mayor del Almirante; se amotinó contra Bartolomé Colón; luego entregó el mando a Bobadilla; murió ahogado en 1502",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nicolas-de-ovando",
+    "canonical_name": "Nicolás de Ovando",
+    "aliases": [
+      "comendador mayor de Alcántara",
+      "comendador de Lares"
+    ],
+    "role": "gobernador de la Española (1502-1509); pacificó Xaragua ahorcando a Anacaona; luego gobernó Boriquén por Juan Ponce de León · gobernador de la isla Española; Cortés pretendía embarcarse con él en 1504 pero enfermó; ya en la isla, lo asentó por vecino y le repartió indios tras la guerra contra los alzados de Baoruco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-hojeda",
+    "canonical_name": "Alonso de Hojeda",
+    "aliases": [
+      "Alonso de Ojeda"
+    ],
+    "role": "natural de Cuenca; capitán de Colón contra Caonabo; primer gobernador y conquistador de tierra firme (Urabá); murió fraile franciscano en Santo Domingo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-aguado",
+    "canonical_name": "Juan de Aguado",
+    "aliases": [],
+    "role": "repostero real enviado a investigar las quejas contra Cristóbal Colón y fray Buil",
+    "status": "candidata"
+  },
+  {
+    "id": "person:martin-alonso-pinzon",
+    "canonical_name": "Martín Alonso Pinzón",
+    "aliases": [],
+    "role": "piloto de Palos; capitán de una de las tres carabelas del primer viaje de Colón; se amotinó en ese viaje",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vicente-yanez-pinzon",
+    "canonical_name": "Vicente Yáñez Pinzón",
+    "aliases": [],
+    "role": "piloto de Palos; hermano de Martín Alonso; capitán en el primer viaje de Colón y luego gran descubridor por su cuenta · descubridor, natural de Palos; armó una flota propia y descubrió el cabo de San Agustín y la desembocadura del río de Orellana en 1500",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-perez-de-marchena",
+    "canonical_name": "fray Juan Pérez de Marchena",
+    "aliases": [],
+    "role": "fraile franciscano del monasterio de la Rábida; convenció a los Reyes Católicos de apoyar a Colón",
+    "status": "candidata"
+  },
+  {
+    "id": "person:luis-de-san-angel",
+    "canonical_name": "Luis de San Ángel",
+    "aliases": [
+      "Luis de San Angel"
+    ],
+    "role": "escribano de ración; prestó a los Reyes Católicos el dinero para el primer viaje de Colón",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-quintanilla",
+    "canonical_name": "Alonso de Quintanilla",
+    "aliases": [],
+    "role": "contador mayor; sostuvo a Colón en la corte cuando nadie más lo escuchaba",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-gonzalez-de-mendoza",
+    "canonical_name": "Pedro González de Mendoza",
+    "aliases": [
+      "cardenal don Pedro González de Mendoza"
+    ],
+    "role": "cardenal, arzobispo de Toledo; presentó a Colón ante los Reyes Católicos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alejandro-vi",
+    "canonical_name": "Alejandro VI",
+    "aliases": [
+      "el Papa",
+      "Santo Padre"
+    ],
+    "role": "papa; otorgó a los Reyes Católicos la donación y bula de las Indias (1493)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-de-triana",
+    "canonical_name": "Rodrigo de Triana",
+    "aliases": [],
+    "role": "marinero; primero en avistar tierra en el viaje de Colón (11 de octubre de 1492)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:guacanagari",
+    "canonical_name": "Guacanagarí",
+    "aliases": [
+      "Guacanagari"
+    ],
+    "role": "cacique de La Española que recibió amistosamente a Colón tras el naufragio de la Santa María",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-de-arana",
+    "canonical_name": "Rodrigo de Arana",
+    "aliases": [],
+    "role": "natural de Córdoba; capitán dejado por Colón al mando de los 38 españoles del primer fuerte (La Navidad)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:coanabo",
+    "canonical_name": "Coanabo",
+    "aliases": [
+      "Caonabo"
+    ],
+    "role": "cacique de La Española; acusado de matar a los españoles del fuerte de Navidad; preso por engaño de Hojeda",
+    "status": "candidata"
+  },
+  {
+    "id": "person:guarionex",
+    "canonical_name": "Guarionex",
+    "aliases": [],
+    "role": "cacique de La Española; vencido y luego perdonado por Bartolomé Colón junto con otros catorce caciques",
+    "status": "candidata"
+  },
+  {
+    "id": "person:anacaona",
+    "canonical_name": "Anacaona",
+    "aliases": [
+      "Ánacaon"
+    ],
+    "role": "mujer del cacique Caonabo; ahorcada por Nicolás de Ovando al pacificar Xaragua",
+    "status": "candidata"
+  },
+  {
+    "id": "person:guaorocuya",
+    "canonical_name": "Guaorocuya",
+    "aliases": [],
+    "role": "cacique de Xaragua; ahorcado por Nicolás de Ovando",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-porras",
+    "canonical_name": "Francisco de Porras",
+    "aliases": [],
+    "role": "capitán de una carabela; amotinó a la gente de Colón en Jamaica (cuarto viaje)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-porras",
+    "canonical_name": "Diego de Porras",
+    "aliases": [],
+    "role": "contador de la armada de Colón; hermano de Francisco de Porras, coamotinado en Jamaica",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bernardino-de-manzanedo",
+    "canonical_name": "Bernardino de Manzanedo",
+    "aliases": [],
+    "role": "fraile jerónimo; tercero de los tres gobernadores interinos de la Española",
+    "status": "candidata"
+  },
+  {
+    "id": "person:marcelo-de-villalobos",
+    "canonical_name": "Marcelo de Villalobos",
+    "aliases": [
+      "Marcelo Villalobos"
+    ],
+    "role": "licenciado; juez de apelaciones y luego uno de los primeros oidores de la Audiencia de Santo Domingo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-ortiz-de-matienzo",
+    "canonical_name": "Juan Ortiz de Matienzo",
+    "aliases": [],
+    "role": "licenciado; juez de apelaciones y luego oidor de la Audiencia de Santo Domingo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-lebron",
+    "canonical_name": "Cristóbal Lebrón",
+    "aliases": [],
+    "role": "uno de los primeros oidores de la Audiencia de Santo Domingo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:sebastian-ramirez-de-fuenleal",
+    "canonical_name": "Sebastián Ramírez de Fuenleal",
+    "aliases": [],
+    "role": "nacido en Villaescusa; presidente de la Audiencia de Santo Domingo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-ponce-de-leon",
+    "canonical_name": "Juan Ponce de León",
+    "aliases": [],
+    "role": "conquistador y primer gobernador de Boriquén (Puerto Rico); descubridor de la Florida (1512); murió de una herida de flecha allí",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-salazar",
+    "canonical_name": "Diego de Salazar",
+    "aliases": [],
+    "role": "capitán más destacado en la conquista de Boriquén; los indios lo temían especialmente",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-de-soto",
+    "canonical_name": "Hernando de Soto",
+    "aliases": [
+      "Fernando de Soto"
+    ],
+    "role": "capitán enriquecido en la prisión de Atahualpa en el Perú; obtuvo la conquista de la Florida y murió en ella sin poblar · capitán de Francisco Pizarro; fue enviado a hablar con Atabaliba antes de su prisión y luego, con Pedro del Barco, al Cuzco a comprobar el oro del rescate",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-luis-cancel-de-balvastro",
+    "canonical_name": "fray Luis Cancel de Balvastro",
+    "aliases": [],
+    "role": "fraile dominico; intentó pacificar la Florida solo con predicación (1549); fue muerto y comido por los indios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-garay",
+    "canonical_name": "Francisco de Garay",
+    "aliases": [],
+    "role": "gobernador de Jamaica; exploró la costa hasta Pánuco; rival de Cortés; murió en México en su expedición de 1523",
+    "status": "candidata"
+  },
+  {
+    "id": "person:nuno-de-guzman",
+    "canonical_name": "Nuño de Guzmán",
+    "aliases": [],
+    "role": "gobernador de Pánuco (1527), castigó a los indios de esa región · gobernador de Pánuco y presidente de México; conquistó con gran crueldad la provincia de Jalisco (Nueva Galicia), fundó Compostela y Guadalajara; depuesto y preso por las quejas de sus agravios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-martir-de-angleria",
+    "canonical_name": "Pedro Mártir de Anglería",
+    "aliases": [
+      "Pedro Mártir"
+    ],
+    "role": "milanés, cronista de los Reyes Católicos; primer abad de Jamaica; primero en escribir en latín sobre las Indias",
+    "status": "candidata"
+  },
+  {
+    "id": "person:esteban-gomez",
+    "canonical_name": "Esteban Gómez",
+    "aliases": [],
+    "role": "piloto; buscó sin éxito un estrecho hacia la Especiería por la tierra de los Bacallaos (1525); trajo indios esclavizados que confundieron con 'clavos' · piloto de la nao San Antón en la expedición de Magallanes; encabezó el motín que la hizo volver a España antes de completar el paso del estrecho",
+    "status": "candidata"
+  },
+  {
+    "id": "person:sebastian-gaboto",
+    "canonical_name": "Sebastián Gaboto",
+    "aliases": [
+      "Sebastián Caboto"
+    ],
+    "role": "veneciano; exploró la tierra del Labrador y los Bacallaos a costa del rey Enrique VII de Inglaterra · navegante; fue al río de la Plata en 1526 yendo camino a las Malucas y sembró y cosechó trigo allí con gran éxito",
+    "status": "candidata"
+  },
+  {
+    "id": "person:jacques-cartier",
+    "canonical_name": "Jacques Cartier",
+    "aliases": [],
+    "role": "francés; exploró los Bacallaos dos veces (1534 y 1535) tanteando tierra para poblar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gaspar-cortes-reales",
+    "canonical_name": "Gaspar Cortes Reales",
+    "aliases": [],
+    "role": "exploró la tierra del Labrador en 1500 buscando un estrecho; tomó esclavos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-chicora",
+    "canonical_name": "Francisco Chicora",
+    "aliases": [],
+    "role": "indio de Chicora llevado a España por Lucas Vázquez de Ayllón; contó maravillas de su tierra en la corte",
+    "status": "candidata"
+  },
+  {
+    "id": "person:datha",
+    "canonical_name": "Datha",
+    "aliases": [],
+    "role": "rey de Duhare (cerca de Chicora), descrito como gigante junto a su mujer y veinticinco hijos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cabeza-de-vaca",
+    "canonical_name": "Álvar Núñez Cabeza de Vaca",
+    "aliases": [
+      "Alvar Núñez Cabeza de Vaca"
+    ],
+    "role": "uno de los cuatro sobrevivientes de la expedición de Narváez a la Florida (1528); anduvo nueve años perdido por el norte de Nueva España · adelantado y gobernador del río de la Plata desde 1541, enviado preso a España tras desavenencias con españoles e indios",
+    "status": "candidata",
+    "notas": "Mismo id usado en entidades/acosta/personas.json para la misma persona histórica."
+  },
+  {
+    "id": "person:alonso-del-castillo-maldonado",
+    "canonical_name": "Alonso del Castillo Maldonado",
+    "aliases": [
+      "Alonso de Castillo"
+    ],
+    "role": "uno de los cuatro sobrevivientes de la expedición de Narváez; curó indios 'a soplos'",
+    "status": "candidata"
+  },
+  {
+    "id": "person:andres-dorantes",
+    "canonical_name": "Andrés Dorantes de Béjar",
+    "aliases": [
+      "Andrés Dorantes"
+    ],
+    "role": "uno de los cuatro sobrevivientes de la expedición de Narváez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:estebanico",
+    "canonical_name": "Estebanico de Azamor",
+    "aliases": [
+      "Estebanico"
+    ],
+    "role": "esclavo negro, uno de los cuatro sobrevivientes de la expedición de Narváez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:dulchanchelin",
+    "canonical_name": "Dulchanchelin",
+    "aliases": [],
+    "role": "cacique que recibió amistosamente a Pánfilo de Narváez camino a Apalachen",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-guerrero",
+    "canonical_name": "Gonzalo Guerrero",
+    "aliases": [],
+    "role": "español náufrago en Yucatán, casado con una india; capitaneó a los indios contra Montejo en Chetemal; no quiso volver con Cortés como sí lo hizo Aguilar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:mochocoboc",
+    "canonical_name": "Mochocoboc",
+    "aliases": [],
+    "role": "señor de Champotón; venció a Francisco Hernández de Córdoba en 1517 y a Grijalva en 1518",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-de-mesa",
+    "canonical_name": "Hernando de Mesa",
+    "aliases": [],
+    "role": "fraile dominico; primer obispo de Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "person:sebastian-de-ocampo",
+    "canonical_name": "Sebastián de Ocampo",
+    "aliases": [],
+    "role": "comenzó la conquista de Cuba por encargo de Nicolás de Ovando",
+    "status": "candidata",
+    "notas": "No confundir con person:gonzalo-de-ocampo (capitán en Cumaná, 1520-1521) ni con person:diego-de-ocampo-veragua — tres 'Ocampo' distintos en este rango."
+  },
+  {
+    "id": "person:francisco-de-las-casas",
+    "canonical_name": "Francisco de las Casas",
+    "aliases": [],
+    "role": "fundó Trujillo (Honduras) en 1525 en nombre de Cortés; junto con Gil González mató a Cristóbal de Olid",
+    "status": "candidata",
+    "notas": "No confundir con person:bartolome-de-las-casas (el clérigo defensor de indios) — son personas distintas."
+  },
+  {
+    "id": "person:diego-lopez-de-salcedo",
+    "canonical_name": "Diego López de Salcedo",
+    "aliases": [],
+    "role": "gobernador de Honduras; sus propios hombres lo mataron con hierbas en un pastel",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vasco-de-herrera",
+    "canonical_name": "Vasco de Herrera",
+    "aliases": [],
+    "role": "gobernador de Honduras tras López de Salcedo; lo mataron a puñaladas y lo arrastraron",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-albitez",
+    "canonical_name": "Diego de Albítez",
+    "aliases": [],
+    "role": "gobernador de Honduras; también le dieron hierbas en un pastel",
+    "status": "candidata"
+  },
+  {
+    "id": "person:andres-de-cereceda",
+    "canonical_name": "Andrés de Cereceda",
+    "aliases": [],
+    "role": "gobernador de Honduras tras Albítez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:licenciado-pedraza",
+    "canonical_name": "licenciado Pedraza",
+    "aliases": [],
+    "role": "obispo de Honduras",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-nicuesa",
+    "canonical_name": "Diego de Nicuesa",
+    "aliases": [],
+    "role": "natural de Baeza; gobernador y conquistador de Veragua/Nombre de Dios; su expedición fue un desastre; murió perdido en el mar tras ser expulsado del Darién",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-la-cosa",
+    "canonical_name": "Juan de la Cosa",
+    "aliases": [],
+    "role": "vecino del Puerto de Santa María; piloto de Rodrigo de Bastidas; luego armó por su cuenta; murió flechado por los indios en Turbaco/Cartagena junto con Hojeda",
+    "status": "candidata"
+  },
+  {
+    "id": "person:lope-de-olano",
+    "canonical_name": "Lope de Olano",
+    "aliases": [],
+    "role": "capitán de un bergantín de Nicuesa; quedó como capitán interino en Veragua; preso por Nicuesa al reencontrarse",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-umbria",
+    "canonical_name": "Pedro de Umbría",
+    "aliases": [],
+    "role": "capitán de un bergantín de Nicuesa; se ahogó buscando dónde desembarcar en Veragua",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-enriquez-de-colmenares",
+    "canonical_name": "Rodrigo Enríquez de Colmenares",
+    "aliases": [
+      "Rodrigo de Colmenares"
+    ],
+    "role": "soldado del Gran Capitán; socorrió a los de Urabá y luego a Nicuesa; procurador del Darién ante el rey",
+    "status": "candidata"
+  },
+  {
+    "id": "person:felipe-gutierrez",
+    "canonical_name": "Felipe Gutiérrez",
+    "aliases": [],
+    "role": "de Madrid; obtuvo la gobernación de Veragua (1536); su expedición terminó en hambruna y canibalismo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-ocampo-veragua",
+    "canonical_name": "Diego de Ocampo (Veragua)",
+    "aliases": [],
+    "role": "compañero de Felipe Gutiérrez en Veragua; se enterró vivo él mismo por no quedar insepulto",
+    "status": "candidata",
+    "notas": "No confundir con person:diego-de-ocampo de entidades/cortes/personas.json (alcalde mayor en Segura de la Frontera, Nueva España, contexto y época distintos) ni con person:sebastian-de-ocampo o person:gonzalo-de-ocampo."
+  },
+  {
+    "id": "person:luis-colon",
+    "canonical_name": "Luis Colón",
+    "aliases": [
+      "almirante don Luis Colón"
+    ],
+    "role": "nieto de Cristóbal Colón; envió en 1546 al capitán Cristóbal de Peña a poblar Veragua; obtuvo el título de duque y marqués de Jamaica sobre Veragua",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-de-pena",
+    "canonical_name": "Cristóbal de Peña",
+    "aliases": [],
+    "role": "capitán enviado por el almirante don Luis Colón a poblar y conquistar Veragua (1546)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-de-bastidas-explorador",
+    "canonical_name": "Rodrigo de Bastidas",
+    "aliases": [],
+    "role": "descubridor y luego gobernador de Santa Marta y de la costa de Cartagena/Urabá; asesinado por sus propios soldados en 1527",
+    "status": "candidata",
+    "notas": "El propio Gómara aclara que el primer obispo de Venezuela, también llamado Rodrigo de Bastidas, NO es el mismo que este descubridor — ver person:rodrigo-de-bastidas-obispo."
+  },
+  {
+    "id": "person:rodrigo-de-bastidas-obispo",
+    "canonical_name": "Rodrigo de Bastidas (obispo)",
+    "aliases": [],
+    "role": "primer obispo de Venezuela (sede en Coro); Gómara aclara explícitamente que no es el mismo Rodrigo de Bastidas descubridor de Santa Marta",
+    "status": "candidata"
+  },
+  {
+    "id": "person:martin-fernandez-de-enciso",
+    "canonical_name": "Martín Fernández de Enciso",
+    "aliases": [
+      "bachiller Enciso"
+    ],
+    "role": "bachiller, alcalde mayor de Hojeda; fundó Santa María la Antigua del Darién; depuesto por Balboa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vasco-nunez-de-balboa",
+    "canonical_name": "Vasco Núñez de Balboa",
+    "aliases": [
+      "Balboa"
+    ],
+    "role": "de Badajoz; depuso a Enciso; descubrió la mar del Sur (1513); adelantado de esa mar; degollado por orden de Pedrarias Dávila (1519)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-pizarro",
+    "canonical_name": "Francisco Pizarro",
+    "aliases": [
+      "Marqués Francisco Pizarro",
+      "el Marqués",
+      "marqués Francisco Pizarro"
+    ],
+    "role": "en este rango, teniente de Hojeda en Urabá; luego a las órdenes de Enciso y de Balboa en el Darién, antes de su carrera en el Perú · capitán general de la conquista del Perú; prendió y mató a Atabaliba, tomó el Cuzco, fundó Los Reyes (Lima) y murió asesinado por los almagristas en 1541 · conquistador y primer gobernador del Perú, asesinado por los almagristas; mencionado retrospectivamente en las 'Consideraciones' de Gómara sobre el fin violento de casi todos los gobernadores del Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cemaco",
+    "canonical_name": "Cemaco",
+    "aliases": [],
+    "role": "señor/cacique del Darién; vencido por Enciso; siguió resistiendo contra los españoles de la Antigua",
+    "status": "candidata"
+  },
+  {
+    "id": "person:panquiaco",
+    "canonical_name": "Panquiaco",
+    "aliases": [
+      "don Carlos Panquiaco"
+    ],
+    "role": "hijo mayor del cacique Comagre; dio a Balboa la primera noticia de la mar del Sur y de sus riquezas; se bautizó",
+    "status": "candidata"
+  },
+  {
+    "id": "person:comagre",
+    "canonical_name": "Comagre",
+    "aliases": [],
+    "role": "cacique, padre de Panquiaco; recibió amistosamente a Balboa en su gran casa de madera",
+    "status": "candidata"
+  },
+  {
+    "id": "person:careta",
+    "canonical_name": "Careta",
+    "aliases": [
+      "Chima",
+      "don Fernando"
+    ],
+    "role": "cacique de Coiba; preso y luego aliado de Balboa contra su enemigo Ponca; bautizado como don Fernando",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ponca",
+    "canonical_name": "Ponca",
+    "aliases": [],
+    "role": "cacique enemigo de Careta; huía siempre de los españoles",
+    "status": "candidata"
+  },
+  {
+    "id": "person:dabaiba",
+    "canonical_name": "Dabaiba",
+    "aliases": [],
+    "role": "señor del río San Juan; huyó del Darién por miedo a Cemaco",
+    "status": "candidata"
+  },
+  {
+    "id": "person:abenamaquei",
+    "canonical_name": "Abenamaquei",
+    "aliases": [],
+    "role": "señor del río Negro; preso por Balboa y Colmenares",
+    "status": "candidata"
+  },
+  {
+    "id": "person:abibeiba",
+    "canonical_name": "Abibeiba",
+    "aliases": [],
+    "role": "señor cuyo pueblo estaba edificado en lo alto de los árboles; hizo paces con Balboa tras amenaza de talarle el árbol",
+    "status": "candidata"
+  },
+  {
+    "id": "person:abraibe",
+    "canonical_name": "Abraibe",
+    "aliases": [],
+    "role": "señorcillo aliado de Abibeiba; conspiraron juntos contra los españoles del Darién, conspiración descubierta a tiempo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-quicedo",
+    "canonical_name": "Juan de Quicedo",
+    "aliases": [],
+    "role": "procurador del Darién enviado ante el rey junto con Rodrigo de Colmenares (1512)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:torecha",
+    "canonical_name": "Torecha",
+    "aliases": [],
+    "role": "señor de Cuareca; murió peleando contra Balboa camino a la mar del Sur",
+    "status": "candidata"
+  },
+  {
+    "id": "person:chiape",
+    "canonical_name": "Chiape",
+    "aliases": [],
+    "role": "cacique que se hizo amigo de Balboa tras ser vencido; lo acompañó a costear el golfo de San Miguel",
+    "status": "candidata"
+  },
+  {
+    "id": "person:coquera",
+    "canonical_name": "Coquera",
+    "aliases": [],
+    "role": "señor vencido y luego amigo de Balboa en la costa del golfo de San Miguel",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tumaco",
+    "canonical_name": "Tumaco",
+    "aliases": [],
+    "role": "señor cerca del golfo de San Miguel; entregó a Balboa gran cantidad de oro y de las primeras perlas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:teoca",
+    "canonical_name": "Teoca",
+    "aliases": [],
+    "role": "señor que recibió alegremente a Balboa a la vuelta de descubrir la mar del Sur",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pacra",
+    "canonical_name": "Pacra",
+    "aliases": [],
+    "role": "señor tirano; preso y ejecutado (echado a los perros y luego quemado) por Balboa por sodomía",
+    "status": "candidata"
+  },
+  {
+    "id": "person:tumanama",
+    "canonical_name": "Tumanamá",
+    "aliases": [],
+    "role": "señor rico y valiente; sorprendido y hecho preso por Balboa; dio cien marcos de oro; se hallaron señales de minas en su tierra",
+    "status": "candidata"
+  },
+  {
+    "id": "person:isabel-de-bobadilla",
+    "canonical_name": "Isabel de Bobadilla",
+    "aliases": [],
+    "role": "mujer de Pedrarias Dávila; lo acompañó a Castilla de Oro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-cabedo",
+    "canonical_name": "Juan Cabedo",
+    "aliases": [],
+    "role": "fraile franciscano, predicador del rey; primer obispo de la Antigua del Darién; casó a Balboa con hija de Pedrarias e hizo las paces entre ambos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-ayora",
+    "canonical_name": "Juan de Ayora",
+    "aliases": [],
+    "role": "capitán enviado por Pedrarias a Comagre; cometió crueldades contra Panquiaco y huyó con el despojo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-de-badajoz",
+    "canonical_name": "Gonzalo de Badajoz",
+    "aliases": [],
+    "role": "capitán enviado por Pedrarias al Nombre de Dios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-becerra",
+    "canonical_name": "Francisco Becerra",
+    "aliases": [],
+    "role": "capitán enviado por Pedrarias al río de Dabaiba; volvió sin éxito",
+    "status": "candidata"
+  },
+  {
+    "id": "person:capitan-vallejo",
+    "canonical_name": "capitán Vallejo",
+    "aliases": [],
+    "role": "enviado por Pedrarias a Caribana; los caribes le mataron cuarenta y ocho hombres",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bartolome-hurtado",
+    "canonical_name": "Bartolomé Hurtado",
+    "aliases": [],
+    "role": "pobló Acla para Pedrarias; pidió indios a Careta y luego los vendió como esclavos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gaspar-de-morales",
+    "canonical_name": "Gaspar de Morales",
+    "aliases": [],
+    "role": "capitán enviado por Pedrarias a la mar del Sur; rescató perlas en la isla de Terarequi",
+    "status": "candidata"
+  },
+  {
+    "id": "person:lope-de-sosa",
+    "canonical_name": "Lope de Sosa",
+    "aliases": [],
+    "role": "de Córdoba; sucesor nombrado de Pedrarias como gobernador de Castilla de Oro; murió al llegar al Darién (1520)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-los-rios",
+    "canonical_name": "Pedro de los Ríos",
+    "aliases": [],
+    "role": "de Córdoba; gobernador de Castilla de Oro tras la muerte de Lope de Sosa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:antonio-de-la-gama",
+    "canonical_name": "Antonio de la Gama",
+    "aliases": [],
+    "role": "licenciado; tomó residencia a Pedrarias Dávila",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-barrionuevo",
+    "canonical_name": "Francisco de Barrionuevo",
+    "aliases": [],
+    "role": "caballero de Soria; gobernador de Castilla de Oro; antes soldado en Boriquén y capitán contra el cacique don Enrique",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-heredia",
+    "canonical_name": "Pedro de Heredia",
+    "aliases": [],
+    "role": "natural de Madrid; gobernador de Cartagena (1532); pobló y conquistó, pero acabó preso en España por acusaciones en su contra",
+    "status": "candidata"
+  },
+  {
+    "id": "person:luis-guerra",
+    "canonical_name": "Luis Guerra",
+    "aliases": [],
+    "role": "capitán; junto con Juan de la Cosa hizo la guerra en Cartagena y la isla de Codego",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-guerra",
+    "canonical_name": "Cristóbal Guerra",
+    "aliases": [],
+    "role": "capitán; robó al cacique Jaharo, pacificado antes por Hojeda; luego lo mataron los indios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-villafuerte",
+    "canonical_name": "Pedro de Villafuerte",
+    "aliases": [],
+    "role": "nacido en Écija; hombre de confianza de Rodrigo de Bastidas; organizó su asesinato en Santa Marta (1527)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-lugo",
+    "canonical_name": "don Pedro de Lugo",
+    "aliases": [],
+    "role": "adelantado de Tenerife; gobernador de Santa Marta tras Bastidas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-luis-de-lugo",
+    "canonical_name": "don Alonso Luis de Lugo",
+    "aliases": [],
+    "role": "hijo de Pedro de Lugo; gobernador de Santa Marta",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cacique-jaharo",
+    "canonical_name": "Jaharo",
+    "aliases": [],
+    "role": "cacique pacificado por Alonso de Hojeda cerca de Santa Marta; luego robado por Cristóbal Guerra",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-jimenez-de-quesada",
+    "canonical_name": "Gonzalo Jiménez de Quesada",
+    "aliases": [
+      "licenciado Gonzalo Jiménez"
+    ],
+    "role": "licenciado, teniente del adelantado Pedro de Lugo; descubrió las esmeraldas y conquistó el reino de Bogotá (Nueva Granada)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bogota-cacique",
+    "canonical_name": "Bogotá",
+    "aliases": [],
+    "role": "rey/cacique del valle de los Alcázares; entregó oro a Jiménez de Quesada y le indicó dónde buscar esmeraldas en tierra de Tunja",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ambrosio-de-alfinger",
+    "canonical_name": "Ambrosio de Alfínger",
+    "aliases": [],
+    "role": "alemán; primer gobernador de Venezuela en nombre de los Belzares (Welser); murió flechado con hierba por los caribes (1533)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:jorge-de-espira",
+    "canonical_name": "Jorge de Espira",
+    "aliases": [
+      "Jorge Spira"
+    ],
+    "role": "alemán; gobernador de Venezuela tras Alfínger (1535)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:peralonso-nino",
+    "canonical_name": "Peralonso Niño",
+    "aliases": [],
+    "role": "capitán financiado por los Pinzones y los Niños; rescató grandes cantidades de perlas en Curiana (1499)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-de-vega",
+    "canonical_name": "Hernando de Vega",
+    "aliases": [
+      "señor de Grajales"
+    ],
+    "role": "gobernador de Galicia; encarceló a Peralonso Niño acusado de robar perlas y engañar al quinto real",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-juan-garces",
+    "canonical_name": "fray Juan Garcés",
+    "aliases": [],
+    "role": "vicario franciscano; fundó el primer monasterio de Cumaná (1516)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-dionisio",
+    "canonical_name": "fray Dionisio",
+    "aliases": [],
+    "role": "fraile; martirizado por los indios de Cumaná en la rebelión de 1519-1520 tras días escondido",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-de-ocampo",
+    "canonical_name": "Gonzalo de Ocampo",
+    "aliases": [],
+    "role": "capitán enviado por el almirante y la Audiencia a castigar la rebelión de Cumaná (1520); fundó la villa de Toledo",
+    "status": "candidata",
+    "notas": "No confundir con person:sebastian-de-ocampo ni con person:diego-de-ocampo-veragua."
+  },
+  {
+    "id": "person:cacique-diego-cumana",
+    "canonical_name": "cacique D. Diego (Cumaná)",
+    "aliases": [],
+    "role": "cacique bautizado que ayudó a Gonzalo de Ocampo a fundar la villa de Toledo en Cumaná",
+    "status": "candidata"
+  },
+  {
+    "id": "person:bartolome-de-las-casas",
+    "canonical_name": "Bartolomé de las Casas",
+    "aliases": [
+      "licenciado Bartolomé de las Casas",
+      "el clérigo",
+      "fray Bartolomé de las Casas"
+    ],
+    "role": "clérigo; obtuvo la gobernación de Cumaná con labradores en vez de soldados (1520-1521); su proyecto fracasó y se hizo fraile dominico · fraile dominico; Gómara le atribuye haber procurado ante el emperador las Nuevas Leyes de Indias de 1542 · fraile dominico; insistió ante el emperador en la libertad de los indios, lo que llevó a nuevas informaciones y a que finalmente se los declarara libres",
+    "status": "candidata",
+    "notas": "No confundir con person:francisco-de-las-casas (fundador de Trujillo, Honduras) — son personas distintas."
+  },
+  {
+    "id": "person:juan-rodriguez-de-fonseca",
+    "canonical_name": "Juan Rodríguez de Fonseca",
+    "aliases": [
+      "deán de Sevilla",
+      "obispo de Burgos"
+    ],
+    "role": "deán de Sevilla, luego obispo de Burgos y presidente del Consejo de Indias; organizó armadas para Colón y para Pedrarias; se opuso al proyecto de Las Casas en Cumaná",
+    "status": "candidata"
+  },
+  {
+    "id": "person:luis-zapata",
+    "canonical_name": "licenciado Luis Zapata",
+    "aliases": [],
+    "role": "se opuso, junto con Fonseca y Conchillos, a que Bartolomé de las Casas gobernara Cumaná",
+    "status": "candidata"
+  },
+  {
+    "id": "person:lope-de-conchillos",
+    "canonical_name": "Lope de Conchillos",
+    "aliases": [],
+    "role": "secretario real; se opuso al proyecto de gobernación de Bartolomé de las Casas en Cumaná",
+    "status": "candidata"
+  },
+  {
+    "id": "person:monsieur-de-laxao",
+    "canonical_name": "monsiur de Laxao",
+    "aliases": [],
+    "role": "camarero del emperador Carlos V; favoreció ante el emperador el proyecto de Bartolomé de las Casas en Cumaná",
+    "status": "candidata"
+  },
+  {
+    "id": "person:jacome-castellon",
+    "canonical_name": "Jácome Castellón",
+    "aliases": [],
+    "role": "capitán enviado por el almirante y la Audiencia a reconquistar Cumaná tras el desastre; fundó la Nueva Cádiz en Cubagua (1523)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-martin",
+    "canonical_name": "Francisco Martín",
+    "aliases": [],
+    "role": "español que aprendió en Maracaibo a curar con humo, soplos y bramidos, a la manera de los sacerdotes indígenas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-ordaz",
+    "canonical_name": "Diego de Ordaz",
+    "aliases": [
+      "Diego de Ordás"
+    ],
+    "role": "capitán de Fernando Cortés; fue nombrado gobernador y adelantado del río Marañón en 1531, pero murió en la mar antes de llegar a su gobernación · partidario de Diego Velázquez que intentó una celada para apresar a Cortés antes de la partida de su armada; terminó embarcado en ella",
+    "status": "candidata",
+    "notas": "Id reusado de entidades/cortes/personas.json."
+  },
+  {
+    "id": "person:antonio-sedeno",
+    "canonical_name": "Antonio Sedeño",
+    "aliases": [
+      "Ántonio Sedeño"
+    ],
+    "role": "gobernador y adelantado de la isla de la Trinidad desde 1530; murió mal en sus entradas de conquista",
+    "status": "candidata"
+  },
+  {
+    "id": "person:jeronimo-ortal",
+    "canonical_name": "Jerónimo Ortal",
+    "aliases": [
+      "Hiéronimo de Ortal",
+      "Hierónimo Hortal"
+    ],
+    "role": "zaragozano; fue gobernador y poblador de Paria y Cumaná desde 1534, fundó San Miguel de Neverí",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-diaz-de-solis",
+    "canonical_name": "Juan Díaz de Solís",
+    "aliases": [
+      "Juan Díez de Solís"
+    ],
+    "role": "piloto mayor del rey, natural de Lebrija; descubrió el río de la Plata y murió allí, muerto y comido por los indios al desembarcar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:americo-vespucio",
+    "canonical_name": "Américo Vespucio",
+    "aliases": [
+      "Alberico Vespucio"
+    ],
+    "role": "navegante florentino al servicio de Portugal; Gómara pone en duda que haya navegado tanto como afirmaba, comparándolo con Pinzón y Solís",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-mendoza",
+    "canonical_name": "Pedro de Mendoza",
+    "aliases": [
+      "Don Pedro de Mendoza"
+    ],
+    "role": "vecino de Guadix; fue al río de la Plata en 1535 con la mayor flota que hasta entonces pasara a Indias, y murió en el camino de vuelta a España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fernando-magallanes",
+    "canonical_name": "Fernando Magallanes",
+    "aliases": [
+      "Hernando de Magallanes"
+    ],
+    "role": "navegante portugués al servicio de Castilla; descubrió el estrecho que lleva su nombre y murió en la isla de Mactan",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ruy-falero",
+    "canonical_name": "Ruy Falero",
+    "aliases": [],
+    "role": "cosmógrafo portugués, socio de Magallanes en la propuesta de la ruta a las Malucas; enloqueció antes de partir y no llegó a viajar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-serrano",
+    "canonical_name": "Juan Serrano",
+    "aliases": [],
+    "role": "piloto mayor de la flota de Magallanes; fue elegido caudillo tras su muerte y murió poco después, engañado y muerto en Cebú por Hamabar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-serrano",
+    "canonical_name": "Francisco Serrano",
+    "aliases": [],
+    "role": "portugués, amigo o pariente de Magallanes, capitán de Corala en Ternate; le escribió desde las Malucas animándolo a ir y murió allí siete meses antes de que llegaran las naves españolas",
+    "status": "candidata",
+    "notas": "No confundir con Juan Serrano, piloto mayor de la misma expedición."
+  },
+  {
+    "id": "person:juan-sebastian-elcano",
+    "canonical_name": "Juan Sebastián del Cano",
+    "aliases": [
+      "Juan Sebastián Elcano",
+      "Juan Sebastián de Cano"
+    ],
+    "role": "natural de Guetaria; trajo la nao Victoria de vuelta a España completando la primera vuelta al mundo, y fue nombrado juez de propiedad por Castilla en la junta de Badajoz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:garcijofre-de-loaisa",
+    "canonical_name": "fray Garcijofre de Loaisa",
+    "aliases": [
+      "fray García Jofre de Loaisa"
+    ],
+    "role": "de la orden de San Juan, natural de Ciudad Real; capitán general de la segunda armada enviada a las Malucas en 1525, murió en la mar",
+    "status": "candidata",
+    "notas": "Distinto del cardenal fray García de Loaisa, arzobispo de Sevilla y presidente del Consejo de Indias (ver person:garcia-de-loaisa-cardenal) — mismo apellido, dos personas distintas."
+  },
+  {
+    "id": "person:garcia-de-loaisa-cardenal",
+    "canonical_name": "García de Loaisa",
+    "aliases": [
+      "fray García de Loaisa",
+      "cardenal Loaisa",
+      "arzobispo de Sevilla"
+    ],
+    "role": "cardenal, arzobispo de Sevilla y presidente del Consejo de Indias; favoreció el envío de Vaca de Castro al Perú y presidió la redacción de las Nuevas Leyes",
+    "status": "candidata",
+    "notas": "Distinto de fray Garcijofre de Loaisa, capitán de la segunda armada a las Malucas (ver person:garcijofre-de-loaisa)."
+  },
+  {
+    "id": "person:almanzor-tidore",
+    "canonical_name": "Almanzor",
+    "aliases": [],
+    "role": "rey de Tidore; recibió a la expedición de Magallanes con grandes honores y juró amistad perpetua a Carlos V",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hamabar",
+    "canonical_name": "Hamabar",
+    "aliases": [],
+    "role": "rey de Zebut (Cebú); se bautizó como 'Carlos' junto con más de ochocientas personas, y después mató a traición a Juan Serrano y a treinta españoles, instigado por el esclavo Enrique",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cilapulapo",
+    "canonical_name": "Cilapulapo",
+    "aliases": [],
+    "role": "señor de la isla de Mautan (Mactan); se negó a someterse al emperador y venció y mató a Fernando Magallanes en la batalla de la playa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:siripada-rey-borney",
+    "canonical_name": "Siripada",
+    "aliases": [],
+    "role": "rey de Borney (Borneo); recibió con gran fasto a los supervivientes de la expedición de Magallanes",
+    "status": "candidata"
+  },
+  {
+    "id": "person:papa-alejandro-vi",
+    "canonical_name": "Papa Alejandro VI",
+    "aliases": [],
+    "role": "papa valenciano; otorgó a los Reyes Católicos la donación de las Indias mediante bula, origen de la raya de repartición entre Castilla y Portugal",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-almagro",
+    "canonical_name": "Diego de Almagro",
+    "aliases": [
+      "el Adelantado",
+      "el mariscal Almagro",
+      "don Diego de Almagro"
+    ],
+    "role": "socio de Francisco Pizarro en la conquista del Perú; fue a descubrir Chile, tomó el Cuzco por la fuerza, fue vencido en la batalla de las Salinas y ejecutado en 1538 · socio de Francisco Pizarro en la conquista del Perú; ahogado por orden de los Pizarro, hecho recordado por Gómara en sus 'Consideraciones' sobre las guerras civiles del Perú",
+    "status": "candidata",
+    "notas": "'Diego de Almagro el Viejo', para distinguirlo de su hijo homónimo (ver person:diego-de-almagro-el-mozo)."
+  },
+  {
+    "id": "person:hernando-pizarro",
+    "canonical_name": "Hernando Pizarro",
+    "aliases": [
+      "Fernando Pizarro"
+    ],
+    "role": "hermano legítimo mayor de Francisco Pizarro; venció y ejecutó a Diego de Almagro en la batalla de las Salinas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:gonzalo-pizarro",
+    "canonical_name": "Gonzalo Pizarro",
+    "aliases": [
+      "Pizarro"
+    ],
+    "role": "hermano de madre de Francisco Pizarro; encabezó la expedición a la tierra de la Canela y en 1544 se alzó como capitán general del Cuzco contra las Nuevas Leyes · hermano del marqués Francisco Pizarro; se alzó contra el virrey Blasco Núñez Vela, lo venció y mató, y se hizo gobernador del Perú hasta ser vencido y ejecutado por el licenciado Pedro de la Gasca en Xaquixaguana (1548)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-pizarro",
+    "canonical_name": "Juan Pizarro",
+    "aliases": [],
+    "role": "hermano de madre de Francisco Pizarro; murió de una pedrada defendiendo la fortaleza del Cuzco durante el cerco de Manco Inca",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-martin-de-alcantara",
+    "canonical_name": "Francisco Martín de Alcántara",
+    "aliases": [],
+    "role": "hermano de madre de Francisco Pizarro; murió junto a él defendiendo su casa el día de su asesinato",
+    "status": "candidata"
+  },
+  {
+    "id": "person:sebastian-de-benalcazar",
+    "canonical_name": "Sebastián de Benalcázar",
+    "aliases": [
+      "el adelantado Benalcázar"
+    ],
+    "role": "teniente de Pizarro en San Miguel; conquistó Quito venciendo a Rumiñahui · adelantado de Popayán y Quito; aconsejó al virrey Blasco Núñez Vela rendirse a Gonzalo Pizarro antes de la batalla de Añaquito y fue perdonado por este tras la victoria",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-luque",
+    "canonical_name": "Hernando Luque",
+    "aliases": [
+      "Fernando Luque"
+    ],
+    "role": "maestrescuela de Panamá, clérigo rico; tercer socio de la compañía de descubrimiento del Perú junto con Pizarro y Almagro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:atahualpa",
+    "canonical_name": "Atahualpa",
+    "aliases": [
+      "Atabaliba",
+      "Atagualpa"
+    ],
+    "role": "Inga de Quito, hijo de Huayna Cápac; venció y mató a su hermano Huáscar, fue apresado por Pizarro en Cajamarca y ejecutado en 1533",
+    "status": "candidata"
+  },
+  {
+    "id": "person:huascar",
+    "canonical_name": "Huáscar",
+    "aliases": [
+      "Guaxcar"
+    ],
+    "role": "Inga legítimo del Cuzco, hijo mayor de Huayna Cápac; fue apresado por los capitanes de Atahualpa y muerto por su mandado",
+    "status": "candidata"
+  },
+  {
+    "id": "person:huayna-capac",
+    "canonical_name": "Huayna Cápac",
+    "aliases": [
+      "Guaynacapa"
+    ],
+    "role": "Inga, padre de Huáscar y Atahualpa; murió en Quito, dejando esa tierra a Atahualpa y el Cuzco y sus tesoros a Huáscar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:quizquiz",
+    "canonical_name": "Quizquiz",
+    "aliases": [],
+    "role": "capitán de Atahualpa; capturó y ordenó matar a Huáscar, y siguió resistiendo tras la muerte de Atabaliba hasta ser muerto por su propia gente",
+    "status": "candidata"
+  },
+  {
+    "id": "person:chalcuchimac",
+    "canonical_name": "Chalcuchímac",
+    "aliases": [
+      "Calicuchama"
+    ],
+    "role": "capitán de Atahualpa; capturó y ordenó matar a Huáscar junto con Quizquiz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:filipillo",
+    "canonical_name": "Filipillo",
+    "aliases": [
+      "Felipe",
+      "Filipillo de Pohechos"
+    ],
+    "role": "indio de Pohechos, lengua e intérprete de Pizarro; acusó falsamente a Atahualpa de conjurar contra los españoles y luego huyó de Almagro por participar en una conjura del inca Mango",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vicente-de-valverde",
+    "canonical_name": "fray Vicente de Valverde",
+    "aliases": [],
+    "role": "dominico; requirió a Atahualpa que se sometiera al papa y al emperador en Cajamarca, y aconsejó bautizarlo antes de ejecutarlo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:ruminahui",
+    "canonical_name": "Rumiñahui",
+    "aliases": [
+      "Ruminagui"
+    ],
+    "role": "capitán de Atahualpa; huyó al Quito tras la prisión de su señor, se alzó como tirano, mató a Illescas y fue vencido por Benalcázar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:manco-inca-yupanqui",
+    "canonical_name": "Manco Inca Yupanqui",
+    "aliases": [
+      "Mango",
+      "Mango Inca"
+    ],
+    "role": "hijo de Huayna Cápac; fue nombrado inca por Pizarro, luego se rebeló y cercó el Cuzco y Los Reyes en 1536",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-alvarado",
+    "canonical_name": "Diego de Alvarado",
+    "aliases": [],
+    "role": "capitán, allegado de Pedro de Alvarado; medió repetidas veces entre Almagro y los Pizarro, evitó que Almagro matara a Hernando Pizarro, y tras la muerte de Almagro fue a España a acusar a los Pizarro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-alvarado",
+    "canonical_name": "Alonso de Alvarado",
+    "aliases": [],
+    "role": "capitán de Francisco Pizarro, natural de Burgos; fue nombrado capitán general del socorro al Cuzco, fue vencido y preso por Almagro en Abancay, y luego peleó en las Salinas y en Chupas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:rodrigo-orgonez",
+    "canonical_name": "Rodrigo Orgóñez",
+    "aliases": [
+      "Rodrigo Orgoños"
+    ],
+    "role": "general de Diego de Almagro; murió en la batalla de las Salinas herido en la frente por un perdigón de arcabuz",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-almagro-el-mozo",
+    "canonical_name": "Diego de Almagro el Mozo",
+    "aliases": [
+      "don Diego de Almagro",
+      "don Diego"
+    ],
+    "role": "hijo de Diego de Almagro y una india de Panamá; fue proclamado gobernador del Perú tras el asesinato de Francisco Pizarro, y fue vencido y ejecutado por Vaca de Castro en la batalla de Chupas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:garcia-de-alvarado",
+    "canonical_name": "García de Alvarado",
+    "aliases": [],
+    "role": "capitán almagrista; mató a Cristóbal Sotelo y fue muerto por orden de don Diego de Almagro el Mozo al sospechar que quería asesinarlo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-de-sotelo",
+    "canonical_name": "Cristóbal de Sotelo",
+    "aliases": [],
+    "role": "capitán almagrista, enviado por don Diego de Almagro el Mozo a tomar el Cuzco; murió a estocadas a manos de García de Alvarado",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-rada",
+    "canonical_name": "Juan de Rada",
+    "aliases": [],
+    "role": "criado del viejo Diego de Almagro; encabezó la conjuración que asesinó a Francisco Pizarro en 1541 y fue hecho capitán general por don Diego de Almagro el Mozo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:vaca-de-castro",
+    "canonical_name": "Cristóbal Vaca de Castro",
+    "aliases": [
+      "licenciado Vaca de Castro",
+      "Vaca de Castro",
+      "el licenciado Vaca de Castro"
+    ],
+    "role": "licenciado, oidor de Valladolid; fue enviado a pacificar el Perú, venció a don Diego de Almagro el Mozo en la batalla de Chupas y gobernó hasta ser preso por Blasco Núñez Vela · gobernador del Perú antes de Blasco Núñez Vela; degolló a Diego de Almagro el mozo y fue preso por el propio virrey al llegar este al Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "person:blasco-nunez-vela",
+    "canonical_name": "Blasco Núñez Vela",
+    "aliases": [
+      "el virrey",
+      "Blasco Núñez"
+    ],
+    "role": "primer virrey del Perú; llegó a ejecutar las Nuevas Leyes con gran rigor, prendió a Vaca de Castro y provocó el alzamiento de Gonzalo Pizarro · primer virrey del Perú, encargado de ejecutar las Nuevas Leyes; preso por la Audiencia de Lima y muerto en la batalla de Añaquito, cerca de Quito, en 1546",
+    "status": "candidata"
+  },
+  {
+    "id": "person:peralvarez-holguin",
+    "canonical_name": "Perálvarez Holguín",
+    "aliases": [],
+    "role": "capitán realista alzado en el Cuzco contra don Diego de Almagro el Mozo; se unió a Vaca de Castro y murió en la batalla de Chupas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-valdivia",
+    "canonical_name": "Pedro de Valdivia",
+    "aliases": [],
+    "role": "capitán; continuó la conquista de Chile iniciada por Diego de Almagro, y fue maestre de campo del ejército de Francisco Pizarro contra Almagro · conquistador de Chile; volvió al Perú a pedir socorro y se sumó al ejército de Gasca contra Gonzalo Pizarro como coronel de la infantería",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-orellana",
+    "canonical_name": "Francisco de Orellana",
+    "aliases": [],
+    "role": "capitán de Gonzalo Pizarro en la expedición a la Canela; se apartó río abajo con el bergantín y el oro, dando origen a la exploración del río que llegó a llamarse de las Amazonas",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-caravajal",
+    "canonical_name": "Francisco de Caravajal",
+    "aliases": [],
+    "role": "alférez mayor del ejército de Vaca de Castro; por su industria y experiencia militar se gobernó gran parte de la campaña contra don Diego de Almagro el Mozo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:garcilaso-de-la-vega-capitan",
+    "canonical_name": "Garcilaso de la Vega",
+    "aliases": [],
+    "role": "capitán de caballo alzado en el Cuzco contra don Diego de Almagro el Mozo, y luego con Vaca de Castro; protestó en secreto por el poder dado a Gonzalo Pizarro en 1544 · capitán español en el Perú; salvó la vida de Gonzalo Pizarro dándole un caballo en la batalla de Huarina, y se pasó al bando de Pedro de la Gasca en Xaquixaguana",
+    "status": "candidata",
+    "notas": "Es el padre del cronista mestizo Inca Garcilaso de la Vega, autor de los Comentarios Reales — no confundir con su hijo, que no aparece en este tramo del texto de Gómara. | Es el padre del cronista mestizo Inca Garcilaso de la Vega, autor de los Comentarios Reales — no confundir a ambos."
+  },
+  {
+    "id": "person:pedro-de-candia",
+    "canonical_name": "Pedro de Candía",
+    "aliases": [],
+    "role": "griego, artillero de Pizarro; fue enviado a tierra en Túmbez y confirmó las riquezas de Atabaliba, y fue de los pocos que se quedaron con Pizarro en la isla del Gallo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-avila",
+    "canonical_name": "Alonso de Ávila",
+    "aliases": [],
+    "role": "veterano de la expedición de Grijalva; se unió a Cortés en La Habana para la armada a la Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:andres-de-duero",
+    "canonical_name": "Andrés de Duero",
+    "aliases": [],
+    "role": "vecino de Cuba; prestó dinero a Cortés para armar la expedición a la Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-de-carvajal",
+    "canonical_name": "Francisco de Carvajal",
+    "aliases": [
+      "el Demonio de los Andes"
+    ],
+    "role": "viejo soldado del Gran Capitán, maestre de campo de Gonzalo Pizarro; tristemente célebre por su crueldad; ahorcado y descuartizado tras la batalla de Xaquixaguana a los ochenta y cuatro años",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cepeda",
+    "canonical_name": "Cepeda",
+    "aliases": [
+      "el licenciado Cepeda"
+    ],
+    "role": "oidor de la Audiencia de Lima; encabezó la prisión del virrey Blasco Núñez Vela y luego gobernó en nombre de Gonzalo Pizarro hasta pasarse al bando de Pedro de la Gasca durante la batalla de Xaquixaguana",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-centeno",
+    "canonical_name": "Diego Centeno",
+    "aliases": [],
+    "role": "vecino de la villa de la Plata (Charcas); encabezó varios alzamientos por el rey contra Gonzalo Pizarro; vencido en la batalla de Huarina pero repuesto tras la victoria de Gasca, recibió las minas de Potosí",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-hinojosa",
+    "canonical_name": "Pedro de Hinojosa",
+    "aliases": [],
+    "role": "capitán de Gonzalo Pizarro puesto al mando de su armada; la entregó a Pedro de la Gasca en Panamá, lo que inició la caída de Pizarro; Gasca lo nombró luego general de su ejército",
+    "status": "candidata"
+  },
+  {
+    "id": "person:hernando-bachicao",
+    "canonical_name": "Hernando Bachicao",
+    "aliases": [
+      "Hernán Bachicao"
+    ],
+    "role": "capitán de Gonzalo Pizarro que sometió Panamá a saco y tiranía al mando de su armada por mar",
+    "status": "candidata"
+  },
+  {
+    "id": "person:pedro-de-la-gasca",
+    "canonical_name": "Pedro de la Gasca",
+    "aliases": [
+      "el licenciado Gasca",
+      "el Presidente Gasca"
+    ],
+    "role": "clérigo del Consejo de la Inquisición enviado por Carlos V a pacificar el Perú con título de presidente; venció y ejecutó a Gonzalo Pizarro en Xaquixaguana, repartió los indios y tasó los tributos antes de volver a España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-de-almagro-hijo",
+    "canonical_name": "don Diego de Almagro (el mozo)",
+    "aliases": [
+      "don Diego de Almagro, su hijo"
+    ],
+    "role": "hijo de Diego de Almagro; mató a Francisco Pizarro para vengar a su padre y fue después degollado por el licenciado Vaca de Castro",
+    "status": "candidata",
+    "notas": "Distinto de su padre, homónimo — ver person:diego-de-almagro. Ambigüedad ya frecuente en el proyecto con nombres repetidos entre padre e hijo (comparar la de 'Diego Colón' documentada en Las Casas)."
+  },
+  {
+    "id": "person:vela-nunez",
+    "canonical_name": "Vela Núñez",
+    "aliases": [],
+    "role": "hermano del virrey Blasco Núñez Vela; degollado por orden de Gonzalo Pizarro tras descubrirse un trato para huir con Juan de la Torre",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-alvarez-oidor",
+    "canonical_name": "Juan Álvarez",
+    "aliases": [
+      "el oidor Juan Álvarez",
+      "el licenciado Álvarez"
+    ],
+    "role": "oidor de la Audiencia de Lima; encargado de llevar preso a España al virrey Blasco Núñez Vela, lo soltó en Guaura por ganar mercedes, decisión que precipitó la propia muerte del virrey; murió después, según la fama, envenenado por orden de Gonzalo Pizarro",
+    "status": "candidata"
+  },
+  {
+    "id": "person:alonso-de-mendoza",
+    "canonical_name": "Alonso de Mendoza",
+    "aliases": [],
+    "role": "capitán, uno de los más señalados hombres de guerra del Perú según Gómara; sirvió primero a Gonzalo Pizarro y después a Diego Centeno y a Pedro de la Gasca",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-acosta-capitan",
+    "canonical_name": "Juan de Acosta",
+    "aliases": [],
+    "role": "capitán de Gonzalo Pizarro, presente en las batallas de Huarina y Xaquixaguana; ahorcado y descuartizado tras la derrota de Pizarro",
+    "status": "candidata",
+    "notas": "Homónimo del cronista José de Acosta (autor de la Historia natural y moral de las Indias); sin relación conocida entre ambos."
+  },
+  {
+    "id": "person:pedro-de-puelles",
+    "canonical_name": "Pedro de Puelles",
+    "aliases": [],
+    "role": "capitán y maestre de campo de Gonzalo Pizarro en Quito",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-hernandez-nicaragua",
+    "canonical_name": "Francisco Hernández",
+    "aliases": [],
+    "role": "capitán enviado por Pedrarias Dávila a conquistar Nicaragua; fundó las villas de Granada y León; degollado por Pedrarias, quien lo acusó de tratar con Hernando Cortés para alzarse con la tierra",
+    "status": "candidata",
+    "notas": "No confundir con Francisco Hernández de Córdoba, capitán de la primera expedición a Yucatán (person:francisco-hernandez-de-cordoba) — son dos personas distintas del mismo periodo."
+  },
+  {
+    "id": "person:diriangen",
+    "canonical_name": "Diriangén",
+    "aliases": [
+      "Diriangen"
+    ],
+    "role": "cacique guerrero de Nicaragua; resistió con las armas a Gil González Dávila tras fingir aceptar el cristianismo",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cacique-nicaragua",
+    "canonical_name": "Nicaragua (cacique)",
+    "aliases": [],
+    "role": "cacique principal que da nombre a la provincia; sostuvo con Gil González Dávila un extenso diálogo filosófico-religioso recogido por Gómara y se convirtió al cristianismo con toda su corte",
+    "status": "candidata",
+    "notas": "El propio nombre del cacique es 'Nicaragua', origen del nombre de la provincia según el relato de Gómara."
+  },
+  {
+    "id": "person:francisco-vazquez-de-coronado",
+    "canonical_name": "Francisco Vázquez de Coronado",
+    "aliases": [],
+    "role": "capitán enviado por el virrey Antonio de Mendoza a conquistar Cíbola y Quivira; expedición que resultó decepcionante en riquezas pese a las nuevas de fray Marcos de Niza",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-marcos-de-niza",
+    "canonical_name": "fray Marcos de Niza",
+    "aliases": [],
+    "role": "franciscano que exploró tierras al norte de Culhuacán y trajo noticias (luego desmentidas) de la riqueza de las siete ciudades de Cíbola",
+    "status": "candidata"
+  },
+  {
+    "id": "person:antonio-de-mendoza",
+    "canonical_name": "Antonio de Mendoza",
+    "aliases": [
+      "don Antonio de Mendoza",
+      "don Antonio"
+    ],
+    "role": "primer virrey de la Nueva España, después virrey del Perú; disputó con Hernando Cortés el derecho a explorar Cíbola y organizó en su lugar la expedición de Francisco Vázquez de Coronado",
+    "status": "candidata"
+  },
+  {
+    "id": "person:beatriz-de-la-cueva",
+    "canonical_name": "Beatriz de la Cueva",
+    "aliases": [
+      "doña Beatriz de la Cueva"
+    ],
+    "role": "segunda esposa de Pedro de Alvarado; se hizo jurar gobernadora de Guatemala tras la muerte de este y murió ahogada días después en la inundación que destruyó la ciudad de Santiago de los Caballeros (1541)",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-de-fonseca",
+    "canonical_name": "Juan Rodríguez de Fonseca",
+    "aliases": [
+      "obispo de Burgos",
+      "Juan de Fonseca"
+    ],
+    "role": "primer presidente del Consejo de Indias; gobernó los negocios de Indias desde los Reyes Católicos; protegió con empeño la causa de Diego Velázquez contra Hernando Cortés en el Consejo, hasta ser inhibido del caso por parcialidad",
+    "status": "candidata"
+  },
+  {
+    "id": "person:garcia-de-loaisa",
+    "canonical_name": "fray García de Loaisa",
+    "aliases": [],
+    "role": "confesor del emperador Carlos V y primer presidente del Consejo Real de Indias creado en 1524; dio crédito a los frailes que pedían declarar esclavos a los indios",
+    "status": "candidata"
+  },
+  {
+    "id": "person:martin-cortes-de-monroy",
+    "canonical_name": "Martín Cortés de Monroy",
+    "aliases": [],
+    "role": "padre de Hernando Cortés; hidalgo extremeño, capitán de cincuenta caballos ligeros en la guerra al servicio de los Reyes Católicos",
+    "status": "candidata"
+  },
+  {
+    "id": "person:catalina-pizarro-altamirano",
+    "canonical_name": "Catalina Pizarro Altamirano",
+    "aliases": [],
+    "role": "madre de Hernando Cortés, de familia hidalga extremeña",
+    "status": "candidata"
+  },
+  {
+    "id": "person:diego-colon-gobernador",
+    "canonical_name": "Diego Colón",
+    "aliases": [
+      "don Diego Colón"
+    ],
+    "role": "hijo de Cristóbal Colón; sucedió a Nicolás de Ovando como gobernador de la isla Española y encargó a Diego Velázquez la conquista de Cuba",
+    "status": "candidata",
+    "notas": "Es el gobernador de la Española, hijo del Almirante — no confundir con los otros homónimos 'Diego Colón' ya documentados en el proyecto (Las Casas tiene tres personas distintas con ese nombre)."
+  },
+  {
+    "id": "person:alonso-quintero",
+    "canonical_name": "Alonso Quintero",
+    "aliases": [],
+    "role": "capitán de la nave mercante en la que Cortés cruzó de Sevilla a la Española en 1504; intentó desviar el rumbo para adelantarse a otras naves y por rivalidad con el piloto Francisco Niño",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-nino",
+    "canonical_name": "Francisco Niño",
+    "aliases": [],
+    "role": "piloto de la nave de Alonso Quintero en el viaje de Cortés a la isla Española en 1504",
+    "status": "candidata"
+  },
+  {
+    "id": "person:cristobal-de-lagos",
+    "canonical_name": "Cristóbal de Lagos",
+    "aliases": [],
+    "role": "alcaide de la fortaleza de Cuba donde Diego Velázquez tuvo preso a Cortés; este escapó rompiendo sus prisiones mientras el alcaide, por miedo, fingió no darse cuenta",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-juarez-cuba",
+    "canonical_name": "Juan Juárez",
+    "aliases": [],
+    "role": "allegado de Cortés en Cuba; lo ayudó a proveerse de espada, broquel y coraza durante su fuga de la prisión de Diego Velázquez",
+    "status": "candidata"
+  },
+  {
+    "id": "person:juan-escudero",
+    "canonical_name": "Juan Escudero",
+    "aliases": [],
+    "role": "alguacil de Diego Velázquez que apresó a Cortés cuando este intentaba refugiarse de nuevo en la iglesia de Baracoa",
+    "status": "candidata"
+  },
+  {
+    "id": "person:amador-de-lares",
+    "canonical_name": "Amador de Lares",
+    "aliases": [],
+    "role": "tesorero real en Cuba; Diego Velázquez lo usó por bajo cuerda para intentar disuadir a Cortés de emprender la expedición a la Nueva España",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-nunez-de-paz",
+    "canonical_name": "Francisco Núñez de Paz",
+    "aliases": [],
+    "role": "procurador y pariente de Hernando Cortés en la corte; logró que el obispo de Burgos, Juan de Fonseca, se inhibiera de juzgar la causa de Cortés por su parcialidad hacia Diego Velázquez",
+    "status": "candidata",
+    "notas": "No confundir con Inés de Paz, tía paterna de Cortés en Salamanca, ni con el marido de esta, Francisco Núñez Valera — coincidencia de apellido, sin relación aclarada en el texto."
+  }
+]

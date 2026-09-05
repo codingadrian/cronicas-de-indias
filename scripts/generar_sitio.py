@@ -103,6 +103,7 @@ COLOR_EDITOR_SIN_REGISTRAR = "#8a8570"
 MARCADOR_RE = re.compile(r"\s?\((\d+)\)")
 DEF_EDITOR_RE = re.compile(r"\((\d+),([^,()]+)(?:,([^,()]+))?\)")
 AUTOR_NOTA_VIEJA_RE = re.compile(r"[—\-]\s*([A-ZÁÉÍÓÚÑ][^.]{2,40})\.?\s*$")
+TAG_ENTIDAD_RE = re.compile(r"\(@,(\d+),(persona|lugar)\)")
 
 
 def ultimas_n_palabras(texto, n):
@@ -262,6 +263,49 @@ def procesar_comentarios(parrafos, editores):
     return parrafos_finales, comentarios
 
 
+def procesar_entidades_anotadas(parrafos):
+    """Parsea las anotaciones manuales de entidades dentro de los párrafos
+    de un capítulo (ver CLAUDE.md, sección de anotación de entidades):
+    `texto(@,n,tipo)`, un marcador autocontenido pegado justo después del
+    texto anotado — a diferencia de los comentarios al margen, no hay una
+    definición aparte en otro lugar del párrafo. `n` es cuántas palabras
+    hacia atrás (contando la que queda justo antes del marcador) forman el
+    texto anotado, y `tipo` es "persona" o "lugar".
+
+    Devuelve (parrafos_sin_marcadores, lista_de_candidatos). Cada candidato
+    trae `ocurrencia`: cuántas veces ya apareció ese mismo texto ancla en
+    el cuerpo final ANTES de este punto — mismo criterio que usa
+    procesar_comentarios, para poder distinguir menciones repetidas del
+    mismo nombre dentro del capítulo.
+
+    Esto NO promueve nada automáticamente a entidades/<obra>/personas.json
+    ni lugares.json — es una lista de candidatos para revisión manual
+    (mismo espíritu que candidatos-frecuencia.json), separada a propósito
+    del registro real de entidades.
+    """
+    resultado = list(parrafos)
+    candidatos = []
+
+    def texto_final_hasta(i, prefijo):
+        return "\n\n".join(resultado[:i]) + "\n\n" + prefijo
+
+    for i, parrafo in enumerate(resultado):
+        for m in TAG_ENTIDAD_RE.finditer(parrafo):
+            ancho, tipo = int(m.group(1)), m.group(2)
+            antes = parrafo[: m.start()]
+            anchor = ultimas_n_palabras(antes, ancho)
+            ocurrencia = (texto_final_hasta(i, antes).count(anchor) - 1) if anchor else 0
+            candidatos.append({
+                "anchor": anchor,
+                "ancho": ancho,
+                "tipo": tipo,
+                "ocurrencia": ocurrencia,
+            })
+        resultado[i] = TAG_ENTIDAD_RE.sub("", parrafo).rstrip()
+
+    return resultado, candidatos
+
+
 def cargar_entidades(clave):
     base = ROOT / "entidades" / clave
     personas = json.loads((base / "personas.json").read_text(encoding="utf-8"))
@@ -364,11 +408,16 @@ def main():
 
         # menciones[entity_id] = lista de {heading, url, occ, html}
         menciones = {e["id"]: [] for e in entidades}
+        candidatos_anotados = []  # ver procesar_entidades_anotadas
 
         capitulo_urls = []
         for i, cap in enumerate(capitulos):
             parrafos = normalizar_parrafos(cap["texto"])
             parrafos, comentarios = procesar_comentarios(parrafos, editores)
+            parrafos, candidatos_cap = procesar_entidades_anotadas(parrafos)
+            for c in candidatos_cap:
+                c["capitulo"] = i + 1
+            candidatos_anotados.extend(candidatos_cap)
             url_cap = f"/documentos/{clave}/{i:03d}/"
             capitulo_urls.append(url_cap)
 
@@ -411,6 +460,11 @@ def main():
 
             indice_busqueda.append(
                 {"heading": cap["heading"], "obra_titulo": obra_titulo, "url": url_cap, "texto": " ".join(parrafos)}
+            )
+
+        if candidatos_anotados:
+            (ROOT / "entidades" / clave / "candidatos-anotados.json").write_text(
+                json.dumps(candidatos_anotados, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
             )
 
         # páginas de personas y lugares

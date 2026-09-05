@@ -679,36 +679,9 @@ Yo siempre leí que el mundo, tierra o agua era esférico é las autoridades y e
 é la tierra muy quemada, y después que fui á las islas de Cabo Verde, allí en aquellas tierras es la gente mucho más negra, cuanto más bajo se van al Austro tanto más llegan al extremo, en manera que allí en derecho donde yo estaba, qués la Sierra Leoa(2), adonde se me alzaba la estrella del Norte en anocheciendo cinco grados, allí es la gente negra en extrema cantidad, y después que de allí navegué al Occidente tan extremos calores; y pasada la raya de que yo dije, fallé multiplicar la temperancia, andando en tanta cantidad, que cuando yo llegué á la isla de la Trinidad , adonde la estrella del Norte en anocheciendo también se me alzaba cinco grados, allí y en la tierra de Gracia hallé temperancia suavísima, y las tierras y árboles muy verdes, y tan 
 hermosos como en Abril en las huertas de Valencia; y la gente de allí de muy linda estatura, y blancos más que otros que haya visto en las Indias, é los cabellos muy largos é llanos, é gente más astuta é de mayor ingenio, é no cobardes. 
 (1,A.Robles)(Argín)[https://es.wikipedia.org/wiki/Arguin]
+(2,2,Original)Sierra Leona
 
-Entonces era el sol en Virgen encima de nuestras ca- 
-bezas é suyas, ansí que todo esto procede por la suaví- 
-sima temperancia que allí es, la cual procede por estar 
-más alto en el mundo más cerca del aire que cuento; 
-y así me afirmo que el mundo no es esférico, salvo 
-que tiene esta diferencia que ya dije: la cual es en este 
-hemisferio adonde caen las Indias é la mar Üceana, y 
-el extremo dello es debajo la línea equinocial, y ayuda 
-mucho á esto que sea ansí, porque el sol cuando nues- 
-tro Señorío hizo fu 6 en el primer punto de Oriente, ó 
-
-(1) Sierra Leona 
-
-281' CIUSTÓIUL COLÓX 
-
-] a primera luz que fue aquí en Oriente, allí donde es el 
-extremo de la altura deste mundo; y bien quel parecer 
-de Aristolel fuese que el Polo antártico ó la tierra ques 
-debajo dél sea la más alta parte en el mundo, y más 
-propincua al eielo, otros sabios le impugnan diciendo 
-que es esta ques debajo del Artico, por las cuales razones 
-parece que entendían que una parte deste mundo debía 
-de ser más propincua y noble al cielo que otra, y no 
-cayeron en esto que sea debajo del equinocial por la 
-forma que yo dije, y no es maravilla porque deste he- 
-misferio non se liobiese noticia cierta, salvo muy íivia 
-na y por argumento, porque nadie nunca lo ha andado 
-ni enviado á buscar, hasta agora que vuestras Altezas 
-le mandaron explorar é descubrir la mar y la tierra. 
+Entonces era el sol en Virgen encima de nuestras cabezas é suyas, ansí que todo esto procede por la suavísima temperancia que allí es, la cual procede por estar más alto en el mundo más cerca del aire que cuento; y así me afirmo que el mundo no es esférico, salvo que tiene esta diferencia que ya dije: la cual es en este hemisferio adonde caen las Indias é la mar Oceana, y el extremo dello es debajo la línea equinocial, y ayuda mucho á esto que sea ansí, porque el sol cuando nuestro Señorío hizo fué en el primer punto de Oriente, ó la primera luz que fue aquí en Oriente, allí donde es el extremo de la altura deste mundo; y bien quel parecer de Aristoles fuese que el Polo antártico ó la tierra ques debajo dél sea la más alta parte en el mundo, y más propincua al cielo, otros sabios le impugnan diciendo que es esta ques debajo del Artico, por las cuales razones parece que entendían que una parte deste mundo debía de ser más propincua y noble al cielo que otra, y no cayeron en esto que sea debajo del equinocial por la forma que yo dije, y no es maravilla porque deste hemisferio non se hobiese noticia cierta, salvo muy liviana y por argumento, porque nadie nunca lo ha andado ni enviado á buscar, hasta agora que vuestras Altezas le mandaron explorar é descubrir la mar y la tierra. 
 
 Fallo que de allí de estas dos bocas, las cuales como 
 yo dije están frontero por línea de Septentrión en Aus- 
@@ -728,6 +701,15 @@ ti) Desde la Punta de Teaeo*, que os la NE. de la Poca del S.,
 liasta la do la Peña, que es la occidental de la boca grande en 
 las de los Dragos, sólo hay trece leguas y dos tercias. — Nava - 
 rrete. 
+
+https://www.cervantesvirtual.com/obra-visor/relaciones-y-cartas-de-cristobal-colon--0/html/010bc306-82b2-11df-acc7-002185ce6064_316.html
+
+
+
+
+
+
+
 
 ¡2) Deben ser veintiuna leguas y una tercia. — Navarrete. 
 

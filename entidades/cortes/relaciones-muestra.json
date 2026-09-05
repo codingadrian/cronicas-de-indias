@@ -604,6 +604,76 @@
       "modern_equivalent": "Trujillo, Honduras",
       "status": "candidata",
       "capitulo": 3
+    },
+    {
+      "id": "person:fray-luis-de-sevilla",
+      "canonical_name": "fray Luis de Sevilla",
+      "aliases": [
+        "prior de la Mejorada"
+      ],
+      "role": "fraile jerónimo, prior de la Mejorada; gobernador interino de las Indias",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:fray-alonso-de-santo-domingo",
+      "canonical_name": "fray Alonso de Santo Domingo",
+      "aliases": [
+        "prior de San Juan de Ortega"
+      ],
+      "role": "fraile jerónimo, prior de San Juan de Ortega; gobernador interino de las Indias",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:fernando-el-catolico",
+      "canonical_name": "Fernando el Católico",
+      "aliases": [
+        "rey don Fernando"
+      ],
+      "role": "rey de España; su muerte motivó el envío de los frailes Jerónimos a gobernar las Indias",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:francisco-jimenez-de-cisneros",
+      "canonical_name": "Francisco Jiménez de Cisneros",
+      "aliases": [
+        "don fray Francisco Jiménez"
+      ],
+      "role": "Arzobispo de Toledo y Cardenal de España; gobernador regente de España",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:adriano-de-utrecht",
+      "canonical_name": "Adriano de Utrecht",
+      "aliases": [
+        "Mossior de Trayedo",
+        "Deán de Lovaina",
+        "Papa Adriano Sexto"
+      ],
+      "role": "Deán de Lovaina, embajador del rey don Carlos; regente de España, después Papa Adriano VI",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "person:carlos-v",
+      "canonical_name": "Carlos V",
+      "aliases": [
+        "rey don Carlos"
+      ],
+      "role": "rey de España, después emperador; destinatario de la Primera carta-relación",
+      "status": "candidata",
+      "capitulo": 1
+    },
+    {
+      "id": "place:nueva-espana",
+      "canonical_name": "Nueva España",
+      "aliases": [],
+      "modern_equivalent": "México (virreinato colonial español)",
+      "status": "candidata",
+      "capitulo": 1
     }
   ],
   "eventos": [
@@ -788,6 +858,14 @@
       "place_id": "place:honduras",
       "status": "candidata",
       "notas": "motivó la expedición de Cortés a Honduras"
+    },
+    {
+      "id": "event:gobierno-jeronimos-indias-1518",
+      "name": "Gobierno interino de las Indias por los frailes Jerónimos",
+      "date_text": "1518 (enviados tras la muerte de Fernando el Católico en 1516)",
+      "place_id": "place:isla-espanola",
+      "status": "candidata",
+      "notas": "fray Luis de Sevilla y fray Alonso de Santo Domingo, gobernadores interinos designados por los regentes de España (Francisco Jiménez de Cisneros y Adriano de Utrecht) tras la muerte de Fernando el Católico; a ellos pidió licencia Diego Velázquez para armar la expedición que se volvería la de Grijalva"
     }
   ],
   "relaciones": [
@@ -1459,6 +1537,45 @@
       "to": "person:cristobal-de-olid",
       "notas": "capitanes rivales en la región de Hibueras",
       "source": "source:cortes:cap-5",
+      "status": "candidata"
+    },
+    {
+      "from": "person:fray-luis-de-sevilla",
+      "relation": "estuvo_presente_en",
+      "to": "event:gobierno-jeronimos-indias-1518",
+      "notas": "prior de la Mejorada, uno de los dos frailes Jerónimos gobernadores de las Indias",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:fray-alonso-de-santo-domingo",
+      "relation": "estuvo_presente_en",
+      "to": "event:gobierno-jeronimos-indias-1518",
+      "notas": "prior de San Juan de Ortega, el segundo de los dos frailes Jerónimos gobernadores de las Indias",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "event:gobierno-jeronimos-indias-1518",
+      "relation": "ocurrió_en",
+      "to": "place:isla-espanola",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:francisco-jimenez-de-cisneros",
+      "relation": "aliado_de",
+      "to": "person:adriano-de-utrecht",
+      "notas": "co-regentes/gobernadores de España que enviaron a los frailes Jerónimos a gobernar las Indias",
+      "source": "source:cortes:cap-1",
+      "status": "candidata"
+    },
+    {
+      "from": "person:adriano-de-utrecht",
+      "relation": "aliado_de",
+      "to": "person:carlos-v",
+      "notas": "Mossior de Trayedo (Adriano de Utrecht) era embajador del rey don Carlos",
+      "source": "source:cortes:cap-1",
       "status": "candidata"
     }
   ]

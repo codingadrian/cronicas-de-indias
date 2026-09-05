@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "place:yucatan",
+    "canonical_name": "Yucatán",
+    "aliases": [],
+    "modern_equivalent": "península de Yucatán, México",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json. Gómara explica que el nombre viene de 'tectetan', que los indios respondieron por 'no te entiendo'."
+  },
+  {
+    "id": "place:campeche",
+    "canonical_name": "Campeche",
+    "aliases": [
+      "Lázaro"
+    ],
+    "modern_equivalent": "Campeche, México",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json. Hernández de Córdoba lo llamó 'Lázaro' por llegar allí domingo de Lázaro."
+  },
+  {
+    "id": "place:potonchan",
+    "canonical_name": "Potonchán (Champotón)",
+    "aliases": [
+      "Champotón",
+      "Mochocoboco",
+      "Champoton"
+    ],
+    "modern_equivalent": "Champotón, Campeche, México",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json. En Gómara, señor del pueblo: Mochocoboc; sitio de dos derrotas españolas (Hernández de Córdoba 1517, Grijalva 1518). | Sitio de la batalla de 1517 donde Francisco Hernández de Córdoba fue herido de muerte."
+  },
+  {
+    "id": "place:cuba",
+    "canonical_name": "Cuba",
+    "aliases": [
+      "isla Fernandina",
+      "Santiago de Cuba",
+      "isla de Cuba"
+    ],
+    "modern_equivalent": "Cuba",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json."
+  },
+  {
+    "id": "place:isla-espanola",
+    "canonical_name": "isla Española",
+    "aliases": [
+      "Haití",
+      "Quizqueia",
+      "Santo Domingo (la isla)",
+      "Haytí",
+      "Santo Domingo (isla)"
+    ],
+    "modern_equivalent": "La Española (Santo Domingo/Haití) · La Española (República Dominicana/Haití)",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json."
+  },
+  {
+    "id": "place:rio-grijalva-tabasco",
+    "canonical_name": "Río de Grijalva",
+    "aliases": [
+      "río de Tabasco"
+    ],
+    "modern_equivalent": "río Grijalva, Tabasco, México",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json."
+  },
+  {
+    "id": "place:honduras",
+    "canonical_name": "Hibueras",
+    "aliases": [
+      "golfo de Hibueras",
+      "Honduras"
+    ],
+    "modern_equivalent": "Honduras",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json."
+  },
+  {
+    "id": "place:trujillo-honduras",
+    "canonical_name": "Trujillo",
+    "aliases": [],
+    "modern_equivalent": "Trujillo, Honduras",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json. Fundada por Francisco de las Casas en 1525 en nombre de Cortés."
+  },
+  {
+    "id": "place:nueva-espana",
+    "canonical_name": "Nueva España",
+    "aliases": [],
+    "modern_equivalent": "México (virreinato colonial español)",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json."
+  },
+  {
+    "id": "place:cozumel",
+    "canonical_name": "Cozumel",
+    "aliases": [
+      "Acuzamil",
+      "isla de Santa Cruz"
+    ],
+    "modern_equivalent": "Cozumel, México",
+    "status": "candidata",
+    "notas": "Reusado de entidades/cortes/lugares.json (allí como 'Cozumel'); Gómara la llama 'Acuzamil'."
+  },
+  {
+    "id": "place:guanahani",
+    "canonical_name": "Guanahaní",
+    "aliases": [
+      "San Salvador"
+    ],
+    "modern_equivalent": "posiblemente San Salvador (Watling), Bahamas",
+    "status": "candidata",
+    "notas": "Primera tierra que vio Colón, 12 de octubre de 1492."
+  },
+  {
+    "id": "place:palos-de-moguer",
+    "canonical_name": "Palos de Moguer",
+    "aliases": [
+      "Palos"
+    ],
+    "modern_equivalent": "Palos de la Frontera, Huelva, España",
+    "status": "candidata",
+    "notas": "Puerto de salida del primer viaje de Colón (1492)."
+  },
+  {
+    "id": "place:la-navidad-fuerte",
+    "canonical_name": "fuerte de la Navidad",
+    "aliases": [
+      "puerto Real (primer fuerte)"
+    ],
+    "modern_equivalent": "costa norte de Haití, cerca de Cabo Haitiano",
+    "status": "candidata",
+    "notas": "Primer fuerte y pueblo español en Indias, hecho con la carabela naufragada de Colón; sus 38 hombres fueron hallados muertos al volver Colón."
+  },
+  {
+    "id": "place:isabela-ciudad",
+    "canonical_name": "la Isabela",
+    "aliases": [],
+    "modern_equivalent": "cerca de Puerto Plata, República Dominicana",
+    "status": "candidata",
+    "notas": "Ciudad fundada por Colón en su segundo viaje (1493), nombrada en memoria de la reina Isabel."
+  },
+  {
+    "id": "place:santo-domingo-ciudad",
+    "canonical_name": "Santo Domingo",
+    "aliases": [
+      "ciudad de Santo Domingo"
+    ],
+    "modern_equivalent": "Santo Domingo, República Dominicana",
+    "status": "candidata",
+    "notas": "Fundada por Bartolomé Colón a la ribera del río Ozama."
+  },
+  {
+    "id": "place:jaragua",
+    "canonical_name": "Xaragua",
+    "aliases": [
+      "Jaragua"
+    ],
+    "modern_equivalent": "región suroeste de Haití",
+    "status": "candidata",
+    "notas": "Pacificada por Nicolás de Ovando con la horca de Anacaona y Guaorocuya."
+  },
+  {
+    "id": "place:cibao",
+    "canonical_name": "Cibao",
+    "aliases": [
+      "Santo Tomé de Cibao"
+    ],
+    "modern_equivalent": "región central de República Dominicana",
+    "status": "candidata",
+    "notas": "Región minera; fortaleza donde se refugiaron los españoles de Colón contra los ciguayos."
+  },
+  {
+    "id": "place:jamaica",
+    "canonical_name": "Jamaica",
+    "aliases": [
+      "Santiago"
+    ],
+    "modern_equivalent": "Jamaica",
+    "status": "candidata",
+    "notas": "Descubierta por Colón en su segundo viaje; escenario del naufragio de Colón en su cuarto viaje y de la primera batalla entre españoles en Indias."
+  },
+  {
+    "id": "place:boriquen",
+    "canonical_name": "Boriquén",
+    "aliases": [
+      "San Juan"
+    ],
+    "modern_equivalent": "Puerto Rico",
+    "status": "candidata",
+    "notas": "Conquistada por Juan Ponce de León; el perro Becerrillo peleó en su conquista."
+  },
+  {
+    "id": "place:florida",
+    "canonical_name": "la Florida",
+    "aliases": [],
+    "modern_equivalent": "Florida, Estados Unidos",
+    "status": "candidata",
+    "notas": "Descubierta por Juan Ponce de León en 1512; escenario de los desastres de Narváez, Hernando de Soto y fray Luis Cancel."
+  },
+  {
+    "id": "place:tierra-del-labrador",
+    "canonical_name": "tierra del Labrador",
+    "aliases": [],
+    "modern_equivalent": "Labrador, Canadá",
+    "status": "candidata",
+    "notas": "Explorada por Gaspar Cortes Reales, Sebastián Gaboto y otros buscando un estrecho hacia la Especiería."
+  },
+  {
+    "id": "place:bacallaos",
+    "canonical_name": "los Bacallaos",
+    "aliases": [],
+    "modern_equivalent": "costa de Terranova, Canadá",
+    "status": "candidata",
+    "notas": "Nombrada por los grandes peces (bacalao); explorada por Gaboto y por Jacques Cartier."
+  },
+  {
+    "id": "place:islas-lucayos",
+    "canonical_name": "islas Lucayos",
+    "aliases": [
+      "Yucayas"
+    ],
+    "modern_equivalent": "Bahamas",
+    "status": "candidata",
+    "notas": "Más de cuatrocientas islas; sus habitantes fueron cautivados en masa como esclavos."
+  },
+  {
+    "id": "place:chicora",
+    "canonical_name": "Chicora",
+    "aliases": [
+      "cabo de Santa Elena",
+      "río Jordán"
+    ],
+    "modern_equivalent": "costa de Carolina del Sur, Estados Unidos",
+    "status": "candidata",
+    "notas": "Explorada por Lucas Vázquez de Ayllón, que engañó y cautivó a sus habitantes."
+  },
+  {
+    "id": "place:panuco",
+    "canonical_name": "Pánuco",
+    "aliases": [
+      "río Pánuco"
+    ],
+    "modern_equivalent": "Pánuco, Veracruz, México",
+    "status": "candidata",
+    "notas": "Explorado por Garay; gobernado luego por Nuño de Guzmán."
+  },
+  {
+    "id": "place:veragua",
+    "canonical_name": "Veragua",
+    "aliases": [],
+    "modern_equivalent": "provincia de Veraguas, Panamá",
+    "status": "candidata",
+    "notas": "Escenario de varios desastres de conquista (Nicuesa 1509, Felipe Gutiérrez 1536); Colón la descubrió en su cuarto viaje."
+  },
+  {
+    "id": "place:nombre-de-dios",
+    "canonical_name": "Nombre de Dios",
+    "aliases": [
+      "cabo del Mármol"
+    ],
+    "modern_equivalent": "Nombre de Dios, Colón, Panamá",
+    "status": "candidata",
+    "notas": "Fundado por Nicuesa; luego poblado de nuevo por Pedrarias Dávila."
+  },
+  {
+    "id": "place:darien-antigua",
+    "canonical_name": "Santa María la Antigua del Darién",
+    "aliases": [
+      "la Antigua del Darién",
+      "el Darién"
+    ],
+    "modern_equivalent": "región del Darién, Panamá/Colombia",
+    "status": "candidata",
+    "notas": "Primer pueblo español permanente de tierra firme; fundado por Martín Fernández de Enciso en 1510."
+  },
+  {
+    "id": "place:golfo-de-uraba",
+    "canonical_name": "golfo de Urabá",
+    "aliases": [
+      "Urabá"
+    ],
+    "modern_equivalent": "golfo de Urabá, Colombia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cuareca",
+    "canonical_name": "Cuareca",
+    "aliases": [],
+    "modern_equivalent": "istmo de Panamá, cerca de la sierra que cruzó Balboa",
+    "status": "candidata",
+    "notas": "Señorío de Torecha; desde su sierra Balboa vio por primera vez la mar del Sur."
+  },
+  {
+    "id": "place:golfo-de-san-miguel",
+    "canonical_name": "golfo de San Miguel",
+    "aliases": [],
+    "modern_equivalent": "golfo de San Miguel, Panamá",
+    "status": "candidata",
+    "notas": "Donde Balboa tomó posesión de la mar del Sur, 29 de septiembre de 1513."
+  },
+  {
+    "id": "place:isla-terarequi",
+    "canonical_name": "Terarequi",
+    "aliases": [
+      "isla del Rey"
+    ],
+    "modern_equivalent": "isla del Rey, archipiélago de las Perlas, Panamá",
+    "status": "candidata",
+    "notas": "Isla abundantísima de perlas según Tumaco y Chiape; Gaspar de Morales rescató perlas allí."
+  },
+  {
+    "id": "place:panama-ciudad",
+    "canonical_name": "Panamá",
+    "aliases": [],
+    "modern_equivalent": "Ciudad de Panamá, Panamá",
+    "status": "candidata",
+    "notas": "Poblada por Pedrarias Dávila junto con Nombre de Dios."
+  },
+  {
+    "id": "place:cartagena-de-indias",
+    "canonical_name": "Cartagena",
+    "aliases": [
+      "isla de Codego"
+    ],
+    "modern_equivalent": "Cartagena de Indias, Colombia",
+    "status": "candidata",
+    "notas": "Descubierta por Juan de la Cosa y Luis Guerra; gobernada luego por Pedro de Heredia (1532)."
+  },
+  {
+    "id": "place:santa-marta",
+    "canonical_name": "Santa Marta",
+    "aliases": [],
+    "modern_equivalent": "Santa Marta, Colombia",
+    "status": "candidata",
+    "notas": "Descubierta y gobernada por Rodrigo de Bastidas, asesinado allí por sus propios soldados en 1527."
+  },
+  {
+    "id": "place:nueva-granada",
+    "canonical_name": "Nueva Granada",
+    "aliases": [],
+    "modern_equivalent": "altiplano cundiboyacense, Colombia",
+    "status": "candidata",
+    "notas": "Conquistada por Gonzalo Jiménez de Quesada; reino de Bogotá."
+  },
+  {
+    "id": "place:tunja",
+    "canonical_name": "Tunja",
+    "aliases": [],
+    "modern_equivalent": "Tunja, Boyacá, Colombia",
+    "status": "candidata",
+    "notas": "Señorío donde estaba la mina de esmeraldas de Somondoco."
+  },
+  {
+    "id": "place:mina-de-somondoco",
+    "canonical_name": "Somondoco",
+    "aliases": [],
+    "modern_equivalent": "Somondoco, Boyacá, Colombia",
+    "status": "candidata",
+    "notas": "Mina/cantera de esmeraldas descubierta por Jiménez de Quesada."
+  },
+  {
+    "id": "place:venezuela",
+    "canonical_name": "Venezuela",
+    "aliases": [],
+    "modern_equivalent": "Venezuela",
+    "status": "candidata",
+    "notas": "Gobernada primero por Ambrosio de Alfínger en nombre de los Belzares (Welser) alemanes."
+  },
+  {
+    "id": "place:coro",
+    "canonical_name": "Coro",
+    "aliases": [],
+    "modern_equivalent": "Santa Ana de Coro, Venezuela",
+    "status": "candidata",
+    "notas": "Sede del primer obispado de Venezuela."
+  },
+  {
+    "id": "place:maracaibo",
+    "canonical_name": "Maracaibo",
+    "aliases": [
+      "Nuestra Señora"
+    ],
+    "modern_equivalent": "Maracaibo, Venezuela",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cubagua",
+    "canonical_name": "Cubagua",
+    "aliases": [
+      "isla de Perlas"
+    ],
+    "modern_equivalent": "isla de Cubagua, Venezuela · isla Cubagua, Venezuela",
+    "status": "candidata",
+    "notas": "Llamada por Colón isla de Perlas; sede de la Nueva Cádiz, fundada tras la reconquista de Jácome Castellón (1523). | Isla de perlas descubierta por Colón costeando de Paria al cabo de la Vela; primer descubrimiento de tierra firme de Indias según Gómara."
+  },
+  {
+    "id": "place:isla-margarita",
+    "canonical_name": "isla Margarita",
+    "aliases": [],
+    "modern_equivalent": "isla de Margarita, Venezuela",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cumana",
+    "canonical_name": "Cumaná",
+    "aliases": [],
+    "modern_equivalent": "Cumaná, Venezuela · Cumaná, Sucre, Venezuela",
+    "status": "candidata",
+    "notas": "Escenario de los monasterios franciscano y dominico, su destrucción en la rebelión de 1519-1520, el intento fallido de gobernación de Bartolomé de las Casas y la reconquista de Jácome Castellón. | Objeto de una larga descripción etnográfica (costumbres, caza, pesca, ritos, sacerdotes piaches) en los capítulos 71-75, con pocos individuos nombrados."
+  },
+  {
+    "id": "place:maracapana",
+    "canonical_name": "Maracapana",
+    "aliases": [
+      "Píritu de Maracapana"
+    ],
+    "modern_equivalent": "costa de Anzoátegui, Venezuela",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chiribichi",
+    "canonical_name": "Chiribichi",
+    "aliases": [
+      "Santa Fe (monasterio)"
+    ],
+    "modern_equivalent": "cerca de Cumaná, Venezuela",
+    "status": "candidata",
+    "notas": "Sitio del monasterio dominico destruido en la rebelión de 1519-1520, con la matanza de los frailes."
+  },
+  {
+    "id": "place:golfo-de-paria",
+    "canonical_name": "golfo de Paria",
+    "aliases": [
+      "Paria"
+    ],
+    "modern_equivalent": "golfo de Paria, Venezuela/Trinidad y Tobago",
+    "status": "candidata",
+    "notas": "Costa descubierta por Colón en su tercer viaje (1498), con el primer descubrimiento de perlas."
+  },
+  {
+    "id": "place:paria",
+    "canonical_name": "Paria",
+    "aliases": [
+      "golfo de Paria"
+    ],
+    "modern_equivalent": "golfo de Paria, entre Venezuela y Trinidad y Tobago",
+    "status": "candidata",
+    "notas": "Colón creyó que era el paraíso terrenal y que la tierra tenía forma de pera, no redonda, por haber navegado siempre 'hacia arriba' para llegar; Gómara refuta esa idea."
+  },
+  {
+    "id": "place:isla-trinidad",
+    "canonical_name": "isla Trinidad",
+    "aliases": [
+      "la Trinidad"
+    ],
+    "modern_equivalent": "Trinidad, Trinidad y Tobago",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-madera",
+    "canonical_name": "isla de la Madera",
+    "aliases": [
+      "la Madera"
+    ],
+    "modern_equivalent": "isla de Madeira, Portugal",
+    "status": "candidata",
+    "notas": "Escala de Colón en su tercer viaje antes de virar hacia Cabo Verde."
+  },
+  {
+    "id": "place:islas-cabo-verde",
+    "canonical_name": "islas de Cabo Verde",
+    "aliases": [
+      "Cabo Verde"
+    ],
+    "modern_equivalent": "Cabo Verde",
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-de-orellana",
+    "canonical_name": "río de Orellana",
+    "aliases": [
+      "mar Dulce"
+    ],
+    "modern_equivalent": "río Amazonas",
+    "status": "candidata",
+    "notas": "El propio Gómara discute si es el mismo río que el Marañón (ver place:rio-maranon) o uno distinto; los dos se tratan como entidades separadas en capítulos consecutivos (78 y 79), siguiendo la propia estructura del texto, aunque él mismo reconoce la incertidumbre."
+  },
+  {
+    "id": "place:rio-maranon",
+    "canonical_name": "río Marañón",
+    "aliases": [],
+    "modern_equivalent": "río Marañón / alto Amazonas, Perú",
+    "status": "candidata",
+    "notas": "Ver nota de ambigüedad en place:rio-de-orellana."
+  },
+  {
+    "id": "place:cabo-de-san-agustin",
+    "canonical_name": "cabo de San Agustín",
+    "aliases": [],
+    "modern_equivalent": "cabo de Santo Agostinho, Pernambuco, Brasil",
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-de-la-plata",
+    "canonical_name": "río de la Plata",
+    "aliases": [
+      "río de Solís",
+      "Paranaguazú"
+    ],
+    "modern_equivalent": "río de la Plata, Argentina/Uruguay",
+    "status": "candidata"
+  },
+  {
+    "id": "place:estrecho-de-magallanes",
+    "canonical_name": "estrecho de Magallanes",
+    "aliases": [],
+    "modern_equivalent": "estrecho de Magallanes, Chile",
+    "status": "candidata"
+  },
+  {
+    "id": "place:islas-malucas",
+    "canonical_name": "islas Malucas",
+    "aliases": [
+      "Malucos",
+      "Especiería"
+    ],
+    "modern_equivalent": "islas Molucas, Indonesia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tidore",
+    "canonical_name": "Tidore",
+    "aliases": [],
+    "modern_equivalent": "isla de Tidore, Indonesia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:ternate",
+    "canonical_name": "Ternate",
+    "aliases": [
+      "Terrenate",
+      "Terrate"
+    ],
+    "modern_equivalent": "isla de Ternate, Indonesia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:borneo",
+    "canonical_name": "Borney",
+    "aliases": [
+      "Porney",
+      "Borneo"
+    ],
+    "modern_equivalent": "Borneo",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cebu",
+    "canonical_name": "Zebut",
+    "aliases": [
+      "Cebú",
+      "Subo"
+    ],
+    "modern_equivalent": "Cebú, Filipinas",
+    "status": "candidata"
+  },
+  {
+    "id": "place:mactan",
+    "canonical_name": "Mautan",
+    "aliases": [
+      "Mactan"
+    ],
+    "modern_equivalent": "isla de Mactán, Filipinas",
+    "status": "candidata",
+    "notas": "Lugar de la muerte de Fernando Magallanes a manos de Cilapulapo."
+  },
+  {
+    "id": "place:badajoz",
+    "canonical_name": "Badajoz",
+    "aliases": [],
+    "modern_equivalent": "Badajoz, España",
+    "status": "candidata",
+    "notas": "Sede castellana de la junta de Badajoz-Elvas de 1524 sobre la línea de repartición de las Malucas."
+  },
+  {
+    "id": "place:tordesillas",
+    "canonical_name": "Tordesillas",
+    "aliases": [],
+    "modern_equivalent": "Tordesillas, Valladolid, España",
+    "status": "candidata"
+  },
+  {
+    "id": "place:panama",
+    "canonical_name": "Panamá",
+    "aliases": [],
+    "modern_equivalent": "Panamá · Ciudad de Panamá, Panamá",
+    "status": "candidata"
+  },
+  {
+    "id": "place:nicaragua",
+    "canonical_name": "Nicaragua",
+    "aliases": [],
+    "modern_equivalent": "Nicaragua",
+    "status": "candidata"
+  },
+  {
+    "id": "place:tumbez",
+    "canonical_name": "Túmbez",
+    "aliases": [
+      "Tumbez"
+    ],
+    "modern_equivalent": "Tumbes, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cajamarca",
+    "canonical_name": "Caxamalca",
+    "aliases": [
+      "Cajamarca"
+    ],
+    "modern_equivalent": "Cajamarca, Perú",
+    "status": "candidata",
+    "notas": "Lugar de la prisión, rescate y muerte de Atahualpa."
+  },
+  {
+    "id": "place:cuzco",
+    "canonical_name": "Cuzco",
+    "aliases": [
+      "Cusco"
+    ],
+    "modern_equivalent": "Cusco, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:isla-puna",
+    "canonical_name": "isla Puna",
+    "aliases": [
+      "Puna"
+    ],
+    "modern_equivalent": "isla Puná, Guayas, Ecuador",
+    "status": "candidata"
+  },
+  {
+    "id": "place:quito",
+    "canonical_name": "Quito",
+    "aliases": [],
+    "modern_equivalent": "Quito, Ecuador",
+    "status": "candidata",
+    "notas": "Cerca de aquí, en la batalla de Añaquito, murió el virrey Blasco Núñez Vela en 1546."
+  },
+  {
+    "id": "place:pachacamac",
+    "canonical_name": "Pachacama",
+    "aliases": [
+      "Pachacamac"
+    ],
+    "modern_equivalent": "Pachacámac, Lima, Perú",
+    "status": "candidata",
+    "notas": "Templo/oráculo del que Hernando Pizarro sacó gran tesoro para el rescate de Atahualpa."
+  },
+  {
+    "id": "place:chile",
+    "canonical_name": "Chile",
+    "aliases": [
+      "Chili"
+    ],
+    "modern_equivalent": "Chile",
+    "status": "candidata"
+  },
+  {
+    "id": "place:ciudad-de-los-reyes",
+    "canonical_name": "Ciudad de los Reyes",
+    "aliases": [
+      "Lima",
+      "Los Reyes"
+    ],
+    "modern_equivalent": "Lima, Perú",
+    "status": "candidata",
+    "notas": "Fundada por Francisco Pizarro; fue cercada por Manco Inca en 1536 y allí fue asesinado Pizarro en 1541. | Capital de la Audiencia del Perú; escenario principal de la prisión del virrey Blasco Núñez Vela y del gobierno de los oidores."
+  },
+  {
+    "id": "place:jauja",
+    "canonical_name": "Jauja",
+    "aliases": [],
+    "modern_equivalent": "Jauja, Junín, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chincha",
+    "canonical_name": "Chincha",
+    "aliases": [],
+    "modern_equivalent": "Chincha Alta, Ica, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:guamanga",
+    "canonical_name": "Guamanga",
+    "aliases": [],
+    "modern_equivalent": "Ayacucho, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chupas",
+    "canonical_name": "Chupas",
+    "aliases": [],
+    "modern_equivalent": "cercanías de Ayacucho, Perú",
+    "status": "candidata",
+    "notas": "Llano alto donde se dio la batalla de Chupas en 1542."
+  },
+  {
+    "id": "place:las-salinas",
+    "canonical_name": "las Salinas",
+    "aliases": [],
+    "modern_equivalent": "cercanías del Cuzco, Perú",
+    "status": "candidata",
+    "notas": "Sitio de la batalla entre Hernando Pizarro y Diego de Almagro en 1538, a media legua del Cuzco."
+  },
+  {
+    "id": "place:charcas",
+    "canonical_name": "los Charcas",
+    "aliases": [
+      "Charcas"
+    ],
+    "modern_equivalent": "región de Charcas, Bolivia/sur de Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:trujillo-peru",
+    "canonical_name": "Trujillo",
+    "aliases": [],
+    "modern_equivalent": "Trujillo, La Libertad, Perú",
+    "status": "candidata",
+    "notas": "Fundada por Diego de Almagro en nombre de Pizarro; no confundir con Trujillo de Honduras (ver entidades/cortes/lugares.json place:trujillo-honduras). | Distinto de Trujillo en Honduras (place:trujillo-honduras en entidades/cortes/lugares.json) — esta es la ciudad costera del norte del Perú."
+  },
+  {
+    "id": "place:tierra-de-la-canela",
+    "canonical_name": "tierra de la Canela",
+    "aliases": [
+      "la Canela"
+    ],
+    "modern_equivalent": "región amazónica oriental de Ecuador",
+    "status": "candidata",
+    "notas": "Región al oriente de Quito buscada por Gonzalo Pizarro; de allí partió la expedición de la que se separó Francisco de Orellana."
+  },
+  {
+    "id": "place:barcelona",
+    "canonical_name": "Barcelona",
+    "aliases": [],
+    "modern_equivalent": "Barcelona, España",
+    "status": "candidata",
+    "notas": "Ciudad donde el emperador firmó las Nuevas Leyes de Indias el 20 de noviembre de 1542."
+  },
+  {
+    "id": "place:michoacan",
+    "canonical_name": "Mechuacán",
+    "aliases": [
+      "Michoacán"
+    ],
+    "modern_equivalent": "Michoacán, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:xaquixaguana",
+    "canonical_name": "Xaquixaguana",
+    "aliases": [],
+    "modern_equivalent": "Anta, Cusco, Perú (valle de Jaquijahuana)",
+    "status": "candidata",
+    "notas": "Sitio de dos batallas civiles distintas en el Perú: aquí Gonzalo Pizarro fue vencido y ejecutado por Pedro de la Gasca en 1548 (cap. 168-169 de esta obra)."
+  },
+  {
+    "id": "place:arequipa",
+    "canonical_name": "Arequipa",
+    "aliases": [],
+    "modern_equivalent": "Arequipa, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:chuquisaca",
+    "canonical_name": "Chuquisaca",
+    "aliases": [
+      "la Plata",
+      "Charcas"
+    ],
+    "modern_equivalent": "Sucre, Bolivia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:potosi",
+    "canonical_name": "Potosí",
+    "aliases": [],
+    "modern_equivalent": "Potosí, Bolivia",
+    "status": "candidata",
+    "notas": "Gasca dio estas minas, las más ricas del Perú según Gómara, a Diego Centeno."
+  },
+  {
+    "id": "place:popayan",
+    "canonical_name": "Popayán",
+    "aliases": [],
+    "modern_equivalent": "Popayán, Colombia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:pasto",
+    "canonical_name": "Pasto",
+    "aliases": [],
+    "modern_equivalent": "Pasto, Nariño, Colombia",
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-apurimac",
+    "canonical_name": "río Apurímac",
+    "aliases": [
+      "río de Apurima"
+    ],
+    "modern_equivalent": "río Apurímac, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:huarina",
+    "canonical_name": "Guarina",
+    "aliases": [
+      "Huarina"
+    ],
+    "modern_equivalent": "Huarina, La Paz, Bolivia",
+    "status": "candidata",
+    "notas": "Sitio de la batalla en que Gonzalo Pizarro venció a Diego Centeno en 1547."
+  },
+  {
+    "id": "place:guayaquil",
+    "canonical_name": "Guayaquil",
+    "aliases": [],
+    "modern_equivalent": "Guayaquil, Ecuador",
+    "status": "candidata"
+  },
+  {
+    "id": "place:puerto-viejo",
+    "canonical_name": "Puerto Viejo",
+    "aliases": [],
+    "modern_equivalent": "Portoviejo, Ecuador",
+    "status": "candidata"
+  },
+  {
+    "id": "place:san-miguel-piura",
+    "canonical_name": "San Miguel",
+    "aliases": [
+      "San Miguel de Piura"
+    ],
+    "modern_equivalent": "San Miguel de Piura, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:andaguaylas",
+    "canonical_name": "Andahuaylas",
+    "aliases": [
+      "Andagoalas"
+    ],
+    "modern_equivalent": "Andahuaylas, Apurímac, Perú",
+    "status": "candidata"
+  },
+  {
+    "id": "place:cuauhtemallan",
+    "canonical_name": "Cuauhtemallán",
+    "aliases": [
+      "Guatemala"
+    ],
+    "modern_equivalent": "Guatemala",
+    "status": "candidata",
+    "notas": "Gómara explica que el nombre significa 'árbol podrido' o 'lugar de árboles' en náhuatl."
+  },
+  {
+    "id": "place:santiago-de-los-caballeros",
+    "canonical_name": "Santiago de los Caballeros",
+    "aliases": [
+      "ciudad de Guatemala (antigua)"
+    ],
+    "modern_equivalent": "Ciudad Vieja, Sacatepéquez, Guatemala",
+    "status": "candidata",
+    "notas": "Primera capital española de Guatemala, destruida por la avenida de agua del volcán en 1541."
+  },
+  {
+    "id": "place:ezatlan",
+    "canonical_name": "Ezatlán",
+    "aliases": [],
+    "modern_equivalent": "Etzatlán, Jalisco, México",
+    "status": "candidata",
+    "notas": "Aquí murió Pedro de Alvarado en 1541, aplastado por un caballo que rodó cuesta abajo."
+  },
+  {
+    "id": "place:nicaragua-provincia",
+    "canonical_name": "Nicaragua",
+    "aliases": [],
+    "modern_equivalent": "Nicaragua",
+    "status": "candidata"
+  },
+  {
+    "id": "place:leon-nicaragua",
+    "canonical_name": "León",
+    "aliases": [],
+    "modern_equivalent": "León, Nicaragua",
+    "status": "candidata"
+  },
+  {
+    "id": "place:granada-nicaragua",
+    "canonical_name": "Granada",
+    "aliases": [],
+    "modern_equivalent": "Granada, Nicaragua",
+    "status": "candidata"
+  },
+  {
+    "id": "place:jalisco",
+    "canonical_name": "Jalisco",
+    "aliases": [
+      "Nueva Galicia"
+    ],
+    "modern_equivalent": "Jalisco, México",
+    "status": "candidata"
+  },
+  {
+    "id": "place:guadalajara",
+    "canonical_name": "Guadalajara",
+    "aliases": [],
+    "modern_equivalent": "Guadalajara, Jalisco, México",
+    "status": "candidata",
+    "notas": "Fundada por Nuño de Guzmán en Tonalá con el nombre de su tierra natal en España."
+  },
+  {
+    "id": "place:cibola",
+    "canonical_name": "Síbola",
+    "aliases": [
+      "Sibola"
+    ],
+    "modern_equivalent": "región de Zuni, Nuevo México, EE. UU.",
+    "status": "candidata"
+  },
+  {
+    "id": "place:quivira",
+    "canonical_name": "Quivira",
+    "aliases": [],
+    "modern_equivalent": "aprox. Kansas, EE. UU.",
+    "status": "candidata"
+  },
+  {
+    "id": "place:medellin-extremadura",
+    "canonical_name": "Medellín",
+    "aliases": [],
+    "modern_equivalent": "Medellín, Badajoz, España",
+    "status": "candidata",
+    "notas": "Lugar de nacimiento de Hernando Cortés en 1485."
+  },
+  {
+    "id": "place:salamanca",
+    "canonical_name": "Salamanca",
+    "aliases": [],
+    "modern_equivalent": "Salamanca, España",
+    "status": "candidata",
+    "notas": "Cortés fue enviado allí a estudiar gramática a los catorce años; abandonó los estudios a los dos años."
+  },
+  {
+    "id": "place:baracoa",
+    "canonical_name": "Baracoa",
+    "aliases": [
+      "Santiago (Cuba)"
+    ],
+    "modern_equivalent": "Baracoa, Cuba",
+    "status": "candidata",
+    "notas": "Primera de las siete poblaciones fundadas en Cuba por Diego Velázquez, por consejo de Cortés; llamada Santiago en honor del apóstol."
+  },
+  {
+    "id": "place:trinidad-cuba",
+    "canonical_name": "Trinidad",
+    "aliases": [],
+    "modern_equivalent": "Trinidad, Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:la-habana",
+    "canonical_name": "La Habana",
+    "aliases": [],
+    "modern_equivalent": "La Habana, Cuba",
+    "status": "candidata",
+    "notas": "Puerto de salida final de la armada de Cortés hacia la Nueva España, según esta 'Vida de Hernán Cortés'."
+  },
+  {
+    "id": "place:cabo-de-san-anton",
+    "canonical_name": "cabo de San Antón",
+    "aliases": [
+      "cabo de San Antonio"
+    ],
+    "modern_equivalent": "Cabo San Antonio, Cuba",
+    "status": "candidata"
+  },
+  {
+    "id": "place:rio-macaguanigua",
+    "canonical_name": "río Macaguanigua",
+    "aliases": [],
+    "modern_equivalent": "por confirmar (oriente de Cuba, cerca de Baracoa)",
+    "status": "candidata",
+    "notas": "Cortés naufragó cerca de su desembocadura, en la costa oriental de Cuba, antes de la conquista de la Nueva España."
+  }
+]

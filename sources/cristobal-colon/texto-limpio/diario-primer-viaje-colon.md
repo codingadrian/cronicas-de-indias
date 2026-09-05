@@ -30,11 +30,13 @@ Anduvieron su vía entre día y noche más de cuarenta leguas.
 
 ## Lunes, 6 de agosto
 
-Saltó o desencajóse el gobernario a la carabela Pinta, donde iba Martín Alonso Pinzón, a lo que se creyó y sospechó por industria de un Gómez Rascón y Cristóbal Quintero, cuya era la carabela, porque le pesaba ir en aquel viaje; y dice el Almirante que antes de que partiese habían hallado en ciertos reveses y grisquetas como dicen, a los dichos. Viose allí el Almirante en gran turbación por no poder ayudar a la dicha carabela sin su peligro, y dice que alguna pena perdía con saber que Martín Alonso Pinzón era persona esforzada y de buen ingenio. En fin, anduvieron entre día y noche veintinueve leguas.
+Saltó o desencajóse el gobernario(1) a la carabela Pinta, donde iba Martín Alonso Pinzón, a lo que se creyó y sospechó por industria de un Gómez Rascón y Cristóbal Quintero, cuya era la carabela, porque le pesaba ir en aquel viaje; y dice el Almirante que antes de que partiese habían hallado en ciertos reveses y grisquetas como dicen, a los dichos. Viose allí el Almirante en gran turbación por no poder ayudar a la dicha carabela sin su peligro, y dice que alguna pena perdía con saber que Martín Alonso Pinzón era persona esforzada y de buen ingenio. En fin, anduvieron entre día y noche veintinueve leguas.
+(1,A.Robles)Conjunto del aparato de gobierno de la nave, específicamente la pala del timón y sus herrajes.
 
 ## Martes, 7 de agosto
 
-Tornóse a saltar el gobernalle a la Pinta, y adobáronlo y anduvieron en demanda de la isla del Lanzarote, que es una de las islas de Canarias, y anduvieron entre día y noche veinticinco leguas.
+Tornóse a saltar el gobernalle(1) a la Pinta, y adobáronlo y anduvieron en demanda de la isla del Lanzarote, que es una de las islas de Canarias, y anduvieron entre día y noche veinticinco leguas.
+(1,A.Robles)Conjunto del aparato de gobierno de la nave, específicamente la pala del timón y sus herrajes.
 
 ## Miércoles, 8 de agosto
 
@@ -44,7 +46,7 @@ Hubo entre los pilotos de las tres carabelas opiniones diversas dónde estaban, 
 
 Hasta el domingo en la noche no pudo el Almirante tomar la Gomera, y Martín Alonso quedóse en aquella costa de Gran Canaria por mandado del Almirante, porque no podía navegar. Después tornó el Almirante a Canaria, y adobaron muy bien la Pinta con mucho trabajo y diligencias del Almirante, de Martín Alonso y de los demás; y al cabo vinieron a la Gomera. Vieron salir gran fuego de la sierra de la isla de Tenerife, que es muy alta en gran manera. Hicieron la Pinta redonda, porque era latina ; tornó a la Gomera domingo a dos de septiembre con la Pinta adobada.
 
-Dice el Almirante que juraban muchos hombres honrados españoles que en la Gomera estaban con doña Inés Peraza, madre de Guillén Peraza, que después fue el primer Conde de la Gomera, que eran vecinos de la isla de Hierro, que cada año veían tierra al Oeste de las Canarias, que es al Poniente; y otros de la Gomera afirmaban otro tanto con juramento. Dice aquí el Almirante que se acuerda que estando en Portugal el año 1484 vino uno de la isla de Madera al Rey a le pedir una carabela para ir a esta tierra que veía, la cual juraba que cada año la veía y siempre de una manera. Y también dice que se acuerda que lo mismo decían en las islas de los Azores y todos éstos en una derrota y en una manera de señal y en una grandeza.Tomada, pues, agua y leña y carnes y lo demás que tenían los hombres que dejó en la Gomera el Almirante cuando fue a la isla de Canaria a adobar la carabela Pinta, finalmente se hizo a la vela de la dicha isla de la Gomera con sus tres carabelas jueves a seis días de septiembre.
+Dice el Almirante que juraban muchos hombres honrados españoles que en la Gomera estaban con doña Inés Peraza, madre de Guillén Peraza, que después fue el primer Conde de la Gomera, que eran vecinos de la isla de Hierro, que cada año veían tierra al Oeste de las Canarias, que es al Poniente; y otros de la Gomera afirmaban otro tanto con juramento. Dice aquí el Almirante que se acuerda que estando en Portugal el año 1484 vino uno de la isla de Madera al Rey a le pedir una carabela para ir a esta tierra que veía, la cual juraba que cada año la veía y siempre de una manera. Y también dice que se acuerda que lo mismo decían en las islas de los Azores y todos éstos en una derrota y en una manera de señal y en una grandeza. Tomada, pues, agua y leña y carnes y lo demás que tenían los hombres que dejó en la Gomera el Almirante cuando fue a la isla de Canaria a adobar la carabela Pinta, finalmente se hizo a la vela de la dicha isla de la Gomera con sus tres carabelas jueves a seis días de septiembre.
 
 ## Jueves, 6 de septiembre
 
@@ -56,7 +58,7 @@ Todo el viernes y el sábado, hasta tres horas de noche, estuvo en calma.
 
 ## Sábado, 8 de septiembre
 
-Tres horas de noche sábado comenzó a ventear Nordeste, y tomó su vía y camino al Oeste.Tuvo mucha mar por proa. que le estorbaba el camino; y andaría aquel día nueve leguas con su noche.
+Tres horas de noche sábado comenzó a ventear Nordeste, y tomó su vía y camino al Oeste. Tuvo mucha mar por proa. que le estorbaba el camino; y andaría aquel día nueve leguas con su noche.
 
 ## Domingo, 9 de septiembre
 
@@ -80,21 +82,26 @@ Aquel día con su noche, yendo a su vía, que era al Oeste, anduvieron treinta y
 
 ## Viernes, 14 de septiembre
 
-Navegaron aquel día su camino al Oeste con su noche y anduvieron veinte leguas; contó alguna menos. Aquí dijeron los de la carabela Niña que había visto un garjao y un rabo de junco; y estas aves nunca se apartan de tierra, cuando más, veinticinco leguas.
+Navegaron aquel día su camino al Oeste con su noche y anduvieron veinte leguas; contó alguna menos. Aquí dijeron los de la carabela Niña que había visto un garjao(1) y un rabo de junco(2); y estas aves nunca se apartan de tierra, cuando más, veinticinco leguas.
+(1,A.Robles)El garjao (o garajao) es un ave marina, identificada habitualmente como un charrán (Sterna)
+(2,A.Robles)(Phaethon aethereus)[https://es.wikipedia.org/wiki/Phaethon_aethereus]
 
 ## Sábado, 15 de septiembre
 
-Navegó aquel día con su noche veintisiete leguas su camino al Oeste y algunas más. Y en esta noche al principio de ella vieron caer del cielo un maravilloso ramo de fuego en la mar, lejos de ellos cuatro o cinco leguas
+Navegó aquel día con su noche veintisiete leguas su camino al Oeste y algunas más. Y en esta noche al principio de ella vieron caer del cielo un maravilloso ramo de fuego(1) en la mar, lejos de ellos cuatro o cinco leguas.
+(1,A.Robles)Posiblemente un meteoro.
 
 ## Domingo, 16 de septiembre
 
-Navegó aquel día y la noche a su camino al Oeste. Andarían treinta y nueve leguas, pero no contó sino treinta y seis. Tuvo aquel día algunos nublados, lloviznó. Dice aquí el Almirante que hoy y siempre de allí adelante hallaron aires temperantísimos, que era placer grande el gusto de las mañanas, que no faltaba sino oír ruiseñores. Dice él: «y era el tiempo como por abril en el Andalucía». Aquí comenzaron a ver muchas manadas de hierba muy verde que poco había, según le parecía, que se había desapegado de tierra, por lo cual todos juzgaban que estaban cerca de alguna isla; pero no de tierra firme, según el Almirante, que dice: «porque la tierra firme hago más adelante».
+Navegó aquel día y la noche a su camino al Oeste. Andarían treinta y nueve leguas, pero no contó sino treinta y seis. Tuvo aquel día algunos nublados, lloviznó. Dice aquí el Almirante que hoy y siempre de allí adelante hallaron aires temperantísimos, que era placer grande el gusto de las mañanas, que no faltaba sino oír ruiseñores. Dice él: «y era el tiempo como por abril en el Andalucía». Aquí comenzaron a ver muchas manadas de hierba muy verde(1) que poco había, según le parecía, que se había desapegado de tierra, por lo cual todos juzgaban que estaban cerca de alguna isla; pero no de tierra firme, según el Almirante, que dice: «porque la tierra firme hago más adelante».
+(1,5,A.Robles)Posiblemente Sargassum
 
 ## Lunes, 17 de septiembre
 
 Navegó a su camino al Oeste, y andarían en día y noche cincuenta leguas y más. No asentó sino cuarenta y siete. Ayudábales la corriente. Vieron mucha hierba y muy a menudo, y era hierba de peñas, y venía la hierba de hacia Poniente. Juzgaban estar cerca de tierra.
 
-Tomaron los pilotos el Norte marcándolo, y hallaron que las agujas noroesteaban una gran cuarta, y temían los marineros y estaban penados y no decían de qué. Conociólo el Almirante; mandó que tornasen a marcar el Norte en amaneciendo, y hallaron que estaban buenas las agujas. La causa fue porque la estrella que parece hace movimiento, y no las agujas. En amaneciendo, aquel lunes, vieron muchas más hierbas y que parecían hierbas de ríos, en las cuales hallaron un cangrejo vivo, el cual guardó el Almirante. Y dice que aquellas fueron señales ciertas de tierra, porque no se hallan ochenta leguas de tierra. El agua de la mar hallaban menos salada desde que salieron de las Canarias; los aires siempre más suaves. Iban muy alegres todos y los navíos quien más podía andar andaba por ver primero tierra. Vieron muchas toninas, y los de la Niña mataron una. Dice aquí el Almirante que aquellas señales eran del Poniente, «donde espero en aquel alto Dios, en cuyas manos están todas las victorias, que muy presto nos dará tierra». En aquella mañana dice que vio un ave blanca que se llama rabo de junco que no suele dormir en la mar.
+Tomaron los pilotos el Norte marcándolo, y hallaron que las agujas noroesteaban una gran cuarta, y temían los marineros y estaban penados y no decían de qué. Conociólo el Almirante; mandó que tornasen a marcar el Norte en amaneciendo, y hallaron que estaban buenas las agujas. La causa fue porque la estrella que parece hace movimiento, y no las agujas. En amaneciendo, aquel lunes, vieron muchas más hierbas y que parecían hierbas de ríos, en las cuales hallaron un cangrejo vivo, el cual guardó el Almirante. Y dice que aquellas fueron señales ciertas de tierra, porque no se hallan ochenta leguas de tierra. El agua de la mar hallaban menos salada desde que salieron de las Canarias; los aires siempre más suaves. Iban muy alegres todos y los navíos quien más podía andar andaba por ver primero tierra. Vieron muchas toninas(1), y los de la Niña mataron una. Dice aquí el Almirante que aquellas señales eran del Poniente, «donde espero en aquel alto Dios, en cuyas manos están todas las victorias, que muy presto nos dará tierra». En aquella mañana dice que vio un ave blanca que se llama rabo de junco que no suele dormir en la mar.
+(1,A.Robles) Prodría significar delfines o atúnes.
 
 ## Martes, 18 de septiembre
 
@@ -102,7 +109,8 @@ Navegó aquel día con su noche, y andarían más de cincuenta y cinco leguas, p
 
 ## Miércoles, 19 de septiembre
 
-Navegó su camino, y entre día y noche andarían veinticinco leguas, porque tuvieron calma. Escribió veintidós. Este día a las diez horas, vino a la nao un alcatraz, y a la tarde vieron otro, que no suele apartarse veinte leguas de tierra. Vinieron unos llovizneros sin viento, lo que es señal cierta de tierra. No quiso detenerse barloventeando el Almirante para averiguar si había tierra; más de que tuvo por cierto que a la banda del Norte y del Sur había algunas islas, como la verdad lo estaban, y él iba por medio de ellas. Porque su voluntad era de seguir adelante hasta las Indias, «y el tiempo es bueno, porque placiendo a Dios a la vuelta se vería todo»; éstas son sus palabras... Aquí descubrieron sus puntos los pilotos: el de la Niña se hallaba de las Canarias a cuatrocientas cuarenta leguas; el de la Pinta, a cuatrocientas veinte; el de la donde iba el Almirante, a cuatrocientas justas.
+Navegó su camino, y entre día y noche andarían veinticinco leguas, porque tuvieron calma. Escribió veintidós. Este día a las diez horas, vino a la nao un alcatraz(1), y a la tarde vieron otro, que no suele apartarse veinte leguas de tierra. Vinieron unos llovizneros sin viento, lo que es señal cierta de tierra. No quiso detenerse barloventeando el Almirante para averiguar si había tierra; más de que tuvo por cierto que a la banda del Norte y del Sur había algunas islas, como la verdad lo estaban, y él iba por medio de ellas. Porque su voluntad era de seguir adelante hasta las Indias, «y el tiempo es bueno, porque placiendo a Dios a la vuelta se vería todo»; éstas son sus palabras... Aquí descubrieron sus puntos los pilotos: el de la Niña se hallaba de las Canarias a cuatrocientas cuarenta leguas; el de la Pinta, a cuatrocientas veinte; el de la donde iba el Almirante, a cuatrocientas justas.
+(1,A.Robles)(Morus bassanus)[https://es.wikipedia.org/wiki/Morus_bassanus]
 
 ## Jueves, 20 de septiembre
 
@@ -114,7 +122,8 @@ Aquel día fue todo lo más calma y después algún viento. Andarían entre día
 
 ## Sábado, 22 de septiembre
 
-Navegó al Oesnoroeste más o menos, acostándose a una y otra parte. Andarían treinta leguas. No veían casi hierba. Vieron unas pardelas y otra ave. Dice aquí el Almirante: «Mucho me fue necesario este viento contrario, porque mi gente andaban muy estimulados, que pensaban que no ventaban estos mares vientos para volver a España. Por un pedazo de día no hubo hierba; después, muy espesa.
+Navegó al Oesnoroeste más o menos, acostándose a una y otra parte. Andarían treinta leguas. No veían casi hierba. Vieron unas pardelas(1) y otra ave. Dice aquí el Almirante: «Mucho me fue necesario este viento contrario, porque mi gente andaban muy estimulados, que pensaban que no ventaban estos mares vientos para volver a España. Por un pedazo de día no hubo hierba; después, muy espesa.
+(1,A.Robles)(Pardela)[https://es.wikipedia.org/wiki/Pardela]
 
 ## Domingo, 23 de septiembre
 
@@ -126,7 +135,8 @@ Navegó a su camino al Oeste día y noche, y andarían catorce leguas y media. C
 
 ## Martes, 25 de septiembre
 
-Este día hubo mucha calma, y después ventó; y fueron su camino al Oeste hasta la noche. Iba hablando el Almirante con Martín Alonso Pinzón, capitán de la otra carabela Pinta, sobre una carta que le había enviado tres días hacía a la carabela, donde según parece tenía pintadas el Almirante ciertas islas por aquella mar. Y decía Martín Alonso que estaban en aquella comarca, y decía el Almirante que así le parecía a él; pero puesto que no hubiesen dado con ellas, lo debían de haber causado las corrientes que siempre habían echado los navíos al Nordeste, y que no habían andado tanto como los pilotos decían. Y, estando en esto, dijo el Almirante que le enviase la carta dicha. Y, enviada con alguna cuerda, comenzó el Almirante a cartear en ella con su piloto y marineros. Al sol puesto, subió el Martín Alonso en la popa de su navío, y con mucha alegría llamó al Almirante, pidiéndole albricias que veía tierra. Y cuando se lo oyó decir con afirmación, el Almirante dice que se echó a dar gracias a Nuestro Señor de rodillas, y el Martín Alonso decía Gloria in excelsis Deo con su gente. Lo mismo hizo la gente del Almirante; y los de la Niña subiéronse todos sobre el mástil y en la jarcia, y todos afirmaron que era tierra. Y al Almirante así pareció y que habría a ella veinticinco leguas. Estuvieron hasta la noche afirmando todos ser tierra. Mandó el Almirante dejar su camino, que era el Oeste, y que fuesen todos al Sudoeste, adonde había parecido la tierra. Habrían andado aquel día al Oeste cuatro leguas y media, y en la noche al Sudoeste diecisiete leguas, que son veintiuna, puesto que decía a la gente trece leguas porque siempre fingía a la gente que hacía poco camino porque no les pareciese largo; por manera que escribió por dos caminos aquel viaje, el menor fue el fingido, y el mayor el verdadero. Anduvo la mar muy llana, por lo cual se echaron a nadar muchos marineros. Vieron muchos dorados y otros peces.
+Este día hubo mucha calma, y después ventó; y fueron su camino al Oeste hasta la noche. Iba hablando el Almirante con Martín Alonso Pinzón, capitán de la otra carabela Pinta, sobre una carta que le había enviado tres días hacía a la carabela, donde según parece tenía pintadas el Almirante ciertas islas por aquella mar. Y decía Martín Alonso que estaban en aquella comarca, y decía el Almirante que así le parecía a él; pero puesto que no hubiesen dado con ellas, lo debían de haber causado las corrientes que siempre habían echado los navíos al Nordeste, y que no habían andado tanto como los pilotos decían. Y, estando en esto, dijo el Almirante que le enviase la carta dicha. Y, enviada con alguna cuerda, comenzó el Almirante a cartear en ella con su piloto y marineros. Al sol puesto, subió el Martín Alonso en la popa de su navío, y con mucha alegría llamó al Almirante, pidiéndole albricias que veía tierra. Y cuando se lo oyó decir con afirmación, el Almirante dice que se echó a dar gracias a Nuestro Señor de rodillas, y el Martín Alonso decía Gloria in excelsis Deo con su gente. Lo mismo hizo la gente del Almirante; y los de la Niña subiéronse todos sobre el mástil y en la jarcia, y todos afirmaron que era tierra. Y al Almirante así pareció y que habría a ella veinticinco leguas. Estuvieron hasta la noche afirmando todos ser tierra. Mandó el Almirante dejar su camino, que era el Oeste, y que fuesen todos al Sudoeste, adonde había parecido la tierra. Habrían andado aquel día al Oeste cuatro leguas y media, y en la noche al Sudoeste diecisiete leguas, que son veintiuna, puesto que decía a la gente trece leguas porque siempre fingía a la gente que hacía poco camino porque no les pareciese largo; por manera que escribió por dos caminos aquel viaje, el menor fue el fingido, y el mayor el verdadero. Anduvo la mar muy llana, por lo cual se echaron a nadar muchos marineros. Vieron muchos dorados(1) y otros peces.
+(1,A.Robles)(Coryphaena hippurus)[https://es.wikipedia.org/wiki/Coryphaena_hippurus]
 
 ## Miércoles, 26 de septiembre
 
@@ -142,11 +152,13 @@ Navegó a su camino al Oeste, anduvieron día y noche con calma catorce leguas; 
 
 ## Sábado, 29 de septiembre
 
-Navegó a su camino al Oeste. Anduvieron veinticuatro leguas; contó a la gente veintiuna. Por calmas que tuvieron, anduvieron entre día y noche poco. Vieron un ave que se llamaba rabihorcado, que hace vomitar a los alcatraces lo que comen para comerlo ella, y no se mantiene de otra cosa. Es ave de la mar, pero no posa en la mar ni se aparta de tierra veinte leguas. Hay de éstas muchas en las islas de Cabo Verde. Después vinieron dos alcatraces. Los aires eran muy dulces y sabrosos, que dice que no faltaba sino oir al ruiseñor, y la mar llana como un río. Parecieron después en tres veces tres alcatraces y un horcado. Vieron mucha hierba.
+Navegó a su camino al Oeste. Anduvieron veinticuatro leguas; contó a la gente veintiuna. Por calmas que tuvieron, anduvieron entre día y noche poco. Vieron un ave que se llamaba rabihorcado(1), que hace vomitar a los alcatraces lo que comen para comerlo ella, y no se mantiene de otra cosa. Es ave de la mar, pero no posa en la mar ni se aparta de tierra veinte leguas. Hay de éstas muchas en las islas de Cabo Verde. Después vinieron dos alcatraces. Los aires eran muy dulces y sabrosos, que dice que no faltaba sino oir al ruiseñor, y la mar llana como un río. Parecieron después en tres veces tres alcatraces y un horcado. Vieron mucha hierba.
+(1,A.Robles)(Fregata magnificens)[https://es.wikipedia.org/wiki/Fregata_magnificens]
 
 ## Domingo, 30 de septiembre
 
-Navegó su camino al Oeste. Anduvo entre día y noche, por las calmas, catorce leguas; contó once. Vinieron al navío cuatro rabos de junco, que es gran señal de tierra, porque tantas aves de una naturaleza juntas es señal que no andan desmandadas ni perdidas. Viéronse cuatro alcatraces en dos veces. Hierba, mucha. Nota: Que las estrellas que se llaman las Guardas, cuando anochece, están junto al brazo de la parte del Poniente, y cuando amanece están en la línea debajo del brazo al Nordeste, que parece que en toda la noche no andan salvo tres líneas, que son nueve horas, y esto cada noche: esto dice aquí el Almirante. También en anocheciendo las agujas noroestean una cuarta, y en amaneciendo están con la estrella justo; por lo cual parece que la estrella hace movimiento como las otras estrellas, y las agujas piden siempre la verdad.
+Navegó su camino al Oeste. Anduvo entre día y noche, por las calmas, catorce leguas; contó once. Vinieron al navío cuatro rabos de junco, que es gran señal de tierra, porque tantas aves de una naturaleza juntas es señal que no andan desmandadas ni perdidas. Viéronse cuatro alcatraces en dos veces. Hierba, mucha. Nota: Que las estrellas que se llaman las Guardas(1), cuando anochece, están junto al brazo de la parte del Poniente, y cuando amanece están en la línea debajo del brazo al Nordeste, que parece que en toda la noche no andan salvo tres líneas, que son nueve horas, y esto cada noche: esto dice aquí el Almirante. También en anocheciendo las agujas noroestean una cuarta, y en amaneciendo están con la estrella justo; por lo cual parece que la estrella hace movimiento como las otras estrellas, y las agujas piden siempre la verdad.
+(1,2,A.Robles)Las Guardas son las dos estrellas principales de la constelación de la Osa Menor (Beta y Gamma, conocidas como Kochab y Pherkad) que los marinos de la época de Cristóbal Colón usaban como un reloj celeste.
 
 ## Lunes, 1 de octubre
 
@@ -166,7 +178,8 @@ Navegó a su camino al Oeste. Anduvieron entre día y noche sesenta y tres legua
 
 ## Viernes, 5 de octubre
 
-Navegó a su camino. Andarían once millas por hora. Por la noche y día andarían cincuenta y siete leguas, porque aflojó la noche algo el viento; contó a su gente cuarenta y cinco. La mar en bonanza y llana. «A Dios -dice- muchas gracias sean dadas.» El aire muy dulce y templado, hierba ninguna, aves pardelas muchas, peces golondrinas volaron en la nao muchos.
+Navegó a su camino. Andarían once millas por hora. Por la noche y día andarían cincuenta y siete leguas, porque aflojó la noche algo el viento; contó a su gente cuarenta y cinco. La mar en bonanza y llana. «A Dios -dice- muchas gracias sean dadas.» El aire muy dulce y templado, hierba ninguna, aves pardelas muchas, peces golondrinas(1) volaron en la nao muchos.
+(1,2,A.Robles)Peces voladores tropicales (de las familias Exocoetidae o Dactylopteridae)
 
 ## Sábado, 6 de octubre
 
@@ -178,7 +191,8 @@ Navegó a su camino al Oeste; anduvieron doce millas por hora dos horas, y despu
 
 ## Lunes, 8 de octubre
 
-Navegó al Oessudoeste y andarían entre día y noche once leguas y media o doce, y a ratos parece que anduvieron en la noche quince millas por hora, si no está mentirosa la letra. Tuvieron la mar como el río de Sevilla; gracias a Dios, dice el Almirante. Los aires muy dulces como en abril en Sevilla, que es placer estar a ellos: tan olorosos son. Pareció la hierba muy fresca; muchos pajaritos del campo, y tomaron uno que iba huyendo al Sudoeste, grajaos y ánades y un alcatraz.
+Navegó al Oessudoeste y andarían entre día y noche once leguas y media o doce, y a ratos parece que anduvieron en la noche quince millas por hora, si no está mentirosa la letra. Tuvieron la mar como el río de Sevilla; gracias a Dios, dice el Almirante. Los aires muy dulces como en abril en Sevilla, que es placer estar a ellos: tan olorosos son. Pareció la hierba muy fresca; muchos pajaritos del campo, y tomaron uno que iba huyendo al Sudoeste, grajaos y ánades(1) y un alcatraz.
+(1,A.Robles)(Anas platyrhynchos)[https://es.wikipedia.org/wiki/Anas_platyrhynchos]
 
 ## Martes, 9 de octubre
 

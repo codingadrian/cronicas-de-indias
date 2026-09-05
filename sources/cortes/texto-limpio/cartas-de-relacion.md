@@ -19,123 +19,19 @@ CARLOS V, SU HIJO
 
 PREÁMBULO 
 
-Claramente parece, cuando en las historias falta el 
-fundamento y principio del recontamiento de las cosas 
-acaecidas, que queda todo confuso y encandilado; y porque en 
-este libro están agregadas y juntas todas o la mayor parte de 
-las escrituras y relaciones de lo que al señor don Hernando 
-Cortés, Gobernador y Capitán General de la Nueva España, ha 
-sucedido en la conquista de aquellas tierras, por tanto acordé 
-de poner aquí en el principio de todas ellas, el origen de cómo 
-y cuándo y en qué manera el dicho señor gobernador comenzó 
-a conquistar la dicha Nueva España, que es en la manera 
-siguiente: 
+Claramente parece, cuando en las historias falta el fundamento y principio del recontamiento de las cosas acaecidas, que queda todo confuso y encandilado; y porque en este libro están agregadas y juntas todas o la mayor parte de las escrituras y relaciones de lo que al señor don Hernando Cortés(@,2,persona), Gobernador y Capitán General de la Nueva España, ha sucedido en la conquista de aquellas tierras, por tanto acordé de poner aquí en el principio de todas ellas, el origen de cómo y cuándo y en qué manera el dicho señor gobernador comenzó a conquistar la dicha Nueva España(@,2,lugar), que es en la manera siguiente: 
 
-Estando en la isla Española, el año del Señor de 1518 años 
-por gobernadores de aquellas partes de las Indias, Islas y 
-Tierra Firme del Mar Océano, los muy reverendos padres fray 
-Luis de Sevilla, prior de la Mejorada, y fray Alonso de Santo 
-Domingo, prior de San Juan de Ortega, frailes profesos de la 
-orden del bienaventurado señor San Jerónimo, a los cuales 
-habían enviado después de la muerte del católico rey don 
-Fernando con la dicha gobernación, los reverendísimos 
-señores gobernadores de España, don fray Francisco Jiménez, 
-Arzobispo de Toledo y Cardenal de España, y Mossior de 
-Trayedo, Deán de Lovaina, embajador del rey don Carlos 
-nuestro señor, que después fue cardenal de Tortosa, y 
-finalmente Papa Adriano Sexto; Diego Velázquez, Teniente de 
-Almirante de la Isla de Cuba, envió el dicho año a suplicar a los 
-padres gobernadores que residían en la isla Española, que le 
-diesen licencia para armar ciertas naos que quería, según 
-costumbre de aquellas partes, enviar a su costa a una tierra que 
-él decía que había descubierto hacia la parte occidental de la 
-dicha isla de Cuba, para saber y bojar la dicha tierra y para 
+Estando en la isla Española(@,2,lugar), el año del Señor de 1518 años por gobernadores de aquellas partes de las Indias, Islas y Tierra Firme del Mar Océano, los muy reverendos padres fray Luis de Sevilla(@,4,persona), prior de la Mejorada, y fray Alonso de Santo Domingo(@,5,persona), prior de San Juan de Ortega, frailes profesos de la orden del bienaventurado señor San Jerónimo, a los cuales habían enviado después de la muerte del católico rey don Fernando(@,3,persona,Fernando II de Aragón) con la dicha gobernación, los reverendísimos señores gobernadores de España, don fray Francisco Jiménez(@,3,persona), Arzobispo de Toledo y Cardenal de España, y Mossior de Trayedo, Deán de Lovaina(@,3,persona), embajador del rey don Carlos(@,3,persona,Carlos I de España) nuestro señor, que después fue cardenal de Tortosa, y finalmente Papa Adriano Sexto; Diego Velázquez(@,2,persona), Teniente de Almirante de la Isla de Cuba(@,3,lugar), envió el dicho año a suplicar a los padres gobernadores que residían en la isla Española(@,2,lugar), que le diesen licencia para armar ciertas naos que quería, según costumbre de aquellas partes, enviar a su costa a una tierra que él decía que había descubierto hacia la parte occidental de la dicha isla de Cuba, para saber y bojar la dicha tierra y para traer indios cautivos de ella, de que se pudiesen servir en la isla de Cuba(@,3,lugar) para rescatar en ella oro y las otras cosas que hubiesen, pagando el quinto de todo ello a Sus Altezas, según la orden y costumbre que en aquello había; lo cual los dichos padres gobernadores le concedieron y dieron licencias, y así armó tres navíos y un bergantín y envió por capitán de ellos a un pariente suyo que se decía Juan de Grijalva(@,3,persona), mandándole que rescatase todo el más oro que pudiese. 
 
-traer indios cautivos de ella, de que se pudiesen servir en la isla 
-de Cuba para rescatar en ella oro y las otras cosas que 
-hubiesen, pagando el quinto de todo ello a Sus Altezas, según 
-la orden y costumbre que en aquello había; lo cual los dichos 
-padres gobernadores le concedieron y dieron licencias, y así 
-armó tres navíos y un bergantín y envió por capitán de ellos a 
-un pariente suyo que se decía Juan de Grijalva, mandándole 
-que rescatase todo el más oro que pudiese. 
+Y es de saber que los primeros descubridores de la dicha tierra fueron otros, y no el dicho Diego Velázquez, según adelante parecerá, los cuales, no sabiendo lo que se decían, la intitularon y llamaron Yucatán, porque los dichos primeros descubridores, como llegasen allá preguntasen a los indios naturales de la dicha tierra que cómo se llamaba aquella tierra, y los indios no entendiendo lo que les preguntaban, respondían en su lenguaje y decían Yucatán, Yucatán, que quiere decir, no entiendo; así los españoles descubridores pensaron que los indios respondían que se llama Yucatán, y en esta manera se quedó impropiamente a aquella tierra este nombre de Yucatán. 
 
-Y es de saber que los primeros descubridores de la dicha 
-tierra fueron otros, y no el dicho Diego Velázquez, según 
-adelante parecerá, los cuales, no sabiendo lo que se decían, la 
-intitularon y llamaron Yucatán, porque los dichos primeros 
-descubridores, como llegasen allá preguntasen a los indios 
-naturales de la dicha tierra que cómo se llamaba aquella tierra, 
-y los indios no entendiendo lo que les preguntaban, 
-respondían en su lenguaje y decían Yucatán, Yucatán, que 
-quiere decir, no entiendo; así los españoles descubridores 
-pensaron que los indios respondían que se llama Yucatán, y en 
-esta manera se quedó impropiamente a aquella tierra este 
-nombre de Yucatán. 
+Pues como el dicho Juan de Grijalva fuese a la dicha tierra nuevamente descubierta, comenzó a rescatar con los indios de la tierra las cosas que en su navío llevaba, según Diego Velázquez se lo había mandado, y no le dando allí el rescate de tan buena manera como Diego Velázquez quisiera, volvió a Cuba con poco rescate, a donde fue mal recibido de Diego Velázquez, el cual hablando con Fernando Cortés, que a la sazón era vecino y justicia de la ciudad de Santiago en la dicha isla de Cuba, que a la sazón estaba rico en dineros y tenía ciertos navíos suyos propios y era muy bien quisto y tenía muchos amigos en la isla, concertóse Diego Velázquez con él para que entrambos hiciesen una buena armada en que el dicho Fernando Cortés fuese por capitán general de ella en nombre de Sus Altezas, por el poder que para ello le habían dado los padres Jerónimos gobernadores de aquellas partes. Hecho y asentado entre ellos el concierto, puso el dicho Diego Velázquez solamente la tercia parte de los naos de la armada y el dicho capitán Fernando Cortés, puso de lo suyo propio las otras dos tercias partes de las dichas naos y todas las costas que se hicieron en la manda. 
 
-Pues como el dicho Juan de Grijalva fuese a la dicha tierra 
-nuevamente descubierta, comenzó a rescatar con los indios de 
-la tierra las cosas que en su navío llevaba, según Diego 
-Velázquez se lo había mandado, y no le dando allí el rescate de 
-tan buena manera como Diego Velázquez quisiera, volvió a 
-Cuba con poco rescate, a donde fue mal recibido de Diego 
-Velázquez, el cual hablando con Fernando Cortés, que a la 
-sazón era vecino y justicia de la ciudad de Santiago en la dicha 
-isla de Cuba, que a la sazón estaba rico en dineros y tenía 
-ciertos navíos suyos propios y era muy bien quisto y tenía 
-muchos amigos en la isla, concertóse Diego Velázquez con él 
+Y haciéndose a la vela en el mes de octubre del año del Señor de 1518, y andando costeando por las costas de la dicha isla de Cuba con tiempos contrarios, finalmente salió de la dicha isla de Cuba el dicho Fernando Cortés, Capitán General de la dicha armada, a doce días del mes de febrero del año del Señor de 1519, para ir a la dicha tierra intitulada Yucatán, con diez naos, las siete de las cuales eran propias del dicho capitán Fernando Cortés, y las tres de Diego Velázquez, y después le alcanzaron otras dos naos que el dicho Diego Velázquez le envió. Así que fueron por todas las naos de la dicha armada, doce entre pequeñas y grandes, en las cuales iban quinientos españoles. 
 
-para que entrambos hiciesen una buena armada en que el 
-dicho Fernando Cortés fuese por capitán general de ella en 
-nombre de Sus Altezas, por el poder que para ello le habían 
-dado los padres Jerónimos gobernadores de aquellas partes. 
-Hecho y asentado entre ellos el concierto, puso el dicho Diego 
-Velázquez solamente la tercia parte de los naos de la armada y 
-el dicho capitán Fernando Cortés, puso de lo suyo propio las 
-otras dos tercias partes de las dichas naos y todas las costas 
-que se hicieron en la manda. 
+Pues como llegase a la dicha tierra llamada Yucatán, habiendo conocimiento de la grandeza y riquezas de ella, determinó de hacer, no lo que Diego Velázquez quería, que era rescatar oro, sino conquistar la tierra y ganarla y sujetarla a la Corona Real de Vuestra Alteza; y para proseguir su propósito, sintiendo que algunos de los de su compañía temerosos de emprender tan gran cosa, que se le querían volver, hizo un hecho troyano, y fue que tuvo manera, después que desembarcó toda la gente, de dar al través con todas las armas y fustes de la armada, y haciendo justicia de dos o tres que le amotinaban la gente, anegó y desbarató todas las naos, haciendo sacar la madera y clavazón de ellas a la costa, con presupuesto que, viendo los españoles que no tenían en qué volver, ni en qué poder salir de aquella tierra, se animasen a la conquista o a morir en la demanda. 
 
-Y haciéndose a la vela en el mes de octubre del año del 
-Señor de 1518, y andando costeando por las costas de la dicha 
-isla de Cuba con tiempos contrarios, finalmente salió de la 
-dicha isla de Cuba el dicho Fernando Cortés, Capitán General 
-de la dicha armada, a doce días del mes de febrero del año del 
-Señor de 1519, para ir a la dicha tierra intitulada Yucatán, con 
-diez naos, las siete de las cuales eran propias del dicho capitán 
-Fernando Cortés, y las tres de Diego Velázquez, y después le 
-alcanzaron otras dos naos que el dicho Diego Velázquez le 
-envió. Así que fueron por todas las naos de la dicha armada, 
-doce entre pequeñas y grandes, en las cuales iban quinientos 
-españoles. 
-
-Pues como llegase a la dicha tierra llamada Yucatán, 
-habiendo conocimiento de la grandeza y riquezas de ella, 
-determinó de hacer, no lo que Diego Velázquez quería, que era 
-rescatar oro, sino conquistar la tierra y ganarla y sujetarla a la 
-Corona Real de Vuestra Alteza; y para proseguir su propósito, 
-sintiendo que algunos de los de su compañía temerosos de 
-emprender tan gran cosa, que se le querían volver, hizo un 
-hecho troyano, y fue que tuvo manera, después que 
-desembarcó toda la gente, de dar al través con todas las armas 
-y fustes de la armada, y haciendo justicia de dos o tres que le 
-
-amotinaban la gente, anegó y desbarató todas las naos, 
-haciendo sacar la madera y clavazón de ellas a la costa, con 
-presupuesto que, viendo los españoles que no tenían en qué 
-volver, ni en qué poder salir de aquella tierra, se animasen a la 
-conquista o a morir en la demanda. 
-
-Y éste fue el principio de todas las buenas venturas del 
-dicho capitán Hernando Cortés. Y acertó también ésto, que si 
-no lo hiciera, hubiera pocos de los que consigo llevaba que se 
-atrevieran a aquella empresa en tan gran tierra, tan poblada de 
-gentes belicosas, y aunque el capitán le pesara, según los 
-aprietos y peligros en que después se vieron, si las naos 
-estuvieran enteras se le volvieran todos o los más a la isla de 
-Cuba. En esta manera comenzaron a conquistar la tierra 
-donde hacía hechos hazañosos y acometía y emprendía cosas 
-inauditas, en donde según juicio humano, no era creído que 
-ninguno de ellos pudiese escapar, como adelante aparecerá. 
+Y éste fue el principio de todas las buenas venturas del dicho capitán Hernando Cortés. Y acertó también ésto, que si no lo hiciera, hubiera pocos de los que consigo llevaba que se atrevieran a aquella empresa en tan gran tierra, tan poblada de gentes belicosas, y aunque el capitán le pesara, según los aprietos y peligros en que después se vieron, si las naos estuvieran enteras se le volvieran todos o los más a la isla de Cuba. En esta manera comenzaron a conquistar la tierra donde hacía hechos hazañosos y acometía y emprendía cosas inauditas, en donde según juicio humano, no era creído que ninguno de ellos pudiese escapar, como adelante aparecerá. 
 
 Habiendo, pues, el capitán Hernando Cortés calado algo 
 de la tierra, acordó de fundar una nueva población en la cual, 

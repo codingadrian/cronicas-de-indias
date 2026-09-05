@@ -52,7 +52,8 @@
     "id": "place:cuba",
     "canonical_name": "Cuba",
     "aliases": [
-      "isla Fernandina"
+      "isla Fernandina",
+      "isla de Cuba"
     ],
     "modern_equivalent": "Cuba",
     "status": "candidata"
@@ -251,5 +252,13 @@
     "aliases": [],
     "modern_equivalent": "Trujillo, Honduras",
     "status": "candidata"
+  },
+  {
+    "id": "place:nueva-espana",
+    "canonical_name": "Nueva España",
+    "aliases": [],
+    "modern_equivalent": "México (virreinato colonial español)",
+    "status": "candidata",
+    "notas": "nombre dado por Cortés al territorio conquistado; usado ya en el título de Cortés como 'Gobernador y Capitán General de la Nueva España' al inicio de la Primera carta"
   }
 ]

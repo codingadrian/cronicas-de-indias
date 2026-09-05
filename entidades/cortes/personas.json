@@ -310,5 +310,64 @@
     ],
     "role": "gobernador de la corona en la región cercana a las Hibueras",
     "status": "candidata"
+  },
+  {
+    "id": "person:fray-luis-de-sevilla",
+    "canonical_name": "fray Luis de Sevilla",
+    "aliases": [
+      "prior de la Mejorada"
+    ],
+    "role": "fraile jerónimo, prior del monasterio de la Mejorada; uno de los dos gobernadores interinos de las Indias enviados a la isla Española tras la muerte del rey don Fernando",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fray-alonso-de-santo-domingo",
+    "canonical_name": "fray Alonso de Santo Domingo",
+    "aliases": [
+      "prior de San Juan de Ortega"
+    ],
+    "role": "fraile jerónimo, prior del monasterio de San Juan de Ortega; el segundo de los dos gobernadores interinos de las Indias enviados junto con fray Luis de Sevilla",
+    "status": "candidata"
+  },
+  {
+    "id": "person:fernando-el-catolico",
+    "canonical_name": "Fernando el Católico",
+    "aliases": [
+      "rey don Fernando",
+      "católico rey don Fernando"
+    ],
+    "role": "rey de España; su muerte fue el motivo por el que se envió a los frailes Jerónimos a gobernar las Indias",
+    "status": "candidata"
+  },
+  {
+    "id": "person:francisco-jimenez-de-cisneros",
+    "canonical_name": "Francisco Jiménez de Cisneros",
+    "aliases": [
+      "don fray Francisco Jiménez"
+    ],
+    "role": "Arzobispo de Toledo y Cardenal de España; uno de los gobernadores regentes de España que enviaron a los frailes Jerónimos a gobernar las Indias tras la muerte de Fernando el Católico",
+    "status": "candidata"
+  },
+  {
+    "id": "person:adriano-de-utrecht",
+    "canonical_name": "Adriano de Utrecht",
+    "aliases": [
+      "Mossior de Trayedo",
+      "Deán de Lovaina",
+      "cardenal de Tortosa",
+      "Papa Adriano Sexto"
+    ],
+    "role": "Deán de Lovaina, embajador del rey don Carlos; regente/gobernador de España junto con Francisco Jiménez de Cisneros; después cardenal de Tortosa y finalmente Papa Adriano VI",
+    "status": "candidata"
+  },
+  {
+    "id": "person:carlos-v",
+    "canonical_name": "Carlos V",
+    "aliases": [
+      "rey don Carlos",
+      "Emperador Carlos V"
+    ],
+    "role": "rey de España, después emperador; Mossior de Trayedo (Adriano de Utrecht) era su embajador; destinatario, junto con la reina doña Juana, de la Primera carta-relación",
+    "status": "candidata"
   }
 ]
